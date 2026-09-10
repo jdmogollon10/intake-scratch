@@ -1,0 +1,509 @@
+{
+ "news": [
+  [
+   "WSJ Markets",
+   "Wall Street Journal",
+   "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+   "https://www.wsj.com/finance",
+   "Markets"
+  ],
+  [
+   "WSJ Business",
+   "Wall Street Journal",
+   "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+   "https://www.wsj.com/business",
+   "Business"
+  ],
+  [
+   "WSJ Tech & IPOs",
+   "Wall Street Journal",
+   "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+   "https://www.wsj.com/tech",
+   "Technology"
+  ],
+  [
+   "MarketWatch",
+   "Dow Jones",
+   "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+   "https://www.marketwatch.com",
+   "Markets"
+  ],
+  [
+   "Semafor Business",
+   "Semafor",
+   "https://www.semafor.com/rss.xml",
+   "https://www.semafor.com/vertical/business",
+   "Business"
+  ],
+  [
+   "Sky News Business",
+   "Sky News",
+   "https://feeds.skynews.com/feeds/rss/business.xml",
+   "https://news.sky.com/business",
+   "Business"
+  ],
+  [
+   "City AM",
+   "City AM",
+   "https://www.cityam.com/feed/",
+   "https://www.cityam.com",
+   "UK / Europe"
+  ],
+  [
+   "Fortune",
+   "Fortune",
+   "https://fortune.com/feed/fortune-feeds/?id=3230629",
+   "https://fortune.com",
+   "Business"
+  ],
+  [
+   "Investing.com Markets",
+   "Investing.com",
+   "https://www.investing.com/rss/news_25.rss",
+   "https://www.investing.com/news/stock-market-news",
+   "Markets"
+  ],
+  [
+   "Asia Financial",
+   "Asia Financial",
+   "https://www.asiafinancial.com/feed",
+   "https://www.asiafinancial.com",
+   "Asia"
+  ],
+  [
+   "Sherwood News",
+   "Robinhood",
+   "https://sherwood.news/rss.xml",
+   "https://sherwood.news",
+   "Markets"
+  ],
+  [
+   "Private Equity Wire",
+   "PE Wire",
+   "https://www.privateequitywire.co.uk/feed/",
+   "https://www.privateequitywire.co.uk",
+   "Private Equity"
+  ],
+  [
+   "IPOScoop",
+   "IPOScoop",
+   "https://www.iposcoop.com/feed/",
+   "https://www.iposcoop.com",
+   "IPOs"
+  ],
+  [
+   "Crunchbase News",
+   "Crunchbase",
+   "https://news.crunchbase.com/feed/",
+   "https://news.crunchbase.com",
+   "Venture"
+  ]
+ ],
+ "macro": [
+  [
+   "Federal Reserve",
+   "Board of Governors",
+   "https://www.federalreserve.gov/feeds/press_all.xml",
+   "https://www.federalreserve.gov/newsevents.htm",
+   "Policy"
+  ],
+  [
+   "FEDS Notes",
+   "Federal Reserve",
+   "https://www.federalreserve.gov/feeds/feds_notes.xml",
+   "https://www.federalreserve.gov/econres/notes/feds-notes/",
+   "Research"
+  ],
+  [
+   "Liberty Street Economics",
+   "NY Fed",
+   "https://libertystreeteconomics.newyorkfed.org/feed/",
+   "https://libertystreeteconomics.newyorkfed.org",
+   "Research"
+  ],
+  [
+   "ECB Press",
+   "European Central Bank",
+   "https://www.ecb.europa.eu/rss/press.html",
+   "https://www.ecb.europa.eu/press/html/index.en.html",
+   "Policy"
+  ],
+  [
+   "Economic Indicators",
+   "Investing.com",
+   "https://www.investing.com/rss/news_95.rss",
+   "https://www.investing.com/economic-calendar/",
+   "Data"
+  ],
+  [
+   "The Overshoot",
+   "Matthew Klein",
+   "https://theovershoot.co/feed",
+   "https://theovershoot.co",
+   "Macro"
+  ],
+  [
+   "Employ America",
+   "Employ America",
+   "https://www.employamerica.org/feed/",
+   "https://www.employamerica.org",
+   "Labor / Rates"
+  ]
+ ],
+ "latam": [
+  [
+   "LatinFinance",
+   "LatinFinance",
+   "https://www.latinfinance.com/rss",
+   "https://www.latinfinance.com",
+   "Capital Markets"
+  ],
+  [
+   "Bloomberg Línea",
+   "Bloomberg",
+   "https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml",
+   "https://www.bloomberglinea.com",
+   "LATAM",
+   "ES"
+  ],
+  [
+   "Brazil Journal",
+   "Brazil Journal",
+   "https://braziljournal.com/feed/",
+   "https://braziljournal.com",
+   "Brazil",
+   "PT"
+  ],
+  [
+   "NeoFeed",
+   "NeoFeed",
+   "https://neofeed.com.br/feed/",
+   "https://neofeed.com.br",
+   "Brazil",
+   "PT"
+  ],
+  [
+   "eixos",
+   "eixos",
+   "https://eixos.com.br/feed/",
+   "https://eixos.com.br",
+   "Energy / Brazil",
+   "PT"
+  ],
+  [
+   "LAVCA",
+   "LAVCA",
+   "https://www.lavca.org/feed/",
+   "https://www.lavca.org",
+   "LATAM PE/VC"
+  ]
+ ],
+ "dealdesk": [
+  [
+   "HLS Corp Gov Forum",
+   "Harvard Law School",
+   "https://corpgov.law.harvard.edu/feed/",
+   "https://corpgov.law.harvard.edu",
+   "Governance / M&A"
+  ],
+  [
+   "Middle Market Growth",
+   "ACG",
+   "https://middlemarketgrowth.org/feed/",
+   "https://middlemarketgrowth.org",
+   "Middle Market"
+  ],
+  [
+   "Cleary M&A Watch",
+   "Cleary Gottlieb",
+   "https://www.clearymawatch.com/feed/",
+   "https://www.clearymawatch.com",
+   "Deal Law"
+  ],
+  [
+   "Hedgeweek",
+   "Hedgeweek",
+   "https://www.hedgeweek.com/feed/",
+   "https://www.hedgeweek.com",
+   "Hedge Funds"
+  ],
+  [
+   "PETITION",
+   "PETITION",
+   "https://www.petition11.com/feed",
+   "https://www.petition11.com",
+   "Distressed / Credit"
+  ]
+ ],
+ "podcast": [
+  [
+   "All-In Podcast",
+   "Chamath, Sacks, Friedberg, Calacanis",
+   "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+   "",
+   "Tech / Markets"
+  ],
+  [
+   "Odd Lots",
+   "Bloomberg",
+   "https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8A94442E-5A74-4FA2-8B8D-AE27003A8D6B/982F5071-765C-403D-969D-AE27003A8D83/podcast.rss",
+   "",
+   "Macro / Markets"
+  ],
+  [
+   "Yet Another Value Pod",
+   "Andrew Walker",
+   "https://anchor.fm/s/c628cb7c/podcast/rss",
+   "",
+   "Value / Special Sits"
+  ],
+  [
+   "Invest Like the Best",
+   "Patrick O'Shaughnessy",
+   "https://feeds.megaphone.fm/investlikethebest",
+   "",
+   "Investing"
+  ],
+  [
+   "Capital Allocators",
+   "Ted Seides",
+   "https://capitalallocators.com/feed/podcast/",
+   "",
+   "Allocators"
+  ],
+  [
+   "Animal Spirits",
+   "Ritholtz",
+   "https://feeds.megaphone.fm/TCP6464651487",
+   "",
+   "Markets"
+  ],
+  [
+   "Bloomberg Daybreak",
+   "Bloomberg",
+   "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/65ce2954-d8a8-4c66-9f42-af80014d923e/podcast.rss",
+   "",
+   "Daily Markets"
+  ],
+  [
+   "FT News Briefing",
+   "Financial Times",
+   "https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf",
+   "",
+   "Daily"
+  ],
+  [
+   "The Journal.",
+   "WSJ / Spotify",
+   "https://video-api.shdsvc.dowjones.io/api/podcasts/feed/the%20journal",
+   "",
+   "Daily Business"
+  ],
+  [
+   "Morning Brew Daily",
+   "Morning Brew",
+   "https://feeds.megaphone.fm/MOBI8777994188",
+   "",
+   "Daily"
+  ],
+  [
+   "Dry Powder",
+   "Hugh MacArthur / Bain",
+   "https://feeds.simplecast.com/rh_8uLBO",
+   "",
+   "Private Equity"
+  ],
+  [
+   "Evercore Edge",
+   "Evercore",
+   "https://anchor.fm/s/b5a9e178/podcast/rss",
+   "",
+   "Investment Banking"
+  ],
+  [
+   "Acquired",
+   "Ben Gilbert & David Rosenthal",
+   "https://feeds.transistor.fm/acquired",
+   "",
+   "Company Histories"
+  ],
+  [
+   "Odds on Open",
+   "Ethan Kho",
+   "https://ethankho.substack.com/feed",
+   "",
+   "Trading"
+  ],
+  [
+   "Business Breakdowns",
+   "Colossus",
+   "https://feeds.megaphone.fm/breakdowns",
+   "",
+   "Company Research"
+  ],
+  [
+   "M&A Science",
+   "Kison Patel",
+   "https://rss.libsyn.com/shows/88604/destinations/435438.xml",
+   "",
+   "M&A Process"
+  ],
+  [
+   "The Wall Street Skinny",
+   "Kristen & Jen",
+   "https://feeds.megaphone.fm/TTNSE2412391117",
+   "",
+   "Career / Technical"
+  ],
+  [
+   "Alt Goes Mainstream",
+   "Michael Sidgmore",
+   "https://feeds.transistor.fm/alt-goes-mainstream",
+   "",
+   "Private Markets"
+  ],
+  [
+   "Cloud 9fin",
+   "9fin",
+   "https://feeds.transistor.fm/cloud-9fin",
+   "",
+   "Leveraged Finance"
+  ],
+  [
+   "Think Like an Owner",
+   "Alex Bridgeman",
+   "https://rss.libsyn.com/shows/585035/destinations/5075260.xml",
+   "",
+   "Search Funds"
+  ],
+  [
+   "Value Investing FM",
+   "Adrián Godas & Paco Lodeiro",
+   "https://feeds.ivoox.com/feed_fg_f1499494_filtro_1.xml",
+   "",
+   "Value",
+   "ES"
+  ],
+  [
+   "Columbia Energy Exchange",
+   "Columbia SIPA",
+   "https://rss.libsyn.com/shows/76724/destinations/343325.xml",
+   "",
+   "Energy Policy"
+  ]
+ ],
+ "writing": [
+  [
+   "Yet Another Value Blog",
+   "Andrew Walker",
+   "https://www.yetanothervalueblog.com/feed",
+   "https://www.yetanothervalueblog.com",
+   "Value / Special Sits"
+  ],
+  [
+   "Irrational Analysis",
+   "Irrational Analysis",
+   "https://irrationalanalysis.substack.com/feed",
+   "https://irrationalanalysis.substack.com",
+   "Semiconductors"
+  ],
+  [
+   "The Bear Cave",
+   "Edwin Dorsey",
+   "https://thebearcave.substack.com/feed",
+   "https://thebearcave.substack.com",
+   "Short Selling"
+  ],
+  [
+   "Speedwell Research",
+   "Speedwell",
+   "https://www.speedwellresearch.com/feed",
+   "https://www.speedwellresearch.com",
+   "Deep Dives"
+  ],
+  [
+   "Fabricated Knowledge",
+   "Doug O'Laughlin",
+   "https://www.fabricatedknowledge.com/feed",
+   "https://www.fabricatedknowledge.com",
+   "Semiconductors"
+  ],
+  [
+   "Net Interest",
+   "Marc Rubinstein",
+   "https://www.netinterest.co/feed",
+   "https://www.netinterest.co",
+   "Financials"
+  ],
+  [
+   "Chartbook",
+   "Adam Tooze",
+   "https://adamtooze.substack.com/feed",
+   "https://adamtooze.substack.com",
+   "Macro / History"
+  ],
+  [
+   "MBI Deep Dives",
+   "Mostly Borrowed Ideas",
+   "https://mbideepdives.substack.com/feed",
+   "https://mbideepdives.substack.com",
+   "Company Research"
+  ],
+  [
+   "TSOH Research",
+   "Alex Morris",
+   "https://thescienceofhitting.com/feed",
+   "https://thescienceofhitting.com",
+   "Quality / Value"
+  ],
+  [
+   "Clouded Judgement",
+   "Jamin Ball / Altimeter",
+   "https://cloudedjudgement.substack.com/feed",
+   "https://cloudedjudgement.substack.com",
+   "Enterprise Software"
+  ],
+  [
+   "Klement on Investing",
+   "Joachim Klement",
+   "https://klementoninvesting.substack.com/feed",
+   "https://klementoninvesting.substack.com",
+   "Behavioral / Macro"
+  ],
+  [
+   "Doomberg",
+   "Doomberg",
+   "https://newsletter.doomberg.com/feed",
+   "https://newsletter.doomberg.com",
+   "Energy / Commodities"
+  ],
+  [
+   "Musings on Markets",
+   "Aswath Damodaran",
+   "https://aswathdamodaran.blogspot.com/feeds/posts/default?alt=rss",
+   "https://aswathdamodaran.blogspot.com",
+   "Valuation"
+  ],
+  [
+   "Behind the Balance Sheet",
+   "Stephen Clapham",
+   "https://behindthebalancesheet.com/feed/",
+   "https://behindthebalancesheet.com",
+   "Forensic Accounting"
+  ],
+  [
+   "Wolf of Harcourt Street",
+   "Wolf of Harcourt Street",
+   "https://www.thewolfofharcourtstreet.com/feed",
+   "https://www.thewolfofharcourtstreet.com",
+   "Equity Research"
+  ],
+  [
+   "GKC Research",
+   "Gekko Capital",
+   "https://gekkocapital.substack.com/feed",
+   "https://gekkocapital.substack.com",
+   "Equity Research"
+  ]
+ ]
+}

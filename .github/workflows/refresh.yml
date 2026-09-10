@@ -1,0 +1,95 @@
+name: Refresh INTAKE
+
+on:
+  schedule:
+    # Cron on GitHub is always UTC. 11:00 UTC is 07:00 America/New_York while
+    # EDT is in force, and 06:00 once the clocks go back in November. The Claude
+    # routines that write the brief drift the same way, so the two stay aligned.
+    # To pin it to 07:00 year-round, add a second "0 12 * * *" entry — the run is
+    # idempotent, so the extra winter run is harmless.
+    - cron: "0 11 * * *"
+
+  # Rebuild whenever a human — or the Claude routine — edits the data or the page.
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "src/**"
+      - ".github/workflows/refresh.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit the refreshed data back
+  pages: write # publish to GitHub Pages
+  id-token: write # required by deploy-pages
+
+# Never let a scheduled run and a push run race each other onto Pages.
+concurrency:
+  group: intake-refresh
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # Only the scheduled/manual runs go out to the feeds. A push is already
+      # someone else's new data, so refetching 70 feeds would just be noise.
+      - name: Refresh feeds
+        id: feeds
+        if: github.event_name != 'push'
+        continue-on-error: true # a bad network day must not block the deploy
+        run: node src/refresh-feeds.mjs
+
+      - name: Report feed outcome
+        if: github.event_name != 'push'
+        run: |
+          if [ "${{ steps.feeds.outcome }}" = "success" ]; then
+            echo "::notice::Feeds refreshed."
+          else
+            echo "::warning::Feed refresh failed; deploying the last good data unchanged."
+          fi
+
+      # build.mjs validates before it writes, and exits non-zero on bad data,
+      # so a broken page can never reach Pages.
+      - name: Build page
+        run: node src/build.mjs
+
+      - name: Commit refreshed data
+        run: |
+          if git diff --quiet -- data index.html; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git config user.name  "intake-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data index.html
+          git commit -m "INTAKE: refresh $(date -u +%Y-%m-%d)"
+          # Pushes made with GITHUB_TOKEN do not retrigger workflows, so this
+          # cannot loop back into the `push` trigger above.
+          git push
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp index.html _site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

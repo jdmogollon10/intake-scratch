@@ -1,0 +1,259 @@
+{
+ "status": "live",
+ "session": "Thursday, September 10, 2026",
+ "builtAt": "2026-09-10T13:30:00Z",
+ "tape": [
+  {
+   "n": "S&P 500",
+   "v": "7,636.36",
+   "c": "−0.5%",
+   "dir": "dn"
+  },
+  {
+   "n": "Nasdaq Comp",
+   "v": "26,253.34",
+   "c": "−0.6%",
+   "dir": "dn"
+  },
+  {
+   "n": "Dow",
+   "v": "52,380.66",
+   "c": "−405.41",
+   "dir": "dn"
+  },
+  {
+   "n": "US 10Y",
+   "v": "4.897%",
+   "c": "52-week high",
+   "dir": ""
+  },
+  {
+   "n": "Brent",
+   "v": "$101.5+",
+   "c": "first since May",
+   "dir": "up"
+  },
+  {
+   "n": "Gold",
+   "v": "~$4,369",
+   "c": "−21.8% vs Jan peak",
+   "dir": ""
+  }
+ ],
+ "tapeLine": "Two inflation prints in two days into a meeting that is already 60% priced for a hike. PPI at 8:30 today, CPI at 8:30 tomorrow, FOMC Tuesday and Wednesday — and the blackout means no one from the committee can reinterpret either number.",
+ "matters": "<p>The August payrolls print on 4 September broke the framing this brief had been using. Payrolls came in at <b>+162,000</b> against a +53,000 consensus — the strongest month since March — with the unemployment rate holding at <b>4.1%</b> and the prior two months revised up by a combined 55,000, which erased July's reported job loss entirely. The labour market did not roll over. It re-accelerated.</p><p>That matters because it removes the Fed's easiest excuse not to hike. Before the print, the hawkish case had to be argued from oil and tariffs while payrolls were flat, and a governor could reasonably call that a supply impulse to look through. Now the committee can argue from growth. Hike odds have moved accordingly — roughly 35% before Warsh's Jackson Hole keynote, up to about 64% after it, back to about 50% when Waller told policymakers on 3–4 September to \"give disinflation a chance,\" then to roughly <b>60%</b> now, with estimates across venues spanning 56–65%.</p><p>So today and tomorrow are the whole meeting. PPI consensus is <b>+0.3% m/m</b> headline and <b>+5.3% y/y</b> on the Dow Jones survey, though other desks carry +0.4% headline with core at just +0.2%; CPI tomorrow is expected at +0.4% m/m and 3.4% y/y headline, core +0.4% m/m and 2.4% y/y. Note what that spread implies — a 5.3% y/y producer print against a 2.4% y/y core consumer print is a pipeline that is not passing through. <b>The thing to watch is core, not headline.</b> Headline is oil, and oil is the part everyone has already agreed to argue about. If core PPI lands at or under 0.2% and core CPI still prints 0.4% tomorrow, the inflation is in services and the hike is close to done. If core PPI runs hot alongside it, the tariff channel has arrived and the committee is hiking into a supply shock.</p><p><b>Invalidation:</b> average hourly earnings. Wage growth ran at a 2.6% annualised pace over the past six months, marginally <i>below</i> the 2.7% pre-pandemic average. As long as that holds, there is no wage-price spiral underneath any of this, and a hike is being delivered against an energy-and-tariff impulse rather than against demand. That is the case the doves still have, and it is a better one than the tape is pricing.</p>",
+ "calendar": [
+  {
+   "time": "08:30",
+   "event": "Producer price index (Aug)",
+   "consensus": "+0.3% m/m, +5.3% y/y",
+   "prior": "—",
+   "impact": "high"
+  },
+  {
+   "time": "08:30",
+   "event": "Core PPI ex food & energy (Aug)",
+   "consensus": "+0.2% m/m",
+   "prior": "—",
+   "impact": "high"
+  },
+  {
+   "time": "08:30",
+   "event": "Initial jobless claims",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "med"
+  },
+  {
+   "time": "10:00",
+   "event": "Existing home sales (NAR)",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "low"
+  },
+  {
+   "time": "10:00",
+   "event": "Wholesale trade",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "low"
+  },
+  {
+   "time": "10:30",
+   "event": "EIA crude oil inventories",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "med"
+  }
+ ],
+ "alsoOnTape": "August CPI lands tomorrow, 11 Sep at 8:30 ET — the last inflation reading the committee sees. The FOMC decides 15–16 Sep. The communications blackout is already in force, so today's and tomorrow's prints go into the meeting without a single official able to frame them.",
+ "overnight": [
+  "<b>US Wednesday close</b> — Dow &minus;405.41 to 52,380.66 (&minus;0.8%), S&amp;P 500 &minus;0.5% to 7,636.36, Nasdaq &minus;0.6% to 26,253.34, with the Russell 2000 also lower. Four named drivers, all pointing the same way: crude through $100, long-end yields at 52-week highs, Iran escalation, and the US&ndash;Canada tariff exchange. Note the shape — the Dow led the market <i>down</i>, the exact inverse of the 3 September rally. That is a rates-and-cyclicals selloff, not an AI-narrative one.",
+  "<b>Crude</b> — Brent above $101.5 on Wednesday, its first print above $100 since May; WTI rose 4.47% on the day to $97.19. Iran-backed Houthi forces struck energy infrastructure in southern Saudi Arabia including the 400,000 b/d Jazan refinery, and Iran said it is ready for a more intense conflict, vowing to resist the US naval blockade and to intensify attacks if strikes on Iranian territory continue.",
+  "<b>Rates</b> — the 10-year reached 4.897%, a fresh 52-week high and the highest since October 2023. Two forces on the long end at once: an oil-led inflation impulse, and record corporate issuance in which AI companies alone account for more than $1.5tn of new borrowing this year. The second is the one that does not go away if Hormuz calms down.",
+  "<b>Trade</b> — Canada's retaliatory tariffs on roughly $20bn of US goods took effect on 8 September, hitting steel, dairy and electronics, matching US 50% tariffs on about $20bn of Canadian goods. Talks are at an impasse with no plans to resume. This is a domestic price input arriving precisely as the committee argues over whether the inflation in front of it is imported.",
+  "<b>This morning</b> — futures are split by index rather than by direction: Dow futures +99 points (+0.2%), S&amp;P near flat, Nasdaq &minus;0.4%. A split like that is a duration trade being expressed ahead of the print, not a view on the print.",
+  "<b>LATAM</b> — the Ibovespa rose 1.20% on Tuesday to 187,367, about 5.7% below its 52-week high of 198,657, with breadth positive at four of five names higher. Petrobras preferred (R$1.65bn turnover) and Vale (R$1.41bn) again dominated the tape. The real strengthened 0.79% to just above R$5.08. Merval led the region; the IPSA lagged."
+ ],
+ "deals": [
+  {
+   "what": "EverBank combines with WaFd in a $3.9bn reverse merger",
+   "number": "Announced 7 Sep, on the tape 8 Sep. EverBank merges into WaFd, which survives as the holding company, renames itself EverBank Financial Corp and trades as EVBK. EverBank holders take 59.2% of the pro forma company, WaFd holders 40.8%. Roughly $75bn of combined assets. Closing early 2027; management guides to ~29% accretion to 2027 EPS and tangible book dilution earned back in under two years.",
+   "readthrough": "Look at what this deal did <i>not</i> need. A $3.9bn bank combination in the week the 10-year made a 52-week high was paid for entirely in paper, and the 59.2/40.8 split says it is a merger of equals wearing an acquisition's clothes. The reverse structure is the tell: when the target's holders end up with the majority, nobody has to underwrite anything. Three weeks into this bifurcation the pattern is consistent — the deals that clear are the ones with no financing condition at all."
+  },
+  {
+   "what": "Tata Motors launches a €3.82bn all-cash tender for Iveco Group",
+   "number": "Acceptance period 7 Sep to 26 Oct at €14.10 per share, cum dividend. Iveco's board unanimously recommends it and Exor, the largest shareholder, has irrevocably committed. The combination would exceed €21bn of revenue and 590,000 vehicles a year, and would be the first takeover of a European OEM by an Asian group.",
+   "readthrough": "An irrevocable from the anchor holder converts a tender from a contest into a formality, which is why this is priced as done rather than as risk. The strategic-versus-sponsor point holds again: a corporate buyer wrote a €3.8bn cheque for a cyclical industrial while sponsors are not writing them at that size. Worth watching as a political object too — the first Asian takeover of a European OEM lands into the same tariff environment that produced Wednesday's Canada headlines."
+  },
+  {
+   "what": "Analog Devices to acquire Alif Semiconductor for up to $1.6bn",
+   "number": "Announced 9 Sep: $1.35bn of upfront cash plus up to $200m of contingent consideration, closing in Q4 calendar 2026.",
+   "readthrough": "An edge-AI tuck-in funded off the balance sheet, with an eighth of the headline value pushed into an earnout. Earnouts are what buyers reach for when they want the asset but will not lever up to close a valuation gap — the same instinct as WaFd's stock and Tata's cash. Three deals this week, three different ways to avoid the debt market."
+  },
+  {
+   "what": "The financing question: still no large sponsor LBO print, and the private-credit data now openly conflicts",
+   "number": "Last week's brief read the BDC gate wave as decaying, citing three early-Q3 reporters at 4.6% of NAV requested against 7.9% in Q2. A wider dataset points the other way: across the ten largest non-traded BDCs, redemption requests averaged 13% of assets in Q1 2026 and 14% in Q2, against caps around 5%. Separately, the spread advantage new direct-lending deals command over public leveraged loans has collapsed from more than 300bp in the 2017–18 vintage to under 100bp by Q1 2026.",
+   "readthrough": "These two datasets are not reconcilable by picking one, and this brief is not going to pretend otherwise — three funds is a sample, ten of the largest vehicles is a sector. The honest position is that last week's call generalised from too little, and the request rate in the biggest vehicles stepped <i>up</i> from Q1 to Q2 rather than down. The spread figure is the more decisive number anyway: at under 100bp of pickup, direct lending is no longer being paid for illiquidity, which is a pricing problem that exists whether or not anyone is queuing to redeem."
+  }
+ ],
+ "macro": [
+  "<b>Labour</b> — +162,000 in August against +53,000 expected, unemployment steady at 4.1%, and June and July revised up by 55,000 combined, erasing July's reported loss. Bars and restaurants led the gains; information-sector employment fell, which several readings attribute to AI substitution. The composition is worth as much as the headline: leisure and hospitality hiring is not what a late-cycle boom looks like.",
+  "<b>Wages</b> — average hourly earnings rose 0.4% on the month, but the six-month annualised pace is 2.6%, slightly below the 2.7% pre-pandemic average. Firm monthly, soft trend. Anyone arguing a wage-price spiral has to explain the six-month number.",
+  "<b>The Fed</b> — roughly 60% priced for a hike on 15–16 September, with the range across venues at 56–65%. The path there is the story: ~35% pre-Warsh, ~64% post-keynote, ~50% after Waller's \"give disinflation a chance\" on 3–4 September, then back up on payrolls. Trump publicly increased pressure on Warsh on 5 September. A committee this openly split, with a chair under political pressure, does not have a pre-committed decision.",
+  "<b>Rates</b> — 4.897% on the 10-year is a 52-week high and the highest since October 2023. Two independent bids for yield: the oil-led inflation impulse, and more than $1.5tn of AI-related corporate issuance competing for the same duration. A hiking cycle that begins with the long end already here has far less room than one that begins from a flat curve.",
+  "<b>Tariffs as a domestic price input</b> — US 50% tariffs on ~$20bn of Canadian goods, matched by Canadian retaliation live since 8 September on steel, dairy and electronics, with talks at an impasse. Steel and electronics are inputs, not final goods, which means this shows up in PPI before it shows up in CPI. That makes today's core PPI the first clean read on whether the tariff channel is live.",
+  "<b>Brazil</b> — the Ibovespa at 187,367 is ~5.7% below its 52-week high, with the real just above R$5.08 after a 0.79% gain. LATAM continues to ease into a Fed that may be about to hike; the carry differential is still wide, but it is narrowing from both ends."
+ ],
+ "flow": [
+  "Wednesday inverted last week's leadership. The Dow fell 0.8% against the S&amp;P's 0.5% and the Nasdaq's 0.6% — cyclicals and small caps worst — which is what a rates-and-oil selloff looks like, as opposed to the AI-narrative tape that has driven most of the summer.",
+  "Energy was the only place that worked: WTI +4.47% to $97.19 on the session, Brent through $101.5. When the index falls on the same input that lifts one sector, the sector move is a hedge, not a rotation.",
+  "This morning's futures split — Dow +0.2%, Nasdaq &minus;0.4% — is long-duration equity being sold against short-duration equity ahead of an inflation print. That is a positioning trade with a two-day half-life; it says nothing about where the print lands.",
+  "LATAM leadership stays resource-led, with Petrobras and Vale the two heaviest turnover lines on the B3 again. Brazilian equity beta remains tied to the Hormuz premium more tightly than to anything domestic.",
+  "Breadth, dealer gamma, put-call and skew are paid data and are not on this page. Nothing here is positioning analysis — it is sector observation from the tape."
+ ],
+ "levels": [],
+ "regime": {
+  "tag": "two prints, no referee",
+  "sizing": "PPI today and CPI tomorrow both land inside the blackout, so the FOMC prices off two datapoints with no official able to reframe them — anything expressed today is a bet on next Wednesday, not on this session"
+ },
+ "watchlist": [],
+ "secondOrder": "The interesting thing about this week is not that the hike got more likely — it is which argument survived. For three weeks the case against hiking was that inflation was coming from oil and tariffs while the labour market was shrinking, and that a central bank looks through supply shocks. Payrolls at +162,000 with upward revisions took the second half of that sentence away, and it did so without the wage data moving: six-month annualised earnings growth is 2.6%, still below the pre-pandemic average. So the committee is being handed a mandate to hike into an economy with firm employment and no wage pressure, where the price impulse is genuinely external. That is the textbook case for looking through, arriving at the exact moment the political cost of looking through became highest — Trump leaning publicly on Warsh on 5 September makes any dovish hold readable as capitulation, which is precisely the reading a chair defending a 2% target cannot accept. The hike, if it comes, will be a credibility purchase rather than a demand-management one. Underneath that sits the financing story this brief has been tracking, and it got sharper rather than resolving. Every deal on this week's wire avoided the debt market by a different route: WaFd paid in stock, Tata paid cash off its balance sheet, Analog Devices split the price into cash and an earnout. Still no large sponsor LBO financing has printed. The pricing evidence now says why — direct lending's spread premium over public leveraged loans has fallen from over 300bp to under 100bp, so the wrapper that was supposed to be compensated for illiquidity no longer is, while the ten largest non-traded BDCs saw redemption requests averaging 13–14% of assets against 5% caps. The constraint has moved. It is no longer 'who will lend' — it is that with the 10-year at 4.897% and rising, and the compensation for illiquidity gone, there may be no long-end rate at which a large LBO model clears at all. The thing to watch through the FOMC is unchanged and the deadline is now: if a single large sponsor financing prints before Wednesday, this was a summer liquidity artefact. If none does, it is the structure of the cycle, and the 2021 vintage exits to strategics or not at all.",
+ "scorecard": [
+  {
+   "verdict": "wrong",
+   "text": "Built the entire 4 September front page on a soft-labour framing, reporting a +53,000 consensus and arguing that even a print at consensus \"would be the labour market's best month of the summer and still weak in absolute terms.\" Payrolls came in at +162,000 with June and July revised up 55,000, erasing July's reported loss. The number missed by 109,000 and the framing missed with it."
+  },
+  {
+   "verdict": "right",
+   "text": "Named the unemployment rate as the invalidation: \"if it breaks meaningfully above 4.1%, the labour channel reasserts itself &hellip; and the hike comes off.\" It held at 4.1% and the hike stayed on, moving to roughly 60% priced. The level chosen was the right one to watch, and it did the work it was supposed to do."
+  },
+  {
+   "verdict": "right",
+   "text": "Warned against the read that \"a weak print resolves the meeting,\" arguing the hawkish case was being made from inflation rather than from labour and so would survive a soft number. The mechanism was tested from the other side — a hot number — and the underlying claim held: the meeting was not resolved by payrolls in either direction, and it is still being decided by inflation data."
+  },
+  {
+   "verdict": "wrong",
+   "text": "Called the private-credit gate wave \"a Q2 event that is decaying,\" on three early-Q3 reporters showing 4.6% of NAV requested against 7.9% in Q2. Across the ten largest non-traded BDCs, requests averaged 13% of assets in Q1 and 14% in Q2 — stepping up, not decaying. Three funds was not a sector, and the brief should not have generalised from it."
+  },
+  {
+   "verdict": "open",
+   "text": "Set the test as whether \"a single large sponsor LBO financing prints\" in September. None has in the week since, and this week's three deals were funded with stock, balance-sheet cash and an earnout respectively. The test resolves at the FOMC."
+  }
+ ],
+ "midday": null,
+ "sources": [
+  {
+   "label": "UPI — August payrolls +162,000",
+   "url": "https://www.upi.com/Top_News/US/2026/09/04/nonfarm-payrolls-bureau-labor-statistics-august-2026/8801788532242/"
+  },
+  {
+   "label": "BLS — Employment Situation, August 2026",
+   "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm"
+  },
+  {
+   "label": "CNBC — jobs report, August 2026",
+   "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
+  },
+  {
+   "label": "PNC — payrolls research note, 4 Sep",
+   "url": "https://www.pnc.com/content/dam/pnc-com/pdf/aboutpnc/EconomicReports/EconomicUpdates/2026/PNC_Economics_Research_Payrolls_4_September_2026.pdf"
+  },
+  {
+   "label": "Motley Fool — hike odds into the 16 Sep FOMC",
+   "url": "https://www.fool.com/investing/2026/09/10/the-odds-of-a-rate-hike-are-soaring-ahead-of-the-sept-16-fomc-meeting/"
+  },
+  {
+   "label": "Roic — rate futures add to September hike bets",
+   "url": "https://www.roic.ai/news/rate-futures-traders-add-to-bets-on-september-fed-hike-after-bigger-than-expected-august-jobs-gain-09-04-2026"
+  },
+  {
+   "label": "CNBC — Trump turns up the heat on Warsh",
+   "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
+  },
+  {
+   "label": "Kiplinger — August CPI preview",
+   "url": "https://www.kiplinger.com/investing/economy/cpi-report-august-2026-what-to-expect"
+  },
+  {
+   "label": "Investing.com — PPI, claims, home sales due Thursday",
+   "url": "https://www.investing.com/news/stock-market-news/ppi-jobless-claims-home-sales-and-oil-inventories-due-thursday-93CH-4894306"
+  },
+  {
+   "label": "Qz — futures rise ahead of PPI after Dow drop",
+   "url": "https://qz.com/wall-street-futures-inflation-ppi-dow-selloff-091026"
+  },
+  {
+   "label": "Investing.com — futures steady, PPI and CPI awaited",
+   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-falls-on-higher-yields-ppi-cpi-awaited-4894822"
+  },
+  {
+   "label": "WTOP — how major US indexes fared, 9 Sep",
+   "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-wednesday-9-9-2026"
+  },
+  {
+   "label": "TheStreet — Sept 9 session, Brent past $101",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-09-2026"
+  },
+  {
+   "label": "Trading Economics — crude oil, 9 Sep",
+   "url": "https://tradingeconomics.com/commodity/crude-oil"
+  },
+  {
+   "label": "Al Jazeera — Canada's retaliatory tariffs take effect 8 Sep",
+   "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect"
+  },
+  {
+   "label": "Globe and Mail — Canada–US trade talks at an impasse",
+   "url": "https://www.theglobeandmail.com/world/us-politics/article-canada-us-trade-talks-reach-an-impasse/"
+  },
+  {
+   "label": "CNBC — EverBank / WaFd $3.9bn reverse merger",
+   "url": "https://www.cnbc.com/2026/09/08/everbank-to-combine-with-wafd-in-3point9-billion-reverse-merger-.html"
+  },
+  {
+   "label": "Business Standard — Tata Motors' Iveco tender",
+   "url": "https://www.business-standard.com/companies/news/tata-motors-launches-all-cash-offer-for-iveco-acceptance-opens-september-7-126090500201_1.html"
+  },
+  {
+   "label": "MarketScreener — Analog Devices / Alif Semiconductor",
+   "url": "https://www.marketscreener.com/news/analog-devices-inc-entered-into-a-definitive-agreement-to-acquire-alif-semiconductor-inc-for-1-ce785bd9de88fe27"
+  },
+  {
+   "label": "Dechert — BDC redemption data and financing toolkit",
+   "url": "https://www.dechert.com/knowledge/onpoint/2026/8/private-credit-s-odyssey-home---how-bdcs-turned-redemption-headl.html"
+  },
+  {
+   "label": "Federal Reserve — FEDS Note on private credit vs leveraged loans",
+   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/private-credit-and-leveraged-loan-markets-similarities-differences-and-substitution-20260811.html"
+  },
+  {
+   "label": "Rio Times — Brazil markets, 9 Sep",
+   "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-wednesday-september-9-2026/"
+  },
+  {
+   "label": "CBS News — gold's September level and drawdown",
+   "url": "https://www.cbsnews.com/news/golds-price-down-by-over-21-percent-where-will-it-head-september-2026/"
+  }
+ ]
+}

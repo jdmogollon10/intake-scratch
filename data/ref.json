@@ -1,0 +1,67 @@
+{
+ "ref": [
+  {
+   "g": "equity",
+   "name": "Value Line Research Hub",
+   "use": "Standardized one-page company and industry reports — financial trends, earnings expectations, valuation.",
+   "access": "University access — needs your FIU proxied URL",
+   "link": "https://library.fiu.edu"
+  },
+  {
+   "g": "equity",
+   "name": "Value Investors Club",
+   "use": "Long and short pitches contributed by professional investors. Thesis construction, variant perception, catalysts.",
+   "access": "Freemium",
+   "link": "https://valueinvestorsclub.com"
+  },
+  {
+   "g": "equity",
+   "name": "Seeking Alpha",
+   "use": "Independent equity research and earnings analysis. Quality varies by contributor — verify conclusions.",
+   "access": "Freemium",
+   "link": "https://seekingalpha.com"
+  },
+  {
+   "g": "data",
+   "name": "S&P Capital IQ",
+   "use": "Comps, precedent transactions, screening, valuation multiples. NetAdvantage is the library entry point.",
+   "access": "University access — needs your FIU proxied URL",
+   "link": "https://library.fiu.edu"
+  },
+  {
+   "g": "data",
+   "name": "Mergent Market Atlas",
+   "use": "Company profiles, financial statements, filings, industry data.",
+   "access": "University access — no direct link in the library sheet",
+   "link": "https://library.fiu.edu"
+  },
+  {
+   "g": "data",
+   "name": "FIU Resource Library",
+   "use": "FIU library research guide — the database entry point for the university-access tiles above.",
+   "access": "FIU",
+   "link": "https://library.fiu.edu/FIN6406/search"
+  },
+  {
+   "g": "short",
+   "name": "Spruce Point Capital",
+   "use": "Forensic short research — accounting issues, aggressive assumptions, governance red flags.",
+   "access": "Free / public reports",
+   "link": "https://www.sprucepointcap.com"
+  },
+  {
+   "g": "short",
+   "name": "Kerrisdale Capital",
+   "use": "Long and short research. Contrarian theses, challenging consensus, catalyst analysis.",
+   "access": "Free / public reports",
+   "link": "https://www.kerrisdalecap.com"
+  }
+ ],
+ "groups": {
+  "equity": "Equity Research",
+  "data": "Data & Platforms",
+  "short": "Short Selling",
+  "tech": "Tools & Platforms"
+ },
+ "spotify": {}
+}

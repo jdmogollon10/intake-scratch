@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%97%9E%EF%B8%8F%3C/text%3E%3C/svg%3E">
+<style>:root{color-scheme:light dark}html,body{margin:0;padding:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>INTAKE</title>
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&family=Inter:wght@400;500;600;700&display=swap");
+:root{
+  --bg:#F8FAFC; --panel:#FFFFFF;
+  /* sidebar. Light mode sits on the page ground, separated by a rule not a slab. */
+  --side:#F8FAFC; --side-fg:#4B5563; --side-fg-on:#0B1D3A; --side-mut:#6B7280;
+  --side-hov:rgba(11,29,58,.055); --side-act:rgba(11,29,58,.085);
+  --side-line:#E5E7EB; --side-mark:#0B1D3A;
+  --fg:#0B1D3A; --fg-2:#4B5563; --fg-3:#6B7280;
+  --line:#E5E7EB; --line-2:#EEF1F5;
+  --ok:#0B7A48; --warn:#B45309; --bad:#B91C1C; --new:#1D4ED8;
+  --shadow:0 1px 2px rgba(11,29,58,.06), 0 4px 12px rgba(11,29,58,.05);
+  --r:14px; --r-sm:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#070D18; --panel:#0F1A2E; --side:#050A14; --side-fg:#8A9BB5; --side-fg-on:#FFFFFF; --side-mut:#7E92AE;
+    --side-hov:rgba(255,255,255,.06); --side-act:rgba(255,255,255,.12);
+    --side-line:rgba(255,255,255,.09); --side-mark:#FFFFFF;
+    --fg:#E8EDF5; --fg-2:#A8B6CC; --fg-3:#7C8CA6;
+    --line:#1C2A44; --line-2:#16233A;
+    --ok:#34D399; --warn:#FBBF24; --bad:#F87171; --new:#60A5FA;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#070D18; --panel:#0F1A2E; --side:#050A14; --side-fg:#8A9BB5; --side-fg-on:#FFFFFF; --side-mut:#7E92AE;
+  --side-hov:rgba(255,255,255,.06); --side-act:rgba(255,255,255,.12);
+  --side-line:rgba(255,255,255,.09); --side-mark:#FFFFFF;
+  --fg:#E8EDF5; --fg-2:#A8B6CC; --fg-3:#7C8CA6;
+  --line:#1C2A44; --line-2:#16233A;
+  --ok:#34D399; --warn:#FBBF24; --bad:#F87171; --new:#60A5FA;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--fg);font:400 15px/1.55 Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+
+.shell{display:flex;min-height:100vh}
+.side{width:236px;flex:0 0 236px;background:var(--side);color:var(--side-fg);display:flex;flex-direction:column;padding:20px 14px;position:sticky;top:0;height:100vh;border-right:1px solid var(--side-line)}
+.brand{display:flex;align-items:flex-start;gap:10px;padding:4px 8px 18px}
+.brand .mk{width:28px;height:28px;flex:0 0 28px;margin-top:1px;color:var(--side-mark)}
+.brand .wm{font:500 18px/1 Jost,Inter,sans-serif;letter-spacing:.26em;color:var(--side-fg-on)}
+.brand .tag{font-size:9px;letter-spacing:.09em;text-transform:uppercase;color:var(--side-mut);margin-top:5px;white-space:nowrap}
+.nav{display:flex;flex-direction:column;gap:1px;overflow-y:auto;flex:1;margin:0 -4px}
+.nav a{display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:var(--r-sm);font-size:14px;color:var(--side-fg);transition:background .12s,color .12s}
+.nav a:hover{background:var(--side-hov);color:var(--side-fg-on)}
+.nav a.on{background:var(--side-act);color:var(--side-fg-on);font-weight:500}
+.nav a .ic{width:16px;height:16px;flex:0 0 16px;opacity:.85}
+.nav a .ct{margin-left:auto;font-size:11px;color:var(--side-mut);font-variant-numeric:tabular-nums}
+.nav .sep{height:1px;background:var(--side-line);margin:9px 12px}
+.side-foot{padding:12px 12px 0;font-size:11px;color:var(--side-mut);border-top:1px solid var(--side-line);margin-top:10px;line-height:1.5}
+.scrim{display:none}
+
+.main{flex:1;min-width:0;display:flex;flex-direction:column}
+.top{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line);padding:13px 26px;display:flex;align-items:center;gap:14px}
+.burger{display:none;width:34px;height:34px;border-radius:9px;border:1px solid var(--line);align-items:center;justify-content:center;flex:0 0 34px}
+.top h1{margin:0;font:600 19px/1.2 Inter,sans-serif;letter-spacing:-.01em}
+.top .sub{font-size:12.5px;color:var(--fg-3);margin-top:2px}
+.top .sp{margin-left:auto}
+.searchbox{display:flex;align-items:center;gap:8px;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:7px 14px;min-width:200px}
+.searchbox input{border:0;background:none;outline:none;font:inherit;font-size:13.5px;color:var(--fg);width:100%}
+.iconbtn{width:34px;height:34px;border-radius:9px;border:1px solid var(--line);background:var(--panel);display:flex;align-items:center;justify-content:center;flex:0 0 34px}
+.iconbtn:hover{border-color:var(--fg-3)}
+.wrap{padding:24px 26px 70px;max-width:1220px;width:100%}
+
+.sec{margin-bottom:34px}
+.sec-h{display:flex;align-items:baseline;gap:10px;margin:0 0 13px}
+.sec-h h2{margin:0;font:600 12px/1 Inter,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--fg-3)}
+.sec-h .n{font-size:11px;color:var(--fg-3);font-variant-numeric:tabular-nums}
+.sec-h .more{margin-left:auto;font-size:12.5px;color:var(--fg-3)}
+.sec-h .more:hover{color:var(--fg)}
+
+.grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(258px,1fr))}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:14px;display:flex;flex-direction:column;gap:9px;position:relative;transition:border-color .13s,transform .13s,box-shadow .13s}
+.card:hover{border-color:var(--fg-3);box-shadow:var(--shadow);transform:translateY(-1px)}
+.card-t{display:flex;align-items:center;gap:10px}
+.mono{width:32px;height:32px;flex:0 0 32px;border-radius:9px;display:flex;align-items:center;justify-content:center;font:600 12px/1 Inter,sans-serif}
+.card-nm{font-weight:600;font-size:14px;letter-spacing:-.005em;line-height:1.25}
+.card-by{font-size:11.5px;color:var(--fg-3);margin-top:1px}
+.card-hl{font-size:13.5px;color:var(--fg-2);line-height:1.42;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;min-height:2.9em}
+.card-f{display:flex;align-items:center;gap:8px;margin-top:auto;padding-top:2px}
+.fresh{font-size:11.5px;font-weight:500;font-variant-numeric:tabular-nums;white-space:nowrap}
+.fresh.h{color:var(--ok)} .fresh.m{color:var(--fg-3)} .fresh.s{color:var(--warn)} .fresh.x{color:var(--fg-3);opacity:.65}
+.dot{width:6px;height:6px;border-radius:50%;background:currentColor;display:inline-block;margin-right:5px;vertical-align:1px}
+.pill{font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--fg-3);border:1px solid var(--line);border-radius:999px;padding:2px 7px;white-space:nowrap}
+.newflag{font-size:9.5px;font-weight:700;letter-spacing:.08em;color:var(--new);border:1px solid currentColor;border-radius:4px;padding:1px 4px}
+.save{margin-left:auto;width:26px;height:26px;border-radius:7px;display:flex;align-items:center;justify-content:center;color:var(--fg-3);position:relative;z-index:3}
+.save:hover{background:var(--line-2);color:var(--fg)}
+.save.on{color:var(--warn)}
+.card-lnk{position:absolute;inset:0;border-radius:var(--r);z-index:2}
+.card-lnk:focus-visible{outline:2px solid var(--new);outline-offset:2px}
+.card-t,.card-hl{position:relative;z-index:1;pointer-events:none}
+.card-f{position:relative;z-index:1;pointer-events:none}
+.card-f .save{pointer-events:auto}
+
+/* deals */
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--panel)}
+table.deals{width:100%;border-collapse:collapse;font-size:13.5px;min-width:840px}
+table.deals th{text-align:left;font:600 10.5px/1 Inter,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--fg-3);padding:12px 14px;border-bottom:1px solid var(--line);white-space:nowrap;background:var(--panel);position:sticky;top:0}
+table.deals td{padding:12px 14px;border-bottom:1px solid var(--line-2);vertical-align:top}
+table.deals tr:last-child td{border-bottom:0}
+table.deals tr:hover td{background:var(--line-2)}
+td.val{font-variant-numeric:tabular-nums;font-weight:600;white-space:nowrap}
+td.ttl{max-width:460px;line-height:1.4}
+.srcbadge{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.dealcards{display:none;flex-direction:column;gap:10px}
+.filters{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:14px}
+.chip{font-size:12.5px;padding:5px 12px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--fg-2)}
+.chip.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+
+/* brief */
+.brief{max-width:820px}
+.bsec{border-top:1px solid var(--line);padding:22px 0}
+.bsec:first-of-type{border-top:0;padding-top:6px}
+.bsec h3{margin:0 0 11px;font:600 11.5px/1 Inter,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--fg-3)}
+.bsec p{margin:0 0 11px;line-height:1.62}
+.bsec ul{margin:0;padding-left:19px}
+.bsec li{margin-bottom:9px;line-height:1.55}
+.tape{display:flex;flex-wrap:wrap;gap:8px}
+.tapeitem{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-sm);padding:8px 12px;min-width:104px}
+.tapeitem .n{font-size:10.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--fg-3)}
+.tapeitem .v{font:600 16px/1.2 Inter,sans-serif;font-variant-numeric:tabular-nums;margin-top:3px}
+.tapeitem .c{font-size:12px;font-variant-numeric:tabular-nums}
+.c.up{color:var(--ok)} .c.dn{color:var(--bad)}
+.tapeline{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--fg);border-radius:var(--r-sm);padding:13px 16px;font-size:15px;line-height:1.5}
+.calrow{display:grid;grid-template-columns:74px 1fr auto;gap:12px;padding:9px 0;border-bottom:1px solid var(--line-2);font-size:13.5px}
+.calrow .t{font-variant-numeric:tabular-nums;color:var(--fg-3)}
+.calrow .m{font-size:11.5px;color:var(--fg-3);margin-top:2px}
+.imp{font-size:9.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;padding:2px 6px;border-radius:4px;height:fit-content}
+.imp.high{color:var(--bad);border:1px solid currentColor}
+.imp.med{color:var(--warn);border:1px solid currentColor}
+.imp.low{color:var(--fg-3);border:1px solid var(--line)}
+.dealrow{border-bottom:1px solid var(--line-2);padding:11px 0}
+.dealrow .w{font-weight:600}
+.dealrow .num{font-variant-numeric:tabular-nums;color:var(--fg-3);font-size:13px;margin:2px 0}
+.dealrow .rt{font-size:13.5px;color:var(--fg-2)}
+.lvls{display:flex;flex-wrap:wrap;gap:8px}
+.lvl{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-sm);padding:7px 12px;font-size:13px}
+.lvl b{font-variant-numeric:tabular-nums}
+.wl{border:1px solid var(--line);border-radius:var(--r-sm);padding:12px 14px;margin-bottom:9px;background:var(--panel)}
+.wl .tk{font:600 15px/1 Inter,sans-serif;letter-spacing:.02em}
+.wl .kv{font-size:12.5px;color:var(--fg-2);margin-top:5px}
+.wl .kv b{color:var(--fg)}
+.sc{display:flex;gap:10px;padding:9px 0;border-bottom:1px solid var(--line-2);font-size:13.5px}
+.vd{font-size:9.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;padding:2px 6px;border-radius:4px;height:fit-content;flex:0 0 auto}
+.vd.right{color:var(--ok);border:1px solid currentColor}
+.vd.wrong{color:var(--bad);border:1px solid currentColor}
+.vd.open{color:var(--fg-3);border:1px solid var(--line)}
+.nosrc{color:var(--fg-3);font-style:italic;font-size:13.5px}
+
+.empty{border:1px dashed var(--line);border-radius:var(--r);padding:30px 22px;text-align:center;color:var(--fg-3);font-size:13.5px;line-height:1.6}
+.note{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--warn);border-radius:var(--r-sm);padding:12px 15px;font-size:13.5px;color:var(--fg-2);line-height:1.55;margin-bottom:16px}
+.setrow{display:flex;align-items:center;gap:14px;padding:14px 0;border-bottom:1px solid var(--line-2)}
+.setrow .l{font-weight:500}
+.setrow .d{font-size:12.5px;color:var(--fg-3);margin-top:2px}
+.setrow .a{margin-left:auto}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:9px;padding:7px 14px;font-size:13.5px}
+.btn:hover{border-color:var(--fg-3)}
+
+@media (max-width:960px){
+  .side{position:fixed;left:0;top:0;z-index:60;transform:translateX(-100%);transition:transform .2s ease;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  .side.open{transform:translateX(0)}
+  .scrim{display:block;position:fixed;inset:0;background:rgba(3,8,18,.5);z-index:55;opacity:0;pointer-events:none;transition:opacity .2s}
+  .scrim.on{opacity:1;pointer-events:auto}
+  .burger{display:flex}
+  .top{padding:11px 16px;flex-wrap:wrap;row-gap:10px}
+  .top h1{font-size:17px}
+  .top .sub{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+  .wrap{padding:18px 16px 70px}
+  .searchbox{min-width:0;flex:1 1 100%;order:9}
+  .top .sp{display:none}
+  .top #theme{margin-left:auto}
+  table.deals{display:none}
+  .tablewrap{border:0;background:none;overflow:visible}
+  .dealcards{display:flex}
+  .grid{grid-template-columns:1fr}
+  .calrow{grid-template-columns:66px 1fr;gap:9px}
+  .calrow .imp{grid-column:2}
+}
+</style>
+</head>
+<body>
+<div class="scrim" id="scrim"></div>
+<div class="shell">
+  <aside class="side" id="side">
+    <div class="brand">
+      <svg class="mk" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+        <path d="M16 1.6 28.3 8.8v14.4L16 30.4 3.7 23.2V8.8z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" opacity=".55"/>
+        <path d="M9.5 11.5 16 17l6.5-5.5M9.5 17.5 16 23l6.5-5.5" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <div>
+        <div class="wm">INTAKE</div>
+        <div class="tag">Markets &middot; Deals &middot; Research</div>
+      </div>
+    </div>
+    <nav class="nav" id="nav"></nav>
+    <div class="side-foot" id="foot"></div>
+  </aside>
+  <main class="main">
+    <header class="top">
+      <button class="burger" id="burger" aria-label="Menu">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+      <div>
+        <h1 id="ttl">Home</h1>
+        <div class="sub" id="sub"></div>
+      </div>
+      <div class="sp"></div>
+      <div class="searchbox">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+        <input id="q" type="search" placeholder="Search sources" autocomplete="off">
+      </div>
+      <button class="iconbtn" id="theme" aria-label="Theme"></button>
+    </header>
+    <div class="wrap" id="view"></div>
+  </main>
+</div>
+
+<script>
+/* ============================================================
+   INTAKE — rebuilt clean, 27 Aug 2026.
+   Single file. No framework, no build step, no external data.
+
+   DATA CONTRACT (what the refresh job may touch):
+     LIVE[i].title / .link / .date      <- refreshed daily
+     DEALS                              <- rebuilt daily
+     BRIEF                              <- rebuilt weekday pre-market
+     REFRESHED                          <- ISO stamp, every run
+   Everything else is structure. Do not rewrite it.
+   Feed URLs now live IN this file (LIVE[i].feed) so the page is
+   the single source of truth and no job needs an external list.
+   ============================================================ */
+
+/* ------------------------------------------------------------------
+   Data is injected here at build time from data/*.json by src/build.mjs.
+   Each file has exactly one writer, so nothing ever collides:
+     data/sources.json  structure, the 70 feeds        (rarely, by hand)
+     data/live.json     newest item per feed           (GitHub Actions, daily)
+     data/deals.json    the M&A wire                   (Claude routine)
+     data/brief.json    the SCREENER brief             (Claude routine)
+     data/meta.json     refresh stamp + run note       (whoever ran last)
+     data/ref.json      reference tiles + spotify pins (by hand)
+   ------------------------------------------------------------------ */
+var DATA = {"meta":{"refreshed":"2026-09-10T13:30:00Z","note":"This run rebuilt the SCREENER brief and the deal wire from dated public reporting gathered by web search. Direct feed fetches were refused again for every host in the table by this session's network egress policy (403 at the proxy on all 70 feeds, for both curl and the fetch tool), so the source tiles below still carry the items from the 28 Aug run and now read about two weeks stale. No headline, link or timestamp was invented to fill them. Everything in the brief and the deal wire is dated and sourced; where two datasets disagree, the brief says so rather than picking one."},"sources":{"news":[["WSJ Markets","Wall Street Journal","https://feeds.content.dowjones.io/public/rss/RSSMarketsMain","https://www.wsj.com/finance","Markets"],["WSJ Business","Wall Street Journal","https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness","https://www.wsj.com/business","Business"],["WSJ Tech & IPOs","Wall Street Journal","https://feeds.content.dowjones.io/public/rss/RSSWSJD","https://www.wsj.com/tech","Technology"],["MarketWatch","Dow Jones","https://feeds.content.dowjones.io/public/rss/mw_topstories","https://www.marketwatch.com","Markets"],["Semafor Business","Semafor","https://www.semafor.com/rss.xml","https://www.semafor.com/vertical/business","Business"],["Sky News Business","Sky News","https://feeds.skynews.com/feeds/rss/business.xml","https://news.sky.com/business","Business"],["City AM","City AM","https://www.cityam.com/feed/","https://www.cityam.com","UK / Europe"],["Fortune","Fortune","https://fortune.com/feed/fortune-feeds/?id=3230629","https://fortune.com","Business"],["Investing.com Markets","Investing.com","https://www.investing.com/rss/news_25.rss","https://www.investing.com/news/stock-market-news","Markets"],["Asia Financial","Asia Financial","https://www.asiafinancial.com/feed","https://www.asiafinancial.com","Asia"],["Sherwood News","Robinhood","https://sherwood.news/rss.xml","https://sherwood.news","Markets"],["Private Equity Wire","PE Wire","https://www.privateequitywire.co.uk/feed/","https://www.privateequitywire.co.uk","Private Equity"],["IPOScoop","IPOScoop","https://www.iposcoop.com/feed/","https://www.iposcoop.com","IPOs"],["Crunchbase News","Crunchbase","https://news.crunchbase.com/feed/","https://news.crunchbase.com","Venture"]],"macro":[["Federal Reserve","Board of Governors","https://www.federalreserve.gov/feeds/press_all.xml","https://www.federalreserve.gov/newsevents.htm","Policy"],["FEDS Notes","Federal Reserve","https://www.federalreserve.gov/feeds/feds_notes.xml","https://www.federalreserve.gov/econres/notes/feds-notes/","Research"],["Liberty Street Economics","NY Fed","https://libertystreeteconomics.newyorkfed.org/feed/","https://libertystreeteconomics.newyorkfed.org","Research"],["ECB Press","European Central Bank","https://www.ecb.europa.eu/rss/press.html","https://www.ecb.europa.eu/press/html/index.en.html","Policy"],["Economic Indicators","Investing.com","https://www.investing.com/rss/news_95.rss","https://www.investing.com/economic-calendar/","Data"],["The Overshoot","Matthew Klein","https://theovershoot.co/feed","https://theovershoot.co","Macro"],["Employ America","Employ America","https://www.employamerica.org/feed/","https://www.employamerica.org","Labor / Rates"]],"latam":[["LatinFinance","LatinFinance","https://www.latinfinance.com/rss","https://www.latinfinance.com","Capital Markets"],["Bloomberg Línea","Bloomberg","https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml","https://www.bloomberglinea.com","LATAM","ES"],["Brazil Journal","Brazil Journal","https://braziljournal.com/feed/","https://braziljournal.com","Brazil","PT"],["NeoFeed","NeoFeed","https://neofeed.com.br/feed/","https://neofeed.com.br","Brazil","PT"],["eixos","eixos","https://eixos.com.br/feed/","https://eixos.com.br","Energy / Brazil","PT"],["LAVCA","LAVCA","https://www.lavca.org/feed/","https://www.lavca.org","LATAM PE/VC"]],"dealdesk":[["HLS Corp Gov Forum","Harvard Law School","https://corpgov.law.harvard.edu/feed/","https://corpgov.law.harvard.edu","Governance / M&A"],["Middle Market Growth","ACG","https://middlemarketgrowth.org/feed/","https://middlemarketgrowth.org","Middle Market"],["Cleary M&A Watch","Cleary Gottlieb","https://www.clearymawatch.com/feed/","https://www.clearymawatch.com","Deal Law"],["Hedgeweek","Hedgeweek","https://www.hedgeweek.com/feed/","https://www.hedgeweek.com","Hedge Funds"],["PETITION","PETITION","https://www.petition11.com/feed","https://www.petition11.com","Distressed / Credit"]],"podcast":[["All-In Podcast","Chamath, Sacks, Friedberg, Calacanis","https://rss.libsyn.com/shows/254861/destinations/1928300.xml","","Tech / Markets"],["Odd Lots","Bloomberg","https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8A94442E-5A74-4FA2-8B8D-AE27003A8D6B/982F5071-765C-403D-969D-AE27003A8D83/podcast.rss","","Macro / Markets"],["Yet Another Value Pod","Andrew Walker","https://anchor.fm/s/c628cb7c/podcast/rss","","Value / Special Sits"],["Invest Like the Best","Patrick O'Shaughnessy","https://feeds.megaphone.fm/investlikethebest","","Investing"],["Capital Allocators","Ted Seides","https://capitalallocators.com/feed/podcast/","","Allocators"],["Animal Spirits","Ritholtz","https://feeds.megaphone.fm/TCP6464651487","","Markets"],["Bloomberg Daybreak","Bloomberg","https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/65ce2954-d8a8-4c66-9f42-af80014d923e/podcast.rss","","Daily Markets"],["FT News Briefing","Financial Times","https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf","","Daily"],["The Journal.","WSJ / Spotify","https://video-api.shdsvc.dowjones.io/api/podcasts/feed/the%20journal","","Daily Business"],["Morning Brew Daily","Morning Brew","https://feeds.megaphone.fm/MOBI8777994188","","Daily"],["Dry Powder","Hugh MacArthur / Bain","https://feeds.simplecast.com/rh_8uLBO","","Private Equity"],["Evercore Edge","Evercore","https://anchor.fm/s/b5a9e178/podcast/rss","","Investment Banking"],["Acquired","Ben Gilbert & David Rosenthal","https://feeds.transistor.fm/acquired","","Company Histories"],["Odds on Open","Ethan Kho","https://ethankho.substack.com/feed","","Trading"],["Business Breakdowns","Colossus","https://feeds.megaphone.fm/breakdowns","","Company Research"],["M&A Science","Kison Patel","https://rss.libsyn.com/shows/88604/destinations/435438.xml","","M&A Process"],["The Wall Street Skinny","Kristen & Jen","https://feeds.megaphone.fm/TTNSE2412391117","","Career / Technical"],["Alt Goes Mainstream","Michael Sidgmore","https://feeds.transistor.fm/alt-goes-mainstream","","Private Markets"],["Cloud 9fin","9fin","https://feeds.transistor.fm/cloud-9fin","","Leveraged Finance"],["Think Like an Owner","Alex Bridgeman","https://rss.libsyn.com/shows/585035/destinations/5075260.xml","","Search Funds"],["Value Investing FM","Adrián Godas & Paco Lodeiro","https://feeds.ivoox.com/feed_fg_f1499494_filtro_1.xml","","Value","ES"],["Columbia Energy Exchange","Columbia SIPA","https://rss.libsyn.com/shows/76724/destinations/343325.xml","","Energy Policy"]],"writing":[["Yet Another Value Blog","Andrew Walker","https://www.yetanothervalueblog.com/feed","https://www.yetanothervalueblog.com","Value / Special Sits"],["Irrational Analysis","Irrational Analysis","https://irrationalanalysis.substack.com/feed","https://irrationalanalysis.substack.com","Semiconductors"],["The Bear Cave","Edwin Dorsey","https://thebearcave.substack.com/feed","https://thebearcave.substack.com","Short Selling"],["Speedwell Research","Speedwell","https://www.speedwellresearch.com/feed","https://www.speedwellresearch.com","Deep Dives"],["Fabricated Knowledge","Doug O'Laughlin","https://www.fabricatedknowledge.com/feed","https://www.fabricatedknowledge.com","Semiconductors"],["Net Interest","Marc Rubinstein","https://www.netinterest.co/feed","https://www.netinterest.co","Financials"],["Chartbook","Adam Tooze","https://adamtooze.substack.com/feed","https://adamtooze.substack.com","Macro / History"],["MBI Deep Dives","Mostly Borrowed Ideas","https://mbideepdives.substack.com/feed","https://mbideepdives.substack.com","Company Research"],["TSOH Research","Alex Morris","https://thescienceofhitting.com/feed","https://thescienceofhitting.com","Quality / Value"],["Clouded Judgement","Jamin Ball / Altimeter","https://cloudedjudgement.substack.com/feed","https://cloudedjudgement.substack.com","Enterprise Software"],["Klement on Investing","Joachim Klement","https://klementoninvesting.substack.com/feed","https://klementoninvesting.substack.com","Behavioral / Macro"],["Doomberg","Doomberg","https://newsletter.doomberg.com/feed","https://newsletter.doomberg.com","Energy / Commodities"],["Musings on Markets","Aswath Damodaran","https://aswathdamodaran.blogspot.com/feeds/posts/default?alt=rss","https://aswathdamodaran.blogspot.com","Valuation"],["Behind the Balance Sheet","Stephen Clapham","https://behindthebalancesheet.com/feed/","https://behindthebalancesheet.com","Forensic Accounting"],["Wolf of Harcourt Street","Wolf of Harcourt Street","https://www.thewolfofharcourtstreet.com/feed","https://www.thewolfofharcourtstreet.com","Equity Research"],["GKC Research","Gekko Capital","https://gekkocapital.substack.com/feed","https://gekkocapital.substack.com","Equity Research"]]},"live":{"WSJ Markets":["Jackson Hole Poses Next Key Test for Precious Metals","https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-await-jackson-hole-4f46864e?mod=rss_markets_main","2026-08-28T02:29:00Z"],"WSJ Business":["Andreessen Horowitz Launches 'Machine Age' Fund to Tackle AI Supply Bottlenecks","https://www.wsj.com/finance/investing/andreessen-horowitz-hardware-fund-ai-supply-chain-887774c5?mod=pls_whats_news_us_business_f","2026-08-28T13:00:00Z"],"WSJ Tech & IPOs":["AI Is Putting Pressure on the Corporate IT Budget","https://www.wsj.com/cio-journal/ai-is-putting-pressure-on-the-corporate-it-budget-0efaa8e8?mod=rss_Technology","2026-08-28T12:53:00Z"],"MarketWatch":["Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that's possible.","https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories","2026-08-27T23:05:00Z"],"Semafor Business":[null,null,null],"Sky News Business":["Trump signs order renaming Lake Ontario as 'Lake America' in the US","https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819","2026-08-27T17:29:00Z"],"City AM":["FTSE 100 Live: Stocks to jump; oil rises as US says 'no talks' with Iran","https://www.cityam.com/ftse-100-live-stocks-to-jump-oil-rises-as-us-says-no-negotiations-with-iran/","2026-08-28T05:30:00Z"],"Fortune":["The $40 trillion national debt is growing while Social Security goes broke—because wealthy Boomers are collecting over $100k in benefits per year","https://fortune.com/2026/08/27/40-trillion-debt-social-security-boomers-100k-benefits/","2026-08-27T19:58:23Z"],"Investing.com Markets":["Ulta Beauty lifts annual forecasts as marketing, product investments fuel growth","https://www.investing.com/news/stock-market-news/ulta-beauty-raises-annual-sales-profit-forecasts-4880139","2026-08-27T22:07:30Z"],"Asia Financial":["Glacial Collapse Led to Nepal Flood, Many Dead, 1,000 Missing","https://www.asiafinancial.com/glacial-collapse-led-to-nepal-flood-many-dead-100s-missing","2026-08-27T03:04:51Z"],"Sherwood News":["Credit markets have a \"debt\" problem, not a \"risk\" problem","https://sherwood.news/markets/credit-markets-have-a-debt-problem-not-a-risk-problem/","2026-08-17T15:33:26Z"],"Private Equity Wire":["PE-backed Vista Global weighs €1bn-plus European IPO","https://www.privateequitywire.co.uk/pe-backed-vista-global-weighs-e1bn-plus-european-ipo/","2026-08-28T08:07:10Z"],"IPOScoop":["The SPAC IPO Buzz: JATT III Acquisition (JTTT) Jumps 15 Percent in its NASDAQ Debut","https://www.iposcoop.com/the-ipo-buzz-jatt-iii-acquisition-jttt-jumps-15-percent-in-its-nasdaq-debut/","2026-08-26T20:02:22Z"],"Crunchbase News":["Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity","https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/","2026-08-27T13:00:25Z"],"Federal Reserve":["Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico","https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm","2026-08-27T15:00:00Z"],"FEDS Notes":["FEDS Note: A Decade of U.S. Cross-Border Payments Efforts","https://www.federalreserve.gov/econres/notes/feds-notes/a-decade-of-u-s-cross-border-payments-efforts-20260826.html","2026-08-26T18:30:00Z"],"Liberty Street Economics":["Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy?","https://libertystreeteconomics.newyorkfed.org/2026/08/has-broader-stock-market-participation-changed-how-interest-rates-affect-the-economy/","2026-08-19T11:00:00Z"],"ECB Press":["Meeting of 22-23 July 2026","https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html","2026-08-27T11:30:00Z"],"Economic Indicators":["Six consequences after six months of war in Iran","https://www.investing.com/news/economic-indicators/six-consequences-of-six-months-of-war-in-iran-4878330","2026-08-27T18:55:54Z"],"The Overshoot":["AI, Productivity, and Rates: Part 2","https://theovershoot.co/p/ai-productivity-and-rates-part-2","2026-08-18T23:32:21Z"],"Employ America":["July 2026 Core-Cast Post PCE: Portfolio Management Drove the Upside","https://www.employamerica.org/core-cast/july-2026-core-cast-post-pce/","2026-08-26T20:30:29Z"],"LatinFinance":["Braskem buoyed by oil supply deal","https://latinfinance.com/daily-brief/2026/08/27/braskem-buoyed-by-oil-supply-deal/","2026-08-28T01:06:42Z"],"Bloomberg Línea":["Juan Gabriel vuelve al cine tras 10 años de su muerte con material inédito de su histórico concierto en Bellas Artes","https://www.bloomberglinea.com/estilo-de-vida/juan-gabriel-vuelve-al-cine-tras-10-anos-de-su-muerte-con-material-inedito-de-su-historico-concierto-en-bellas-artes/","2026-08-28T11:00:00Z"],"Brazil Journal":["Justiça suspende imposto de exportação de petróleo: \"burla ao Legislativo\"","https://braziljournal.com/justica-suspende-imposto-de-exportacao-de-petroleo-burla-ao-legislativo/","2026-08-27T22:58:05Z"],"NeoFeed":["Nova frente de batalha digital reúne rivais em uma mesma trincheira","https://neofeed.com.br/inovacao/nova-frente-de-batalha-digital-reune-rivais-em-uma-mesma-trincheira/","2026-08-27T21:13:21Z"],"eixos":["Falta de recursos pode paralisar obras de Angra 1, diz TCU","https://eixos.com.br/energia-eletrica/falta-de-recursos-pode-paralisar-obras-de-angra-1-diz-tcu/","2026-08-27T22:36:16Z"],"LAVCA":["Vinci Compass to Acquire Navi's real estate Platform","https://www.lavca.org/vinci-compass-to-acquire-navis-real-estate-platform/","2026-08-27T16:01:59Z"],"HLS Corp Gov Forum":["2026 Board Index Director Snapshot","https://corpgov.law.harvard.edu/2026/08/24/2026-board-index-director-snapshot/","2026-08-24T11:32:20Z"],"Middle Market Growth":["PE Weekly: M&A Roundup Aug. 21-27","https://middlemarketgrowth.org/pe-weekly-august-24-27/","2026-08-27T13:00:51Z"],"Cleary M&A Watch":["SEC Staff Issues Guidance on Disclosure Obligations for Activist Fund Structures Under Schedules 13D and 14A","https://www.clearymawatch.com/2026/07/sec-staff-issues-guidance-on-disclosure-obligations-for-activist-fund-structures-under-schedules-13d-and-14a/","2026-07-16T21:30:54Z"],"Hedgeweek":["Two Sigma founders face new arbitration battle","https://www.hedgeweek.com/two-sigma-founders-face-new-arbitration-battle/","2026-08-28T09:23:29Z"],"PETITION":["💥DISH to Trinseo, \"Hold My Beer\"💥","https://www.petition11.com/p/dish-to-trinseo-hold-my-beer","2026-08-19T12:03:43Z"],"All-In Podcast":["Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics","https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps","2026-08-26T23:00:00Z"],"Odd Lots":["Kansas City Fed President Jeffrey Schmid on the First Jackson Hole of the Warsh Era","https://omny.fm/shows/odd-lots/kansas-city-fed-president-jeffrey-schmid-on-the-first-jackson-hole-of-the-warsh-era","2026-08-27T11:30:00Z"],"Yet Another Value Pod":["Late August 2026 Random Ramblings","https://podcasters.spotify.com/pod/show/andrew-walker260/episodes/Late-August-2026-Random-Ramblings-e3nuin9","2026-08-27T13:43:54Z"],"Invest Like the Best":["Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]","https://colossus.com/episode/from-transistor-to-token/","2026-08-25T08:00:00Z"],"Capital Allocators":["Best of Storytelling: Matthew Dicks","https://www.capitalallocators.com/podcast/best-of-storytelling-matthew-dicks/","2026-08-24T00:00:00Z"],"Animal Spirits":["Are Free Markets Dead? (EP. 479)","https://awealthofcommonsense.com/podcast/","2026-08-26T10:00:00Z"],"Bloomberg Daybreak":["Nvidia's Blowout Quarter; Investors Gauge Jackson Hole","https://omny.fm/shows/bloomberg-daybreak/nvidias-blowout-quarter-investors-gauge-jackson-hole","2026-08-27T09:45:08Z"],"FT News Briefing":["What Meta's $18bn settlement means for social media","https://shows.acast.com/ftnewsbriefing/episodes/what-metas-18bn-settlement-means-for-social-media","2026-08-27T04:00:00Z"],"The Journal.":["Will Meta's $18 Billion Settlement Change Social Media?","https://www.wsj.com/podcasts/the-journal","2026-08-27T20:45:00Z"],"Morning Brew Daily":["Meta Agrees to Historic $18B Settlement & NYC Has More Tech Workers Than SF","https://www.swap.fm/l/mbd-note","2026-08-27T11:18:00Z"],"Dry Powder":["Exits, AI and Asking 'What's Next?' w/ Advent International's John Maldonado","https://dry-powder-72f03771.simplecast.com/episodes/exits-ai-and-asking-whats-next-w-advent-internationals-john-maldonado-_ZxuWWUV","2026-08-18T08:00:00Z"],"Evercore Edge":["Markets at Midyear: M&A, AI and What Comes Next","https://podcasters.spotify.com/pod/show/evercore/episodes/Markets-at-Midyear-MA--AI-and-What-Comes-Next-e3n8tdr","2026-08-12T13:00:00Z"],"Acquired":["Disney: The Renaissance and the Empire","https://www.acquired.fm/episodes/disney-the-renaissance-and-the-empire","2026-08-10T04:41:43Z"],"Odds on Open":["What I learned speaking to an ex-Two Sigma Quant about Alpha Capture","https://ethankho.substack.com/p/what-i-learned-speaking-to-an-ex","2026-07-02T14:01:32Z"],"Business Breakdowns":["Applied Intuition: A Billion Intelligent Machines - [Business Breakdowns, EP.248]","https://colossus.com/episode/applied-intuition/","2026-07-27T08:00:00Z"],"M&A Science":["The Discount Is the Wrong Question in Private Equity Secondaries","https://dealroom.libsyn.com/the-discount-is-the-wrong-question-in-private-equity-secondaries","2026-08-27T00:00:00Z"],"The Wall Street Skinny":["Is a Private Credit scandal brewing behind the LA Lakers Sale?",null,"2026-08-19T22:13:00Z"],"Alt Goes Mainstream":["Franklin Templeton's Dave Donahoo - \"start with the end client\" - live from AGM's RIA Field Trip","https://share.transistor.fm/s/4c3ae2bb","2026-08-19T11:08:15Z"],"Cloud 9fin":["Syndication Nation — Will rescheduling light up the cannabis debt markets?","https://share.transistor.fm/s/822fedd8","2026-08-26T12:00:00Z"],"Think Like an Owner":["Building the AI-Native Enterprise: Leadership, Software, and Compounding with Mahesh Rajasekharan - EP.286","https://5057bd84-0fb6-475e-9100-0e0177505be2.libsyn.com/building-the-ai-native-enterprise-leadership-software-and-compounding-with-mahesh-rajasekharan-ep286","2026-08-25T10:00:00Z"],"Value Investing FM":["433. Resumen del mes - Julio 2026","https://www.ivoox.com/433-resumen-del-mes-julio-2026-audios-mp3_rf_178261694_1.html","2026-08-02T05:00:00Z"],"Columbia Energy Exchange":["Editor's Pick: Rajiv Shah on Delivering Universal Abundant Energy Access","https://columbiaenergyexchange.libsyn.com/editors-pick-rajiv-shah-on-delivering-universal-abundant-energy-access","2026-08-25T17:00:00Z"],"Yet Another Value Blog":["Late August 2026 Random Ramblings","https://www.yetanothervalueblog.com/p/late-august-2026-random-ramblings","2026-08-27T13:42:05Z"],"Irrational Analysis":["Cerebras Supernova 2026: Irrational Recap","https://irrationalanalysis.substack.com/p/cerebras-supernova-2026-irrational","2026-08-19T02:01:34Z"],"The Bear Cave":["The Bear Cave #339","https://thebearcave.substack.com/p/the-bear-cave-339","2026-08-16T14:31:09Z"],"Speedwell Research":["Constellation Software 2Q26 Recap: AI Didn't Hurt or Help","https://speedwellresearch.com/2026/08/13/constellation-software-2q26-recap-ai-didnt-hurt-or-help/","2026-08-13T16:31:14Z"],"Fabricated Knowledge":["The Cost of Time and AI Timelines","https://www.fabricatedknowledge.com/p/the-cost-of-time-and-ai-timelines","2026-08-13T15:49:24Z"],"Net Interest":["Great Scott","https://www.netinterest.co/p/great-scott","2026-08-21T17:35:18Z"],"Chartbook":["Chartbook 471 Still Safe? Cognitive dissonance in the Treasury market.","https://adamtooze.substack.com/p/chartbook-471-still-safe-cognitive","2026-08-27T15:12:57Z"],"MBI Deep Dives":["Big Tech Off-Balance Sheet Concerns","https://mbideepdives.substack.com/p/big-tech-off-balance-sheet-concerns","2026-08-25T16:07:12Z"],"TSOH Research":["Portillo's: Strategic Reset","https://thescienceofhitting.com/p/portillos-strategic-reset","2026-08-24T10:31:14Z"],"Clouded Judgement":["Clouded Judgement 8.21.26 - What Could Go Right?","https://cloudedjudgement.substack.com/p/clouded-judgement-82126-what-could","2026-08-21T13:18:52Z"],"Klement on Investing":["It's not the fault of right-wing news","https://klementoninvesting.substack.com/p/its-not-the-fault-of-right-wing-news","2026-08-21T06:01:27Z"],"Doomberg":["Maîtres Chez Nous","https://newsletter.doomberg.com/p/maitres-chez-nous","2026-08-28T09:02:17Z"],"Musings on Markets":["AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!","https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html","2026-08-20T21:18:56Z"],"Behind the Balance Sheet":["#62 – The Gentleman Activist","https://behindthebalancesheet.com/podcasts-singles/62-the-gentleman-activist-2/","2026-08-20T08:46:22Z"],"Wolf of Harcourt Street":["NU's Customers Are Getting More Valuable, Again","https://www.thewolfofharcourtstreet.com/p/nus-customers-are-getting-more-valuable","2026-08-20T06:01:57Z"],"GKC Research":["Movimientos en cartera - Agosto 2026","https://gekkocapital.substack.com/p/movimientos-en-cartera-agosto-2026","2026-08-23T20:18:18Z"]},"deals":[{"src":"GlobeNewswire","mark":"GN","bg":"#0B7A48","fg":"#fff","type":"M&A","industry":"Healthcare","region":"US","value":"Undisclosed","title":"Axogen enters definitive agreement to acquire BioCircuit Technologies, adding nerve-repair technology","link":"https://www.globenewswire.com/news-release/2026/09/10/3359277/0/en/axogen-enters-into-definitive-agreement-to-acquire-biocircuit-technologies.html","date":"2026-09-10T00:00:00Z"},{"src":"MarketScreener","mark":"MS","bg":"#0F4C81","fg":"#fff","type":"M&A","industry":"Semiconductors","region":"US","value":"$1.6B","title":"Analog Devices to acquire edge-AI chipmaker Alif Semiconductor — $1.35bn cash up front plus up to $200m contingent","link":"https://www.marketscreener.com/news/analog-devices-inc-entered-into-a-definitive-agreement-to-acquire-alif-semiconductor-inc-for-1-ce785bd9de88fe27","date":"2026-09-09T00:00:00Z"},{"src":"CNBC","mark":"CN","bg":"#123C6B","fg":"#fff","type":"Merger","industry":"Financials","region":"US","value":"$3.9B","title":"EverBank to combine with WaFd in a $3.9bn reverse merger, creating a ~$75bn-asset regional bank","link":"https://www.cnbc.com/2026/09/08/everbank-to-combine-with-wafd-in-3point9-billion-reverse-merger-.html","date":"2026-09-08T00:00:00Z"},{"src":"Business Std","mark":"BS","bg":"#7C2D12","fg":"#fff","type":"Tender Offer","industry":"Industrials","region":"Europe","value":"€3.82B","title":"Tata Motors launches all-cash tender for Iveco Group at €14.10/share; acceptance runs 7 Sep to 26 Oct","link":"https://www.business-standard.com/companies/news/tata-motors-launches-all-cash-offer-for-iveco-acceptance-opens-september-7-126090500201_1.html","date":"2026-09-07T00:00:00Z"},{"src":"Reported","mark":"RP","bg":"#3F3F46","fg":"#fff","type":"M&A","industry":"Technology","region":"US","value":"$13B","title":"Nvidia confirms ~$13bn acquisition of Hugging Face; buyer pledges the platform stays open and neutral","link":"https://www.bizpacreview.com/2026/09/03/newly-bought-tech-startup-will-stay-open-neutral-after-13000000000-takeover-new-owner-vows-1657519/","date":"2026-09-03T00:00:00Z"},{"src":"GlobeNewswire","mark":"GN","bg":"#0B7A48","fg":"#fff","type":"M&A","industry":"Energy","region":"US","value":"$1.8B","title":"Diversified Energy to acquire Elliott-backed Birch Permian for $1.8bn — largest deal in its 25-year history","link":"https://www.globenewswire.com/news-release/2026/09/02/3355589/0/en/diversified-announces-accretive-acquisition-of-birch.html","date":"2026-09-02T00:00:00Z"},{"src":"Bloomberg","mark":"BB","bg":"#111827","fg":"#fff","type":"Take-Private","industry":"Industrials","region":"UK","value":"£1.65B","title":"Veritas Capital agrees to acquire heat-treatment specialist Bodycote for about £1.65bn ($2.2bn)","link":"https://www.bloomberg.com/news/articles/2026-09-01/uk-takeovers-race-past-100-billion-after-summer-deals-surge","date":"2026-09-01T00:00:00Z"},{"src":"Bloomberg","mark":"BB","bg":"#111827","fg":"#fff","type":"Take-Private","industry":"Telecom","region":"UK","value":"£1B","title":"Epiris offers about £1bn for telecoms services provider Gamma Communications","link":"https://www.bloomberg.com/news/articles/2026-09-01/uk-takeovers-race-past-100-billion-after-summer-deals-surge","date":"2026-09-01T00:00:00Z"},{"src":"Offshore Tech","mark":"OT","bg":"#134E4A","fg":"#fff","type":"M&A","industry":"Energy","region":"UK","value":"$396M","title":"Norway's DNO agrees to acquire Capricorn Energy for about $396m (£292m)","link":"https://www.offshore-technology.com/news/dno-agrees-to-acquire-capricorn-energy/","date":"2026-09-01T00:00:00Z"},{"src":"Xtalks","mark":"XT","bg":"#5B21B6","fg":"#fff","type":"M&A","industry":"Healthcare","region":"US","value":"Undisclosed","title":"Eli Lilly to acquire Merida Biosciences, a precision-therapeutics platform for autoimmune and allergic disease","link":"https://xtalks.com/pharma-and-biotech-mas-2026-deal-watcher-4629/","date":"2026-09-01T00:00:00Z"},{"src":"Bloomberg","mark":"BB","bg":"#111827","fg":"#fff","type":"Commentary","industry":"Cross-border M&A","region":"UK","value":"$100B+","title":"UK takeovers race past $100bn after a summer surge; UK-targeted M&A is $192bn year-to-date","link":"https://www.bloomberg.com/news/articles/2026-09-01/uk-takeovers-race-past-100-billion-after-summer-deals-surge","date":"2026-09-01T00:00:00Z"},{"src":"Businesswire","mark":"BW","bg":"#00519E","fg":"#fff","type":"Sponsor Exit","industry":"Insurance","region":"US","value":"$17B","title":"KKR to sell USI Insurance Services to Aon in a $17bn all-cash transaction, funded entirely with new debt","link":"https://www.businesswire.com/news/home/20260831081134/en/KKR-To-Sell-USI-to-Aon-plc-in-$17-Billion-Transaction","date":"2026-08-31T12:11:34Z"},{"src":"DigitalBridge","mark":"DB","bg":"#1E3A8A","fg":"#fff","type":"Infrastructure","industry":"Utilities","region":"Australia","value":"Undisclosed","title":"DigitalBridge to acquire PLUS ES, Australia's smart-metering platform, from Ausgrid — ~2m meters deployed","link":"https://www.digitalbridge.com/news/2026-08-27-digitalbridge-to-acquire-plus-es-a-leading-australian-smart-metering-platform","date":"2026-08-27T00:00:00Z"}],"brief":{"status":"live","session":"Thursday, September 10, 2026","builtAt":"2026-09-10T13:30:00Z","tape":[{"n":"S&P 500","v":"7,636.36","c":"−0.5%","dir":"dn"},{"n":"Nasdaq Comp","v":"26,253.34","c":"−0.6%","dir":"dn"},{"n":"Dow","v":"52,380.66","c":"−405.41","dir":"dn"},{"n":"US 10Y","v":"4.897%","c":"52-week high","dir":""},{"n":"Brent","v":"$101.5+","c":"first since May","dir":"up"},{"n":"Gold","v":"~$4,369","c":"−21.8% vs Jan peak","dir":""}],"tapeLine":"Two inflation prints in two days into a meeting that is already 60% priced for a hike. PPI at 8:30 today, CPI at 8:30 tomorrow, FOMC Tuesday and Wednesday — and the blackout means no one from the committee can reinterpret either number.","matters":"\u003cp>The August payrolls print on 4 September broke the framing this brief had been using. Payrolls came in at \u003cb>+162,000\u003c/b> against a +53,000 consensus — the strongest month since March — with the unemployment rate holding at \u003cb>4.1%\u003c/b> and the prior two months revised up by a combined 55,000, which erased July's reported job loss entirely. The labour market did not roll over. It re-accelerated.\u003c/p>\u003cp>That matters because it removes the Fed's easiest excuse not to hike. Before the print, the hawkish case had to be argued from oil and tariffs while payrolls were flat, and a governor could reasonably call that a supply impulse to look through. Now the committee can argue from growth. Hike odds have moved accordingly — roughly 35% before Warsh's Jackson Hole keynote, up to about 64% after it, back to about 50% when Waller told policymakers on 3–4 September to \"give disinflation a chance,\" then to roughly \u003cb>60%\u003c/b> now, with estimates across venues spanning 56–65%.\u003c/p>\u003cp>So today and tomorrow are the whole meeting. PPI consensus is \u003cb>+0.3% m/m\u003c/b> headline and \u003cb>+5.3% y/y\u003c/b> on the Dow Jones survey, though other desks carry +0.4% headline with core at just +0.2%; CPI tomorrow is expected at +0.4% m/m and 3.4% y/y headline, core +0.4% m/m and 2.4% y/y. Note what that spread implies — a 5.3% y/y producer print against a 2.4% y/y core consumer print is a pipeline that is not passing through. \u003cb>The thing to watch is core, not headline.\u003c/b> Headline is oil, and oil is the part everyone has already agreed to argue about. If core PPI lands at or under 0.2% and core CPI still prints 0.4% tomorrow, the inflation is in services and the hike is close to done. If core PPI runs hot alongside it, the tariff channel has arrived and the committee is hiking into a supply shock.\u003c/p>\u003cp>\u003cb>Invalidation:\u003c/b> average hourly earnings. Wage growth ran at a 2.6% annualised pace over the past six months, marginally \u003ci>below\u003c/i> the 2.7% pre-pandemic average. As long as that holds, there is no wage-price spiral underneath any of this, and a hike is being delivered against an energy-and-tariff impulse rather than against demand. That is the case the doves still have, and it is a better one than the tape is pricing.\u003c/p>","calendar":[{"time":"08:30","event":"Producer price index (Aug)","consensus":"+0.3% m/m, +5.3% y/y","prior":"—","impact":"high"},{"time":"08:30","event":"Core PPI ex food & energy (Aug)","consensus":"+0.2% m/m","prior":"—","impact":"high"},{"time":"08:30","event":"Initial jobless claims","consensus":"—","prior":"—","impact":"med"},{"time":"10:00","event":"Existing home sales (NAR)","consensus":"—","prior":"—","impact":"low"},{"time":"10:00","event":"Wholesale trade","consensus":"—","prior":"—","impact":"low"},{"time":"10:30","event":"EIA crude oil inventories","consensus":"—","prior":"—","impact":"med"}],"alsoOnTape":"August CPI lands tomorrow, 11 Sep at 8:30 ET — the last inflation reading the committee sees. The FOMC decides 15–16 Sep. The communications blackout is already in force, so today's and tomorrow's prints go into the meeting without a single official able to frame them.","overnight":["\u003cb>US Wednesday close\u003c/b> — Dow &minus;405.41 to 52,380.66 (&minus;0.8%), S&amp;P 500 &minus;0.5% to 7,636.36, Nasdaq &minus;0.6% to 26,253.34, with the Russell 2000 also lower. Four named drivers, all pointing the same way: crude through $100, long-end yields at 52-week highs, Iran escalation, and the US&ndash;Canada tariff exchange. Note the shape — the Dow led the market \u003ci>down\u003c/i>, the exact inverse of the 3 September rally. That is a rates-and-cyclicals selloff, not an AI-narrative one.","\u003cb>Crude\u003c/b> — Brent above $101.5 on Wednesday, its first print above $100 since May; WTI rose 4.47% on the day to $97.19. Iran-backed Houthi forces struck energy infrastructure in southern Saudi Arabia including the 400,000 b/d Jazan refinery, and Iran said it is ready for a more intense conflict, vowing to resist the US naval blockade and to intensify attacks if strikes on Iranian territory continue.","\u003cb>Rates\u003c/b> — the 10-year reached 4.897%, a fresh 52-week high and the highest since October 2023. Two forces on the long end at once: an oil-led inflation impulse, and record corporate issuance in which AI companies alone account for more than $1.5tn of new borrowing this year. The second is the one that does not go away if Hormuz calms down.","\u003cb>Trade\u003c/b> — Canada's retaliatory tariffs on roughly $20bn of US goods took effect on 8 September, hitting steel, dairy and electronics, matching US 50% tariffs on about $20bn of Canadian goods. Talks are at an impasse with no plans to resume. This is a domestic price input arriving precisely as the committee argues over whether the inflation in front of it is imported.","\u003cb>This morning\u003c/b> — futures are split by index rather than by direction: Dow futures +99 points (+0.2%), S&amp;P near flat, Nasdaq &minus;0.4%. A split like that is a duration trade being expressed ahead of the print, not a view on the print.","\u003cb>LATAM\u003c/b> — the Ibovespa rose 1.20% on Tuesday to 187,367, about 5.7% below its 52-week high of 198,657, with breadth positive at four of five names higher. Petrobras preferred (R$1.65bn turnover) and Vale (R$1.41bn) again dominated the tape. The real strengthened 0.79% to just above R$5.08. Merval led the region; the IPSA lagged."],"deals":[{"what":"EverBank combines with WaFd in a $3.9bn reverse merger","number":"Announced 7 Sep, on the tape 8 Sep. EverBank merges into WaFd, which survives as the holding company, renames itself EverBank Financial Corp and trades as EVBK. EverBank holders take 59.2% of the pro forma company, WaFd holders 40.8%. Roughly $75bn of combined assets. Closing early 2027; management guides to ~29% accretion to 2027 EPS and tangible book dilution earned back in under two years.","readthrough":"Look at what this deal did \u003ci>not\u003c/i> need. A $3.9bn bank combination in the week the 10-year made a 52-week high was paid for entirely in paper, and the 59.2/40.8 split says it is a merger of equals wearing an acquisition's clothes. The reverse structure is the tell: when the target's holders end up with the majority, nobody has to underwrite anything. Three weeks into this bifurcation the pattern is consistent — the deals that clear are the ones with no financing condition at all."},{"what":"Tata Motors launches a €3.82bn all-cash tender for Iveco Group","number":"Acceptance period 7 Sep to 26 Oct at €14.10 per share, cum dividend. Iveco's board unanimously recommends it and Exor, the largest shareholder, has irrevocably committed. The combination would exceed €21bn of revenue and 590,000 vehicles a year, and would be the first takeover of a European OEM by an Asian group.","readthrough":"An irrevocable from the anchor holder converts a tender from a contest into a formality, which is why this is priced as done rather than as risk. The strategic-versus-sponsor point holds again: a corporate buyer wrote a €3.8bn cheque for a cyclical industrial while sponsors are not writing them at that size. Worth watching as a political object too — the first Asian takeover of a European OEM lands into the same tariff environment that produced Wednesday's Canada headlines."},{"what":"Analog Devices to acquire Alif Semiconductor for up to $1.6bn","number":"Announced 9 Sep: $1.35bn of upfront cash plus up to $200m of contingent consideration, closing in Q4 calendar 2026.","readthrough":"An edge-AI tuck-in funded off the balance sheet, with an eighth of the headline value pushed into an earnout. Earnouts are what buyers reach for when they want the asset but will not lever up to close a valuation gap — the same instinct as WaFd's stock and Tata's cash. Three deals this week, three different ways to avoid the debt market."},{"what":"The financing question: still no large sponsor LBO print, and the private-credit data now openly conflicts","number":"Last week's brief read the BDC gate wave as decaying, citing three early-Q3 reporters at 4.6% of NAV requested against 7.9% in Q2. A wider dataset points the other way: across the ten largest non-traded BDCs, redemption requests averaged 13% of assets in Q1 2026 and 14% in Q2, against caps around 5%. Separately, the spread advantage new direct-lending deals command over public leveraged loans has collapsed from more than 300bp in the 2017–18 vintage to under 100bp by Q1 2026.","readthrough":"These two datasets are not reconcilable by picking one, and this brief is not going to pretend otherwise — three funds is a sample, ten of the largest vehicles is a sector. The honest position is that last week's call generalised from too little, and the request rate in the biggest vehicles stepped \u003ci>up\u003c/i> from Q1 to Q2 rather than down. The spread figure is the more decisive number anyway: at under 100bp of pickup, direct lending is no longer being paid for illiquidity, which is a pricing problem that exists whether or not anyone is queuing to redeem."}],"macro":["\u003cb>Labour\u003c/b> — +162,000 in August against +53,000 expected, unemployment steady at 4.1%, and June and July revised up by 55,000 combined, erasing July's reported loss. Bars and restaurants led the gains; information-sector employment fell, which several readings attribute to AI substitution. The composition is worth as much as the headline: leisure and hospitality hiring is not what a late-cycle boom looks like.","\u003cb>Wages\u003c/b> — average hourly earnings rose 0.4% on the month, but the six-month annualised pace is 2.6%, slightly below the 2.7% pre-pandemic average. Firm monthly, soft trend. Anyone arguing a wage-price spiral has to explain the six-month number.","\u003cb>The Fed\u003c/b> — roughly 60% priced for a hike on 15–16 September, with the range across venues at 56–65%. The path there is the story: ~35% pre-Warsh, ~64% post-keynote, ~50% after Waller's \"give disinflation a chance\" on 3–4 September, then back up on payrolls. Trump publicly increased pressure on Warsh on 5 September. A committee this openly split, with a chair under political pressure, does not have a pre-committed decision.","\u003cb>Rates\u003c/b> — 4.897% on the 10-year is a 52-week high and the highest since October 2023. Two independent bids for yield: the oil-led inflation impulse, and more than $1.5tn of AI-related corporate issuance competing for the same duration. A hiking cycle that begins with the long end already here has far less room than one that begins from a flat curve.","\u003cb>Tariffs as a domestic price input\u003c/b> — US 50% tariffs on ~$20bn of Canadian goods, matched by Canadian retaliation live since 8 September on steel, dairy and electronics, with talks at an impasse. Steel and electronics are inputs, not final goods, which means this shows up in PPI before it shows up in CPI. That makes today's core PPI the first clean read on whether the tariff channel is live.","\u003cb>Brazil\u003c/b> — the Ibovespa at 187,367 is ~5.7% below its 52-week high, with the real just above R$5.08 after a 0.79% gain. LATAM continues to ease into a Fed that may be about to hike; the carry differential is still wide, but it is narrowing from both ends."],"flow":["Wednesday inverted last week's leadership. The Dow fell 0.8% against the S&amp;P's 0.5% and the Nasdaq's 0.6% — cyclicals and small caps worst — which is what a rates-and-oil selloff looks like, as opposed to the AI-narrative tape that has driven most of the summer.","Energy was the only place that worked: WTI +4.47% to $97.19 on the session, Brent through $101.5. When the index falls on the same input that lifts one sector, the sector move is a hedge, not a rotation.","This morning's futures split — Dow +0.2%, Nasdaq &minus;0.4% — is long-duration equity being sold against short-duration equity ahead of an inflation print. That is a positioning trade with a two-day half-life; it says nothing about where the print lands.","LATAM leadership stays resource-led, with Petrobras and Vale the two heaviest turnover lines on the B3 again. Brazilian equity beta remains tied to the Hormuz premium more tightly than to anything domestic.","Breadth, dealer gamma, put-call and skew are paid data and are not on this page. Nothing here is positioning analysis — it is sector observation from the tape."],"levels":[],"regime":{"tag":"two prints, no referee","sizing":"PPI today and CPI tomorrow both land inside the blackout, so the FOMC prices off two datapoints with no official able to reframe them — anything expressed today is a bet on next Wednesday, not on this session"},"watchlist":[],"secondOrder":"The interesting thing about this week is not that the hike got more likely — it is which argument survived. For three weeks the case against hiking was that inflation was coming from oil and tariffs while the labour market was shrinking, and that a central bank looks through supply shocks. Payrolls at +162,000 with upward revisions took the second half of that sentence away, and it did so without the wage data moving: six-month annualised earnings growth is 2.6%, still below the pre-pandemic average. So the committee is being handed a mandate to hike into an economy with firm employment and no wage pressure, where the price impulse is genuinely external. That is the textbook case for looking through, arriving at the exact moment the political cost of looking through became highest — Trump leaning publicly on Warsh on 5 September makes any dovish hold readable as capitulation, which is precisely the reading a chair defending a 2% target cannot accept. The hike, if it comes, will be a credibility purchase rather than a demand-management one. Underneath that sits the financing story this brief has been tracking, and it got sharper rather than resolving. Every deal on this week's wire avoided the debt market by a different route: WaFd paid in stock, Tata paid cash off its balance sheet, Analog Devices split the price into cash and an earnout. Still no large sponsor LBO financing has printed. The pricing evidence now says why — direct lending's spread premium over public leveraged loans has fallen from over 300bp to under 100bp, so the wrapper that was supposed to be compensated for illiquidity no longer is, while the ten largest non-traded BDCs saw redemption requests averaging 13–14% of assets against 5% caps. The constraint has moved. It is no longer 'who will lend' — it is that with the 10-year at 4.897% and rising, and the compensation for illiquidity gone, there may be no long-end rate at which a large LBO model clears at all. The thing to watch through the FOMC is unchanged and the deadline is now: if a single large sponsor financing prints before Wednesday, this was a summer liquidity artefact. If none does, it is the structure of the cycle, and the 2021 vintage exits to strategics or not at all.","scorecard":[{"verdict":"wrong","text":"Built the entire 4 September front page on a soft-labour framing, reporting a +53,000 consensus and arguing that even a print at consensus \"would be the labour market's best month of the summer and still weak in absolute terms.\" Payrolls came in at +162,000 with June and July revised up 55,000, erasing July's reported loss. The number missed by 109,000 and the framing missed with it."},{"verdict":"right","text":"Named the unemployment rate as the invalidation: \"if it breaks meaningfully above 4.1%, the labour channel reasserts itself &hellip; and the hike comes off.\" It held at 4.1% and the hike stayed on, moving to roughly 60% priced. The level chosen was the right one to watch, and it did the work it was supposed to do."},{"verdict":"right","text":"Warned against the read that \"a weak print resolves the meeting,\" arguing the hawkish case was being made from inflation rather than from labour and so would survive a soft number. The mechanism was tested from the other side — a hot number — and the underlying claim held: the meeting was not resolved by payrolls in either direction, and it is still being decided by inflation data."},{"verdict":"wrong","text":"Called the private-credit gate wave \"a Q2 event that is decaying,\" on three early-Q3 reporters showing 4.6% of NAV requested against 7.9% in Q2. Across the ten largest non-traded BDCs, requests averaged 13% of assets in Q1 and 14% in Q2 — stepping up, not decaying. Three funds was not a sector, and the brief should not have generalised from it."},{"verdict":"open","text":"Set the test as whether \"a single large sponsor LBO financing prints\" in September. None has in the week since, and this week's three deals were funded with stock, balance-sheet cash and an earnout respectively. The test resolves at the FOMC."}],"midday":null,"sources":[{"label":"UPI — August payrolls +162,000","url":"https://www.upi.com/Top_News/US/2026/09/04/nonfarm-payrolls-bureau-labor-statistics-august-2026/8801788532242/"},{"label":"BLS — Employment Situation, August 2026","url":"https://www.bls.gov/news.release/archives/empsit_09042026.htm"},{"label":"CNBC — jobs report, August 2026","url":"https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"},{"label":"PNC — payrolls research note, 4 Sep","url":"https://www.pnc.com/content/dam/pnc-com/pdf/aboutpnc/EconomicReports/EconomicUpdates/2026/PNC_Economics_Research_Payrolls_4_September_2026.pdf"},{"label":"Motley Fool — hike odds into the 16 Sep FOMC","url":"https://www.fool.com/investing/2026/09/10/the-odds-of-a-rate-hike-are-soaring-ahead-of-the-sept-16-fomc-meeting/"},{"label":"Roic — rate futures add to September hike bets","url":"https://www.roic.ai/news/rate-futures-traders-add-to-bets-on-september-fed-hike-after-bigger-than-expected-august-jobs-gain-09-04-2026"},{"label":"CNBC — Trump turns up the heat on Warsh","url":"https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"},{"label":"Kiplinger — August CPI preview","url":"https://www.kiplinger.com/investing/economy/cpi-report-august-2026-what-to-expect"},{"label":"Investing.com — PPI, claims, home sales due Thursday","url":"https://www.investing.com/news/stock-market-news/ppi-jobless-claims-home-sales-and-oil-inventories-due-thursday-93CH-4894306"},{"label":"Qz — futures rise ahead of PPI after Dow drop","url":"https://qz.com/wall-street-futures-inflation-ppi-dow-selloff-091026"},{"label":"Investing.com — futures steady, PPI and CPI awaited","url":"https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-falls-on-higher-yields-ppi-cpi-awaited-4894822"},{"label":"WTOP — how major US indexes fared, 9 Sep","url":"https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-wednesday-9-9-2026"},{"label":"TheStreet — Sept 9 session, Brent past $101","url":"https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-09-2026"},{"label":"Trading Economics — crude oil, 9 Sep","url":"https://tradingeconomics.com/commodity/crude-oil"},{"label":"Al Jazeera — Canada's retaliatory tariffs take effect 8 Sep","url":"https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect"},{"label":"Globe and Mail — Canada–US trade talks at an impasse","url":"https://www.theglobeandmail.com/world/us-politics/article-canada-us-trade-talks-reach-an-impasse/"},{"label":"CNBC — EverBank / WaFd $3.9bn reverse merger","url":"https://www.cnbc.com/2026/09/08/everbank-to-combine-with-wafd-in-3point9-billion-reverse-merger-.html"},{"label":"Business Standard — Tata Motors' Iveco tender","url":"https://www.business-standard.com/companies/news/tata-motors-launches-all-cash-offer-for-iveco-acceptance-opens-september-7-126090500201_1.html"},{"label":"MarketScreener — Analog Devices / Alif Semiconductor","url":"https://www.marketscreener.com/news/analog-devices-inc-entered-into-a-definitive-agreement-to-acquire-alif-semiconductor-inc-for-1-ce785bd9de88fe27"},{"label":"Dechert — BDC redemption data and financing toolkit","url":"https://www.dechert.com/knowledge/onpoint/2026/8/private-credit-s-odyssey-home---how-bdcs-turned-redemption-headl.html"},{"label":"Federal Reserve — FEDS Note on private credit vs leveraged loans","url":"https://www.federalreserve.gov/econres/notes/feds-notes/private-credit-and-leveraged-loan-markets-similarities-differences-and-substitution-20260811.html"},{"label":"Rio Times — Brazil markets, 9 Sep","url":"https://www.riotimesonline.com/brazil-markets-ibovespa-real-wednesday-september-9-2026/"},{"label":"CBS News — gold's September level and drawdown","url":"https://www.cbsnews.com/news/golds-price-down-by-over-21-percent-where-will-it-head-september-2026/"}]},"ref":{"ref":[{"g":"equity","name":"Value Line Research Hub","use":"Standardized one-page company and industry reports — financial trends, earnings expectations, valuation.","access":"University access — needs your FIU proxied URL","link":"https://library.fiu.edu"},{"g":"equity","name":"Value Investors Club","use":"Long and short pitches contributed by professional investors. Thesis construction, variant perception, catalysts.","access":"Freemium","link":"https://valueinvestorsclub.com"},{"g":"equity","name":"Seeking Alpha","use":"Independent equity research and earnings analysis. Quality varies by contributor — verify conclusions.","access":"Freemium","link":"https://seekingalpha.com"},{"g":"data","name":"S&P Capital IQ","use":"Comps, precedent transactions, screening, valuation multiples. NetAdvantage is the library entry point.","access":"University access — needs your FIU proxied URL","link":"https://library.fiu.edu"},{"g":"data","name":"Mergent Market Atlas","use":"Company profiles, financial statements, filings, industry data.","access":"University access — no direct link in the library sheet","link":"https://library.fiu.edu"},{"g":"data","name":"FIU Resource Library","use":"FIU library research guide — the database entry point for the university-access tiles above.","access":"FIU","link":"https://library.fiu.edu/FIN6406/search"},{"g":"short","name":"Spruce Point Capital","use":"Forensic short research — accounting issues, aggressive assumptions, governance red flags.","access":"Free / public reports","link":"https://www.sprucepointcap.com"},{"g":"short","name":"Kerrisdale Capital","use":"Long and short research. Contrarian theses, challenging consensus, catalyst analysis.","access":"Free / public reports","link":"https://www.kerrisdalecap.com"}],"groups":{"equity":"Equity Research","data":"Data & Platforms","short":"Short Selling","tech":"Tools & Platforms"},"spotify":{}}};
+
+var REFRESHED    = DATA.meta.refreshed;
+var REFRESH_NOTE = DATA.meta.note;
+var SRC          = DATA.sources;
+
+/* Expand the compact source table into LIVE. */
+var LIVE = [];
+Object.keys(SRC).forEach(function(g){
+  SRC[g].forEach(function(r){
+    LIVE.push({ g:g, name:r[0], by:r[1], feed:r[2], home:r[3]||"", topic:r[4]||"", lang:r[5]||"",
+                title:null, link:null, date:null });
+  });
+});
+var LIVE_DATA = DATA.live;
+LIVE.forEach(function(x){ var d = LIVE_DATA[x.name];
+  if(d){ x.title = d[0]; x.link = d[1]; x.date = d[2]; } });
+
+var SPOTIFY    = DATA.ref.spotify || {};
+var DEALS      = DATA.deals;
+var REF        = DATA.ref.ref;
+var REF_GROUPS = DATA.ref.groups;
+var BRIEF      = DATA.brief;
+
+/* ============================================================
+   Rendering
+   ============================================================ */
+var ROUTES = [
+  {k:"home",     t:"Home",           s:"Everything that moved since you last looked"},
+  {k:"brief",    t:"Daily Brief",    s:"SCREENER — pre-market build, midday check"},
+  {k:"deals",    t:"M&A Deals",      s:"Pooled deal wire, one row per story"},
+  {k:"news",     t:"News",           s:"Markets and business wires"},
+  {k:"macro",    t:"Macro & Credit", s:"Policy, rates, research"},
+  {k:"latam",    t:"LATAM",          s:"Latin America and Brazil"},
+  {k:"dealdesk", t:"Deal Desk",      s:"Governance, deal law, distressed"},
+  {k:"podcast",  t:"Podcasts",       s:"Opens in Spotify"},
+  {k:"writing",  t:"Newsletters",    s:"Independent research and Substacks"},
+  {k:"research", t:"Research",       s:"Equity research and screening tools"},
+  {k:"platforms",t:"Platforms",      s:"Data terminals and utilities"},
+  {k:"saved",    t:"Saved",          s:"Bookmarked on this browser"},
+  {k:"settings", t:"Settings",       s:"Theme, refresh status, data health"}
+];
+var NAVSEP = {research:1, saved:1};
+
+var P = {
+  home:"M3 10.5 12 3l9 7.5V21H3z",
+  brief:"M6 3h9l4 4v14H6zM15 3v4h4M9 12h7M9 16h5",
+  deals:"M3 17 9 11l4 4 8-8M15 7h6v6",
+  news:"M4 5h16v14H4zM8 9h8M8 13h8M8 17h5",
+  macro:"M3 20h18M6 16V9M11 16V5M16 16v-6M21 16v-9",
+  latam:"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18",
+  dealdesk:"M12 3v18M5 8h14M7 8l-3 6h6zM17 8l-3 6h6z",
+  podcast:"M12 3a4 4 0 0 1 4 4v5a4 4 0 0 1-8 0V7a4 4 0 0 1 4-4M5 11a7 7 0 0 0 14 0M12 18v3",
+  writing:"M4 4h12l4 4v12H4zM8 12h8M8 16h6M8 8h5",
+  research:"M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M20 20l-4-4",
+  platforms:"M4 5h16v11H4zM9 20h6M12 16v4",
+  saved:"M7 4h10v16l-5-4-5 4z",
+  settings:"M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6M19.4 15a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-2.7 1.1V21a2 2 0 1 1-4 0v-.1A1.6 1.6 0 0 0 7.5 19l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1A1.6 1.6 0 0 0 3.6 13H3a2 2 0 1 1 0-4h.1A1.6 1.6 0 0 0 5 6.5l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1A1.6 1.6 0 0 0 11 3.6V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 2.5 1.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0 1.1 2.7H21a2 2 0 1 1 0 4h-.1a1.6 1.6 0 0 0-1.5 1z"
+};
+function icon(k,cls){ return '<svg class="'+(cls||"ic")+'" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="'+(P[k]||P.home)+'"/></svg>'; }
+
+/* monogram + deterministic colour, so no external logo is ever needed */
+var PAL = [["#0B1D3A","#fff"],["#123C6B","#fff"],["#0B7A48","#fff"],["#E4572E","#fff"],["#5B21B6","#fff"],
+           ["#B45309","#fff"],["#0F4C81","#fff"],["#7C2D12","#fff"],["#134E4A","#fff"],["#3F3F46","#fff"],
+           ["#1E3A8A","#fff"],["#831843","#fff"]];
+function hash(s){ var h=0,i; for(i=0;i<s.length;i++){h=(h*31+s.charCodeAt(i))|0;} return Math.abs(h); }
+function mark(name){
+  var w=name.replace(/[^A-Za-z0-9 &]/g," ").split(/\s+/).filter(Boolean);
+  if(!w.length) return "?";
+  if(w.length===1) return w[0].slice(0,2).toUpperCase();
+  return (w[0][0]+w[1][0]).toUpperCase();
+}
+function mono(name){
+  var c=PAL[hash(name)%PAL.length];
+  return '<span class="mono" style="background:'+c[0]+';color:'+c[1]+'">'+esc(mark(name))+'</span>';
+}
+function esc(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+
+function ago(iso){
+  if(!iso) return {t:"no data yet", c:"x", ms:Infinity};
+  var d=new Date(iso); if(isNaN(d)) return {t:"no data yet", c:"x", ms:Infinity};
+  var ms=Date.now()-d.getTime(), m=Math.round(ms/6e4), h=Math.round(ms/36e5), dd=Math.round(ms/864e5);
+  var t = m<2?"just now" : m<60?m+"m ago" : h<24?h+"h ago" : dd<7?dd+"d ago" : dd<31?Math.round(dd/7)+"w ago" : Math.round(dd/30)+"mo ago";
+  var c = h<24?"h" : dd<7?"m" : dd<30?"s" : "x";
+  return {t:t, c:c, ms:ms};
+}
+
+/* localStorage: saved items + last-seen stamp. Wrapped — it throws in
+   some embedded contexts and the page must render without it. */
+function lsGet(k,f){ try{ var v=localStorage.getItem(k); return v==null?f:JSON.parse(v); }catch(e){ return f; } }
+function lsSet(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} }
+var SAVED = lsGet("intake.saved",[]);
+var LASTSEEN = lsGet("intake.lastseen",0);
+
+function isSaved(n){ return SAVED.indexOf(n)>-1; }
+function toggleSave(n){
+  var i=SAVED.indexOf(n);
+  if(i>-1) SAVED.splice(i,1); else SAVED.push(n);
+  lsSet("intake.saved",SAVED); render();
+}
+function isNew(it){ return it.date && new Date(it.date).getTime() > LASTSEEN; }
+
+function spotify(name){
+  return SPOTIFY[name] || "https://open.spotify.com/search/"+encodeURIComponent(name)+"/shows";
+}
+function target(it){
+  if(it.link) return it.link;
+  if(it.g==="podcast") return spotify(it.name);
+  return it.home || it.feed;
+}
+
+function cardHTML(it){
+  var a=ago(it.date);
+  return '<article class="card">'
+   + '<a class="card-lnk" href="'+esc(target(it))+'" target="_blank" rel="noopener" aria-label="'+esc(it.name)+'"></a>'
+   + '<div class="card-t">'+mono(it.name)
+   + '<div><div class="card-nm">'+esc(it.name)+(it.lang?' <span class="pill">'+esc(it.lang)+'</span>':'')+'</div>'
+   + '<div class="card-by">'+esc(it.by)+'</div></div></div>'
+   + '<div class="card-hl">'+(it.title?esc(it.title):'<span class="nosrc">No item fetched yet — the daily refresh fills this.</span>')+'</div>'
+   + '<div class="card-f"><span class="fresh '+a.c+'"><span class="dot"></span>'+a.t+'</span>'
+   + (isNew(it)?'<span class="newflag">NEW</span>':'')
+   + (it.topic?'<span class="pill">'+esc(it.topic)+'</span>':'')
+   + '<button class="save'+(isSaved(it.name)?' on':'')+'" data-save="'+esc(it.name)+'" aria-label="Save">'
+   + '<svg width="14" height="14" viewBox="0 0 24 24" fill="'+(isSaved(it.name)?'currentColor':'none')+'" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M7 4h10v16l-5-4-5 4z"/></svg>'
+   + '</button></div></article>';
+}
+function gridHTML(items){
+  if(!items.length) return '<div class="empty">Nothing here.</div>';
+  return '<div class="grid">'+items.map(cardHTML).join("")+'</div>';
+}
+function byFresh(a,b){ return ago(a.date).ms - ago(b.date).ms; }
+function group(g){ return LIVE.filter(function(x){return x.g===g;}); }
+
+/* ---------------- views ---------------- */
+var V = {};
+
+V.home = function(){
+  var q = (document.getElementById("q")||{}).value || "";
+  var pool = LIVE.slice().sort(byFresh);
+  var fresh = pool.filter(function(x){return x.date;}).slice(0,12);
+  var h = "";
+
+  if(BRIEF.status==="live"){
+    h += '<section class="sec"><div class="sec-h"><h2>SCREENER</h2><span class="n">'+esc(BRIEF.session||"")+'</span>'
+      + '<a class="more" href="#brief">Open brief &rarr;</a></div>';
+    if(BRIEF.tapeLine) h += '<div class="tapeline">'+BRIEF.tapeLine+'</div>';
+    else if(BRIEF.matters) h += '<div class="tapeline">'+BRIEF.matters+'</div>';
+    h += '</section>';
+  } else {
+    h += '<section class="sec"><div class="sec-h"><h2>SCREENER</h2><a class="more" href="#brief">Open brief &rarr;</a></div>'
+      + '<div class="empty">No brief built yet. The weekday pre-market job writes this at 7:30 ET.</div></section>';
+  }
+
+  h += '<section class="sec"><div class="sec-h"><h2>Just in</h2><span class="n">'+fresh.length+'</span>'
+    +  '<a class="more" href="#news">All sources &rarr;</a></div>'
+    +  (fresh.length ? gridHTML(fresh)
+        : '<div class="empty">No feed data on the page yet.<br>Run the refresh job once and every tile fills in.</div>')
+    +  '</section>';
+
+  h += '<section class="sec"><div class="sec-h"><h2>Deal wire</h2><span class="n">'+DEALS.length+'</span>'
+    +  '<a class="more" href="#deals">All deals &rarr;</a></div>'
+    +  (DEALS.length ? dealsTable(DEALS.slice(0,6))
+        : '<div class="empty">Deal wire empty. Rebuilt each morning from PE Hub, PE Wire, ACG, PR Newswire and the WSJ/MarketWatch feeds.</div>')
+    +  '</section>';
+  return h;
+};
+
+V.brief = function(){
+  if(BRIEF.status!=="live"){
+    return '<div class="empty" style="padding:48px 24px">'
+      + '<div style="font-size:15px;color:var(--fg);font-weight:600;margin-bottom:8px">No brief for this session</div>'
+      + 'The pre-market job builds SCREENER at 7:30 ET on weekdays and the midday check appends at 12:30 ET.<br>'
+      + 'If this is a weekday afternoon and it is still empty, the job did not complete.</div>';
+  }
+  var b=BRIEF, h='<div class="brief">';
+
+  if(b.tape && b.tape.length){
+    h+='<div class="bsec"><h3>Tape</h3><div class="tape">'+b.tape.map(function(t){
+      return '<div class="tapeitem"><div class="n">'+esc(t.n)+'</div><div class="v">'+esc(t.v)+'</div>'
+        +'<div class="c '+esc(t.dir||"")+'">'+esc(t.c||"")+'</div></div>';
+    }).join("")+'</div></div>';
+  } else {
+    h+='<div class="bsec"><h3>Tape</h3><div class="nosrc">Not sourced. Free RSS gives headlines, not quotes — this fills once a market-data key is wired in.</div></div>';
+  }
+  if(b.tapeLine) h+='<div class="bsec"><div class="tapeline">'+b.tapeLine+'</div></div>';
+
+  h+=sec("What matters today", b.matters ? b.matters : '<div class="nosrc">Not written.</div>');
+
+  h+='<div class="bsec"><h3>Calendar &amp; catalysts</h3>';
+  h+= b.calendar && b.calendar.length ? b.calendar.map(function(c){
+        return '<div class="calrow"><div class="t">'+esc(c.time)+'</div>'
+          +'<div><div>'+esc(c.event)+'</div><div class="m">cons '+esc(c.consensus)+' &middot; prior '+esc(c.prior)+'</div></div>'
+          +'<span class="imp '+esc(c.impact||"low")+'">'+esc(c.impact||"low")+'</span></div>';
+      }).join("") : '<div class="nosrc">Nothing scheduled that was sourceable.</div>';
+  if(b.alsoOnTape) h+='<div class="m" style="margin-top:10px;color:var(--fg-3);font-size:12.5px">Also on the tape: '+esc(b.alsoOnTape)+'</div>';
+  h+='</div>';
+
+  h+=list("Overnight tape", b.overnight);
+
+  h+='<div class="bsec"><h3>Deal &amp; corporate desk</h3>';
+  h+= b.deals && b.deals.length ? b.deals.map(function(d){
+        return '<div class="dealrow"><div class="w">'+d.what+'</div>'
+          +(d.number?'<div class="num">'+esc(d.number)+'</div>':'')
+          +'<div class="rt">'+d.readthrough+'</div></div>';
+      }).join("") : '<div class="nosrc">Quiet desk.</div>';
+  h+='</div>';
+
+  h+=list("Macro &amp; rates", b.macro);
+  h+=list("Sector &amp; flow", b.flow);
+
+  h+='<div class="bsec"><h3>Trading layer</h3>';
+  if(b.levels && b.levels.length) h+='<div class="lvls">'+b.levels.map(function(l){return '<div class="lvl">'+esc(l.k)+' <b>'+esc(l.v)+'</b></div>';}).join("")+'</div>';
+  else h+='<div class="nosrc">Levels not sourced — VWAP, ATR and gamma are paid data.</div>';
+  if(b.regime) h+='<div style="margin-top:12px;font-size:13.5px">Regime: <b>'+esc(b.regime.tag)+'</b> &middot; sizing '+esc(b.regime.sizing)+'</div>';
+  if(b.watchlist && b.watchlist.length){
+    h+='<div style="margin-top:14px">'+b.watchlist.map(function(w){
+      return '<div class="wl"><div class="tk">'+esc(w.ticker)+'</div>'
+        +'<div class="kv">'+esc(w.catalyst)+'</div>'
+        +'<div class="kv">level <b>'+esc(w.level)+'</b> &middot; invalidation <b>'+esc(w.invalidation)+'</b>'
+        +(w.iv?' &middot; IV '+esc(w.iv):'')+(w.structure?' &middot; '+esc(w.structure):'')+'</div>'
+        +(w.pass?'<div class="kv">Pass if: '+esc(w.pass)+'</div>':'')+'</div>';
+    }).join("")+'</div>';
+  } else {
+    h+='<div class="nosrc" style="margin-top:12px">Watchlist empty — a name without an invalidation level does not go on it.</div>';
+  }
+  h+='</div>';
+
+  h+=sec("Second-order", b.secondOrder ? '<p>'+b.secondOrder+'</p>' : '<div class="nosrc">Nothing worth arguing today.</div>');
+
+  h+='<div class="bsec"><h3>Scorecard — yesterday</h3>';
+  h+= b.scorecard && b.scorecard.length ? b.scorecard.map(function(s){
+        return '<div class="sc"><span class="vd '+esc(s.verdict)+'">'+esc(s.verdict)+'</span><span>'+s.text+'</span></div>';
+      }).join("") : '<div class="nosrc">No prior brief to grade.</div>';
+  h+='</div>';
+
+  if(b.midday){
+    h+='<div class="bsec"><h3>Midday check — '+esc(b.midday.at||"12:30 ET")+'</h3><ul>'
+      + (b.midday.bullets||[]).map(function(x){return '<li>'+x+'</li>';}).join("")+'</ul></div>';
+  } else {
+    h+='<div class="bsec"><h3>Midday check</h3><div class="nosrc">Appends at 12:30 ET.</div></div>';
+  }
+
+  if(b.sources && b.sources.length){
+    h+='<div class="bsec"><h3>Sources</h3><div style="font-size:12.5px;color:var(--fg-3);line-height:1.9">'
+      + b.sources.map(function(s){return '<a href="'+esc(s.url)+'" target="_blank" rel="noopener" style="text-decoration:underline;text-underline-offset:2px">'+esc(s.label)+'</a>';}).join(" &middot; ")
+      + '</div></div>';
+  }
+  if(b.builtAt) h+='<div style="margin-top:22px;font-size:11.5px;color:var(--fg-3)">Built '+esc(b.builtAt)+'</div>';
+  return h+'</div>';
+
+  function sec(t,inner){ return '<div class="bsec"><h3>'+t+'</h3>'+inner+'</div>'; }
+  function list(t,arr){
+    return '<div class="bsec"><h3>'+t+'</h3>'
+      + (arr && arr.length ? '<ul>'+arr.map(function(x){return '<li>'+x+'</li>';}).join("")+'</ul>'
+                           : '<div class="nosrc">Nothing material.</div>')+'</div>';
+  }
+};
+
+var DEALFILTER = "All";
+function dealsTable(rows){
+  var head='<div class="tablewrap"><table class="deals"><thead><tr>'
+    +'<th>Source</th><th>Type</th><th>Story</th><th>Industry</th><th>Region</th><th>Value</th><th>When</th>'
+    +'</tr></thead><tbody>';
+  var body=rows.map(function(d){
+    return '<tr><td><span class="srcbadge">'+mono(d.src)+' '+esc(d.src)+'</span></td>'
+      +'<td><span class="pill">'+esc(d.type)+'</span></td>'
+      +'<td class="ttl"><a href="'+esc(d.link)+'" target="_blank" rel="noopener">'+esc(d.title)+'</a></td>'
+      +'<td>'+esc(d.industry)+'</td><td>'+esc(d.region)+'</td>'
+      +'<td class="val">'+esc(d.value)+'</td><td style="color:var(--fg-3);white-space:nowrap">'+ago(d.date).t+'</td></tr>';
+  }).join("");
+  var cards='<div class="dealcards">'+rows.map(function(d){
+    return '<article class="card"><a class="card-lnk" href="'+esc(d.link)+'" target="_blank" rel="noopener"></a>'
+      +'<div class="card-t">'+mono(d.src)+'<div><div class="card-nm">'+esc(d.type)+'</div>'
+      +'<div class="card-by">'+esc(d.src)+' &middot; '+esc(d.industry)+'</div></div></div>'
+      +'<div class="card-hl">'+esc(d.title)+'</div>'
+      +'<div class="card-f"><span class="fresh '+ago(d.date).c+'"><span class="dot"></span>'+ago(d.date).t+'</span>'
+      +'<span class="pill">'+esc(d.region)+'</span><span class="val" style="margin-left:auto">'+esc(d.value)+'</span></div></article>';
+  }).join("")+'</div>';
+  return head+body+'</tbody></table>'+cards+'</div>';
+}
+V.deals = function(){
+  if(!DEALS.length) return '<div class="empty">Deal wire is empty.<br>The morning job rebuilds it from PE Hub, Private Equity Wire, Middle Market Growth, PR Newswire M&amp;A and the four Dow Jones feeds — capped at 18, newest first.</div>';
+  var types=["All"].concat(DEALS.map(function(d){return d.type;}).filter(function(v,i,a){return a.indexOf(v)===i;}));
+  var rows=DEALFILTER==="All"?DEALS:DEALS.filter(function(d){return d.type===DEALFILTER;});
+  return '<div class="filters">'+types.map(function(t){
+      return '<button class="chip'+(t===DEALFILTER?' on':'')+'" data-filter="'+esc(t)+'">'+esc(t)+'</button>';
+    }).join("")+'</div>'+dealsTable(rows);
+};
+
+["news","macro","latam","dealdesk","podcast","writing"].forEach(function(g){
+  V[g]=function(){ return gridHTML(group(g).sort(byFresh)); };
+});
+
+function refHTML(gs){
+  var out="";
+  gs.forEach(function(g){
+    var items=REF.filter(function(r){return r.g===g;});
+    out+='<section class="sec"><div class="sec-h"><h2>'+esc(REF_GROUPS[g])+'</h2><span class="n">'+items.length+'</span></div>';
+    out+= items.length ? '<div class="grid">'+items.map(function(r){
+      return '<article class="card"><a class="card-lnk" href="'+esc(r.link)+'" target="_blank" rel="noopener"></a>'
+        +'<div class="card-t">'+mono(r.name)+'<div><div class="card-nm">'+esc(r.name)+'</div>'
+        +'<div class="card-by">'+esc(r.access)+'</div></div></div>'
+        +'<div class="card-hl">'+esc(r.use)+'</div></article>';
+    }).join("")+'</div>' : '<div class="empty">Not imported yet — pull this group from the Research &amp; Learning Library xlsx.</div>';
+    out+='</section>';
+  });
+  return out;
+}
+V.research  = function(){ return '<div class="note">Value Line and S&amp;P Capital IQ point at the public sites and will paywall you. Replace both <code>link</code> values with your FIU proxied URLs.</div>'+refHTML(["equity","data","short"]); };
+V.platforms = function(){ return refHTML(["tech"]); };
+
+V.saved = function(){
+  var items=LIVE.filter(function(x){return isSaved(x.name);});
+  if(!items.length) return '<div class="empty">Nothing saved.<br>Tap the bookmark on any tile. Saves live in this browser only — they do not sync.</div>';
+  return gridHTML(items.sort(byFresh));
+};
+
+V.settings = function(){
+  var withData=LIVE.filter(function(x){return x.date;}).length;
+  var stale=LIVE.filter(function(x){ var a=ago(x.date); return a.ms>7*864e5; }).length;
+  var t=localStorage&&null; /* noop */
+  return '<div style="max-width:640px">'
+   + row("Theme","Follows your system unless you pick one","<button class=\"btn\" id=\"tset\">Toggle</button>")
+   + row("Sources on the board", LIVE.length+" tracked · "+withData+" with data · "+stale+" stale (>7d)","")
+   + row("Last refresh", REFRESHED ? new Date(REFRESHED).toUTCString() : "never — no job has run against this page","")
+   + row("Deal wire", DEALS.length+" stories","")
+   + row("Brief", BRIEF.status==="live" ? "built "+esc(BRIEF.session||"") : "pending","")
+   + row("This run", REFRESH_NOTE, "")
+   + row("Saved items", SAVED.length+" on this browser","<button class=\"btn\" id=\"clr\">Clear</button>")
+   + row("Mark all seen","Clears the NEW flags","<button class=\"btn\" id=\"seen\">Mark seen</button>")
+   + '<div style="margin-top:24px;font-size:12.5px;color:var(--fg-3);line-height:1.7">'
+   + 'Feed URLs live in this file (<code>LIVE[i].feed</code>). The refresh job reads them from here — there is no separate list to keep in sync.'
+   + '</div></div>';
+  function row(l,d,a){ return '<div class="setrow"><div><div class="l">'+l+'</div><div class="d">'+d+'</div></div><div class="a">'+a+'</div></div>'; }
+};
+
+/* ---------------- shell wiring ---------------- */
+function counts(g){ return group(g).length; }
+function buildNav(){
+  var cur=route();
+  document.getElementById("nav").innerHTML = ROUTES.map(function(r){
+    var c = SRC[r.k] ? counts(r.k) : (r.k==="deals" ? DEALS.length : (r.k==="saved" ? SAVED.length : ""));
+    return (NAVSEP[r.k]?'<div class="sep"></div>':'')
+      + '<a href="#'+r.k+'" class="'+(r.k===cur?"on":"")+'">'+icon(r.k)+'<span>'+esc(r.t)+'</span>'
+      + (c?'<span class="ct">'+c+'</span>':'')+'</a>';
+  }).join("");
+  var withData=LIVE.filter(function(x){return x.date;}).length;
+  document.getElementById("foot").innerHTML =
+    LIVE.length+' sources &middot; '+withData+' live<br>'
+    + (REFRESHED ? 'Refreshed '+ago(REFRESHED).t : 'Never refreshed');
+}
+function route(){
+  var k=(location.hash||"#home").slice(1);
+  return V[k] ? k : "home";
+}
+function render(){
+  var k=route(), r=ROUTES.filter(function(x){return x.k===k;})[0]||ROUTES[0];
+  document.getElementById("ttl").textContent=r.t;
+  document.getElementById("sub").textContent=r.s;
+  var q=(document.getElementById("q").value||"").trim().toLowerCase();
+  var html;
+  if(q){
+    var hits=LIVE.filter(function(x){
+      return (x.name+" "+x.by+" "+(x.topic||"")+" "+(x.title||"")).toLowerCase().indexOf(q)>-1;
+    }).sort(byFresh);
+    document.getElementById("ttl").textContent="Search";
+    document.getElementById("sub").textContent=hits.length+' source'+(hits.length===1?'':'s')+' matching "'+q+'"';
+    html=gridHTML(hits);
+  } else {
+    html=V[k]();
+  }
+  document.getElementById("view").innerHTML=html;
+  buildNav();
+  window.scrollTo(0,0);
+}
+
+document.addEventListener("click",function(e){
+  var s=e.target.closest&&e.target.closest("[data-save]");
+  if(s){ e.preventDefault(); e.stopPropagation(); toggleSave(s.getAttribute("data-save")); return; }
+  var f=e.target.closest&&e.target.closest("[data-filter]");
+  if(f){ DEALFILTER=f.getAttribute("data-filter"); render(); return; }
+  if(e.target.closest&&e.target.closest("#tset")) return setTheme(cur()==="dark"?"light":"dark");
+  if(e.target.closest&&e.target.closest("#clr")){ SAVED=[]; lsSet("intake.saved",SAVED); render(); return; }
+  if(e.target.closest&&e.target.closest("#seen")){ LASTSEEN=Date.now(); lsSet("intake.lastseen",LASTSEEN); render(); return; }
+  if(e.target.closest&&e.target.closest(".nav a")) closeSide();
+});
+
+function cur(){
+  var a=document.documentElement.getAttribute("data-theme");
+  if(a) return a;
+  return window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";
+}
+function setTheme(t){
+  document.documentElement.setAttribute("data-theme",t);
+  lsSet("intake.theme",t); paintThemeBtn();
+}
+function paintThemeBtn(){
+  var d=cur()==="dark";
+  document.getElementById("theme").innerHTML='<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">'
+   + (d ? '<circle cx="12" cy="12" r="4.2"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M19.1 4.9l-1.4 1.4M6.3 17.7l-1.4 1.4"/>'
+         : '<path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a6.6 6.6 0 0 0 10.5 10.5"/>')
+   + '</svg>';
+}
+var savedTheme=lsGet("intake.theme",null);
+if(savedTheme) document.documentElement.setAttribute("data-theme",savedTheme);
+paintThemeBtn();
+
+function openSide(){ document.getElementById("side").classList.add("open"); document.getElementById("scrim").classList.add("on"); }
+function closeSide(){ document.getElementById("side").classList.remove("open"); document.getElementById("scrim").classList.remove("on"); }
+document.getElementById("burger").addEventListener("click",openSide);
+document.getElementById("scrim").addEventListener("click",closeSide);
+document.getElementById("theme").addEventListener("click",function(){ setTheme(cur()==="dark"?"light":"dark"); });
+document.getElementById("q").addEventListener("input",render);
+window.addEventListener("hashchange",render);
+
+render();
+/* stamp last-seen after the paint so this visit's NEW flags survive it */
+setTimeout(function(){ lsSet("intake.lastseen", Date.now()); },1500);
+</script>
+</body>
+</html>
