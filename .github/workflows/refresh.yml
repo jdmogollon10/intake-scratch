@@ -11,7 +11,7 @@ on:
 
   # Rebuild whenever a human — or the Claude routine — edits the data or the page.
   push:
-    branches: [main]
+    branches: [claude/quirky-davinci-fhvy4c] # this repo's default branch
     paths:
       - "data/**"
       - "src/**"
