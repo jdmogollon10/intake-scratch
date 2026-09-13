@@ -1,25 +1,5 @@
 [
  {
-  "src": "MarketWatch",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-  "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-  "date": "2026-09-12T21:50:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.38B",
-  "title": "Greenberg Traurig Advises Ryman Hospitality Properties on $1.38B Grande Lakes Orlando Resort Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/greenberg-traurig-advises-ryman-hospitality-properties-on-1-38b-grande-lakes-orlando-resort-acquisition-302876661.html",
-  "date": "2026-09-11T21:55:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -30,16 +10,6 @@
   "date": "2026-09-11T19:37:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "XLCS Partners advises CID Capital on its investment in Kaiser Garage Doors &amp; Gates",
-  "link": "https://www.prnewswire.com/news-releases/xlcs-partners-advises-cid-capital-on-its-investment-in-kaiser-garage-doors--gates-302876631.html",
-  "date": "2026-09-11T18:18:00Z"
- },
- {
   "src": "PE Hub",
   "type": "M&A",
   "industry": "Healthcare",
@@ -48,16 +18,6 @@
   "title": "Avesi Partners-backed Danforth Health acquires rare disease consultancy Ambit",
   "link": "https://www.pehub.com/avesi-partners-backed-danforth-health-acquires-rare-disease-consultancy-ambit/",
   "date": "2026-09-11T18:06:34Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
-  "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/",
-  "date": "2026-09-11T18:00:31Z"
  },
  {
   "src": "PE Hub",
@@ -98,16 +58,6 @@
   "title": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions",
   "link": "https://www.prnewswire.com/news-releases/lilly-completes-acquisition-of-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-302876428.html",
   "date": "2026-09-11T13:02:00Z"
- },
- {
-  "src": "ACG",
-  "type": "Divestiture",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Carve-Out vs. Wind-Down: A Guide to a Complex Exit",
-  "link": "https://middlemarketgrowth.org/podcast-hilco-global-complex-exit-carve-out/",
-  "date": "2026-09-11T13:00:46Z"
  },
  {
   "src": "PR Newswire",
@@ -160,16 +110,6 @@
   "date": "2026-09-11T06:18:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Carlsquare Advises DryvIQ on its Acquisition by Nasuni",
-  "link": "https://www.prnewswire.com/news-releases/carlsquare-advises-dryviq-on-its-acquisition-by-nasuni-302875778.html",
-  "date": "2026-09-10T20:42:00Z"
- },
- {
   "src": "PE Hub",
   "type": "Strategic Investment",
   "industry": "—",
@@ -178,5 +118,65 @@
   "title": "Brenton Point Capital invests in crop nutrition firm Lakeshore Ag",
   "link": "https://www.pehub.com/brenton-point-capital-invests-in-crop-nutrition-firm-lakeshore-ag/",
   "date": "2026-09-10T16:36:50Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Insight Partners, Sixth Street’s Kiteworks acquires AI security firm Bonfy.AI",
+  "link": "https://www.pehub.com/insight-partners-sixth-streets-kiteworks-acquires-ai-security-firm-bonfy-ai/",
+  "date": "2026-09-10T16:02:38Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SeQent Acquires Open Automation Software to Connect Industrial Data From Edge to Action",
+  "link": "https://www.prnewswire.com/news-releases/seqent-acquires-open-automation-software-to-connect-industrial-data-from-edge-to-action-302874315.html",
+  "date": "2026-09-10T14:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Daybright Financial Acquires EZTPA, LLC",
+  "link": "https://www.prnewswire.com/news-releases/daybright-financial-acquires-eztpa-llc-302874895.html",
+  "date": "2026-09-10T14:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Andover Properties Acquires Self Storage Facility Leominster, MA",
+  "link": "https://www.prnewswire.com/news-releases/andover-properties-acquires-self-storage-facility-leominster-ma-302875356.html",
+  "date": "2026-09-10T13:36:00Z"
+ },
+ {
+  "src": "LAVCA",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "IDB Invest Invests Up to USD10m in Atis Group",
+  "link": "https://www.lavca.org/idb-invest-invests-up-to-usd10m-in-atis-group/",
+  "date": "2026-09-10T13:27:09Z"
+ },
+ {
+  "src": "LAVCA",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Mubadala Capital Acquires Universidade Vila Velha",
+  "link": "https://www.lavca.org/mubadala-capital-acquires-universidade-vila-velha/",
+  "date": "2026-09-10T13:26:08Z"
  }
 ]
