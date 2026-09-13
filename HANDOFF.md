@@ -39,11 +39,13 @@ Working and proven:
 - `src/refresh-feeds.mjs` never blanks a failed feed, never invents an item, and
   aborts without writing if every feed fails.
 
-Fixed today but NOT yet proven:
-- The 07:30 ET brief routine. Its old first step was "WebFetch a feed; if it errors,
-  stop", which errored every morning. It now probes WebSearch instead. **Whether
-  WebSearch works in an unattended scheduled session is still unknown.** The first
-  real test is the next weekday run.
+- `src/refresh-deals.mjs` rebuilds the M&A wire from the deal feeds. Mechanical
+  only: it drops advisory mandates, roundups and opinion pieces, never invents a
+  value, and leaves industry/region blank rather than guess.
+
+Settled by testing, not assumption:
+- WebSearch DOES work in an unattended scheduled session. The 11 Sep run researched
+  and wrote a full brief. It is the *delivery* that is blocked, not the research.
 
 ## Scheduled routines
 
@@ -72,29 +74,19 @@ fires in (fine-grained PAT, Contents: Read and write on this repo). The routine
 `INTAKE — morning build` (trig_01FeSAcqNF7usb8iaN7att1M) already tries `$GITHUB_TOKEN`
 first, so it starts working the moment that variable exists. Nothing needs rebuilding.
 
-## The question to answer next
+## If you are picking this up
 
-Did the 07:30 routine produce a brief?
+The only missing piece is `data/brief.json`. Everything else refreshes daily on its
+own. Do not rebuild the pipeline — check whether `GITHUB_TOKEN` now exists in the
+routine's environment, then fire `trig_01FeSAcqNF7usb8iaN7att1M` and watch the repo
+for a commit. That is the whole test.
 
-- Brief present and dated today → the routine works unattended. Go to the pending
-  decision below.
-- Reply says `UNATTENDED SEARCH BLOCKED` → WebSearch is blocked there too, and the
-  routine path is dead. Generating the brief inside Actions is then the only option.
-
-## Pending decision: unify the brief with the site
-
-The site gets fresh tiles; the brief goes to the artifact. Neither page is complete.
-Two ways to fix it, and the owner wants free if reasonable:
-
-1. **Free but convoluted.** The routine carries the Claude Code Remote connector, so
-   it could launch a second session that has repo access and have that one commit
-   `data/brief.json`. No cost. More moving parts, and more that can fail silently —
-   which is the failure mode this project has already been burned by once.
-2. **A few cents a day, simple.** Generate the brief inside the Actions workflow with
-   an Anthropic API key stored as a repo secret. One system, one place, no routines.
+If a token is never going to be available, the fallback is generating the brief inside
+the Actions workflow with an Anthropic API key in repo secrets — costs a few cents a
+day and removes scheduled Claude sessions from the picture entirely.
 
 The account has **no GitHub connector** (only Google Calendar and Google Drive), so
-"just attach GitHub to the routine" is not available — that was checked, not assumed.
+"attach GitHub to the routine" is not available — that was checked, not assumed.
 
 ## Environment gotchas for a Claude session working on this
 
