@@ -1,4 +1,4 @@
-# HANDOFF — state as of 10 Sep 2026
+# HANDOFF — state as of 13 Sep 2026
 
 Read this first if you are a new Claude session picking up INTAKE.
 
@@ -10,7 +10,8 @@ It has two halves, written by two different things:
 | Half | Written by | Lands on |
 | --- | --- | --- |
 | News tiles (`data/live.json`) | GitHub Actions, no model | the website |
-| SCREENER brief (`data/brief.json`) | a scheduled Claude routine | **the artifact only, not the website** |
+| M&A wire (`data/deals.json`) | GitHub Actions, no model | the website |
+| SCREENER brief (`data/brief.json`) | nothing right now — see below | **nowhere** |
 
 That split is the open problem. See "Pending decision" below.
 
@@ -56,6 +57,20 @@ Fixed today but NOT yet proven:
 Check them with `list_triggers`. A routine's `last_run.status: SUCCEEDED` means the
 session ran, **not** that it did the work — that is exactly how the two-week silent
 failure hid. Verify by looking at what actually changed on disk or on the page.
+
+## The brief is the one thing still broken — and why
+
+Two exits from a scheduled Claude session were tested and BOTH are closed:
+- **Publishing a Claude artifact** requires a human to approve each publish. The
+  11 Sep 07:30 run researched and built the page, then sat blocked on that prompt.
+- **Pushing to this repo** fails: a trigger-fired session gets no repo credentials.
+  Verified twice — a 17-minute brief run and a 1-minute push-only test both landed
+  nothing in the repo.
+
+The unlock is a `GITHUB_TOKEN` environment variable on the environment the routine
+fires in (fine-grained PAT, Contents: Read and write on this repo). The routine
+`INTAKE — morning build` (trig_01FeSAcqNF7usb8iaN7att1M) already tries `$GITHUB_TOKEN`
+first, so it starts working the moment that variable exists. Nothing needs rebuilding.
 
 ## The question to answer next
 
