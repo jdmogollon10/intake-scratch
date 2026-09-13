@@ -13,101 +13,22 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { entries, tag, link, when, getRetry } from "./feed.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SOURCES = JSON.parse(readFileSync(join(ROOT, "data/sources.json"), "utf8"));
 const PREV = JSON.parse(readFileSync(join(ROOT, "data/live.json"), "utf8"));
 
-const UA =
-  "Mozilla/5.0 (compatible; INTAKE/1.0; +https://github.com/jdmogollon10/intake-scratch)";
-const TIMEOUT_MS = 25_000;
 const CONCURRENCY = 8;
 
-/* ---------------------------------------------------------------- parsing */
-
-const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", "#39": "'", nbsp: " " };
-
-function decode(s) {
-  return s
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
-    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
-    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d))
-    .replace(/&([a-z]+|#\d+);/gi, (m, n) => ENTITIES[n.toLowerCase()] ?? m)
-    .replace(/<[^>]+>/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-/** First <item> (RSS) or <entry> (Atom) block, whichever appears first. */
-function firstEntry(xml) {
-  const m =
-    /<item[\s>][\s\S]*?<\/item>/i.exec(xml) ?? /<entry[\s>][\s\S]*?<\/entry>/i.exec(xml);
-  return m ? m[0] : null;
-}
-
-function tag(block, name) {
-  const m = new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)</${name}>`, "i").exec(block);
-  return m ? decode(m[1]) : null;
-}
-
-function link(block) {
-  // Atom: <link rel="alternate" href="..."/> — prefer alternate, else first non-self
-  const atom = [...block.matchAll(/<link\b([^>]*)\/?>/gi)];
-  for (const [, attrs] of atom) {
-    const rel = /rel\s*=\s*["']([^"']+)["']/i.exec(attrs)?.[1];
-    const href = /href\s*=\s*["']([^"']+)["']/i.exec(attrs)?.[1];
-    if (href && (!rel || rel === "alternate")) return decode(href);
-  }
-  // RSS: <link>url</link>, else <guid isPermaLink="true">
-  const rss = tag(block, "link");
-  if (rss && /^https?:/i.test(rss)) return rss;
-  const guid = tag(block, "guid");
-  if (guid && /^https?:/i.test(guid)) return guid;
-  return null;
-}
-
-function when(block) {
-  for (const t of ["pubDate", "published", "updated", "dc:date", "date"]) {
-    const raw = tag(block, t);
-    if (!raw) continue;
-    const ms = Date.parse(raw);
-    if (!Number.isNaN(ms)) return new Date(ms).toISOString().replace(/\.\d{3}Z$/, "Z");
-  }
-  return null;
-}
-
-/* ---------------------------------------------------------------- fetching */
-
-async function get(url) {
-  const ctl = new AbortController();
-  const timer = setTimeout(() => ctl.abort(), TIMEOUT_MS);
-  try {
-    const res = await fetch(url, {
-      signal: ctl.signal,
-      redirect: "follow",
-      headers: { "user-agent": UA, accept: "application/rss+xml, application/xml, text/xml, */*" },
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    return await res.text();
-  } finally {
-    clearTimeout(timer);
-  }
-}
+/* ---------------------------------------------------------------- fetch */
 
 async function refresh(name, feedUrl) {
   if (!feedUrl) return { name, status: "no-feed" };
-  let xml;
-  try {
-    xml = await get(feedUrl);
-  } catch (e) {
-    try {
-      xml = await get(feedUrl); // one retry: feeds flake
-    } catch (e2) {
-      return { name, status: "fetch-failed", detail: String(e2.message || e2) };
-    }
-  }
+  const xml = await getRetry(feedUrl);
+  if (!xml) return { name, status: "fetch-failed" };
 
-  const block = firstEntry(xml);
+  const block = entries(xml)[0] ?? null;
   if (!block) return { name, status: "no-items" };
 
   const title = tag(block, "title");
@@ -169,7 +90,7 @@ meta.note =
       kept.map((k) => k.split(" (")[0]).join(", ") + ". "
     : "Every feed answered. ") +
   `Nothing here was written by a model — the tiles are whatever the feeds actually returned. ` +
-  `The SCREENER brief and the deal wire are written separately.`;
+  `The SCREENER brief is written separately.`;
 writeFileSync(join(ROOT, "data/meta.json"), JSON.stringify(meta, null, 1) + "\n");
 
 console.log(`feeds ok: ${okCount}/${results.length} · changed: ${updated} · kept previous: ${kept.length}`);

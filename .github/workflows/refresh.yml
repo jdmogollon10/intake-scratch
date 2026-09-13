@@ -47,13 +47,26 @@ jobs:
         continue-on-error: true # a bad network day must not block the deploy
         run: node src/refresh-feeds.mjs
 
+      # The M&A wire, rebuilt from the deal-carrying feeds. Mechanical extraction
+      # only — it never invents a value and leaves a label blank rather than guess.
+      - name: Refresh deal wire
+        id: deals
+        if: github.event_name != 'push'
+        continue-on-error: true # a bad feed day keeps the previous wire
+        run: node src/refresh-deals.mjs
+
       - name: Report feed outcome
         if: github.event_name != 'push'
         run: |
           if [ "${{ steps.feeds.outcome }}" = "success" ]; then
             echo "::notice::Feeds refreshed."
           else
-            echo "::warning::Feed refresh failed; deploying the last good data unchanged."
+            echo "::warning::Feed refresh failed; deploying the last good tiles unchanged."
+          fi
+          if [ "${{ steps.deals.outcome }}" = "success" ]; then
+            echo "::notice::Deal wire rebuilt."
+          else
+            echo "::warning::Deal wire refresh failed; keeping the previous wire."
           fi
 
       # build.mjs validates before it writes, and exits non-zero on bad data,
