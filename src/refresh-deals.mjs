@@ -44,9 +44,21 @@ const FEEDS = [
 const IS_DEAL =
   /\b(acquir\w*|acquisition|merge[rs]?|merging|takeover|take-private|buyout|buy-?out|to buy|agrees? to buy|purchases?|stake|majority stake|minority stake|invests? in|investment in|ipo|goes public|listing|spin-?off|divest\w*|carve-?out|tender offer|bid for|deal|recapitali[sz]ation|raises? \$|funding round|series [a-f]\b)/i;
 
-/* Obvious non-transactions that still trip the words above. */
-const NOT_DEAL =
-  /\b(hiring|hires|appoints?|names? new|promoted|obituary|opinion|podcast|webinar|conference|award|rankings?|survey|report finds|how to|explainer|weekly wrap|roundup of)\b/i;
+/* Things that use transaction words but are not transactions. Written against
+   real headlines the wire pulled in on 13 Sep 2026, each pattern earning its place:
+     - advisory mandates: "Greenberg Traurig Advises X on its $1.38B sale"
+     - roundups and explainers: "The Week's 10 Biggest Funding Rounds",
+       "Carve-Out vs. Wind-Down: A Guide to a Complex Exit"
+     - commentary and negations: "Why Sam Altman says an IPO isn't in the cards" */
+const NOT_DEAL = [
+  /\b(hiring|hires|appoints?|names? new|promot\w+|obituary|opinion|podcast|webinar|conference|award|ranking)\b/i,
+  /\b(advis(?:es|ed|ing|er|ors?|ory)|serves? as (?:exclusive )?(?:financial|legal) advis|represent(?:s|ed) )\b/i,
+  /\b(round-?up|the week'?s|this week in|weekly|monthly|biggest (?:funding )?rounds|top \d+|guide to|explainer|what to know|deep dive|outlook|trends?|lessons)\b/i,
+  /\bvs\.?\b|\?\s*$/i,
+  /\b(is\s?n[o']t|are\s?n[o']t|will\s?not|wo\s?n[o']t|not in the cards|no plans|rules out|denies|could|might|may|should|weighs|mulls|explores?|considers?|reportedly)\b/i,
+  /^(why|how|what|when|where|who)\b/i,
+];
+const isNoise = (t) => NOT_DEAL.some((re) => re.test(t));
 
 const TYPE_RULES = [
   [/\b(ipo|goes public|prices? its|nasdaq debut|nyse debut|listing)\b/i, "IPO"],
@@ -108,7 +120,7 @@ for (const feed of FEEDS) {
     const href = link(block);
     const date = when(block);
     if (!title || !href || !date) continue;
-    if (!IS_DEAL.test(title) || NOT_DEAL.test(title)) continue;
+    if (!IS_DEAL.test(title) || isNoise(title)) continue;
     if (Date.parse(date) < cutoff) continue;
 
     rows.push({
