@@ -2,7 +2,7 @@
 /* Build index.html from src/template.html + data/*.json.
    Pure and deterministic: same inputs -> byte-identical output. No network. */
 
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
@@ -45,19 +45,39 @@ if (fail.length) {
   process.exit(1);
 }
 
+/* Browser-tab icon. Drop a file at assets/favicon.svg (or .png / .ico) and it is
+   used automatically; with no file we fall back to the 🗞️ emoji so the tab is never
+   blank. Whatever lands in assets/ is copied to the published site by the workflow. */
+const FAVICONS = [
+  ["assets/favicon.svg", "image/svg+xml"],
+  ["assets/favicon.png", "image/png"],
+  ["assets/favicon.ico", "image/x-icon"],
+  ["assets/favicon.jpg", "image/jpeg"],
+];
+const found = FAVICONS.find(([f]) => existsSync(join(ROOT, f)));
+const favicon = found
+  ? `<link rel="icon" type="${found[1]}" href="${found[0]}">`
+  : `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%97%9E%EF%B8%8F%3C/text%3E%3C/svg%3E">`;
+
 /* `</script>` inside a string would close the tag early; escaping < prevents it. */
 const payload = JSON.stringify(DATA).replace(/</g, "\\u003c");
 
 const tpl = readFileSync(join(ROOT, "src/template.html"), "utf8");
-if (!tpl.includes("__INTAKE_DATA__")) {
-  console.error("build refused — template has no __INTAKE_DATA__ marker");
-  process.exit(1);
+for (const marker of ["__INTAKE_DATA__", "__FAVICON__"]) {
+  if (!tpl.includes(marker)) {
+    console.error(`build refused — template has no ${marker} marker`);
+    process.exit(1);
+  }
 }
 
-writeFileSync(join(ROOT, "index.html"), tpl.replace("__INTAKE_DATA__", payload));
+writeFileSync(
+  join(ROOT, "index.html"),
+  tpl.replace("__INTAKE_DATA__", payload).replace("__FAVICON__", favicon)
+);
 
 const withData = Object.values(DATA.live).filter((v) => v && v[2]).length;
 console.log(
   `built index.html — ${sourceCount} sources (${withData} with an item), ` +
-    `${DATA.deals.length} deals, brief ${DATA.brief.status === "live" ? DATA.brief.session : "pending"}`
+    `${DATA.deals.length} deals, brief ${DATA.brief.status === "live" ? DATA.brief.session : "pending"}` +
+    `, favicon ${found ? found[0] : "emoji fallback"}`
 );
