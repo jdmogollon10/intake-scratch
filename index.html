@@ -60,6 +60,8 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .nav a .ct{margin-left:auto;font-size:11px;color:var(--side-mut);font-variant-numeric:tabular-nums}
 .nav .sep{height:1px;background:var(--side-line);margin:9px 12px}
 .side-foot{padding:12px 12px 0;font-size:11px;color:var(--side-mut);border-top:1px solid var(--side-line);margin-top:10px;line-height:1.5}
+.side-foot .byline{margin-top:9px;padding-top:9px;border-top:1px solid var(--side-line);color:var(--side-mut);letter-spacing:.04em}
+.page-foot{margin:auto 26px 0;padding:18px 0 30px;border-top:1px solid var(--line);font-size:11.5px;letter-spacing:.06em;color:var(--fg-3);text-transform:uppercase}
 .scrim{display:none}
 
 .main{flex:1;min-width:0;display:flex;flex-direction:column}
@@ -72,7 +74,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .searchbox input{border:0;background:none;outline:none;font:inherit;font-size:13.5px;color:var(--fg);width:100%}
 .iconbtn{width:34px;height:34px;border-radius:9px;border:1px solid var(--line);background:var(--panel);display:flex;align-items:center;justify-content:center;flex:0 0 34px}
 .iconbtn:hover{border-color:var(--fg-3)}
-.wrap{padding:24px 26px 70px;max-width:1220px;width:100%}
+.wrap{padding:24px 26px 36px;max-width:1220px;width:100%}
 
 .sec{margin-bottom:34px}
 .sec-h{display:flex;align-items:baseline;gap:10px;margin:0 0 13px}
@@ -177,7 +179,8 @@ td.ttl{max-width:460px;line-height:1.4}
   .top{padding:11px 16px;flex-wrap:wrap;row-gap:10px}
   .top h1{font-size:17px}
   .top .sub{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
-  .wrap{padding:18px 16px 70px}
+  .wrap{padding:18px 16px 28px}
+  .page-foot{margin:auto 16px 0}
   .searchbox{min-width:0;flex:1 1 100%;order:9}
   .top .sp{display:none}
   .top #theme{margin-left:auto}
@@ -224,6 +227,7 @@ td.ttl{max-width:460px;line-height:1.4}
       <button class="iconbtn" id="theme" aria-label="Theme"></button>
     </header>
     <div class="wrap" id="view"></div>
+    <footer class="page-foot">By Juan Diego Mogollon</footer>
   </main>
 </div>
 
@@ -606,7 +610,8 @@ function buildNav(){
   var withData=LIVE.filter(function(x){return x.date;}).length;
   document.getElementById("foot").innerHTML =
     LIVE.length+' sources &middot; '+withData+' live<br>'
-    + (REFRESHED ? 'Refreshed '+ago(REFRESHED).t : 'Never refreshed');
+    + (REFRESHED ? 'Refreshed '+ago(REFRESHED).t : 'Never refreshed')
+    + '<div class="byline">By Juan Diego Mogollon</div>';
 }
 function route(){
   var k=(location.hash||"#home").slice(1);
