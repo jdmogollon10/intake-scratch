@@ -16,6 +16,10 @@ on:
       - "data/**"
       - "src/**"
       - ".github/workflows/refresh.yml"
+      # the logo, in either place build.mjs looks for it. Without these, uploading
+      # a favicon commits the file but never rebuilds the page that points at it.
+      - "assets/**"
+      - "favicon.*"
 
   workflow_dispatch:
 

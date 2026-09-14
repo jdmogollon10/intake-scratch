@@ -354,8 +354,13 @@ function toggleSave(n){
 }
 function isNew(it){ return it.date && new Date(it.date).getTime() > LASTSEEN; }
 
+/* Where a podcast tile goes when its feed carries no per-episode link.
+   data/ref.json pins the show's real Spotify page for those; anything unpinned
+   falls back to a plain search. The fallback used to append "/shows" to filter
+   the results by type — Spotify reads that trailing segment as the query itself
+   and lands you on a search for the word "shows", so it is gone. */
 function spotify(name){
-  return SPOTIFY[name] || "https://open.spotify.com/search/"+encodeURIComponent(name)+"/shows";
+  return SPOTIFY[name] || "https://open.spotify.com/search/"+encodeURIComponent(name);
 }
 function target(it){
   if(it.link) return it.link;

@@ -63,5 +63,10 @@
   "short": "Short Selling",
   "tech": "Tools & Platforms"
  },
- "spotify": {}
+ "spotify": {
+  "Animal Spirits": "https://open.spotify.com/show/71siUnIMn0iQY7Kz5BQSqJ",
+  "The Journal.": "https://open.spotify.com/show/0KxdEdeY2Wb3zr28dMlQva",
+  "Morning Brew Daily": "https://open.spotify.com/show/7nc7OQdPTekErtFSRxOBKh",
+  "The Wall Street Skinny": "https://open.spotify.com/show/3mODIcz5vAoWeV2pZAXQIZ"
+ }
 }
