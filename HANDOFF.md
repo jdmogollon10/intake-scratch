@@ -66,6 +66,17 @@ Rediscovering these costs hours:
 - GitHub's cron is best-effort: the 11:00 UTC job has landed as late as 14:45 UTC.
   Late is normal; missing is not.
 
+## The browser-tab logo
+
+`favicon.png` at the repo root is the tab icon. `src/build.mjs` looks for
+`assets/favicon.*` first, then `favicon.*` at the root, and falls back to a 🗞️ emoji
+if neither exists — so deleting the file is a safe way to undo. To swap the logo,
+upload a replacement under the same name.
+
+The workflow's `push` path filter must keep listing `favicon.*` and `assets/**`.
+It did not at first, and the result is quietly confusing: the upload commits fine,
+no workflow runs, and the page goes on pointing at the old icon.
+
 ## Editing
 
 Edit `src/template.html` for markup, styling and rendering — **never** `index.html`,
