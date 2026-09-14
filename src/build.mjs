@@ -45,14 +45,20 @@ if (fail.length) {
   process.exit(1);
 }
 
-/* Browser-tab icon. Drop a file at assets/favicon.svg (or .png / .ico) and it is
-   used automatically; with no file we fall back to the 🗞️ emoji so the tab is never
-   blank. Whatever lands in assets/ is copied to the published site by the workflow. */
+/* Browser-tab icon. Drop a file named favicon.svg / .png / .ico / .jpg at the repo
+   root — or in assets/ — and it is used automatically; with no file we fall back to
+   the 🗞️ emoji so the tab is never blank. The root is listed too because GitHub's
+   drag-and-drop upload page cannot put a file into a folder, so "upload favicon.png
+   and you are done" has to work. The workflow publishes whichever one is found. */
 const FAVICONS = [
   ["assets/favicon.svg", "image/svg+xml"],
   ["assets/favicon.png", "image/png"],
   ["assets/favicon.ico", "image/x-icon"],
   ["assets/favicon.jpg", "image/jpeg"],
+  ["favicon.svg", "image/svg+xml"],
+  ["favicon.png", "image/png"],
+  ["favicon.ico", "image/x-icon"],
+  ["favicon.jpg", "image/jpeg"],
 ];
 const found = FAVICONS.find(([f]) => existsSync(join(ROOT, f)));
 const favicon = found
