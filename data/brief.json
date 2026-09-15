@@ -1,51 +1,51 @@
 {
  "status": "live",
- "session": "Monday, September 14, 2026",
- "builtAt": "2026-09-14T14:53:00Z",
+ "session": "Tuesday, September 15, 2026",
+ "builtAt": "2026-09-15T11:50:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,656.98",
-   "c": "+0.9% Fri",
-   "dir": "up"
-  },
-  {
-   "n": "Nasdaq Comp",
-   "v": "26,333.04",
-   "c": "+1.0% Fri",
-   "dir": "up"
-  },
-  {
-   "n": "Dow",
-   "v": "52,573.29",
-   "c": "+509.19 Fri",
-   "dir": "up"
-  },
-  {
-   "n": "US 10Y",
-   "v": "4.96%",
-   "c": "cusp of 5%, highest since Oct 2023",
-   "dir": ""
-  },
-  {
-   "n": "Brent",
-   "v": "$104.61",
-   "c": "−2.8% Fri, +8.7% wk",
+   "v": "7,619.98",
+   "c": "−0.5% Mon",
    "dir": "dn"
   },
   {
-   "n": "Gold",
-   "v": "$4,385.61",
-   "c": "+0.1% Fri",
+   "n": "Nasdaq Comp",
+   "v": "26,186.41",
+   "c": "−0.6% Mon",
+   "dir": "dn"
+  },
+  {
+   "n": "Dow",
+   "v": "52,421.20",
+   "c": "−152.09 Mon",
+   "dir": "dn"
+  },
+  {
+   "n": "US 10Y",
+   "v": "5.02%",
+   "c": "highest since 2007, Tue AM",
    "dir": "up"
+  },
+  {
+   "n": "Brent",
+   "v": "$106.93",
+   "c": "+1.2% Tue AM",
+   "dir": "up"
+  },
+  {
+   "n": "Gold",
+   "v": "$4,263",
+   "c": "−0.8% Tue, 1-mo low",
+   "dir": "dn"
   }
  ],
- "tapeLine": "Both inflation prints are in and they disagreed with each other: core PPI came in cool, core CPI came in hot, and hike odds for Wednesday jumped from roughly 60% to 86&ndash;90% inside days. Over the weekend a Saudi pipeline that bypasses the Strait of Hormuz was shut after drone strikes, and Anthropic&rsquo;s and OpenAI&rsquo;s own CEOs called for AI development to slow down &mdash; two shocks that have nothing to do with each other or with the Fed, landing on the same tape in the same week. Blackout runs through Thursday, so no official can respond to any of it before Wednesday&rsquo;s vote.",
- "matters": "<p>Both halves of the inflation test this brief has been tracking since 4 September are in, and they split. August producer prices matched headline expectations at <b>+0.4% m/m</b> and printed a touch hot on a year-over-year basis (<b>+5.4%</b> vs +5.3% expected), but core PPI actually came in cool &mdash; <b>+0.2% m/m</b> against a 0.3% forecast &mdash; with more than three-quarters of the headline rise attributable to energy, up 4.2% on the month as the Iran conflict pushed oil through the index. Consumer prices told the opposite story: headline CPI matched consensus at <b>+0.4% m/m, 3.4% y/y</b>, but core CPI beat its 0.2% Dow Jones consensus by a full tenth, printing <b>+0.3% m/m</b>, even as the year-over-year core rate eased to <b>2.4%</b> &mdash; the lowest since March 2021.</p><p>That combination is exactly the read this brief has been arguing for: it is core, not headline, doing the work, and the market moved on it immediately. Odds of a 25bp hike at Wednesday&rsquo;s meeting, priced at roughly 60% a week ago, are now sitting at <b>86&ndash;90%</b> across CME FedWatch, Kalshi and Polymarket. The blackout that began 5 September runs through 17 September, so nobody on the committee has been able to react to either print, or to what happened over the weekend.</p><p>What happened over the weekend is a second, independent supply shock landing on top of the first. Saudi Arabia shut its East&ndash;West pipeline &mdash; the one route that lets its oil bypass the Strait of Hormuz entirely &mdash; after drone strikes hit it around 10&ndash;11 September. The kingdom has five to seven days of oil stored at its Red Sea port before as much as 4% of global supply is at risk; the US energy secretary said Monday the line should reopen &ldquo;soon&rdquo; but gave no date. Brent is trading near <b>$107&ndash;108</b>, up roughly 3% on the session, and the 10-year touched <b>5.00%</b> intraday Monday &mdash; a level last seen in October 2023, and one that would take out the pre-financial-crisis high above 5.02% if it holds. Two hawkish inputs are compounding at once: a labour market and inflation trend firm enough to hike into, and an energy shock arriving in the same week as the decision.</p><p>A third story is running in parallel and, for now, has nothing to do with the Fed: over the weekend Anthropic CEO Dario Amodei published an essay arguing the industry must slow the pace of frontier AI capability gains, warning that unchecked, &ldquo;swarms of rogue AI agents&rdquo; could contest control of the internet within six months. OpenAI&rsquo;s Sam Altman and xAI&rsquo;s Elon Musk both said they agreed. The call followed the resignation of an Anthropic researcher who accused both labs of &ldquo;gambling with our lives.&rdquo; It is moving equities directly &mdash; chip and AI-linked names opened Monday down sharply &mdash; and it is a separate, non-macro reason the Nasdaq is underperforming into a week the Fed was already going to dominate.</p><p><b>Invalidation:</b> initial jobless claims held at 206,000 for the week of 5 September, unchanged from the week before, with the four-week average also flat. There is still no sign of labour deterioration, and no fresh wage data since the 2.6% six-month annualised pace already below the 2.7% pre-pandemic average. Nothing this week has touched the case the doves still have &mdash; that this is an energy-and-tariff hike being delivered into a labour market that would not, on its own, need one.</p>",
+ "tapeLine": "The 10-year cleared its own 2023 high to touch 5.02% Tuesday, the highest since 2007, as Fed funds futures priced Wednesday's hike at roughly 94.5%, up from 87.3% a day earlier. Oil held near six-week highs after the Associated Press and Reuters both reported the Saudi pipeline could take three to six weeks to repair &mdash; not the &ldquo;soon&rdquo; the U.S. energy secretary suggested Monday. Stocks fell Monday on the AI-slowdown story before President Trump and China&rsquo;s foreign ministry both rejected it outright, and futures point lower again this morning. New York&rsquo;s Empire State index swung negative for the first time since June, and Sequence Holdings and Michael Dell&rsquo;s family office agreed to take insurance broker Baldwin Group private for $7.7bn &mdash; a deal that is mostly equity and assumed debt, not fresh leverage, so the financing test this brief has run since 10 September stays open one day out from the vote.",
+ "matters": "<p>Fed funds futures now put the odds of a quarter-point hike at Wednesday's meeting at <b>94.5%</b>, up from <b>87.3%</b> a day earlier, according to CME FedWatch data cited by Bloomberg &mdash; effectively a lock heading into the 14:00 ET decision and Chair Warsh's 14:30 press conference. It would be the Fed's first hike since July 2023. The blackout that began 5 September holds through the vote, so no official has been able to respond to any of the last 24 hours of news.</p><p>The bond market moved first and furthest: the 10-year Treasury yield rose to <b>5.02%</b> Tuesday, clearing its own October 2023 cycle high to reach the highest level since 2007. Oil is doing part of that work &mdash; Brent was near <b>$106.93</b> and WTI near <b>$102.65</b> Tuesday morning &mdash; and the supply shock behind it got longer, not shorter, overnight. Monday's brief ran the U.S. energy secretary's comment that the Saudi pipeline should reopen &ldquo;soon&rdquo;; by that same afternoon, sources told the Associated Press repairs could take three to five weeks and told Reuters five to six weeks, with one independent analyst telling reporters the damage shown in satellite images could take months to fully fix. &ldquo;Soon&rdquo; was the optimistic end of a range, not a timeline.</p><p>The AI-slowdown story kept moving too, but sideways into politics rather than toward the Fed. President Trump dismissed the industry's own calls for a pause, blaming a &ldquo;SICK conspiracy&rdquo; for the voter backlash on AI data centers and arguing &ldquo;whoever wins AI, wins&rdquo; against China. Beijing responded in kind: foreign ministry spokesperson Guo Jiakun called the warnings from Amodei, Altman and Musk &ldquo;fear-mongering&rdquo; that would &ldquo;disrupt the process of global AI governance.&rdquo; U.S. equities fell Monday on the original story &mdash; the Dow, S&amp;P 500 and Nasdaq all closed lower &mdash; and futures point lower again this morning, but the disagreement is now between governments, not between the industry and its regulators.</p><p>New York's Empire State manufacturing index swung negative for the first time since June, falling to <b>-8.7</b> from <b>11.9</b> in August, a real domestic data point landing the same morning as the yield milestone. On the financing thread this brief has tracked since 10 September, the closest thing yet to a sponsor-financed LBO printed Monday: Sequence Holdings and Michael Dell's DFO Management agreed to take The Baldwin Group private for <b>$7.7bn</b>, but roughly $4.6bn of that is equity and the debt in the deal is existing Baldwin debt being assumed or refinanced, not freshly raised acquisition leverage. Grab's same-day, all-cash purchase of a majority stake in Atome Financial for <b>$1.49bn</b> is a cleaner data point for the pattern: cash is still funding deals, one day out from the vote.</p><p><b>Invalidation:</b> a Wednesday surprise &mdash; a smaller hike, a split vote, or dovish language in the Summary of Economic Projections &mdash; would matter more than usual given how one-sided positioning already is; anything short of the fully-priced 25bp move risks an outsized reaction precisely because so little probability is left on the other side.</p>",
  "calendar": [
   {
-   "time": "Tue 08:30",
-   "event": "NY Empire State manufacturing index (Sep)",
+   "time": "Wed 08:30",
+   "event": "US Retail Sales (Aug) + Business Inventories",
    "consensus": "—",
    "prior": "—",
    "impact": "med"
@@ -53,7 +53,7 @@
   {
    "time": "Wed 14:00",
    "event": "FOMC rate decision + Summary of Economic Projections",
-   "consensus": "25bp hike, ~86–90% priced",
+   "consensus": "25bp hike, ~94% priced",
    "prior": "—",
    "impact": "high"
   },
@@ -65,188 +65,131 @@
    "impact": "high"
   }
  ],
- "alsoOnTape": "No US data is scheduled today. The next print is Tuesday's Empire State manufacturing index, then the FOMC decision itself Wednesday at 14:00 ET with the quarterly Summary of Economic Projections. Blackout has been in force since 5 September and runs through 17 September, so today's session trades on Friday's CPI, the weekend's oil shock and the AI-slowdown story with no Fed voice able to comment on any of it.",
+ "alsoOnTape": "Empire State manufacturing for September printed this morning (see macro). The next scheduled U.S. data is Wednesday's retail sales and business inventories at 8:30 and 10:00 ET, both ahead of the 14:00 FOMC decision and 14:30 press conference. Blackout has been in force since 5 September and holds through the vote, so no official has been able to respond to the weekend's oil shock, this week's AI-slowdown political fallout, or today's factory data.",
  "overnight": [
-  "<b>US Friday close</b> &mdash; S&amp;P 500 +0.86% to 7,656.98, Dow +509.19 (+0.98%) to 52,573.29, Nasdaq +0.96% to 26,333.04. Stocks rallied as CPI, while hotter than the 0.2% core consensus, still came in close enough to headline expectations to calm the tape, and as Brent eased 2.8% to $104.61 after Iranian state media said Tehran would meet Gulf states in Oman to discuss the Strait of Hormuz.",
-  "<b>The weekend</b> &mdash; Saudi Arabia's East&ndash;West pipeline, the route that bypasses Hormuz, was shut after drone strikes hit it around 10&ndash;11 September. Saudi has five to seven days of stored Red Sea-port supply before as much as 4% of global oil output is at risk. The US energy secretary said Monday the line should reopen &ldquo;soon,&rdquo; with no repair timeline given, and Iran is still refusing to reopen Hormuz itself absent US concessions.",
-  "<b>AI</b> &mdash; Anthropic CEO Dario Amodei published an essay Saturday warning the industry must slow frontier-model capability gains, citing a risk that unchecked &ldquo;swarms of rogue AI agents&rdquo; could contest control of the internet within six months. OpenAI's Altman and xAI's Musk both said they agreed. Separately, Altman told Fortune on Saturday that OpenAI is ruling out a 2026 IPO given unresolved AI-safety work, while Anthropic is still targeting a public listing by year-end at a valuation reported as high as $2.3tn.",
-  "<b>This morning</b> &mdash; chip and AI-linked names led Monday's open lower: Nvidia down 2&ndash;3%, Intel &minus;7%, AMD &minus;6%, Broadcom &minus;3%, Marvell &minus;7% in the opening session. The S&amp;P 500 opened at 7,611.44 (&minus;0.59%) and the Nasdaq Composite at 26,018.50 (&minus;1.19%). Brent added a further ~3% to around $107.65 on the pipeline shutdown, and the 10-year touched 5.00% intraday, its highest since October 2023.",
-  "<b>Gold</b> &mdash; fell to a one-month low heading into Friday's CPI print, then extended losses Monday, down roughly 1.5% intraday to about $4,285, even as the oil shock escalated. Rising real yields, not safe-haven demand, are setting the metal's direction into the FOMC."
+  "<b>US Monday close</b> &mdash; Dow &minus;152.09 (&minus;0.29%) to 52,421.20, S&amp;P 500 &minus;0.48% to 7,619.98, Nasdaq &minus;0.56% to 26,186.41, led down by Caterpillar (&minus;4.23%), Goldman Sachs (&minus;3.99%) and Nvidia (&minus;3.26%); Salesforce (+4.73%), IBM (+2.36%) and Alphabet (+2.15%) were the gainers, as the AI-slowdown story dominated the session.",
+  "<b>Politics</b> &mdash; President Trump dismissed the AI-slowdown calls Sunday into Monday, blaming a &ldquo;SICK conspiracy&rdquo; for the voter backlash on AI data centers and saying &ldquo;whoever wins AI, wins&rdquo;; China's foreign ministry spokesperson Guo Jiakun separately called the warnings &ldquo;fear-mongering&rdquo; that would &ldquo;disrupt the process of global AI governance.&rdquo;",
+  "<b>Oil</b> &mdash; the Associated Press and Reuters both reported Monday that Saudi Arabia's East-West pipeline, shut since drone strikes from Iraqi territory on 10&ndash;11 September, will likely need three to six weeks to repair; Brent was near $106.93 and WTI near $102.65 Tuesday morning, still elevated.",
+  "<b>Rates</b> &mdash; the 10-year Treasury yield rose to 5.02% Tuesday, the highest since 2007 and above its own October 2023 cycle peak, as Fed funds futures put the odds of Wednesday's hike at 94.5%, up from 87.3% a day earlier.",
+  "<b>This morning</b> &mdash; US equity futures pointed lower again: Dow futures &minus;0.6%, S&amp;P 500 futures &minus;0.5%, Nasdaq-100 futures &minus;0.7%, as markets head into FOMC day still digesting the AI-slowdown political fallout and rising yields.",
+  "<b>Data</b> &mdash; New York's Empire State manufacturing index swung to -8.7 in September from 11.9 in August, its first negative reading since June, released this morning ahead of the FOMC."
  ],
  "deals": [
   {
-   "what": "Copart agrees to acquire ACV Auctions for $1.9bn in cash",
-   "number": "Announced 10 Sep: $10.50 per ACV share in cash, roughly a 45% premium to ACV's 10 Aug unaffected price. Structured as a tender offer followed by a back-end merger, funded entirely from Copart's cash on hand. Expected to close by year-end 2026, with ACV run as an independent subsidiary.",
-   "readthrough": "A $1.9bn strategic deal funded off the balance sheet in the same week a 10-year at 5% is the headline rates story. Copart didn't need a lender any more than WaFd or Tata did three weeks ago &mdash; acquirers with cash are still buying, acquirers who need debt are still waiting."
+   "what": "Sequence Holdings and Michael Dell's family office (DFO Management) agree to take The Baldwin Group private for $7.7bn",
+   "number": "Announced 14 Sep: Baldwin shareholders get $32.50 per share in cash, an 88% premium to the 17 June unaffected price. The deal comprises roughly $4.6bn of equity purchase price plus about $3.1bn of net debt assumed or refinanced; Sequence (a VC-backed, permanent-capital holding company) and DFO are the buyers, with Baldwin employees retaining a minority stake. Expected to close Q1 2027.",
+   "readthrough": "The closest thing to a sponsor buyout since this brief started counting on 10 September, and it still isn't a clean match: the debt in the deal is existing Baldwin debt being assumed or refinanced, not new acquisition leverage raised to fund the purchase, and the buyers are a permanent-capital vehicle and a family office rather than a classic PE fund. The test &mdash; a large, freshly debt-financed sponsor LBO printing before the Fed votes &mdash; is still open with one trading day left."
   },
   {
-   "what": "Blackstone's flagship private credit fund caps redemptions at 5% for a second straight quarter",
-   "number": "BCRED, the $77bn non-traded BDC, received repurchase requests for roughly 10% of shares outstanding in Q3 (about $4.3bn) and again fulfilled only half of that, capping at 5% &mdash; an identical outcome to the prior quarter. Reported 3 September.",
-   "readthrough": "Same fund, same cap, same shortfall, two quarters running. Last week's brief flagged that generalising from three early-Q3 reporters to a decaying redemption wave was premature next to the ten-largest-BDC data showing 13&ndash;14% of assets requested against 5% caps. BCRED's repeat gate is a direct data point for that wider read, not against it."
-  },
-  {
-   "what": "Solar Industries agrees to acquire South Africa's Omnia Holdings for $1.36bn",
-   "number": "Announced today, 14 Sep: Solar SA Investments will acquire all outstanding Omnia shares at 134.5 rand each, all-cash, valuing the explosives and fertiliser group at roughly ₹12,951 crore ($1.355bn).",
-   "readthrough": "Another all-cash strategic deal on the day the 10-year tests 5%. The financing-avoidance pattern this brief has been tracking isn't confined to US or even developed-market acquirers &mdash; still no debt-financed sponsor buyout has priced since this brief started counting on 10 September."
+   "what": "Grab Holdings agrees to buy 60% of BNPL platform Atome Financial for $1.49bn in cash",
+   "number": "Announced 15 Sep via 6-K filing: Grab will pay $1.49bn in cash for a controlling 60% stake in Atome Financial, including $0.26bn of primary growth capital as Phase 1, funded entirely from Grab's existing cash. The remaining 40% is pre-agreed to transfer roughly two years after close under a valuation formula rather than a fixed price. Expected to complete by Q3 2027.",
+   "readthrough": "A cleaner data point for the pattern than Baldwin: another acquirer paying with its own balance sheet, not a lender's, in the same week the 10-year cleared 5% for the first time since 2007. The cash-over-debt read this brief has tracked since 10 September holds again."
   }
  ],
  "macro": [
-  "<b>PPI (Aug, released 10 Sep)</b> &mdash; headline +0.4% m/m as expected, +5.4% y/y (0.1pp hot). Core +0.2% m/m, a tenth below the 0.3% forecast. Energy rose 4.2% and accounted for more than three-quarters of the headline gain, with the Iran conflict cited as the driver.",
-  "<b>CPI (Aug, released 11 Sep)</b> &mdash; headline +0.4% m/m, 3.4% y/y, both matching consensus. Core beat its 0.2% Dow Jones forecast at +0.3% m/m; core y/y eased to 2.4%, the lowest since March 2021. The soft-producer / firm-consumer split is the exact 'inflation is in services' read this brief has been watching for.",
-  "<b>Fed pricing</b> &mdash; a 25bp hike Wednesday is now priced at 86&ndash;90% across CME FedWatch, Kalshi and Polymarket, up from roughly 60% a week ago. The blackout has run since 5 September and continues through 17 September; no official has spoken since, or can before the vote.",
-  "<b>Rates</b> &mdash; the 10-year touched 5.00% intraday Monday, its highest since October 2023; a close above 5.02% would be the highest since July 2007. The 2-year, more sensitive to Fed policy, is at 4.654%, also a multi-year high.",
-  "<b>Oil / Hormuz</b> &mdash; Saudi Arabia shut its East&ndash;West pipeline, the route that bypasses the Strait of Hormuz, after drone strikes hit it around 10&ndash;11 September. Saudi has five to seven days of stored Red Sea-port supply before as much as 4% of global oil output is at risk; the US energy secretary said Monday the line should reopen 'soon' with no date given. Brent is near $107&ndash;108, up roughly 3% on the day.",
-  "<b>Labour</b> &mdash; initial jobless claims held at 206,000 for the week of 5 September, unchanged from the week before, with the four-week average also flat at 206,000. No new wage data since the 2.6% six-month annualised pace already below the 2.7% pre-pandemic average &mdash; still no sign of the spiral a hike into strength would need to worry about."
+  "<b>Fed pricing</b> &mdash; a 25bp hike Wednesday is now priced at roughly 94.5% per CME FedWatch, up from 87.3% a day earlier; it would be the first hike since July 2023. Blackout has run since 5 September and holds through the 14:00 ET vote and 14:30 press conference.",
+  "<b>Rates</b> &mdash; the 10-year Treasury yield touched 5.02% Tuesday, the highest since 2007, clearing its own October 2023 cycle peak.",
+  "<b>Oil / Hormuz</b> &mdash; Brent near $106.93, WTI near $102.65 Tuesday morning. The Associated Press and Reuters reported Monday that Saudi Arabia's East-West pipeline, shut since drone strikes from Iraqi territory on 10&ndash;11 September, will likely need three to six weeks to repair &mdash; longer than the &ldquo;soon&rdquo; the U.S. energy secretary floated the same day.",
+  "<b>Empire State manufacturing (Sep)</b> &mdash; general business conditions fell to -8.7 from 11.9 in August, the first negative reading since June.",
+  "<b>Retail sales</b> &mdash; August Advance Monthly Retail Sales and Business Inventories are due Wednesday at 8:30 and 10:00 ET, the last scheduled U.S. data before the FOMC statement."
  ],
  "flow": [
-  "Chip and AI-linked names led Monday's open lower after Anthropic's Amodei, OpenAI's Altman and xAI's Musk all called for slower AI development over the weekend: Nvidia down 2&ndash;3%, Intel &minus;7%, AMD &minus;6%, Broadcom &minus;3%, Marvell &minus;7% in the opening session. The S&amp;P 500 opened at 7,611.44 (&minus;0.59%) and the Nasdaq Composite at 26,018.50 (&minus;1.19%).",
-  "That's a standalone equity story, not a rates one &mdash; it's arriving in the same week as the FOMC but isn't being driven by it. A hawkish Fed and a chip selloff are both pulling growth multiples the same direction at once, for unrelated reasons.",
-  "Gold fell to a one-month low into Friday's CPI print and kept falling Monday &mdash; down roughly 1.5% intraday to about $4,285 &mdash; even as the oil shock escalated. Rising real yields, not the geopolitical risk, are setting gold's direction into the FOMC.",
-  "OpenAI ruled out a 2026 IPO Saturday, citing unresolved AI-safety work; Anthropic is still targeting a public listing by year-end at a valuation reported as high as $2.3tn. Same weekend, same safety warning, two different capital-markets responses.",
+  "U.S. stocks fell Monday: Dow &minus;152.09 (&minus;0.29%) to 52,421.20, S&amp;P 500 &minus;0.48% to 7,619.98, Nasdaq &minus;0.56% to 26,186.41, led down by Caterpillar, Goldman Sachs and Nvidia; Salesforce, IBM and Alphabet were the gainers.",
+  "Futures pointed lower again Tuesday morning &mdash; Dow &minus;0.6%, S&amp;P 500 &minus;0.5%, Nasdaq-100 &minus;0.7% &mdash; heading into FOMC day with the AI-slowdown story still unresolved and yields still rising.",
+  "Gold fell to $4,263, a fresh one-month low and a third straight weekly decline, as a firmer dollar and near-certain hike odds outweigh the pipeline's escalating geopolitical risk.",
+  "Financing desk: Grab's $1.49bn all-cash purchase of a majority Atome stake and Sequence/DFO's mostly-equity purchase of Baldwin Group both leaned on cash and existing capital rather than fresh acquisition debt.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page. Nothing here is positioning analysis &mdash; it is sector observation from the tape."
  ],
  "levels": [],
  "regime": {
-  "tag": "hawkish lock-in, two shocks, no referee",
-  "sizing": "A hike is now priced at 86–90% and the blackout runs through Thursday, so nothing expressed today changes before Wednesday's 14:00 ET decision — which itself carries a second live variable in the pipeline outage, a shock with no fixed reopening date."
+  "tag": "record long yield, hike near-lock, pipeline shock getting longer",
+  "sizing": "The 10-year has cleared its own 2023 high to the highest level since 2007 and the hike is priced above 94%, so Wednesday's SEP and Warsh's press conference, not the vote itself, are the remaining swing factors. The pipeline's now-reported three-to-six-week repair window pushes the oil shock's duration further out than Monday's 'reopen soon' framing implied."
  },
  "watchlist": [],
- "secondOrder": "Three stories are running at once this week and only one of them is about the Fed. The inflation data resolved cleanly in the hawkish direction &mdash; core PPI cool, core CPI hot, exactly the 'services, not tariffs' split this brief flagged as the tell &mdash; and pricing moved from roughly a coin-flip to a near-lock in the days since. That would normally be the whole story. Instead it's landing alongside an independent oil shock (a pipeline outage with no fixed repair date, sitting on top of an already-elevated Brent) and an independent equity shock (the two AI labs that have driven most of this year's market cap telling investors, unprompted, to slow down). None of the three moved because of the others: the CPI surprise was 0.3% against a 0.2% consensus, Amodei's essay was about model capability curves, and Saudi's pipeline went offline because of drones, not diplomacy. What they share is the same tape and the same week. A 25bp hike arriving Wednesday into a 10-year already at 5% is a different move than the same hike would have been at 4.5% &mdash; every existing floating-rate obligation, LBO or otherwise, gets more expensive at the exact moment growth-stock multiples are already being marked down for a separate reason. The financing story this brief has tracked since early September is still unresolved on its own terms: Copart, Solar Industries and, three weeks running now, BCRED's own redemption cap all point the same way &mdash; cash is still funding deals, debt still isn't, and nothing forces that to change before Wednesday. The test is now two days out.",
+ "secondOrder": "Three threads from Monday are still running, and each moved a specific, falsifiable amount today rather than just continuing. The Fed thread firmed: CME FedWatch's odds went from roughly 86&ndash;90% Friday to 94.5% by Tuesday morning, per Bloomberg, and the 10-year didn't just approach the 2023 high, it cleared it, printing the first sub-2007 yield level in almost two decades. The AI thread got more political, not less: a sitting U.S. president and a Chinese foreign ministry spokesperson are now the ones arguing with Amodei, Altman and Musk, which is a different, more durable story than three tech CEOs agreeing with each other. And the oil thread got longer, not shorter: Monday's brief ran the U.S. energy secretary's 'soon,' and by that same afternoon the AP and Reuters were both reporting repair estimates measured in weeks, which means Wednesday's Fed decision arrives with the supply shock's timeline actually worse than it looked 24 hours earlier, not resolved. None of that changes the financing test this brief has run since 10 September: Tuesday's closest candidate, the Baldwin Group take-private, is majority equity with assumed debt, not fresh leverage, so cash is still the pattern and nothing forces that to change before tomorrow's 2pm vote.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The 10 September brief argued “the thing to watch is core, not headline” and set the read as: a soft core PPI plus a firm core CPI would mean the inflation is in services and the hike case strengthens. Core PPI printed +0.2% m/m (a tenth under its 0.3% forecast); core CPI printed +0.3% m/m (a tenth over its 0.2% Dow Jones forecast). That is exactly the split described, and hike odds moved from roughly 60% to 86&ndash;90% within days of it."
+   "text": "The 14 September brief argued the AI-slowdown story was &ldquo;a standalone equity story, not a rates one&rdquo; with &ldquo;nothing to do with the Fed.&rdquo; That held: the story moved further from monetary policy, not closer, when President Trump called it a &ldquo;SICK conspiracy&rdquo; on 13&ndash;14 September and said &ldquo;whoever wins AI, wins,&rdquo; and China's foreign ministry spokesperson Guo Jiakun separately dismissed the CEOs' warnings as &ldquo;fear-mongering&rdquo; that would &ldquo;disrupt the process of global AI governance.&rdquo; Two governments, not central bankers, are now the story's counterparties."
   },
   {
    "verdict": "wrong",
-   "text": "The same brief quoted CPI as “expected at +0.4% m/m &hellip; core +0.4% m/m.” The actual Dow Jones survey consensus for core CPI was +0.2% m/m, not +0.4% &mdash; a meaningfully lower bar than what was cited at the time. The framing's conclusion still held because the real print (+0.3%) beat the real consensus (+0.2%), but the number the brief itself was working from was wrong."
+   "text": "The same brief's overnight section ran the U.S. energy secretary's Monday comment that the Saudi pipeline should reopen &ldquo;soon,&rdquo; with no independent repair estimate attached. Reporting already circulating that same day undercut it: sources told the Associated Press repairs could take three to five weeks and told Reuters five to six weeks, with one independent analyst suggesting the damage shown in satellite images could take months to fully fix. &ldquo;Soon&rdquo; was the more optimistic of two competing estimates, and the brief ran only the optimistic one."
   },
   {
    "verdict": "open",
-   "text": "Set the test as whether a large sponsor-financed LBO prints before the FOMC. None has: the two strategic deals that landed since (Copart/ACV Auctions, Solar Industries/Omnia) were both all-cash off the acquirer's balance sheet, and Blackstone's BCRED capped redemptions at 5% for a second straight quarter on 3 September. The test now resolves with the same event it was measured against &mdash; Wednesday's decision is two days out."
+   "text": "The test set on 10 September &mdash; whether a large, freshly debt-financed sponsor buyout prints before the Fed votes &mdash; still hasn't been cleanly met or missed. Sequence Holdings and Michael Dell's DFO Management agreed on 14 September to take The Baldwin Group private for $7.7bn, the closest candidate yet, but roughly $4.6bn of that is equity and the debt is existing Baldwin debt being assumed or refinanced rather than new acquisition leverage. One trading day remains before Wednesday's decision."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "CNBC — CPI inflation report, August 2026",
-   "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
+   "label": "CNBC — 10-year Treasury yield rises to highest since 2007",
+   "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html"
   },
   {
-   "label": "Bloomberg — US core CPI up more than forecast, bolstering case for hike",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-core-cpi-rises-more-than-forecast-bolstering-case-for-hike"
+   "label": "Bloomberg — US 10-Year Treasury Yields Rise to Highest Level Since 2007",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/us-10-year-treasury-yields-rise-to-highest-level-since-2007"
   },
   {
-   "label": "CNBC — PPI inflation report, August 2026",
-   "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html"
+   "label": "CNBC — Oil: what next as Saudi Arabia scrambles to restore East-West pipeline",
+   "url": "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html"
   },
   {
-   "label": "BLS — Producer Price Index news release, August 2026",
-   "url": "https://www.bls.gov/news.release/archives/ppi_09102026.htm"
+   "label": "PBS NewsHour — Saudi oil pipeline hit in strikes will be mostly out of service for several weeks",
+   "url": "https://www.pbs.org/newshour/world/saudi-oil-pipeline-hit-in-strikes-will-be-mostly-out-of-service-for-several-weeks"
   },
   {
-   "label": "Kiplinger — August CPI numbers are in",
-   "url": "https://www.kiplinger.com/investing/economy/cpi-report-august-2026-what-to-expect"
+   "label": "Middle East Eye — Saudi East-West oil pipeline may take up to five weeks to repair, officials say",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-east-west-oil-pipeline-may-take-five-weeks-repair-officials-say"
   },
   {
-   "label": "FXStreet/UOB — US August core CPI not quite in line with expectations",
-   "url": "https://www.fxstreet.com/news/us-august-core-cpi-not-quite-in-line-with-expectations-uob-group-202409120846"
+   "label": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
   },
   {
-   "label": "Yahoo Finance — August CPI report: what to expect (core consensus 0.2%)",
-   "url": "https://finance.yahoo.com/economy/policy/articles/august-cpi-report-inflation-data-174455983.html"
+   "label": "AP via KVUE — How major US stock indexes fared Monday 9/14/2026",
+   "url": "https://www.kvue.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-monday-9142026/616-40d33799-0714-4dfd-8f18-f023bbe997b5"
   },
   {
-   "label": "CNBC — 10-year Treasury yield nears 5% ahead of Fed rate decision",
-   "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html"
+   "label": "CNBC — Trump rejects AI regulation calls, slams Anthropic CEO Dario Amodei",
+   "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html"
   },
   {
-   "label": "USAGOLD — Physical gold holds $4,385 as CPI lifts rate-hike odds to 90%",
-   "url": "https://www.usagold.com/daily-precious-metals-market-report-september-11-2026/"
+   "label": "Yahoo News — Trump responds to AI slowdown call: 'Whoever wins AI wins'",
+   "url": "https://www.yahoo.com/news/us/article/trump-responds-to-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-ai-wins-182008851.html"
   },
   {
-   "label": "Washington Post — How major US stock indexes fared, Friday 9/11/2026",
-   "url": "https://www.washingtonpost.com/business/2026/09/11/wall-street-stocks-dow-nasdaq/b7beaa5c-ae1d-11f1-b498-8697f35a6743_story.html"
+   "label": "CNBC — China says AI CEOs' call for a slowdown is 'fear mongering'",
+   "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html"
   },
   {
-   "label": "CNBC — Oil price today: Iran, Brent, WTI, Trump (Friday close)",
-   "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html"
+   "label": "The Corner — Empire State manufacturing index enters negative territory in September, falling to -8.7 from 11.9",
+   "url": "https://thecorner.eu/news-the-world/empire-state-manufacturing-activity-index-enters-negative-territory-in-september-falling-to-8-7-from-11-9-previously/122001/"
   },
   {
-   "label": "Bloomberg — Saudi oil pipeline that bypasses Hormuz shut after attacks",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-11/saudi-oil-pipeline-that-bypasses-hormuz-shut-after-attacks"
+   "label": "Markets.com — Gold Price Today, September 15 2026",
+   "url": "https://www.markets.com/news/gold-price-today-september-15-2026"
   },
   {
-   "label": "Bloomberg — Oil pipe bypassing Hormuz to reopen 'soon,' US energy chief says",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-14/oil-pipe-bypassing-hormuz-to-reopen-soon-us-energy-chief-says"
+   "label": "SEC — Grab Holdings Ltd 6-K, Atome transaction announcement",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001855612/000185561226000133/a6-kxatometransactionannou.htm"
   },
   {
-   "label": "CNBC — Brent above $108 after Saudi shuts pipeline that bypasses Hormuz",
-   "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
+   "label": "BusinessWire — The Baldwin Group to Go Private Through Majority Investment by Sequence Holdings and Dell Family Office",
+   "url": "https://www.businesswire.com/news/home/20260914720607/en/The-Baldwin-Group-to-Go-Private-Through-Majority-Investment-by-Sequence-Holdings-and-Dell-Family-Office"
   },
   {
-   "label": "CNBC — AI stocks slide after Anthropic, OpenAI CEOs urge slowdown",
-   "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html"
+   "label": "Axios — Baldwin Insurance going private for $7.7 billion",
+   "url": "https://www.axios.com/2026/09/14/baldwin-dell-sequence-insurance"
   },
   {
-   "label": "CNBC — Sam Altman spells out why the AI industry wants to slow down",
-   "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html"
+   "label": "Kiplinger — What to look out for in economic data this week (September 14-18)",
+   "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
   },
   {
-   "label": "CNBC — Extinction warnings ramp up as OpenAI, Anthropic researchers call for slowdown",
-   "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html"
-  },
-  {
-   "label": "Fortune — Sam Altman: OpenAI IPO now would be 'ill-advised'",
-   "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"
-  },
-  {
-   "label": "Fortune — OpenAI's IPO wait grows longer as AI safety fears mount",
-   "url": "https://fortune.com/2026/09/14/openai-ipo-wait-grows-longer-as-ai-safety-fears-mount-cfo/"
-  },
-  {
-   "label": "24/7 Wall St — Chip stocks tumble: Intel −7%, AMD −6%, Nvidia pulls back",
-   "url": "https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/"
-  },
-  {
-   "label": "Yahoo Finance — Nvidia, chip stocks fall as AI CEOs call for slowdown",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chip-stocks-fall-ai-114634380.html"
-  },
-  {
-   "label": "Yahoo Finance — Gold prices today, Monday Sept 14 2026: gold sinks after Saudi pipeline attacks",
-   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html"
-  },
-  {
-   "label": "FXStreet — US initial jobless claims dropped to 206K last week",
-   "url": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-206k-last-week-202609101233"
-  },
-  {
-   "label": "Investing.com — NY Empire State manufacturing index among data due Monday",
-   "url": "https://www.investing.com/news/stock-market-news/ny-empire-state-manufacturing-index-among-economic-data-due-monday-93CH-4861389"
-  },
-  {
-   "label": "FedRateCalc — FOMC meeting schedule, September 2026",
-   "url": "https://fedratecalc.com/fomc-meeting-schedule/september-2026/"
-  },
-  {
-   "label": "Finance Calendar — Next FOMC meeting: September 16, 2026 (2:00pm ET)",
-   "url": "https://www.financecalendar.com/fomc-meetings/"
-  },
-  {
-   "label": "Insurance Journal — Copart to buy ACV Auctions in $1.9bn deal",
-   "url": "https://www.insurancejournal.com/news/east/2026/09/14/884939.htm"
-  },
-  {
-   "label": "Yahoo Finance — Copart to acquire ACV Auctions for $1.9bn",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/copart-acquire-acv-auctions-1-110145948.html"
-  },
-  {
-   "label": "Bloomberg — Blackstone's BCRED caps redemptions again after 10% seek to exit",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-03/blackstone-s-bcred-caps-redemptions-again-after-10-seek-to-exit"
-  },
-  {
-   "label": "APAC News Network — Solar Industries to acquire South Africa's Omnia Holdings",
-   "url": "https://apacnewsnetwork.com/2026/09/solar-industries-omnia-holdings-acquisition/"
+   "label": "TIOmarkets — Sept 2026 Fed meeting: navigating a priced-in rate hike",
+   "url": "https://tiomarkets.com/article/fed-rate-decision-september-2026-preview"
   }
  ]
 }
