@@ -1,23 +1,53 @@
 [
  {
-  "src": "MarketWatch",
-  "type": "Strategic Investment",
+  "src": "PR Newswire",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
-  "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-  "date": "2026-09-15T11:34:00Z"
+  "title": "SEARLES VALLEY MINERALS ANNOUNCES DEFINITIVE ASSET PURCHASE AGREEMENT WITH 5E ADVANCED MATERIALS",
+  "link": "https://www.prnewswire.com/news-releases/searles-valley-minerals-announces-definitive-asset-purchase-agreement-with-5e-advanced-materials-302879296.html",
+  "date": "2026-09-15T15:18:00Z"
  },
  {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "NFP Acquires Moores Insurance Management, Inc., Expanding Risk Capital Capabilities in the Twin Cities",
+  "link": "https://www.prnewswire.com/news-releases/nfp-acquires-moores-insurance-management-inc-expanding-risk-capital-capabilities-in-the-twin-cities-302879242.html",
+  "date": "2026-09-15T14:39:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Neuberger, KKR agree minority stake in New Mountain-backed Datavant",
-  "link": "https://www.pehub.com/neuberger-kkr-agree-minority-stake-in-new-mountain-backed-datavant/",
-  "date": "2026-09-15T11:23:59Z"
+  "title": "Nexxus Capital Acquires Assets of Another Top Amazon Aggregator",
+  "link": "https://www.prnewswire.com/news-releases/nexxus-capital-acquires-assets-of-another-top-amazon-aggregator-302879241.html",
+  "date": "2026-09-15T14:37:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Becklin Holdings Acquires Chief Avionics, Expanding Aerospace and Aviation Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/becklin-holdings-acquires-chief-avionics-expanding-aerospace-and-aviation-capabilities-302878234.html",
+  "date": "2026-09-15T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Creative Planning to Acquire RVK, Expanding Its Institutional Investment Consulting Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/creative-planning-to-acquire-rvk-expanding-its-institutional-investment-consulting-capabilities-302878983.html",
+  "date": "2026-09-15T14:00:00Z"
  },
  {
   "src": "PE Hub",
@@ -25,129 +55,9 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Verlinvest invests in home-swap platform HomeExchange",
-  "link": "https://www.pehub.com/verlinvest-invests-in-home-swap-platform-homeexchange/",
-  "date": "2026-09-15T11:00:52Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "LINDBLAD EXPEDITIONS HOLDINGS, INC. EXPANDS PORTFOLIO WITH THE ACQUISITION OF WHITE DESERT ANTARCTICA AND ECHO CHARLIE TO CREATE A LEADING FORCE IN EXPERIENTIAL TRAVEL",
-  "link": "https://www.prnewswire.com/news-releases/lindblad-expeditions-holdings-inc-expands-portfolio-with-the-acquisition-of-white-desert-antarctica-and-echo-charlie-to-create-a-leading-force-in-experiential-travel-302878435.html",
-  "date": "2026-09-15T11:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "(CUAI) Copper Intelligence announces Sampwe Copper Project acquisition",
-  "link": "https://www.prnewswire.com/news-releases/cuai-copper-intelligence-announces-sampwe-copper-project-acquisition-302878808.html",
-  "date": "2026-09-15T11:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.5B",
-  "title": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion",
-  "link": "https://www.wsj.com/finance/investing/grab-to-buy-majority-stake-in-softbank-backed-atome-for-about-1-5-billion-5d62aad8?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-15T10:45:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Nemak, S.A.B. de C.V. Announces a Tender Offer and Consent Solicitation for Any and All of Its Outstanding 2.250% Senior Notes Due 2028",
-  "link": "https://www.prnewswire.com/news-releases/nemak-sab-de-cv-announces-a-tender-offer-and-consent-solicitation-for-any-and-all-of-its-outstanding-2-250-senior-notes-due-2028--302878733.html",
-  "date": "2026-09-15T08:28:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Carlyle backs Avenrock’s CAD1bn Parallax acquisition",
-  "link": "https://www.privateequitywire.co.uk/carlyle-backs-avenrocks-cad1bn-parallax-acquisition/",
-  "date": "2026-09-15T08:19:12Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "$410M",
-  "title": "KKR exits First Gen with $410m stake sale",
-  "link": "https://www.privateequitywire.co.uk/kkr-exits-first-gen-with-410m-stake-sale/",
-  "date": "2026-09-15T08:17:58Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "LATAM",
-  "value": "Undisclosed",
-  "title": "Ambienta’s Spaggiari acquires ESDS to expand into Iberia and LATAM",
-  "link": "https://www.pehub.com/ambientas-spaggiari-acquires-esds-to-expand-into-iberia-and-latam/",
-  "date": "2026-09-15T07:54:35Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Inflexion-backed Ranger Fire and Security acquires Fire Protection Ireland",
-  "link": "https://www.pehub.com/inflexion-backed-ranger-fire-and-security-acquires-fire-protection-ireland/",
-  "date": "2026-09-15T07:33:38Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Wooclap acquires Vevox to build the world's leading active learning platform for live training &amp; classes",
-  "link": "https://www.prnewswire.com/news-releases/wooclap-acquires-vevox-to-build-the-worlds-leading-active-learning-platform-for-live-training--classes-302877917.html",
-  "date": "2026-09-15T04:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BabyDoge Acquires LimeWire",
-  "link": "https://www.prnewswire.com/news-releases/babydoge-acquires-limewire-302878087.html",
-  "date": "2026-09-14T20:27:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Kohlberg-backed Loenbro acquires Prism Electric to expand in South",
-  "link": "https://www.pehub.com/kohlberg-backed-loenbro-acquires-prism-electric-to-expand-in-south/",
-  "date": "2026-09-14T19:21:16Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "fal Acquires Lucent, Welcomes Co-Founders Dimi Panagiotopoulos and Alex Koumpas to the team",
-  "link": "https://www.prnewswire.com/news-releases/fal-acquires-lucent-welcomes-co-founders-dimi-panagiotopoulos-and-alex-koumpas-to-the-team-302877934.html",
-  "date": "2026-09-14T18:05:00Z"
+  "title": "KKR, Neuberger to take minority stake in Datavant; Carlyle joins MIT Generative AI Impact Consortium as PE firms double down on AI",
+  "link": "https://www.pehub.com/kkr-neuberger-to-take-minority-stake-in-datavant-carlyle-joins-mit-generative-ai-impact-consortium-as-pe-firms-double-down-on-ai/",
+  "date": "2026-09-15T13:36:40Z"
  },
  {
   "src": "PR Newswire",
@@ -155,9 +65,99 @@
   "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Endpoint Clinical Acquires Bluefin, a Provider of Clinical Supply Forecasting and Planning Technology",
-  "link": "https://www.prnewswire.com/news-releases/endpoint-clinical-acquires-bluefin-a-provider-of-clinical-supply-forecasting-and-planning-technology-302877573.html",
-  "date": "2026-09-14T18:00:00Z"
+  "title": "Medallion Acquires Andros to Expand AI-Native Credentialing Across Health Plans and Provider Organizations",
+  "link": "https://www.prnewswire.com/news-releases/medallion-acquires-andros-to-expand-ai-native-credentialing-across-health-plans-and-provider-organizations-302878839.html",
+  "date": "2026-09-15T13:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Arthur J. Gallagher &amp; Co. Acquires Innovise Business Consultants",
+  "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-innovise-business-consultants-302878638.html",
+  "date": "2026-09-15T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Jazz Pharmaceuticals Completes Acquisition of Actio Biosciences",
+  "link": "https://www.prnewswire.com/news-releases/jazz-pharmaceuticals-completes-acquisition-of-actio-biosciences-302879077.html",
+  "date": "2026-09-15T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SC Gov. Henry McMaster Voices Support for Union Pacific-Norfolk Southern Merger",
+  "link": "https://www.prnewswire.com/news-releases/sc-gov-henry-mcmaster-voices-support-for-union-pacific-norfolk-southern-merger-302879038.html",
+  "date": "2026-09-15T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Keystone Enters California Market with Acquisition of Infinity Assurance Group",
+  "link": "https://www.prnewswire.com/news-releases/keystone-enters-california-market-with-acquisition-of-infinity-assurance-group-302879073.html",
+  "date": "2026-09-15T12:59:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Creative Sign Designs Announces Acquisition of Rite Lite Signs",
+  "link": "https://www.prnewswire.com/news-releases/creative-sign-designs-announces-acquisition-of-rite-lite-signs-302878416.html",
+  "date": "2026-09-15T12:45:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Abry-backed Centauri Health Solutions acquires Benny the Benefits Navigator",
+  "link": "https://www.pehub.com/abry-backed-centauri-health-solutions-acquires-benny-the-benefits-navigator/",
+  "date": "2026-09-15T12:15:42Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CommonGround Acquired by Farmers National Company to help Landowners and Farmers Navigate a Changing Agricultural Economy",
+  "link": "https://www.prnewswire.com/news-releases/commonground-acquired-by-farmers-national-company-to-help-landowners-and-farmers-navigate-a-changing-agricultural-economy-302878934.html",
+  "date": "2026-09-15T12:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Amuze Acquires Sweet Attractions, Strengthening California Operations and Family Entertainment Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/amuze-acquires-sweet-attractions-strengthening-california-operations-and-family-entertainment-capabilities-302878500.html",
+  "date": "2026-09-15T12:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SU Group Holdings Limited Announces Proposed Acquisition of KM Safety Solution Company Limited",
+  "link": "https://www.prnewswire.com/news-releases/su-group-holdings-limited-announces-proposed-acquisition-of-km-safety-solution-company-limited-302878188.html",
+  "date": "2026-09-15T12:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -165,18 +165,18 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food &amp; Beverage Technology",
-  "link": "https://www.prnewswire.com/news-releases/vip-announces-strategic-acquisition-of-encompass-technologies-to-accelerate-the-future-of-food--beverage-technology-302877838.html",
-  "date": "2026-09-14T17:30:00Z"
+  "title": "Commonwealth Electrical Technologies Acquires Horton Electrical Services, Expanding Northeast Footprint and Specialized Infrastructure Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/commonwealth-electrical-technologies-acquires-horton-electrical-services-expanding-northeast-footprint-and-specialized-infrastructure-capabilities-302878499.html",
+  "date": "2026-09-15T12:00:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Procare Solutions Acquires Playground, Combining Industry Leading Expertise with Innovative, AI-Powered Child Care Technology",
-  "link": "https://www.prnewswire.com/news-releases/procare-solutions-acquires-playground-combining-industry-leading-expertise-with-innovative-ai-powered-child-care-technology-302877732.html",
-  "date": "2026-09-14T15:00:00Z"
+  "title": "RedCloud Capital makes investment in APS Environmental Group",
+  "link": "https://www.pehub.com/redcloud-capital-makes-investment-in-aps-environmental-group/",
+  "date": "2026-09-15T11:38:41Z"
  }
 ]
