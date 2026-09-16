@@ -1,13 +1,83 @@
 [
  {
   "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
+  "type": "Strategic Investment",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "MRO Expands Enterprise Clinical Data Management Platform with Acquisition of Vyne Medical",
-  "link": "https://www.prnewswire.com/news-releases/mro-expands-enterprise-clinical-data-management-platform-with-acquisition-of-vyne-medical-302879649.html",
-  "date": "2026-09-16T11:30:00Z"
+  "title": "CGF Holdings Makes Strategic Investment in MediPro Direct, Marking a Return to the Mobile Diagnostics Market",
+  "link": "https://www.prnewswire.com/news-releases/cgf-holdings-makes-strategic-investment-in-medipro-direct-marking-a-return-to-the-mobile-diagnostics-market-302880587.html",
+  "date": "2026-09-16T14:02:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Investors bullish on Major League Baseball despite potential lockout; Niobrara acquires managed IT services provider MSP Corp",
+  "link": "https://www.pehub.com/investors-bullish-on-major-league-baseball-despite-potential-lockout-niobrara-acquires-managed-it-services-provider-msp-corp/",
+  "date": "2026-09-16T13:50:28Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Kofile Technologies, Inc. Acquires Scantek",
+  "link": "https://www.prnewswire.com/news-releases/kofile-technologies-inc-acquires-scantek-302880008.html",
+  "date": "2026-09-16T13:17:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "€1B",
+  "title": "FountainVest and HSG among Asian PE firms exploring €1bn Alpinestars deal",
+  "link": "https://www.privateequitywire.co.uk/fountainvest-and-hsg-among-asian-pe-firms-exploring-e1bn-alpinestars-deal/",
+  "date": "2026-09-16T13:01:04Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ESS Announces Acquisition of HeyTutor, Expanding K-12 Workforce Solutions with Tutoring and Academic Intervention Services",
+  "link": "https://www.prnewswire.com/news-releases/ess-announces-acquisition-of-heytutor-expanding-k-12-workforce-solutions-with-tutoring-and-academic-intervention-services-302879932.html",
+  "date": "2026-09-16T13:00:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "Financials",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: American Savings Bank of Hawaii Prices Upsized IPO at $16 – Mid-Point",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-american-savings-bank-of-hawaii-prices-upsized-ipo-at-16-mid-point/",
+  "date": "2026-09-16T12:25:59Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Niobrara Capital acquires Canadian managed IT services platform MSP Corp",
+  "link": "https://www.pehub.com/niobrara-capital-acquires-canadian-managed-it-services-platform-msp-corp/",
+  "date": "2026-09-16T12:16:59Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Daxko acquires Alaris, strengthening childcare safety, compliance, and wellbeing for fitness and wellness operators",
+  "link": "https://www.prnewswire.com/news-releases/daxko-acquires-alaris-strengthening-childcare-safety-compliance-and-wellbeing-for-fitness-and-wellness-operators-302880122.html",
+  "date": "2026-09-16T12:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -20,13 +90,13 @@
   "date": "2026-09-16T11:30:00Z"
  },
  {
-  "src": "MarketWatch",
+  "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
-  "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+  "title": "MRO Expands Enterprise Clinical Data Management Platform with Acquisition of Vyne Medical",
+  "link": "https://www.prnewswire.com/news-releases/mro-expands-enterprise-clinical-data-management-platform-with-acquisition-of-vyne-medical-302879649.html",
   "date": "2026-09-16T11:30:00Z"
  },
  {
@@ -75,8 +145,8 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "TRG Expands Field Services Capabilities with Acquisition of Vista Technology Support",
-  "link": "https://www.prnewswire.com/news-releases/trg-expands-field-services-capabilities-with-acquisition-of-vista-technology-support-302879449.html",
+  "title": "TRG renforce ses capacités en matière de services sur site grâce à l'acquisition de Vista Technology Support",
+  "link": "https://www.prnewswire.com/news-releases/trg-renforce-ses-capacites-en-matiere-de-services-sur-site-grace-a-lacquisition-de-vista-technology-support-302880438.html",
   "date": "2026-09-16T11:00:00Z"
  },
  {
@@ -85,8 +155,8 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "TRG renforce ses capacités en matière de services sur site grâce à l'acquisition de Vista Technology Support",
-  "link": "https://www.prnewswire.com/news-releases/trg-renforce-ses-capacites-en-matiere-de-services-sur-site-grace-a-lacquisition-de-vista-technology-support-302880438.html",
+  "title": "TRG Expands Field Services Capabilities with Acquisition of Vista Technology Support",
+  "link": "https://www.prnewswire.com/news-releases/trg-expands-field-services-capabilities-with-acquisition-of-vista-technology-support-302879449.html",
   "date": "2026-09-16T11:00:00Z"
  },
  {
@@ -108,75 +178,5 @@
   "title": "Quorum Cyber Announces Intent to Acquire Ontinue, Building an Unrivaled Microsoft-First Agentic SOC for the Autonomous Threat Era",
   "link": "https://www.prnewswire.com/news-releases/quorum-cyber-announces-intent-to-acquire-ontinue-building-an-unrivaled-microsoft-first-agentic-soc-for-the-autonomous-threat-era-302879556.html",
   "date": "2026-09-16T10:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "$2.9B",
-  "title": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
-  "link": "https://www.wsj.com/business/deals/brookfield-agrees-to-2-9-billion-acquisition-of-australias-reliance-ec8240d7?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-16T08:23:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "EQT and Norges team up in bid for Acciona Energia",
-  "link": "https://www.privateequitywire.co.uk/eqt-and-norges-team-up-in-bid-for-acciona-energia/",
-  "date": "2026-09-16T08:17:41Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$2.9B",
-  "title": "Brookfield to acquire Reliance Worldwide in $2.9bn deal",
-  "link": "https://www.privateequitywire.co.uk/brookfield-to-acquire-reliance-worldwide-in-2-9bn-deal/",
-  "date": "2026-09-16T08:10:14Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$11.7B",
-  "title": "Goldman Sachs Alternatives raises $11.7bn across latest PE funds",
-  "link": "https://www.privateequitywire.co.uk/goldman-sachs-alternatives-raises-11-7bn-across-latest-pe-funds/",
-  "date": "2026-09-16T08:09:01Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Brightstar Lottery PLC Announces Results of Tender Offer",
-  "link": "https://www.prnewswire.com/news-releases/brightstar-lottery-plc-announces-results-of-tender-offer-302879871.html",
-  "date": "2026-09-16T08:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Adelis Equity Partners agrees majority stake in consultancy alliance Newground",
-  "link": "https://www.pehub.com/adelis-equity-partners-agrees-majority-stake-in-consultancy-alliance-newground/",
-  "date": "2026-09-16T07:58:51Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Pollen Street-backed OrderYOYO completes bolt-on acquisition of Dutch payments firm Cashdesk",
-  "link": "https://www.pehub.com/pollen-street-backed-orderyoyo-completes-bolt-on-acquisition-of-dutch-payments-firm-cashdesk/",
-  "date": "2026-09-16T07:46:55Z"
  }
 ]
