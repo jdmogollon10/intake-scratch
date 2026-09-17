@@ -1,93 +1,53 @@
 [
  {
   "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "LATAM",
+  "value": "Undisclosed",
+  "title": "Bank7 Corp. to Acquire Century Financial Services Corporation and Expand Southwest Franchise into New Mexico",
+  "link": "https://www.prnewswire.com/news-releases/bank7-corp-to-acquire-century-financial-services-corporation-and-expand-southwest-franchise-into-new-mexico-302881309.html",
+  "date": "2026-09-17T11:30:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Sheridan Capital Partners acquires physical therapy software platform PtEverywhere",
+  "link": "https://www.pehub.com/sheridan-capital-partners-acquires-physical-therapy-software-platform-pteverywhere/",
+  "date": "2026-09-17T11:00:20Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Daily Briefing: A-CAP Insurers Face Takeover Bid Over Risky Private Credit",
+  "link": "https://www.wsj.com/pro/bankruptcy/daily-briefing-a-cap-insurers-face-takeover-bid-over-risky-private-credit-cd70ad51?mod=rss_markets_main",
+  "date": "2026-09-17T10:55:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+  "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+  "date": "2026-09-17T10:55:00Z"
+ },
+ {
+  "src": "PE Hub",
   "type": "Strategic Investment",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "CGF Holdings Makes Strategic Investment in MediPro Direct, Marking a Return to the Mobile Diagnostics Market",
-  "link": "https://www.prnewswire.com/news-releases/cgf-holdings-makes-strategic-investment-in-medipro-direct-marking-a-return-to-the-mobile-diagnostics-market-302880587.html",
-  "date": "2026-09-16T14:02:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Investors bullish on Major League Baseball despite potential lockout; Niobrara acquires managed IT services provider MSP Corp",
-  "link": "https://www.pehub.com/investors-bullish-on-major-league-baseball-despite-potential-lockout-niobrara-acquires-managed-it-services-provider-msp-corp/",
-  "date": "2026-09-16T13:50:28Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Kofile Technologies, Inc. Acquires Scantek",
-  "link": "https://www.prnewswire.com/news-releases/kofile-technologies-inc-acquires-scantek-302880008.html",
-  "date": "2026-09-16T13:17:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "€1B",
-  "title": "FountainVest and HSG among Asian PE firms exploring €1bn Alpinestars deal",
-  "link": "https://www.privateequitywire.co.uk/fountainvest-and-hsg-among-asian-pe-firms-exploring-e1bn-alpinestars-deal/",
-  "date": "2026-09-16T13:01:04Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ESS Announces Acquisition of HeyTutor, Expanding K-12 Workforce Solutions with Tutoring and Academic Intervention Services",
-  "link": "https://www.prnewswire.com/news-releases/ess-announces-acquisition-of-heytutor-expanding-k-12-workforce-solutions-with-tutoring-and-academic-intervention-services-302879932.html",
-  "date": "2026-09-16T13:00:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "Financials",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: American Savings Bank of Hawaii Prices Upsized IPO at $16 – Mid-Point",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-american-savings-bank-of-hawaii-prices-upsized-ipo-at-16-mid-point/",
-  "date": "2026-09-16T12:25:59Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Niobrara Capital acquires Canadian managed IT services platform MSP Corp",
-  "link": "https://www.pehub.com/niobrara-capital-acquires-canadian-managed-it-services-platform-msp-corp/",
-  "date": "2026-09-16T12:16:59Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Daxko acquires Alaris, strengthening childcare safety, compliance, and wellbeing for fitness and wellness operators",
-  "link": "https://www.prnewswire.com/news-releases/daxko-acquires-alaris-strengthening-childcare-safety-compliance-and-wellbeing-for-fitness-and-wellness-operators-302880122.html",
-  "date": "2026-09-16T12:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Divestiture",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Chord Energy Announces Divestiture of Non-Operated Marcellus Assets",
-  "link": "https://www.prnewswire.com/news-releases/chord-energy-announces-divestiture-of-non-operated-marcellus-assets-302880509.html",
-  "date": "2026-09-16T11:30:00Z"
+  "title": "CVC invests in Ridge as Horizon Capital exits stake",
+  "link": "https://www.pehub.com/cvc-invests-in-ridge-as-horizon-capital-exits-stake/",
+  "date": "2026-09-17T10:47:06Z"
  },
  {
   "src": "PR Newswire",
@@ -95,88 +55,128 @@
   "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "MRO Expands Enterprise Clinical Data Management Platform with Acquisition of Vyne Medical",
-  "link": "https://www.prnewswire.com/news-releases/mro-expands-enterprise-clinical-data-management-platform-with-acquisition-of-vyne-medical-302879649.html",
-  "date": "2026-09-16T11:30:00Z"
+  "title": "Aethlon Medical &amp; North Immunology Announce Merger to Advance Novel IL-13 x IL-18 Bispecific Antibody for Atopic Dermatitis",
+  "link": "https://www.prnewswire.com/news-releases/aethlon-medical--north-immunology-announce-merger-to-advance-novel-il-13-x-il-18-bispecific-antibody-for-atopic-dermatitis-302881438.html",
+  "date": "2026-09-17T10:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Ara Partners Acquires Majority Interest in Bryden Wood, a Leading International Integrated Design and Engineering Firm",
+  "link": "https://www.prnewswire.com/news-releases/ara-partners-acquires-majority-interest-in-bryden-wood-a-leading-international-integrated-design-and-engineering-firm-302881133.html",
+  "date": "2026-09-17T10:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "LUCA ANNOUNCES AGREEMENT TO ACQUIRE EL BARQUEÑO FROM AGNICO EAGLE",
+  "link": "https://www.prnewswire.com/news-releases/luca-announces-agreement-to-acquire-el-barqueno-from-agnico-eagle-302881426.html",
+  "date": "2026-09-17T10:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "UK",
+  "value": "Undisclosed",
+  "title": "Main Capital’s Sjoerd Aarts shares plans as firm ups UK presence; Clearlake grows Chelsea FC stake; CVC DIF, Carlyle and EQT in security deals",
+  "link": "https://www.pehub.com/main-capitals-sjoerd-aarts-shares-plans-as-firm-ups-uk-presence-clearlake-grows-chelsea-fc-stake-cvc-dif-carlyle-and-eqt-in-security-deals/",
+  "date": "2026-09-17T08:56:59Z"
  },
  {
   "src": "PE Hub",
   "type": "M&A",
   "industry": "—",
-  "region": "US",
+  "region": "—",
   "value": "Undisclosed",
-  "title": "Brightstar-backed Bendon acquires Hinkler’s North American business in add-on deal",
-  "link": "https://www.pehub.com/brightstar-backed-bendon-acquires-hinklers-north-american-business-in-add-on-deal/",
-  "date": "2026-09-16T11:14:04Z"
+  "title": "Carlyle and CVC DIF agree to acquire BauWatch from Haniel",
+  "link": "https://www.pehub.com/carlyle-and-cvc-dif-agree-to-acquire-bauwatch-from-haniel/",
+  "date": "2026-09-17T08:31:38Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Guesty acquires Smily, deepening its investment in France's booming short-term rental market",
+  "link": "https://www.prnewswire.com/news-releases/guesty-acquires-smily-deepening-its-investment-in-frances-booming-short-term-rental-market-302881655.html",
+  "date": "2026-09-17T08:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "111 Inc. Receives Unsolicited Preliminary Non-Binding Proposal to Acquire the Company",
+  "link": "https://www.prnewswire.com/news-releases/111-inc-receives-unsolicited-preliminary-non-binding-proposal-to-acquire-the-company-302881784.html",
+  "date": "2026-09-17T08:25:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$1.6B",
+  "title": "Bain Capital Ventures raises $1.6bn fund to back ‘next-gen’ AI startups",
+  "link": "https://www.privateequitywire.co.uk/bain-capital-ventures-raises-1-6bn-fund-to-back-next-gen-ai-startups/",
+  "date": "2026-09-17T07:48:56Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Clearlake takes control of Chelsea as Boehly and Walter sell 25% stake",
+  "link": "https://www.privateequitywire.co.uk/clearlake-takes-control-of-chelsea-as-boehly-and-walter-sell-25-stake/",
+  "date": "2026-09-17T07:46:00Z"
  },
  {
   "src": "PE Hub",
   "type": "M&A",
-  "industry": "Technology",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Main Capital Partners agrees to acquire higher education software firm Watermark",
-  "link": "https://www.pehub.com/main-capital-partners-agrees-to-acquire-higher-education-software-firm-watermark/",
-  "date": "2026-09-16T11:05:04Z"
+  "title": "Clearlake Capital to acquire full control of Chelsea FC from Boehly, Walter",
+  "link": "https://www.pehub.com/clearlake-capital-to-acquire-full-control-of-chelsea-fc-from-boehly-walter/",
+  "date": "2026-09-17T07:33:57Z"
  },
  {
   "src": "PE Hub",
   "type": "Strategic Investment",
   "industry": "—",
   "region": "—",
-  "value": "Undisclosed",
-  "title": "Vitruvian Partners acquires majority stake in Smartling from Battery Ventures",
-  "link": "https://www.pehub.com/vitruvian-partners-acquires-majority-stake-in-smartling-from-battery-ventures/",
-  "date": "2026-09-16T11:00:51Z"
+  "value": "€620M",
+  "title": "Amundi completes €620m stake purchase in ICG",
+  "link": "https://www.pehub.com/amundi-completes-e620m-stake-purchase-in-icg/",
+  "date": "2026-09-17T07:14:25Z"
  },
  {
-  "src": "Crunchbase",
+  "src": "PE Hub",
   "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
+  "industry": "—",
+  "region": "UK",
   "value": "Undisclosed",
-  "title": "A Hard Year For Software IPOs",
-  "link": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
-  "date": "2026-09-16T11:00:47Z"
+  "title": "Main Capital gets busy with UK deals after opening London office",
+  "link": "https://www.pehub.com/main-capital-gets-busy-with-uk-deals-after-opening-london-office/",
+  "date": "2026-09-17T06:00:59Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "TRG renforce ses capacités en matière de services sur site grâce à l'acquisition de Vista Technology Support",
-  "link": "https://www.prnewswire.com/news-releases/trg-renforce-ses-capacites-en-matiere-de-services-sur-site-grace-a-lacquisition-de-vista-technology-support-302880438.html",
-  "date": "2026-09-16T11:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "TRG Expands Field Services Capabilities with Acquisition of Vista Technology Support",
-  "link": "https://www.prnewswire.com/news-releases/trg-expands-field-services-capabilities-with-acquisition-of-vista-technology-support-302879449.html",
-  "date": "2026-09-16T11:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Trackonomy Completes Acquisition of Identiv's IoT Business, Building the Industry's Only Silicon-to-Cloud Physical AI Group",
-  "link": "https://www.prnewswire.com/news-releases/trackonomy-completes-acquisition-of-identivs-iot-business-building-the-industrys-only-silicon-to-cloud-physical-ai-group-302880278.html",
-  "date": "2026-09-16T10:12:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Quorum Cyber Announces Intent to Acquire Ontinue, Building an Unrivaled Microsoft-First Agentic SOC for the Autonomous Threat Era",
-  "link": "https://www.prnewswire.com/news-releases/quorum-cyber-announces-intent-to-acquire-ontinue-building-an-unrivaled-microsoft-first-agentic-soc-for-the-autonomous-threat-era-302879556.html",
-  "date": "2026-09-16T10:00:00Z"
+  "title": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+  "link": "https://www.wsj.com/business/spacex-ipo-payouts-41e64c45?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-17T00:00:00Z"
  }
 ]
