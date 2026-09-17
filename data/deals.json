@@ -1,53 +1,93 @@
 [
  {
-  "src": "PR Newswire",
+  "src": "WSJ",
   "type": "M&A",
   "industry": "—",
-  "region": "LATAM",
-  "value": "Undisclosed",
-  "title": "Bank7 Corp. to Acquire Century Financial Services Corporation and Expand Southwest Franchise into New Mexico",
-  "link": "https://www.prnewswire.com/news-releases/bank7-corp-to-acquire-century-financial-services-corporation-and-expand-southwest-franchise-into-new-mexico-302881309.html",
-  "date": "2026-09-17T11:30:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Sheridan Capital Partners acquires physical therapy software platform PtEverywhere",
-  "link": "https://www.pehub.com/sheridan-capital-partners-acquires-physical-therapy-software-platform-pteverywhere/",
-  "date": "2026-09-17T11:00:20Z"
+  "title": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
+  "link": "https://www.wsj.com/business/hospitality/ftc-requests-additional-information-regarding-fertitta-caesars-merger-5af7103d?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-17T14:40:00Z"
  },
  {
-  "src": "WSJ",
+  "src": "Crunchbase",
   "type": "M&A",
   "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Daily Briefing: A-CAP Insurers Face Takeover Bid Over Risky Private Credit",
-  "link": "https://www.wsj.com/pro/bankruptcy/daily-briefing-a-cap-insurers-face-takeover-bid-over-risky-private-credit-cd70ad51?mod=rss_markets_main",
-  "date": "2026-09-17T10:55:00Z"
+  "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
+  "link": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
+  "date": "2026-09-17T14:00:42Z"
  },
  {
-  "src": "MarketWatch",
+  "src": "PE Hub",
   "type": "M&A",
   "industry": "Energy",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
-  "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
-  "date": "2026-09-17T10:55:00Z"
+  "title": "Robust deal pipeline as Q4 approaches; Vector Capital taps Kiran Rao as head of value creation",
+  "link": "https://www.pehub.com/robust-deal-pipeline-as-q4-approaches-vector-capital-taps-kiran-rao-as-head-of-value-creation/",
+  "date": "2026-09-17T13:55:17Z"
  },
  {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
+  "src": "PR Newswire",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "CVC invests in Ridge as Horizon Capital exits stake",
-  "link": "https://www.pehub.com/cvc-invests-in-ridge-as-horizon-capital-exits-stake/",
-  "date": "2026-09-17T10:47:06Z"
+  "title": "Banyan Group Announces Acquisition of Newmark Hotels &amp; Reserves, Adding 26 Hotels, Lodges, and Reserves Across Seven African Countries",
+  "link": "https://www.prnewswire.com/news-releases/banyan-group-announces-acquisition-of-newmark-hotels--reserves-adding-26-hotels-lodges-and-reserves-across-seven-african-countries-302882140.html",
+  "date": "2026-09-17T13:36:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Arlington-backed Everest Clinical Research acquires Firma’s data services unit",
+  "link": "https://www.pehub.com/arlington-backed-everest-clinical-research-acquires-firmas-data-services-unit/",
+  "date": "2026-09-17T13:26:11Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Real Estate",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "GMH Communities and Invesco Real Estate Acquire Student Housing Portfolio Steps from Purdue University",
+  "link": "https://www.prnewswire.com/news-releases/gmh-communities-and-invesco-real-estate-acquire-student-housing-portfolio-steps-from-purdue-university-302881417.html",
+  "date": "2026-09-17T13:17:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "I-care Group Acquires Amiral Technologies, Expanding AI-Driven Predictive Maintenance in Nuclear, Defense and Beyond",
+  "link": "https://www.prnewswire.com/news-releases/i-care-group-acquires-amiral-technologies-expanding-ai-driven-predictive-maintenance-in-nuclear-defense-and-beyond-302881532.html",
+  "date": "2026-09-17T13:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Central America Bottling Corporation Commences Capped Tender Offer for 5.250% Senior Guaranteed Sustainability-Linked Notes due 2029",
+  "link": "https://www.prnewswire.com/news-releases/the-central-america-bottling-corporation-commences-capped-tender-offer-for-5-250-senior-guaranteed-sustainability-linked-notes-due-2029--302882086.html",
+  "date": "2026-09-17T13:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "YPF Sociedad Anónima Announces the Expiration of its Tender Offer for its Outstanding 6.950% Senior Securities due 2027 and 2.500%/9.000% Step Up Amortizing Securities due 2029",
+  "link": "https://www.prnewswire.com/news-releases/ypf-sociedad-anonima-announces-the-expiration-of-its-tender-offer-for-its-outstanding-6-950-senior-securities-due-2027-and-2-5009-000-step-up-amortizing-securities-due-2029--302881578.html",
+  "date": "2026-09-17T13:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -55,9 +95,19 @@
   "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Aethlon Medical &amp; North Immunology Announce Merger to Advance Novel IL-13 x IL-18 Bispecific Antibody for Atopic Dermatitis",
-  "link": "https://www.prnewswire.com/news-releases/aethlon-medical--north-immunology-announce-merger-to-advance-novel-il-13-x-il-18-bispecific-antibody-for-atopic-dermatitis-302881438.html",
-  "date": "2026-09-17T10:30:00Z"
+  "title": "NMS Capital Launches Asurgence Medical with the Recapitalization of ENDOCORP and the Acquisition of Medical Optics",
+  "link": "https://www.prnewswire.com/news-releases/nms-capital-launches-asurgence-medical-with-the-recapitalization-of-endocorp-and-the-acquisition-of-medical-optics-302882051.html",
+  "date": "2026-09-17T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "StrategyCorps Acquires Quantuma, an AI-Native Relationship Solution for Commercial Banking",
+  "link": "https://www.prnewswire.com/news-releases/strategycorps-acquires-quantuma-an-ai-native-relationship-solution-for-commercial-banking-302880988.html",
+  "date": "2026-09-17T13:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -65,9 +115,49 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Ara Partners Acquires Majority Interest in Bryden Wood, a Leading International Integrated Design and Engineering Firm",
-  "link": "https://www.prnewswire.com/news-releases/ara-partners-acquires-majority-interest-in-bryden-wood-a-leading-international-integrated-design-and-engineering-firm-302881133.html",
-  "date": "2026-09-17T10:00:00Z"
+  "title": "HR Path renforce son expertise Dayforce au Royaume-Uni et en Irlande avec l'acquisition de ModusForce",
+  "link": "https://www.prnewswire.com/news-releases/hr-path-renforce-son-expertise-dayforce-au-royaume-uni-et-en-irlande-avec-lacquisition-de-modusforce-302880612.html",
+  "date": "2026-09-17T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Airswift Acquires Three New Tech Global Businesses to Become a Leading U.S. Energy Workforce Provider",
+  "link": "https://www.prnewswire.com/news-releases/airswift-acquires-three-new-tech-global-businesses-to-become-a-leading-us-energy-workforce-provider-302881437.html",
+  "date": "2026-09-17T12:52:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "$36.5M",
+  "title": "WareSpace Expands in South Florida and Enters Bay Area with $36.5 Million in Industrial Acquisitions",
+  "link": "https://www.prnewswire.com/news-releases/warespace-expands-in-south-florida-and-enters-bay-area-with-36-5-million-in-industrial-acquisitions-302881440.html",
+  "date": "2026-09-17T12:51:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "$2.8B",
+  "title": "Brookfield agrees to acquire plumbing manufacturer Reliance Worldwide for $2.8bn",
+  "link": "https://www.pehub.com/brookfield-agrees-to-acquire-plumbing-manufacturer-reliance-worldwide-for-2-8bn/",
+  "date": "2026-09-17T12:22:05Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Real Estate",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Streamside RV Resorts &amp; Campgrounds Acquires Bay Point Landing, Marking First Pacific Northwest Property",
+  "link": "https://www.prnewswire.com/news-releases/streamside-rv-resorts--campgrounds-acquires-bay-point-landing-marking-first-pacific-northwest-property-302881316.html",
+  "date": "2026-09-17T12:17:00Z"
  },
  {
   "src": "PR Newswire",
@@ -75,108 +165,18 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "LUCA ANNOUNCES AGREEMENT TO ACQUIRE EL BARQUEÑO FROM AGNICO EAGLE",
-  "link": "https://www.prnewswire.com/news-releases/luca-announces-agreement-to-acquire-el-barqueno-from-agnico-eagle-302881426.html",
-  "date": "2026-09-17T10:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Main Capital’s Sjoerd Aarts shares plans as firm ups UK presence; Clearlake grows Chelsea FC stake; CVC DIF, Carlyle and EQT in security deals",
-  "link": "https://www.pehub.com/main-capitals-sjoerd-aarts-shares-plans-as-firm-ups-uk-presence-clearlake-grows-chelsea-fc-stake-cvc-dif-carlyle-and-eqt-in-security-deals/",
-  "date": "2026-09-17T08:56:59Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Carlyle and CVC DIF agree to acquire BauWatch from Haniel",
-  "link": "https://www.pehub.com/carlyle-and-cvc-dif-agree-to-acquire-bauwatch-from-haniel/",
-  "date": "2026-09-17T08:31:38Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Guesty acquires Smily, deepening its investment in France's booming short-term rental market",
-  "link": "https://www.prnewswire.com/news-releases/guesty-acquires-smily-deepening-its-investment-in-frances-booming-short-term-rental-market-302881655.html",
-  "date": "2026-09-17T08:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "111 Inc. Receives Unsolicited Preliminary Non-Binding Proposal to Acquire the Company",
-  "link": "https://www.prnewswire.com/news-releases/111-inc-receives-unsolicited-preliminary-non-binding-proposal-to-acquire-the-company-302881784.html",
-  "date": "2026-09-17T08:25:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$1.6B",
-  "title": "Bain Capital Ventures raises $1.6bn fund to back ‘next-gen’ AI startups",
-  "link": "https://www.privateequitywire.co.uk/bain-capital-ventures-raises-1-6bn-fund-to-back-next-gen-ai-startups/",
-  "date": "2026-09-17T07:48:56Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Clearlake takes control of Chelsea as Boehly and Walter sell 25% stake",
-  "link": "https://www.privateequitywire.co.uk/clearlake-takes-control-of-chelsea-as-boehly-and-walter-sell-25-stake/",
-  "date": "2026-09-17T07:46:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Clearlake Capital to acquire full control of Chelsea FC from Boehly, Walter",
-  "link": "https://www.pehub.com/clearlake-capital-to-acquire-full-control-of-chelsea-fc-from-boehly-walter/",
-  "date": "2026-09-17T07:33:57Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "€620M",
-  "title": "Amundi completes €620m stake purchase in ICG",
-  "link": "https://www.pehub.com/amundi-completes-e620m-stake-purchase-in-icg/",
-  "date": "2026-09-17T07:14:25Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Main Capital gets busy with UK deals after opening London office",
-  "link": "https://www.pehub.com/main-capital-gets-busy-with-uk-deals-after-opening-london-office/",
-  "date": "2026-09-17T06:00:59Z"
+  "title": "Clarivate Commences Offer to Purchase for Cash Certain of its Outstanding Debt Securities",
+  "link": "https://www.prnewswire.com/news-releases/clarivate-commences-offer-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302881389.html",
+  "date": "2026-09-17T12:15:00Z"
  },
  {
   "src": "WSJ",
-  "type": "IPO",
+  "type": "Divestiture",
   "industry": "—",
   "region": "—",
-  "value": "Undisclosed",
-  "title": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
-  "link": "https://www.wsj.com/business/spacex-ipo-payouts-41e64c45?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-17T00:00:00Z"
+  "value": "$1.3B",
+  "title": "Mark Walter, Todd Boehly to Sell Stake in Chelsea for $1.3 Billion",
+  "link": "https://www.wsj.com/business/deals/mark-walter-todd-boehly-to-sell-stake-in-chelsea-for-1-3-billion-de8fb459?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-17T12:04:00Z"
  }
 ]
