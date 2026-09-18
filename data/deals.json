@@ -1,43 +1,13 @@
 [
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
-  "link": "https://www.wsj.com/business/hospitality/ftc-requests-additional-information-regarding-fertitta-caesars-merger-5af7103d?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-17T14:40:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
-  "link": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
-  "date": "2026-09-17T14:00:42Z"
- },
- {
   "src": "PE Hub",
   "type": "M&A",
-  "industry": "Energy",
+  "industry": "Industrials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Robust deal pipeline as Q4 approaches; Vector Capital taps Kiran Rao as head of value creation",
-  "link": "https://www.pehub.com/robust-deal-pipeline-as-q4-approaches-vector-capital-taps-kiran-rao-as-head-of-value-creation/",
-  "date": "2026-09-17T13:55:17Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Banyan Group Announces Acquisition of Newmark Hotels &amp; Reserves, Adding 26 Hotels, Lodges, and Reserves Across Seven African Countries",
-  "link": "https://www.prnewswire.com/news-releases/banyan-group-announces-acquisition-of-newmark-hotels--reserves-adding-26-hotels-lodges-and-reserves-across-seven-african-countries-302882140.html",
-  "date": "2026-09-17T13:36:00Z"
+  "title": "Mutares exits automotive supplier Cimos in management buyout backed by Vero Automotive",
+  "link": "https://www.pehub.com/mutares-exits-automotive-supplier-cimos-in-management-buyout-backed-by-vero-automotive/",
+  "date": "2026-09-18T11:36:49Z"
  },
  {
   "src": "PE Hub",
@@ -45,19 +15,29 @@
   "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Arlington-backed Everest Clinical Research acquires Firma’s data services unit",
-  "link": "https://www.pehub.com/arlington-backed-everest-clinical-research-acquires-firmas-data-services-unit/",
-  "date": "2026-09-17T13:26:11Z"
+  "title": "PE pursues medical textile businesses: 8 deals",
+  "link": "https://www.pehub.com/pe-pursues-medical-textile-businesses-8-deals/",
+  "date": "2026-09-18T11:00:37Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$45M",
+  "title": "EigenQ and Silicon Valley Acquisition Corp. Announce Approximately $45M Committed Financing to Support EigenQ's Commercialization",
+  "link": "https://www.prnewswire.com/news-releases/eigenq-and-silicon-valley-acquisition-corp-announce-approximately-45m-committed-financing-to-support-eigenqs-commercialization-302883032.html",
+  "date": "2026-09-18T11:00:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Real Estate",
-  "region": "—",
+  "region": "US",
   "value": "Undisclosed",
-  "title": "GMH Communities and Invesco Real Estate Acquire Student Housing Portfolio Steps from Purdue University",
-  "link": "https://www.prnewswire.com/news-releases/gmh-communities-and-invesco-real-estate-acquire-student-housing-portfolio-steps-from-purdue-university-302881417.html",
-  "date": "2026-09-17T13:17:00Z"
+  "title": "Galvanize Real Estate Expands into California with Acquisition of Four-Property Bay Area Portfolio",
+  "link": "https://www.prnewswire.com/news-releases/galvanize-real-estate-expands-into-california-with-acquisition-of-four-property-bay-area-portfolio-302882620.html",
+  "date": "2026-09-18T10:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -65,9 +45,69 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "I-care Group Acquires Amiral Technologies, Expanding AI-Driven Predictive Maintenance in Nuclear, Defense and Beyond",
-  "link": "https://www.prnewswire.com/news-releases/i-care-group-acquires-amiral-technologies-expanding-ai-driven-predictive-maintenance-in-nuclear-defense-and-beyond-302881532.html",
-  "date": "2026-09-17T13:03:00Z"
+  "title": "Pearson Acquires Assessment Technology Provider, ITS",
+  "link": "https://www.prnewswire.com/news-releases/pearson-acquires-assessment-technology-provider-its-302882596.html",
+  "date": "2026-09-18T08:00:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Blackstone and Brookfield lead rival PE consortia in GFL takeover race",
+  "link": "https://www.privateequitywire.co.uk/blackstone-and-brookfield-lead-rival-pe-consortia-in-gfl-takeover-race/",
+  "date": "2026-09-18T07:45:08Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "$329M",
+  "title": "Advent to invest $329m for 24.9% stake in India’s Yatharth Hospitals",
+  "link": "https://www.privateequitywire.co.uk/advent-to-invest-329m-for-24-9-stake-in-indias-yatharth-hospitals/",
+  "date": "2026-09-18T07:35:28Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Ant International-Backed Fintech Unicorn Gets Nod for Philippines’s Largest-Ever IPO",
+  "link": "https://www.wsj.com/business/ant-international-backed-fintech-unicorn-gets-nod-for-philippiness-largest-ever-ipo-da18b0b6?mod=rss_markets_main",
+  "date": "2026-09-18T07:22:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: Electra Therapeutics (ETRA) Upsizes IPO & Prices it at $15 – Mid-Point",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-electra-therapeutics-etra-upsizes-ipo-prices-it-at-15-mid-point/",
+  "date": "2026-09-18T01:10:42Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: Orion180 Insurance (OIG) Prices IPO at $12 – $3 Below Range",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-orion180-insurance-oig-prices-ipo-at-12-3-below-range/",
+  "date": "2026-09-17T23:54:27Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Real Estate",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "EQT Real Estate acquires 5.2 million square foot logistics portfolio across Southern California",
+  "link": "https://www.prnewswire.com/news-releases/eqt-real-estate-acquires-5-2-million-square-foot-logistics-portfolio-across-southern-california-302882632.html",
+  "date": "2026-09-17T20:32:00Z"
  },
  {
   "src": "PR Newswire",
@@ -75,29 +115,19 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The Central America Bottling Corporation Commences Capped Tender Offer for 5.250% Senior Guaranteed Sustainability-Linked Notes due 2029",
-  "link": "https://www.prnewswire.com/news-releases/the-central-america-bottling-corporation-commences-capped-tender-offer-for-5-250-senior-guaranteed-sustainability-linked-notes-due-2029--302882086.html",
-  "date": "2026-09-17T13:01:00Z"
+  "title": "BNCCORP Stockholders Approve Merger with OppFi, Inc.",
+  "link": "https://www.prnewswire.com/news-releases/bnccorp-stockholders-approve-merger-with-oppfi-inc-302881966.html",
+  "date": "2026-09-17T20:30:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Telecom & Media",
   "region": "—",
   "value": "Undisclosed",
-  "title": "YPF Sociedad Anónima Announces the Expiration of its Tender Offer for its Outstanding 6.950% Senior Securities due 2027 and 2.500%/9.000% Step Up Amortizing Securities due 2029",
-  "link": "https://www.prnewswire.com/news-releases/ypf-sociedad-anonima-announces-the-expiration-of-its-tender-offer-for-its-outstanding-6-950-senior-securities-due-2027-and-2-5009-000-step-up-amortizing-securities-due-2029--302881578.html",
-  "date": "2026-09-17T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "NMS Capital Launches Asurgence Medical with the Recapitalization of ENDOCORP and the Acquisition of Medical Optics",
-  "link": "https://www.prnewswire.com/news-releases/nms-capital-launches-asurgence-medical-with-the-recapitalization-of-endocorp-and-the-acquisition-of-medical-optics-302882051.html",
-  "date": "2026-09-17T13:00:00Z"
+  "title": "PBS Western Reserve &amp; Ideastream Public Media Announce Merger to Strengthen the Future of Public Media Across Northeast Ohio and Western Pennsylvania",
+  "link": "https://www.prnewswire.com/news-releases/pbs-western-reserve--ideastream-public-media-announce-merger-to-strengthen-the-future-of-public-media-across-northeast-ohio-and-western-pennsylvania-302882613.html",
+  "date": "2026-09-17T20:15:00Z"
  },
  {
   "src": "PR Newswire",
@@ -105,78 +135,48 @@
   "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "StrategyCorps Acquires Quantuma, an AI-Native Relationship Solution for Commercial Banking",
-  "link": "https://www.prnewswire.com/news-releases/strategycorps-acquires-quantuma-an-ai-native-relationship-solution-for-commercial-banking-302880988.html",
-  "date": "2026-09-17T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "HR Path renforce son expertise Dayforce au Royaume-Uni et en Irlande avec l'acquisition de ModusForce",
-  "link": "https://www.prnewswire.com/news-releases/hr-path-renforce-son-expertise-dayforce-au-royaume-uni-et-en-irlande-avec-lacquisition-de-modusforce-302880612.html",
-  "date": "2026-09-17T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Airswift Acquires Three New Tech Global Businesses to Become a Leading U.S. Energy Workforce Provider",
-  "link": "https://www.prnewswire.com/news-releases/airswift-acquires-three-new-tech-global-businesses-to-become-a-leading-us-energy-workforce-provider-302881437.html",
-  "date": "2026-09-17T12:52:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "$36.5M",
-  "title": "WareSpace Expands in South Florida and Enters Bay Area with $36.5 Million in Industrial Acquisitions",
-  "link": "https://www.prnewswire.com/news-releases/warespace-expands-in-south-florida-and-enters-bay-area-with-36-5-million-in-industrial-acquisitions-302881440.html",
-  "date": "2026-09-17T12:51:00Z"
+  "title": "Quill Bank launches merchant acquiring business, names Deborah Camm to lead",
+  "link": "https://www.prnewswire.com/news-releases/quill-bank-launches-merchant-acquiring-business-names-deborah-camm-to-lead-302882556.html",
+  "date": "2026-09-17T19:13:00Z"
  },
  {
   "src": "PE Hub",
   "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "$2.8B",
-  "title": "Brookfield agrees to acquire plumbing manufacturer Reliance Worldwide for $2.8bn",
-  "link": "https://www.pehub.com/brookfield-agrees-to-acquire-plumbing-manufacturer-reliance-worldwide-for-2-8bn/",
-  "date": "2026-09-17T12:22:05Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Real Estate",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Streamside RV Resorts &amp; Campgrounds Acquires Bay Point Landing, Marking First Pacific Northwest Property",
-  "link": "https://www.prnewswire.com/news-releases/streamside-rv-resorts--campgrounds-acquires-bay-point-landing-marking-first-pacific-northwest-property-302881316.html",
-  "date": "2026-09-17T12:17:00Z"
+  "title": "DelCam-backed Space Age Electronics acquires fire safety maker Gemcom",
+  "link": "https://www.pehub.com/delcam-backed-space-age-electronics-acquires-fire-safety-maker-gemcom/",
+  "date": "2026-09-17T18:34:39Z"
  },
  {
-  "src": "PR Newswire",
+  "src": "PE Hub",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Clarivate Commences Offer to Purchase for Cash Certain of its Outstanding Debt Securities",
-  "link": "https://www.prnewswire.com/news-releases/clarivate-commences-offer-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302881389.html",
-  "date": "2026-09-17T12:15:00Z"
+  "title": "NewSpring Capital leads financing for cell therapy CDMO merger Kincellis",
+  "link": "https://www.pehub.com/newspring-capital-leads-financing-for-cell-therapy-cdmo-merger-kincellis/",
+  "date": "2026-09-17T17:23:05Z"
  },
  {
-  "src": "WSJ",
-  "type": "Divestiture",
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "DELCAM CAPITAL EXPANDS SPACE AGE ELECTRONICS' FIRE &amp; LIFE SAFETY PLATFORM WITH ACQUISITION OF GEMCOM",
+  "link": "https://www.prnewswire.com/news-releases/delcam-capital-expands-space-age-electronics-fire--life-safety-platform-with-acquisition-of-gemcom-302882314.html",
+  "date": "2026-09-17T17:17:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "$1.3B",
-  "title": "Mark Walter, Todd Boehly to Sell Stake in Chelsea for $1.3 Billion",
-  "link": "https://www.wsj.com/business/deals/mark-walter-todd-boehly-to-sell-stake-in-chelsea-for-1-3-billion-de8fb459?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-17T12:04:00Z"
+  "value": "$1.25B",
+  "title": "Apollo invests $1.25bn to back BMG and Concord merger",
+  "link": "https://www.pehub.com/apollo-invests-1-25bn-to-back-bmg-and-concord-merger/",
+  "date": "2026-09-17T17:00:48Z"
  }
 ]
