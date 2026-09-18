@@ -1,5 +1,35 @@
 [
  {
+  "src": "ACG",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Coffee’s for Closers: How Dealmakers Start Their Day",
+  "link": "https://middlemarketgrowth.org/video-coffees-for-closers-how-dealmakers-start-their-day/",
+  "date": "2026-09-18T13:00:53Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Cerity Partners Merges with Gilbert &amp; Cook, Building on More Than 30 Years Serving Clients and Families in Iowa",
+  "link": "https://www.prnewswire.com/news-releases/cerity-partners-merges-with-gilbert--cook-building-on-more-than-30-years-serving-clients-and-families-in-iowa-302882705.html",
+  "date": "2026-09-18T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Darkroom Acquired Shadow, the AI Workspace the Agency Runs On and Opened It to Every Marketing Team",
+  "link": "https://www.prnewswire.com/news-releases/darkroom-acquired-shadow-the-ai-workspace-the-agency-runs-on-and-opened-it-to-every-marketing-team-302883225.html",
+  "date": "2026-09-18T12:04:00Z"
+ },
+ {
   "src": "PE Hub",
   "type": "M&A",
   "industry": "Industrials",
@@ -148,35 +178,5 @@
   "title": "DelCam-backed Space Age Electronics acquires fire safety maker Gemcom",
   "link": "https://www.pehub.com/delcam-backed-space-age-electronics-acquires-fire-safety-maker-gemcom/",
   "date": "2026-09-17T18:34:39Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "NewSpring Capital leads financing for cell therapy CDMO merger Kincellis",
-  "link": "https://www.pehub.com/newspring-capital-leads-financing-for-cell-therapy-cdmo-merger-kincellis/",
-  "date": "2026-09-17T17:23:05Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DELCAM CAPITAL EXPANDS SPACE AGE ELECTRONICS' FIRE &amp; LIFE SAFETY PLATFORM WITH ACQUISITION OF GEMCOM",
-  "link": "https://www.prnewswire.com/news-releases/delcam-capital-expands-space-age-electronics-fire--life-safety-platform-with-acquisition-of-gemcom-302882314.html",
-  "date": "2026-09-17T17:17:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.25B",
-  "title": "Apollo invests $1.25bn to back BMG and Concord merger",
-  "link": "https://www.pehub.com/apollo-invests-1-25bn-to-back-bmg-and-concord-merger/",
-  "date": "2026-09-17T17:00:48Z"
  }
 ]
