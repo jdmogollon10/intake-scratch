@@ -1,5 +1,45 @@
 [
  {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Nvidia-Backed Cloud Startup Nscale Files for IPO",
+  "link": "https://www.wsj.com/business/nvidia-backed-cloud-startup-nscale-files-for-ipo-2622ca12?mod=rss_markets_main",
+  "date": "2026-09-18T20:39:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Farmer's Dog Completes Acquisition of Woof",
+  "link": "https://www.prnewswire.com/news-releases/the-farmers-dog-completes-acquisition-of-woof-302883508.html",
+  "date": "2026-09-18T17:44:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Newmark Arranges Financing for Related Ross' Acquisition of Landmark 1.7 MSF Boca Raton Innovation Campus",
+  "link": "https://www.prnewswire.com/news-releases/newmark-arranges-financing-for-related-ross-acquisition-of-landmark-1-7-msf-boca-raton-innovation-campus-302883385.html",
+  "date": "2026-09-18T15:02:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Veridian Healthcare Completes Acquisition of ScarScience Brand from Mitchell-Vance Laboratories",
+  "link": "https://www.prnewswire.com/news-releases/veridian-healthcare-completes-acquisition-of-scarscience-brand-from-mitchell-vance-laboratories-302883382.html",
+  "date": "2026-09-18T15:00:00Z"
+ },
+ {
   "src": "ACG",
   "type": "M&A",
   "industry": "—",
@@ -115,7 +155,7 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: Electra Therapeutics (ETRA) Upsizes IPO & Prices it at $15 – Mid-Point",
+  "title": "The IPO Buzz: Electra Therapeutics (ETRA) Upsizes IPO & Prices it at $15 Mid-Point",
   "link": "https://www.iposcoop.com/the-ipo-buzz-electra-therapeutics-etra-upsizes-ipo-prices-it-at-15-mid-point/",
   "date": "2026-09-18T01:10:42Z"
  },
@@ -125,7 +165,7 @@
   "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: Orion180 Insurance (OIG) Prices IPO at $12 – $3 Below Range",
+  "title": "The IPO Buzz: Orion180 Insurance (OIG) Prices IPO at $12 – $3 Below Range – & Stock Falls",
   "link": "https://www.iposcoop.com/the-ipo-buzz-orion180-insurance-oig-prices-ipo-at-12-3-below-range/",
   "date": "2026-09-17T23:54:27Z"
  },
@@ -138,45 +178,5 @@
   "title": "EQT Real Estate acquires 5.2 million square foot logistics portfolio across Southern California",
   "link": "https://www.prnewswire.com/news-releases/eqt-real-estate-acquires-5-2-million-square-foot-logistics-portfolio-across-southern-california-302882632.html",
   "date": "2026-09-17T20:32:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BNCCORP Stockholders Approve Merger with OppFi, Inc.",
-  "link": "https://www.prnewswire.com/news-releases/bnccorp-stockholders-approve-merger-with-oppfi-inc-302881966.html",
-  "date": "2026-09-17T20:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "PBS Western Reserve &amp; Ideastream Public Media Announce Merger to Strengthen the Future of Public Media Across Northeast Ohio and Western Pennsylvania",
-  "link": "https://www.prnewswire.com/news-releases/pbs-western-reserve--ideastream-public-media-announce-merger-to-strengthen-the-future-of-public-media-across-northeast-ohio-and-western-pennsylvania-302882613.html",
-  "date": "2026-09-17T20:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Quill Bank launches merchant acquiring business, names Deborah Camm to lead",
-  "link": "https://www.prnewswire.com/news-releases/quill-bank-launches-merchant-acquiring-business-names-deborah-camm-to-lead-302882556.html",
-  "date": "2026-09-17T19:13:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DelCam-backed Space Age Electronics acquires fire safety maker Gemcom",
-  "link": "https://www.pehub.com/delcam-backed-space-age-electronics-acquires-fire-safety-maker-gemcom/",
-  "date": "2026-09-17T18:34:39Z"
  }
 ]
