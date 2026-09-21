@@ -1,28 +1,28 @@
 {
  "WSJ Markets": [
-  "Stock Market Today: Stock Futures Tick Up as Oil Falls",
+  "Stock Market Today: Drop in Oil Prices Unlocks Rally in Tech Shares",
   "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026?mod=rss_markets_main",
   "2026-09-21T08:45:28Z"
  ],
  "WSJ Business": [
-  "CNN Removed From White House TV Press Pool After Trump Ban",
-  "https://www.wsj.com/business/media/cnn-removed-from-white-house-tv-press-pool-after-trump-ban-931f86c7?mod=pls_whats_news_us_business_f",
-  "2026-09-21T11:14:00Z"
+  "Silver Lake Takes On Carl Icahn and the Merger Arbitrage World in Endeavor Fight",
+  "https://www.wsj.com/business/deals/silver-lake-takes-on-carl-icahn-and-all-of-merger-arbitrage-in-endeavor-fight-4da9e2ba?mod=pls_whats_news_us_business_f",
+  "2026-09-21T16:28:00Z"
  ],
  "WSJ Tech & IPOs": [
-  "The Morning Risk Report: Polymarket’s Rush to Grow Left a Door Wide Open for Fraudsters",
-  "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-polymarkets-rush-to-grow-left-a-door-wide-open-for-fraudsters-290dfe34?mod=rss_Technology",
-  "2026-09-21T10:50:00Z"
+  "Trust in Leadership Proves Latest Challenge for Corporate AI Ambitions",
+  "https://www.wsj.com/cio-journal/trust-in-leadership-proves-latest-challenge-for-corporate-ai-ambitions-55b779a4?mod=rss_Technology",
+  "2026-09-21T12:44:00Z"
  ],
  "MarketWatch": [
-  "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
-  "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-  "2026-09-21T11:30:00Z"
+  "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+  "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+  "2026-09-21T16:30:00Z"
  ],
  "Semafor Business": [
-  "Data centers drive a surge in climate tech funding",
-  "https://www.semafor.com/article/09/21/2026/data-centers-drive-a-surge-in-climate-tech-funding",
-  "2026-09-21T11:04:51Z"
+  "Republican group slashes ad spending in NC Senate race",
+  "https://www.semafor.com/article/09/21/2026/republican-group-slashes-ad-spending-in-nc-senate-race",
+  "2026-09-21T16:26:39Z"
  ],
  "Sky News Business": [
   "Converse apologises and removes ad after backlash",
@@ -30,24 +30,24 @@
   "2026-09-21T06:33:00Z"
  ],
  "City AM": [
-  "A tourist tax will be bad for all business, not just hotels",
-  "https://www.cityam.com/a-tourist-tax-will-be-bad-for-all-business-not-just-hotels/",
-  "2026-09-21T11:35:16Z"
+  "Tech the only bright spot as job security fears climb to highest level since 2023",
+  "https://www.cityam.com/tech-the-only-bright-spot-as-job-security-fears-climb-to-highest-level-since-2023/",
+  "2026-09-21T16:36:49Z"
  ],
  "Fortune": [
-  "Money-losing Nscale’s $35 billion IPO includes a $3 billion deal with Nvidia and ‘going concern’ worries",
-  "https://fortune.com/2026/09/21/nscale-35-billion-ipo-nvidia-going-concern/",
-  "2026-09-21T10:25:56Z"
+  "‘Be transparent only if asked’: Inside OpenAI’s rogue AI transcripts",
+  "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
+  "2026-09-21T11:09:43Z"
  ],
  "Investing.com Markets": [
-  "Smart ring maker Oura, shareholders look to raise up to $2.2 billion in US IPO",
-  "https://www.investing.com/news/stock-market-news/smart-ring-maker-oura-shareholders-look-to-raise-up-to-22-billion-in-us-ipo-4908799",
-  "2026-09-21T11:24:59Z"
+  "China making progress on finalizing Boeing purchases announced in May",
+  "https://www.investing.com/news/stock-market-news/china-making-progress-on-finalizing-boeing-purchases-announced-in-may-4909437",
+  "2026-09-21T16:18:56Z"
  ],
  "Asia Financial": [
-  "Climate Activists in Bangkok Call for End to Gas Expansion in Asia",
-  "https://www.asiafinancial.com/climate-activists-in-bangkok-call-for-end-to-gas-expansion-in-asia",
-  "2026-09-18T19:27:47Z"
+  "Asia Markets Rise on Positive China Talks Ahead of Xi’s Trip to US",
+  "https://www.asiafinancial.com/asia-markets-rise-on-positive-china-talks-ahead-of-xis-trip-to-us",
+  "2026-09-21T12:42:24Z"
  ],
  "Sherwood News": [
   "Credit markets have a “debt” problem, not a “risk” problem",
@@ -60,9 +60,9 @@
   "2026-09-21T10:05:05Z"
  ],
  "IPOScoop": [
-  "The IPO Buzz: Bamboo Insurance (BMB Proposed) Tops Late September Line-Up",
-  "https://www.iposcoop.com/the-ipo-buzz-bamboo-insurance-bmb-proposed-tops-late-september-line-up/",
-  "2026-09-21T09:51:24Z"
+  "The IPO Buzz: Oura (OURA Proposed) Launches $2.1 Billion IPO",
+  "https://www.iposcoop.com/the-ipo-buzz-oura-oura-proposed-sets-terms-for-2-1-billion-ipo/",
+  "2026-09-21T13:49:58Z"
  ],
  "Crunchbase News": [
   "The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead",
@@ -110,9 +110,9 @@
   "2026-09-21T01:11:13Z"
  ],
  "Bloomberg Línea": [
-  "El Súper El Niño ya está aquí y amenaza alimentos y energía: qué significa para América Latina",
-  "https://www.bloomberglinea.com/mercados/el-super-el-nino-ya-esta-aqui-y-amenaza-alimentos-y-energia-que-significa-para-america-latina/",
-  "2026-09-21T11:00:00Z"
+  "Argentina se acerca a Brasil como segundo exportador mundial de maíz: el récord de US$10.100 millones en juego",
+  "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-se-acerca-a-brasil-como-segundo-exportador-mundial-de-maiz-el-record-de-us10100-millones-en-juego/",
+  "2026-09-21T16:39:24Z"
  ],
  "Brazil Journal": [
   "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos",
@@ -125,9 +125,9 @@
   "2026-09-18T17:15:36Z"
  ],
  "eixos": [
-  "Conta das subvenções cresce: diesel importado bate recorde; Petrobras já recebeu quase R$ 10 bi",
-  "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
-  "2026-09-21T10:02:20Z"
+  "Próximo plano de negócios da Petrobras trará meta de autossuficiência em diesel, diz Chambriard",
+  "https://eixos.com.br/petroleo-e-gas/proximo-plano-de-negocios-da-petrobras-trara-meta-de-autossuficiencia-em-diesel-diz-chambriard/",
+  "2026-09-21T16:02:44Z"
  ],
  "LAVCA": [
   "See You Next Week: Global Trends in Tech; Rounds for Kapital, Magnar, Bull",
@@ -136,8 +136,8 @@
  ],
  "HLS Corp Gov Forum": [
   "2026 U.S. Compensation Post Season Review: Strong Investor Support Despite Resurgence of One-Time Grants",
-  "https://corpgov.law.harvard.edu/2026/09/21/2026-u-s-compensation-post-season-review-strong-investor-support-despite-resurgence-of-one-time-grants/?utm_source=rss&utm_medium=rss&utm_campaign=2026-u-s-compensation-post-season-review-strong-investor-support-despite-resurgence-of-one-time-grants",
-  "2026-09-21T11:32:59Z"
+  "https://corpgov.law.harvard.edu/2026/09/21/2026-u-s-compensation-post-season-review-strong-investor-support-despite-resurgence-of-one-time-grants-2/?utm_source=rss&utm_medium=rss&utm_campaign=2026-u-s-compensation-post-season-review-strong-investor-support-despite-resurgence-of-one-time-grants-2",
+  "2026-09-21T13:51:40Z"
  ],
  "Middle Market Growth": [
   "Rocketing Defense Spending’s Effect on Middle-Market M&A",

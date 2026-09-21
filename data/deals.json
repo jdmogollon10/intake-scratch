@@ -1,5 +1,105 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Silver Lake Takes On Carl Icahn and the Merger Arbitrage World in Endeavor Fight",
+  "link": "https://www.wsj.com/business/deals/silver-lake-takes-on-carl-icahn-and-all-of-merger-arbitrage-in-endeavor-fight-4da9e2ba?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-21T16:28:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Adlib Acquires Paperbox: Combining Agentic Intake &amp; Orchestration with a Data Foundation Regulators Trust",
+  "link": "https://www.prnewswire.com/news-releases/adlib-acquires-paperbox-combining-agentic-intake--orchestration-with-a-data-foundation-regulators-trust-302884706.html",
+  "date": "2026-09-21T14:30:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Changing attitude of consumers leads to increased PE interest in better-for-you foods; OceanSound-backed PAR excellence acquires Terso",
+  "link": "https://www.pehub.com/changing-attitude-of-consumers-leads-to-increased-pe-interest-in-better-for-you-foods-oceansound-backed-par-excellence-acquires-terso/",
+  "date": "2026-09-21T13:58:28Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$2.1B",
+  "title": "The IPO Buzz: Oura (OURA Proposed) Launches $2.1 Billion IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-oura-oura-proposed-sets-terms-for-2-1-billion-ipo/",
+  "date": "2026-09-21T13:49:58Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Media One Acquires Premex Solutions, Expanding Its Digital Textile Portfolio into Home Décor and Apparel",
+  "link": "https://www.prnewswire.com/news-releases/media-one-acquires-premex-solutions-expanding-its-digital-textile-portfolio-into-home-decor-and-apparel-302884769.html",
+  "date": "2026-09-21T13:42:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Citadel Aviation to Acquire Mach 1 Aviation Group, Establishing Broader Gulfstream Maintenance Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/citadel-aviation-to-acquire-mach-1-aviation-group-establishing-broader-gulfstream-maintenance-capabilities-302884404.html",
+  "date": "2026-09-21T13:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "OceanSound-backed PAR Excellence acquires RFID inventory firm Terso Solutions from Promega",
+  "link": "https://www.pehub.com/oceansound-backed-par-excellence-acquires-rfid-inventory-firm-terso-solutions-from-promega/",
+  "date": "2026-09-21T12:26:05Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "AI visibility platform Searchable acquires New York's Meridian in seven-figure deal",
+  "link": "https://www.prnewswire.com/news-releases/ai-visibility-platform-searchable-acquires-new-yorks-meridian-in-seven-figure-deal-302883134.html",
+  "date": "2026-09-21T12:15:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$1.6B",
+  "title": "Priority Technology CEO to Take Firm Private in $1.6 Billion Deal",
+  "link": "https://www.wsj.com/business/deals/priority-technology-ceo-to-take-firm-private-in-1-6-billion-deal-e3b4fa36?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-21T12:11:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "$350M",
+  "title": "The IPO Buzz: ADARx Pharmaceuticals (ADRX Proposed) Sets Terms for $350 Million IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-adarx-pharmaceuticals-adrx-proposed-sets-terms-for-350-million-ipo/",
+  "date": "2026-09-21T11:38:17Z"
+ },
+ {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "—",
@@ -78,105 +178,5 @@
   "title": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks",
   "link": "https://www.wsj.com/business/deals/perpetual-rejects-eqt-abs-improved-offer-ends-takeover-talks-44f70f5e?mod=pls_whats_news_us_business_f",
   "date": "2026-09-21T03:53:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "$1.5B",
-  "title": "Paramount Discussed $1.5 Billion California Investment to Clear Merger Hurdle",
-  "link": "https://www.wsj.com/business/media/paramount-discussed-1-5-billion-california-investment-to-clear-merger-hurdle-ebe9f59b?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-21T02:20:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The Farmer's Dog Completes Acquisition of Woof",
-  "link": "https://www.prnewswire.com/news-releases/the-farmers-dog-completes-acquisition-of-woof-302883508.html",
-  "date": "2026-09-18T17:44:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Newmark Arranges Financing for Related Ross' Acquisition of Landmark 1.7 MSF Boca Raton Innovation Campus",
-  "link": "https://www.prnewswire.com/news-releases/newmark-arranges-financing-for-related-ross-acquisition-of-landmark-1-7-msf-boca-raton-innovation-campus-302883385.html",
-  "date": "2026-09-18T15:02:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Veridian Healthcare Completes Acquisition of ScarScience Brand from Mitchell-Vance Laboratories",
-  "link": "https://www.prnewswire.com/news-releases/veridian-healthcare-completes-acquisition-of-scarscience-brand-from-mitchell-vance-laboratories-302883382.html",
-  "date": "2026-09-18T15:00:00Z"
- },
- {
-  "src": "ACG",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Coffee’s for Closers: How Dealmakers Start Their Day",
-  "link": "https://middlemarketgrowth.org/video-coffees-for-closers-how-dealmakers-start-their-day/",
-  "date": "2026-09-18T13:00:53Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cerity Partners Merges with Gilbert &amp; Cook, Building on More Than 30 Years Serving Clients and Families in Iowa",
-  "link": "https://www.prnewswire.com/news-releases/cerity-partners-merges-with-gilbert--cook-building-on-more-than-30-years-serving-clients-and-families-in-iowa-302882705.html",
-  "date": "2026-09-18T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Darkroom Acquired Shadow, the AI Workspace the Agency Runs On and Opened It to Every Marketing Team",
-  "link": "https://www.prnewswire.com/news-releases/darkroom-acquired-shadow-the-ai-workspace-the-agency-runs-on-and-opened-it-to-every-marketing-team-302883225.html",
-  "date": "2026-09-18T12:04:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Mutares exits automotive supplier Cimos in management buyout backed by Vero Automotive",
-  "link": "https://www.pehub.com/mutares-exits-automotive-supplier-cimos-in-management-buyout-backed-by-vero-automotive/",
-  "date": "2026-09-18T11:36:49Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "PE pursues medical textile businesses: 8 deals",
-  "link": "https://www.pehub.com/pe-pursues-medical-textile-businesses-8-deals/",
-  "date": "2026-09-18T11:00:37Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$45M",
-  "title": "EigenQ and Silicon Valley Acquisition Corp. Announce Approximately $45M Committed Financing to Support EigenQ's Commercialization",
-  "link": "https://www.prnewswire.com/news-releases/eigenq-and-silicon-valley-acquisition-corp-announce-approximately-45m-committed-financing-to-support-eigenqs-commercialization-302883032.html",
-  "date": "2026-09-18T11:00:00Z"
  }
 ]
