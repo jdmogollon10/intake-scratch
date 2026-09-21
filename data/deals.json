@@ -1,13 +1,93 @@
 [
  {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Technology",
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Nvidia-Backed Cloud Startup Nscale Files for IPO",
-  "link": "https://www.wsj.com/business/nvidia-backed-cloud-startup-nscale-files-for-ipo-2622ca12?mod=rss_markets_main",
-  "date": "2026-09-18T20:39:00Z"
+  "title": "Ingenia rejects improved AUD2.06bn Warburg Pincus takeover proposal",
+  "link": "https://www.privateequitywire.co.uk/ingenia-rejects-improved-aud2-06bn-warburg-pincus-takeover-proposal/",
+  "date": "2026-09-21T10:05:05Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: Bamboo Insurance (BMB Proposed) Tops Late September Line-Up",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-bamboo-insurance-bmb-proposed-tops-late-september-line-up/",
+  "date": "2026-09-21T09:51:24Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$12.5B",
+  "title": "NBA changes PE rules ahead of proposed $12.5bn Lakers acquisition",
+  "link": "https://www.privateequitywire.co.uk/nba-changes-pe-rules-ahead-of-proposed-12-5bn-lakers-acquisition/",
+  "date": "2026-09-21T09:50:38Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "£5.7B",
+  "title": "DCC Energy shareholders approve £5.7bn takeover by KKR and ECP",
+  "link": "https://www.privateequitywire.co.uk/dcc-energy-shareholders-approve-5-7bn-takeover-by-kkr-and-ecp/",
+  "date": "2026-09-21T09:35:01Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Grünenthal acquires cancer treatment Stivarga®",
+  "link": "https://www.prnewswire.com/news-releases/grunenthal-acquires-cancer-treatment-stivarga-302884518.html",
+  "date": "2026-09-21T08:42:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Investindustrial’s Nexture signs deal to acquire Dubai chocolate maker La Crema",
+  "link": "https://www.pehub.com/investindustrials-nexture-signs-deal-to-acquire-dubai-chocolate-maker-la-crema/",
+  "date": "2026-09-21T07:18:29Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.47B",
+  "title": "Ingenia Communities Rejects Warburg Pincus’s Improved $1.47 Billion Takeover Offer",
+  "link": "https://www.wsj.com/business/deals/ingenia-communities-rejects-warburg-pincuss-improved-1-47-billion-takeover-offer-c36f1391?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-21T06:31:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks",
+  "link": "https://www.wsj.com/business/deals/perpetual-rejects-eqt-abs-improved-offer-ends-takeover-talks-44f70f5e?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-21T03:53:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "$1.5B",
+  "title": "Paramount Discussed $1.5 Billion California Investment to Clear Merger Hurdle",
+  "link": "https://www.wsj.com/business/media/paramount-discussed-1-5-billion-california-investment-to-clear-merger-hurdle-ebe9f59b?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-21T02:20:00Z"
  },
  {
   "src": "PR Newswire",
@@ -98,85 +178,5 @@
   "title": "EigenQ and Silicon Valley Acquisition Corp. Announce Approximately $45M Committed Financing to Support EigenQ's Commercialization",
   "link": "https://www.prnewswire.com/news-releases/eigenq-and-silicon-valley-acquisition-corp-announce-approximately-45m-committed-financing-to-support-eigenqs-commercialization-302883032.html",
   "date": "2026-09-18T11:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Real Estate",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Galvanize Real Estate Expands into California with Acquisition of Four-Property Bay Area Portfolio",
-  "link": "https://www.prnewswire.com/news-releases/galvanize-real-estate-expands-into-california-with-acquisition-of-four-property-bay-area-portfolio-302882620.html",
-  "date": "2026-09-18T10:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Pearson Acquires Assessment Technology Provider, ITS",
-  "link": "https://www.prnewswire.com/news-releases/pearson-acquires-assessment-technology-provider-its-302882596.html",
-  "date": "2026-09-18T08:00:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Blackstone and Brookfield lead rival PE consortia in GFL takeover race",
-  "link": "https://www.privateequitywire.co.uk/blackstone-and-brookfield-lead-rival-pe-consortia-in-gfl-takeover-race/",
-  "date": "2026-09-18T07:45:08Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "$329M",
-  "title": "Advent to invest $329m for 24.9% stake in India’s Yatharth Hospitals",
-  "link": "https://www.privateequitywire.co.uk/advent-to-invest-329m-for-24-9-stake-in-indias-yatharth-hospitals/",
-  "date": "2026-09-18T07:35:28Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Ant International-Backed Fintech Unicorn Gets Nod for Philippines’s Largest-Ever IPO",
-  "link": "https://www.wsj.com/business/ant-international-backed-fintech-unicorn-gets-nod-for-philippiness-largest-ever-ipo-da18b0b6?mod=rss_markets_main",
-  "date": "2026-09-18T07:22:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: Electra Therapeutics (ETRA) Upsizes IPO & Prices it at $15 Mid-Point",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-electra-therapeutics-etra-upsizes-ipo-prices-it-at-15-mid-point/",
-  "date": "2026-09-18T01:10:42Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: Orion180 Insurance (OIG) Prices IPO at $12 – $3 Below Range – & Stock Falls",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-orion180-insurance-oig-prices-ipo-at-12-3-below-range/",
-  "date": "2026-09-17T23:54:27Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Real Estate",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "EQT Real Estate acquires 5.2 million square foot logistics portfolio across Southern California",
-  "link": "https://www.prnewswire.com/news-releases/eqt-real-estate-acquires-5-2-million-square-foot-logistics-portfolio-across-southern-california-302882632.html",
-  "date": "2026-09-17T20:32:00Z"
  }
 ]
