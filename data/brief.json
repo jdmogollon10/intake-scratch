@@ -1,169 +1,179 @@
 {
  "status": "live",
- "session": "Friday, September 18, 2026",
- "builtAt": "2026-09-18T12:15:00Z",
+ "session": "Monday, September 21, 2026",
+ "builtAt": "2026-09-21T11:40:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,637.76",
-   "c": "+1.11% Thu",
+   "v": "7,650.50",
+   "c": "+0.17% Fri",
    "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,418.30",
-   "c": "+1.69% Thu",
+   "v": "26,522.55",
+   "c": "+0.39% Fri",
    "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "51,778.04",
-   "c": "+316.14 Thu",
-   "dir": "up"
+   "v": "51,682.64",
+   "c": "-95.40 Fri (-0.18%)",
+   "dir": "dn"
   },
   {
    "n": "US 10Y",
-   "v": "4.93%",
-   "c": "down Thu from Wed's Fed-day close near 5.02%",
+   "v": "~4.96%",
+   "c": "eased ~3bp Mon AM",
    "dir": "dn"
   },
   {
    "n": "Brent",
-   "v": "~$102.57",
-   "c": "−2.2% Fri AM, third straight losing session",
+   "v": "$102.09",
+   "c": "-1.71% Mon AM, 4th drop in 5 sessions",
    "dir": "dn"
   },
   {
    "n": "Gold",
-   "v": "~$4,384",
-   "c": "+~1% Fri AM, extending Thu's gain",
-   "dir": "up"
+   "v": "~$4,375",
+   "c": "off Fri's push toward $4,400",
+   "dir": "dn"
   }
  ],
- "tapeLine": "Wednesday's post-Fed selloff fully reversed Thursday: the S&amp;P 500 rose 1.1% to 7,637.76, the Nasdaq Composite jumped 1.7% to 26,418.30 and the Dow added 316.14 points (+0.6%) to 51,778.04, per the AP's Thursday market wrap, while the 10-year Treasury yield eased to 4.93% from Wednesday's Fed-day close near 5.02%. Thursday's US data leaned firm rather than soft: initial jobless claims fell 10,000 to 196,000 for the week of 12 September, the lowest since July, and the Philadelphia Fed's September manufacturing index cooled to 37.8 from August's 47.4 but still beat the 30.5 consensus, per RTTNews. Housing was mixed &mdash; total starts fell 2.6% to a 1.275 million annualized rate as multifamily construction dropped, even as single-family starts jumped 7.6% to 918,000 and permits slipped 1.8% &mdash; and NAR's pending home sales index rose 0.3% in August but stayed 4.7% below a year ago. Overnight, the Bank of Japan raised its policy rate to 1.25% from 1.0% in a split vote, a 31-year high, and Asian equities rallied on Wall Street's rebound and easing oil: the Nikkei 225 gained 1.9% to 65,332.57 and the Kospi jumped 2.3% to 6,866.83, per AP's Friday wrap. Brent extended its slide toward $102.57 Friday morning as traders weighed fresh Houthi strikes on Saudi targets against signs more Saudi crude could reach the market despite them, per CNBC. Today is a quadruple-witching Friday &mdash; stock-index futures, index options, stock options and single-stock futures all expire &mdash; a distinct source of late-session volume and volatility. Industrial production/capacity utilization (9:15 ET) and the Conference Board's Leading Economic Index (10:00 ET) are the day's scheduled US data.",
- "matters": "<p>Thursday undid Wednesday's Fed-day selloff: the S&amp;P 500 rose 1.1% to 7,637.76, the Nasdaq Composite jumped 1.7% to 26,418.30 and the Dow added 316.14 points (0.6%) to 51,778.04, while the 10-year Treasury yield eased back to 4.93% from Wednesday's Fed-day close near 5.02%, per the AP's Thursday market wrap. Falling oil prices and the retreat in yields did the work &mdash; not a change in the Fed outlook itself, which still points to one more 2026 hike per Wednesday's dot plot.</p><p>The first US data since the FOMC blackout lifted argued against, not for, an early unwind of that second hike. Initial jobless claims fell 10,000 to 196,000 for the week of 12 September, the lowest since July, with continuing claims at a more-than-two-year low, per Bloomberg. The Philadelphia Fed's September manufacturing index cooled to 37.8 from August's 47.4 but still beat the 30.5 consensus, per RTTNews. Housing was the exception that muddies the picture: total starts fell 2.6% to a 1.275 million annualized rate on a multifamily pullback, even as single-family starts jumped 7.6% to 918,000; single-family permits slipped 1.8%; and NAR's pending home sales index rose only 0.3% in August and remained 4.7% below a year earlier, per NAR's Thursday release. Labor data firmed the hike case; housing stayed soft. The dot plot's extra 2026 hike is still a call on data that hasn't fully arrived.</p><p>Overnight, the Bank of Japan raised its policy rate to 1.25% from 1.0% in a split vote &mdash; a 31-year high &mdash; and Asian equities rallied on Wall Street's rebound and easing oil prices: the Nikkei 225 gained 1.9% to 65,332.57, the Kospi jumped 2.3% to 6,866.83 and Hong Kong's Hang Seng added roughly 0.7%, per AP's Friday wrap.</p><p>The oil-pipeline story this brief has tracked since 10 September now runs alongside a second, distinct threat: Yemen's Houthi rebels have pushed south along the Red Sea coast and struck Saudi targets over the past week, reigniting Yemen's civil war and threatening a maritime chokepoint separate from the East-West pipeline itself, per ABC News (Australia) and NPR. Brent nonetheless extended its slide to about $102.57 Friday morning &mdash; a third straight losing session &mdash; as traders weighed the fresh Houthi strikes against signs more Saudi crude could still reach the market, per CNBC. The pipeline's own repair timeline (half capacity within days, full capacity in roughly six weeks per Bloomberg's Wednesday reporting) is unchanged, but it is no longer the only supply risk in this thread.</p><p>The AI-China story stayed on its separate, political track. Preparations for a bilateral AI risk-and-safety dialogue ahead of the 24 September Trump-Xi summit in Washington are reportedly underway, though timing, participants and agenda remain unsettled, per Nikkei Asia; the summit's broader agenda also covers trade, semiconductors, rare earths and Taiwan. No crossover into the rate story has emerged.</p><p>The financing thread stayed open for a fifth session: no new debt-financed sponsor buyout has printed since Sequence Holdings/DFO's mostly-equity purchase of Baldwin Group on 14 September, and Friday's search turned up no new candidate.</p><p><b>Invalidation:</b> today is a quadruple-witching Friday, when index and single-stock futures and options all expire together; volume and price swings into the close can run well ahead of anything in the news, so late-session moves should be read with that in mind rather than as fresh signal. Weekend risk around the Houthi-Saudi confrontation is also live and untested by this brief.</p>",
+ "tapeLine": "Stocks closed a choppy, triple-witching Friday little changed: the S&amp;P 500 added 0.17% to 7,650.50 and the Nasdaq Composite gained 0.39% to 26,522.55, while the Dow slipped 95.40 points (-0.18%) to 51,682.64, capping a losing week for the Dow (-1.7%, its worst since March) and the S&amp;P 500 (-0.1%), with only the Nasdaq higher on the week (+0.7%), per Yahoo Finance's and TheStreet's Friday market wraps. Overnight Saturday, Houthi forces fired a ballistic missile at Riyadh for the first time and struck an Aramco facility at Yanbu on the Red Sea; Saudi air defenses said they intercepted the Riyadh missile and gave no confirmation of damage at Yanbu, per Al Jazeera. Oil fell anyway: Brent crude futures dropped 1.71% to $102.09 a barrel and WTI fell 1.96% to $98.33 Monday morning as traders focused on Saudi export flows holding near 4 million bpd rather than the attack itself, per CNBC. US stock futures rose Monday on the retreating oil and softer yields &mdash; Dow futures +0.8%, S&amp;P 500 futures +0.7%, Nasdaq-100 futures +1.1% &mdash; with markets also looking ahead to Thursday's Trump-Xi summit in Washington, per Bloomberg's Sunday-evening wrap. Chicago Fed president Austan Goolsbee speaks at 6:30 ET and the Chicago Fed National Activity Index (Aug) is due at 7:30 ET; the week's bigger catalysts are Wednesday's flash PMIs and Thursday's summit.",
+ "matters": "<p>Friday closed a choppy, triple-witching session little changed: the S&amp;P 500 added 0.17% to 7,650.50 and the Nasdaq Composite gained 0.39% to 26,522.55, while the Dow slipped 95.40 points (-0.18%) to 51,682.64, per Yahoo Finance's and TheStreet's Friday market wraps. The week itself was a loser for two of three major indexes &mdash; the Dow fell 1.7%, its worst week since March, and the S&amp;P 500 slipped 0.1%, while only the Nasdaq gained (+0.7%) &mdash; as markets digested Wednesday's Fed hike and the mixed data that followed it.</p><p>Saturday brought the sharpest escalation yet in the Saudi conflict this brief has tracked since 10 September: Houthi forces fired a ballistic missile at Riyadh itself for the first time and separately struck an Aramco facility at Yanbu on the Red Sea. Saudi air defenses said the Riyadh missile was intercepted; officials gave no confirmation of damage at Yanbu, per Al Jazeera. Oil fell anyway on Monday &mdash; Brent dropped 1.71% to $102.09 and WTI fell 1.96% to $98.33 &mdash; as traders weighed Saudi export flows holding near 4 million barrels a day against the attack itself, per CNBC.</p><p><b>Correcting Friday's framing:</b> the 18 September brief described the Houthi advance as \"reigniting Yemen's civil war\" on a track \"separate from the East-West pipeline itself.\" That undersold the story. The Houthis are an Iran-aligned belligerent in the wider 2026 Iran war, which began with US and Israeli strikes on 28 February and has kept the Strait of Hormuz effectively closed since &mdash; Hormuz traffic was still down roughly 95% from pre-war levels as of late August, per Al Jazeera's reporting. The East-West pipeline, Saudi Arabia's overland bypass to the Red Sea, has itself been down since drone strikes on 11 September. Saturday's strike on Riyadh means Saudi Arabia is now exposed on both of its export corridors from the same war, not two unrelated disputes.</p><p>The Fed's second-hike question stayed genuinely open. The September dot plot showed 16 of 18 FOMC participants penciling in at least one more 2026 hike, with four seeing room for two; fed funds futures priced roughly an 87% chance of at least one more 25bp move by the December meeting, per reporting on the SEP. No new data has arrived since Thursday's mixed jobless-claims/housing prints to move that further; Wednesday's flash PMIs are the next scheduled test.</p><p>The Trump-Xi summit, set for Thursday in Washington, is now the week's largest scheduled catalyst: a tariff-truce extension (the 2025 Busan truce expires in November), rare earths, Taiwan and AI governance are all on the agenda, and Big Tech CEOs are set to join a related White House session on AI rules the same day, per The National and Seoul Economic Daily. The AI-China thread stayed on its separate, political track over the weekend: China's Foreign Ministry and state media rejected Anthropic CEO Dario Amodei's 14 September call to tighten chip export controls and slow frontier AI development, calling it a \"Cold War playbook,\" but there has been no crossover into the rate or markets story.</p><p>The financing thread stayed open for a further session: no new debt-financed sponsor buyout has printed since Sequence Holdings/DFO's Baldwin Group deal on 14 September, and the weekend produced no new candidate.</p><p><b>Invalidation:</b> Thursday's Trump-Xi summit could move markets well ahead of Wednesday's PMI data if tariffs, Taiwan or AI governance produce a surprise. Saturday's strike on Riyadh is also an untested step-change in the war; Monday's oil move assumes Saudi export data holds up, and that assumption has not yet been tested by a full week of shipping data.</p>",
  "calendar": [
   {
-   "time": "Fri 09:15",
-   "event": "Industrial Production & Capacity Utilization (Aug)",
+   "time": "Mon 06:30",
+   "event": "Chicago Fed President Goolsbee speaks",
    "consensus": "—",
    "prior": "—",
    "impact": "low"
   },
   {
-   "time": "Fri 10:00",
-   "event": "Conference Board Leading Economic Index (Aug)",
+   "time": "Mon 07:30",
+   "event": "Chicago Fed National Activity Index (Aug)",
    "consensus": "—",
    "prior": "—",
    "impact": "low"
   }
  ],
- "alsoOnTape": "Today is a quadruple-witching Friday &mdash; stock-index futures, index options, stock options and single-stock futures all expire simultaneously &mdash; historically a source of elevated volume and late-session volatility independent of news flow. With the FOMC blackout lifted, Fed officials are free to speak on the record again on the pipeline dispute, the AI-China story or the financing test; none had done so as of this writing.",
+ "alsoOnTape": "The week's bigger catalysts are still ahead: S&amp;P Global's flash PMIs land Wednesday at 9:45 ET, and Thursday brings the Trump-Xi summit in Washington, with tariffs, rare earths, Taiwan and AI governance on the agenda and Big Tech CEOs joining a related White House AI session the same day.",
  "overnight": [
-  "<b>US Thursday close</b> &mdash; S&amp;P 500 +1.1% to 7,637.76, Nasdaq Composite +1.7% to 26,418.30, Dow +316.14 (+0.6%) to 51,778.04, Russell 2000 +0.6% to 2,874.63, reversing most of Wednesday's Fed-day selloff.",
-  "<b>Rates</b> &mdash; the 10-year Treasury yield eased to 4.93% Thursday from Wednesday's Fed-day close near 5.02%.",
-  "<b>Data</b> &mdash; initial jobless claims fell 10,000 to 196,000 (lowest since July); Philly Fed's September index cooled to 37.8 from 47.4 in August but beat the 30.5 consensus; total housing starts fell 2.6% to 1.275 million annualized as single-family starts jumped 7.6% to 918,000; NAR pending home sales +0.3% in August, still −4.7% year-over-year.",
-  "<b>BOJ</b> &mdash; Japan's central bank raised its policy rate to 1.25% from 1.0% in a split vote, a 31-year high.",
-  "<b>Asia</b> &mdash; Nikkei 225 +1.9% to 65,332.57, Kospi +2.3% to 6,866.83, Hang Seng +~0.7% to 24,769.80, tracking Wall Street's rebound and easing oil.",
-  "<b>Oil / Houthi</b> &mdash; Brent extended its slide toward $102.57 Friday morning, a third straight losing session, as fresh Houthi strikes on Saudi targets were weighed against signs more Saudi crude could still reach the market.",
-  "<b>This morning</b> &mdash; gold traded near $4,384, up roughly 1% and extending Thursday's gain; today is a quadruple-witching options/futures expiration."
+  "<b>US Friday close</b> &mdash; S&amp;P 500 +0.17% to 7,650.50, Nasdaq Composite +0.39% to 26,522.55, Dow -95.40 (-0.18%) to 51,682.64 on a triple-witching session, capping a losing week for the Dow (-1.7%) and S&amp;P 500 (-0.1%); only the Nasdaq gained on the week (+0.7%).",
+  "<b>Houthi strike on Riyadh</b> &mdash; Saturday, Houthi forces fired a ballistic missile at the Saudi capital for the first time and struck an Aramco site at Yanbu on the Red Sea; Saudi air defenses said the Riyadh missile was intercepted and gave no confirmation of damage at Yanbu.",
+  "<b>Oil</b> &mdash; Brent fell 1.71% to $102.09 and WTI fell 1.96% to $98.33 Monday morning, a fourth losing session in five, on signs Saudi export flows are holding near 4 million bpd despite the attacks.",
+  "<b>Rates</b> &mdash; the 10-year Treasury yield eased roughly 3bp toward 4.96% early Monday; Chicago Fed's Austan Goolsbee speaks at 6:30 ET.",
+  "<b>Futures</b> &mdash; Dow +0.8%, S&amp;P 500 +0.7%, Nasdaq-100 +1.1% ahead of the open, with markets looking to Thursday's Trump-Xi summit.",
+  "<b>Gold</b> &mdash; trading near $4,375, off Friday's push toward $4,400."
  ],
  "deals": [],
  "macro": [
-  "<b>Data</b> &mdash; Thursday's first post-blackout releases leaned firm: jobless claims fell to a two-month low and the Philly Fed index beat consensus despite cooling, while housing starts and pending home sales stayed soft &mdash; a mixed read on the dot plot's flagged second 2026 hike.",
-  "<b>BOJ</b> &mdash; Japan raised its policy rate to 1.25% from 1.0% in a split vote overnight, a 31-year high, weakening the yen.",
-  "<b>Oil / Houthi</b> &mdash; a second, distinct supply threat (Houthi attacks along the Red Sea) is now running alongside the East-West pipeline repair story tracked since 10 September; Brent still eased Friday morning on signs of more available Saudi crude.",
-  "<b>Calendar</b> &mdash; Industrial Production & Capacity Utilization (Aug) at 9:15 ET and the Conference Board's Leading Economic Index (Aug) at 10:00 ET are Friday's scheduled US releases."
+  "<b>Fed</b> &mdash; the September dot plot showed 16 of 18 FOMC participants penciling in at least one more 2026 hike (four expect two), and futures markets priced roughly an 87% chance of at least one more 25bp increase by December; no new data has arrived since Thursday's mixed claims/housing prints to move that further.",
+  "<b>Iran war / oil</b> &mdash; Saturday's Houthi missile at Riyadh and strike on Aramco's Yanbu site were the first Houthi hits on the Saudi capital itself, but Brent fell anyway Monday (-1.71% to $102.09) as traders focused on Saudi export flows near 4 million bpd; the Strait of Hormuz has been effectively shut since the war began 28 February and the East-West pipeline has been down since 11 September, so Riyadh is now exposed on both export corridors at once.",
+  "<b>Trump-Xi summit</b> &mdash; Thursday's Washington meeting is the week's largest scheduled catalyst: tariff-truce extension, rare earths, Taiwan and AI governance are all on the agenda, with Big Tech CEOs joining a related White House AI session the same day.",
+  "<b>Financing desk</b> &mdash; no new debt-financed sponsor buyout has printed since Sequence Holdings/DFO's Baldwin Group deal on 14 September; the weekend produced no new candidate."
  ],
  "flow": [
-  "US stocks rallied Thursday, reversing Wednesday's Fed-day selloff: S&amp;P 500 +1.1% to 7,637.76, Nasdaq Composite +1.7% to 26,418.30, Dow +0.6% to 51,778.04.",
-  "Asian equities followed through Friday on the US rebound and a further drop in oil, with the Nikkei and Kospi both up more than 1.5% despite the Bank of Japan's overnight rate hike.",
-  "Oil fell for a third straight session, Brent near $102.57 and WTI near $100.05 Friday morning, as fresh Houthi strikes on Saudi targets were offset by signs more Saudi crude could still reach the market.",
-  "Gold traded near $4,384 early Friday, up roughly 1% and extending Thursday's advance.",
-  "Financing desk: no new debt-financed sponsor buyout has printed since Baldwin Group on 14 September; the test this brief has tracked since 10 September stays open.",
+  "US stock futures rose Monday as oil retreated and yields eased: Dow futures +0.8%, S&amp;P 500 futures +0.7%, Nasdaq-100 futures +1.1%, per Bloomberg's Sunday-evening wrap.",
+  "Oil fell for a fourth session in five: Brent -1.71% to $102.09, WTI -1.96% to $98.33 Monday morning, as Saudi export data outweighed Saturday's Houthi strike on Riyadh, per CNBC.",
+  "Gold eased to around $4,375 Monday, off Friday's push toward $4,400.",
+  "Last week was a loser for two of three US indexes: Dow -1.7% (worst week since March), S&amp;P 500 -0.1%, Nasdaq Composite +0.7%, per Yahoo Finance's Monday market-open piece.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page. Nothing here is positioning analysis &mdash; it is sector observation from the tape."
  ],
  "levels": [],
  "regime": {
-  "tag": "Post-hike rally intact; Houthi supply risk layered onto the pipeline story; financing test still open",
-  "sizing": "Thursday's rally reversed Wednesday's Fed-day selloff on falling oil and easing yields, not on any change to the Fed's own signal of one more 2026 hike. The first post-blackout data leaned toward reinforcing that second hike (firm claims, a Philly Fed beat) rather than undermining it, while housing stayed soft, so the dot plot's extra hike remains unconfirmed either way. The oil thread has gained a second, distinct risk in the Houthi advance along the Red Sea, layered on top of the East-West pipeline repair already in progress. The financing test set on 10 September remains open with no new candidate. Today is quadruple-witching, which can exaggerate late-session price action independent of any of the above."
+  "tag": "Futures rally on falling oil and firming Fed hike odds; Saudi war risk now hitting Riyadh directly; Trump-Xi summit Thursday is the week's swing factor",
+  "sizing": "Monday's futures strength (Dow +0.8%, S&amp;P 500 +0.7%, Nasdaq-100 +1.1%) rests on oil's retreat, which itself rests on Saudi export flows holding despite Saturday's first-ever Houthi strike on Riyadh &mdash; an assumption not yet tested by a full week of shipping data. The Fed's second-hike odds have firmed to roughly 87% per futures pricing on the September dot plot, but no new economic data has arrived since Thursday to confirm it either way; Wednesday's flash PMIs are the next test. Thursday's Trump-Xi summit is the week's largest scheduled catalyst and could move markets on tariffs, Taiwan or AI governance well ahead of any of the above."
  },
  "watchlist": [],
- "secondOrder": "Five threads carried into Friday. The Fed-data thread got its first real test: Thursday's jobless claims and Philly Fed both came in firm-to-beat, which argues for follow-through on the dot plot's second 2026 hike rather than against it, while housing starts and pending home sales stayed soft &mdash; leaving the hike call genuinely undecided rather than resolved. The oil thread split into two: the East-West pipeline's own repair timeline (six weeks to full capacity) is unchanged, but Houthi attacks along the Red Sea coast have added a second, geographically distinct supply risk that this brief had not previously tracked, even as Friday's price action (Brent's third straight down day) suggests the market is for now pricing more supply, not less. The AI-China thread stayed detached from markets but gained texture: a bilateral AI risk dialogue is reportedly being prepared ahead of the 24 September Trump-Xi summit, though its shape is still unsettled. The financing thread stayed open for a fifth session with no new debt-financed buyout since Baldwin on 14 September. And a new, mechanical thread opened today: quadruple witching, which can move prices on its own independent of any of the fundamental threads above.",
+ "secondOrder": "Five threads run into the week. The oil/Iran-war thread escalated over the weekend to its sharpest point yet &mdash; the first Houthi strike on Riyadh itself &mdash; yet Monday's price action (Brent's fourth drop in five sessions) says the market is pricing continuity of Saudi exports, not disruption; that bet is untested by a full week of shipping data and sits on top of an already-closed Strait of Hormuz and an already-down East-West pipeline, a fact Friday's brief undersold by treating the Houthi advance as a separate, reignited civil war rather than part of the same Iran war. The Fed thread firmed numerically (87% odds of at least one more hike per futures pricing on the dot plot) without any new data to test it; Wednesday's flash PMIs are the next real input. The Trump-Xi thread gained a hard date and a concrete agenda (tariffs, rare earths, Taiwan, AI) for Thursday, making it the week's single largest scheduled catalyst, while the Amodei-China AI dispute stayed adjacent to it but has not crossed into the rate or markets story. And the financing thread stayed open for a further session, with no debt-financed buyout since Baldwin on 14 September.",
  "scorecard": [
   {
-   "verdict": "right",
-   "text": "The 17 September brief's tapeLine cited futures pointing to a Thursday recovery of roughly Dow +0.7%, S&amp;P 500 +0.8%, Nasdaq-100 +1.1%. The actual session beat that indication: the S&amp;P 500 rose 1.1% to 7,637.76, the Nasdaq Composite jumped 1.7% to 26,418.30 and the Dow added 0.6% to 51,778.04, per the AP's Thursday close."
+   "verdict": "wrong",
+   "text": "The 18 September brief described the Houthi advance on Saudi Arabia as \"reigniting Yemen's civil war\" on a track \"separate from the East-West pipeline itself.\" That undersold the story: the Houthis are an Iran-aligned belligerent in the wider 2026 Iran war (US/Israeli strikes began 28 February), the Strait of Hormuz has been effectively closed since then, and the East-West pipeline has been down since 11 September drone strikes &mdash; all one conflict. Saturday's first-ever Houthi strike on Riyadh itself confirmed it is the same war escalating, not a separate track."
+  },
+  {
+   "verdict": "wrong",
+   "text": "The 18 September brief called Friday a \"quadruple-witching\" Friday, citing a TradeStation dates page. Friday-of coverage from CNBC and TheStreet instead described it as a \"triple witching\" session; single-stock futures, the fourth leg of a true quadruple witching, do not trade on major US exchanges."
   },
   {
    "verdict": "open",
-   "text": "The 17 September brief flagged that a soft initial-claims or housing print Thursday would move the odds priced for the dot plot's second 2026 hike. The actual data was split: claims fell to a two-month low and the Philly Fed beat consensus (arguing for the hike), while housing starts and pending home sales stayed soft (arguing against it). The second-hike call remains genuinely unresolved."
+   "text": "The 18 September brief left the dot plot's second-2026-hike call unresolved pending more data. It is still unresolved: the September dot plot shows 16 of 18 officials expecting at least one more hike and futures now price roughly 87% odds of one by December, but no new economic data has landed since Thursday to test that pricing. Wednesday's flash PMIs are the next input."
   },
   {
    "verdict": "open",
-   "text": "The financing test set on 10 September &mdash; a large, freshly debt-financed sponsor buyout printing &mdash; is still open. No new candidate has surfaced since Sequence Holdings/DFO's Baldwin Group deal on 14 September, and Friday's research turned up nothing new."
+   "text": "The financing test flagged since 10 September &mdash; a large, freshly debt-financed sponsor buyout printing &mdash; is still open. No new candidate has surfaced since Sequence Holdings/DFO's Baldwin Group deal on 14 September, and the weekend produced nothing new."
   },
   {
    "verdict": "right",
-   "text": "The 15-17 September briefs treated the Amodei/China AI-slowdown dispute as running on a track separate from Fed policy. That held again Friday: reporting on preparations for a bilateral AI risk-and-safety dialogue ahead of the 24 September Trump-Xi summit showed no crossover into the rate or markets story."
+   "text": "The 15-18 September briefs treated the Amodei/China AI-slowdown dispute as running on a track separate from the Fed-rates story. That held over the weekend: China's rejection of Amodei's export-control push and the run-up to Thursday's Trump-Xi summit stayed on the diplomatic/AI-governance track, with no crossover into rates or the broader tape."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "AP via Washington Post — How major US stock indexes fared Thursday 9/17/2026",
-   "url": "https://www.washingtonpost.com/business/2026/09/17/wall-street-stocks-dow-nasdaq/0dbde6b4-b2d5-11f1-92c2-5c918f4a6127_story.html"
+   "label": "Yahoo Finance — Stock market today: Dow, S&P 500 post weekly losses (Fri 9/18 close)",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html"
   },
   {
-   "label": "Bloomberg — US Jobless Claims Fall to 196,000, Continuing Applications Drop",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-17/us-jobless-claims-fall-to-196-000-continuing-applications-drop"
+   "label": "TheStreet — Nasdaq, S&P 500 close a touch higher to end Fed hike week (Sept 18, 2026)",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-18-2026"
   },
   {
-   "label": "RTTNews — Philly Fed Index Pulls Back Much Less Than Expected In September",
-   "url": "https://www.rttnews.com/story.aspx?Id=3691908"
+   "label": "Al Jazeera — Saudi-led coalition says defences intercepted Houthi missile fired at Riyadh",
+   "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh"
   },
   {
-   "label": "Reuters via Investing.com — US single-family housing starts rebound in August; building permits fall",
-   "url": "https://www.investing.com/news/economy-news/us-singlefamily-housing-starts-rebound-in-august-building-permits-fall-4905815"
+   "label": "CNBC — Iran, US oil prices, crude, Saudi Arabia (Sept 21, 2026)",
+   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html"
   },
   {
-   "label": "NAR — Pending Home Sales Report Shows 0.3% Increase in August",
-   "url": "https://www.nar.realtor/newsroom/nar-pending-home-sales-report-shows-0-point-3-percent-increase-in-august"
+   "label": "mitrade — Brent slides below $102 after Houthis' first strike on Riyadh",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/oil-news/brent-below-102-riyadh-strike-20260921J1059"
   },
   {
-   "label": "AP via WSLS — Asian shares mostly rise, cheered by a US rally and easing oil prices",
-   "url": "https://www.wsls.com/business/2026/09/18/asian-shares-mostly-rise-cheered-by-a-us-rally-and-easing-oil-prices/"
+   "label": "CNBC — Dow futures jump 400 points as oil and yields ease to start week (Sept 20, 2026)",
+   "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html"
   },
   {
-   "label": "CNBC — Oil prices today: Brent, WTI, Saudi Arabia, Houthi",
-   "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html"
+   "label": "Bloomberg — US stock futures up ahead of talks, dollar steady: Markets Wrap",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap"
   },
   {
-   "label": "ABC News (Australia) — How a week of Houthi attacks threatens Saudi oil and rattles markets",
-   "url": "https://www.abc.net.au/news/2026-09-18/houthi-attacks-saudi-oil-world-markets/107168508"
+   "label": "Yahoo Finance — Stock market today Monday Sept 21: futures rise as oil falls",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
   },
   {
-   "label": "NPR / Houston Public Media — What to know after a week of Houthi attacks that threaten Saudi oil",
-   "url": "https://www.houstonpublicmedia.org/npr/2026/09/18/nx-s1-5973810/what-to-know-after-a-week-of-houthi-attacks-that-threaten-saudi-oil/"
+   "label": "Al Jazeera — How a 95 percent drop in Hormuz traffic changed global shipping (Aug 27, 2026)",
+   "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping"
   },
   {
-   "label": "Bloomberg — Saudi Arabia Seeks to Resume Half of Key Oil Pipeline Within Days",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-seek-to-resume-half-of-key-oil-pipeline-within-days"
+   "label": "CNN — February 28, 2026: US-Israeli strikes on Iran, live coverage",
+   "url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"
   },
   {
-   "label": "Nikkei Asia — China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
-   "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know"
+   "label": "The National — Trump set for Washington summit with Xi focused on trade, Taiwan and AI",
+   "url": "https://www.thenationalnews.com/news/us/2026/09/21/trump-set-for-washington-summit-with-xi-focused-on-trade-taiwan-and-ai/"
   },
   {
-   "label": "Insurance Journal — Tampa Insurance Giant to Go Private in $7.7 Billion Michael Dell-Backed Deal",
-   "url": "https://www.insurancejournal.com/news/national/2026/09/14/884956.htm"
+   "label": "Seoul Economic Daily — US, China tech CEOs to join White House summit on AI rules",
+   "url": "https://en.sedaily.com/international/2026/09/20/us-china-tech-ceos-to-join-white-house-summit-on-ai-rules"
   },
   {
-   "label": "TradeStation — Quadruple Witching Dates 2026",
-   "url": "https://www.tradestation.com/insights/2026/01/23/quadruple-witching-dates-2026-stock-futures-trading/"
+   "label": "Dataconomy — China calls Amodei's AI slowdown plan a \"Cold War playbook\" (Sept 14, 2026)",
+   "url": "https://dataconomy.com/2026/09/14/china-anthropic-ceo-ai-slowdown-proposal-slammed/"
   },
   {
-   "label": "TradingEconomics — Gold price (Sept 18, 2026)",
+   "label": "TradingView / Seeking Alpha — Fed sees one more rate hike in 2026, hawkish September dot plot",
+   "url": "https://www.tradingview.com/news/seekingalpha:443baeeb8094b:0-fed-sees-one-more-rate-hike-in-2026-according-to-hawkish-september-dot-plot/"
+  },
+  {
+   "label": "Investing.com — Economic data releases and Fed speech highlight Monday's calendar",
+   "url": "https://www.investing.com/news/stock-market-news/economic-data-releases-and-fed-speech-highlight-mondays-calendar-93CH-4907762"
+  },
+  {
+   "label": "TradingEconomics — Gold price (Sept 21, 2026)",
    "url": "https://tradingeconomics.com/commodity/gold"
   }
  ]
