@@ -1,28 +1,28 @@
 {
  "WSJ Markets": [
-  "Stock Market Today: Oil Sinks Below $100, Lifting Stock Futures",
+  "Stock Market Today: Oil Sinks Below $100, Lifting Tech Stocks",
   "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026?mod=rss_markets_main",
   "2026-09-22T08:37:04Z"
  ],
  "WSJ Business": [
-  "The Morning Risk Report: Paramount Settles States’ Antitrust Suit, Clearing Way for Warner Megadeal",
-  "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-paramount-settles-states-antitrust-suit-clearing-way-for-warner-megadeal-248a115f?mod=pls_whats_news_us_business_f",
-  "2026-09-22T11:25:00Z"
+  "What Is the White House Press Pool?",
+  "https://www.wsj.com/business/media/what-is-the-white-house-press-pool-f831c619?mod=pls_whats_news_us_business_f",
+  "2026-09-22T13:57:00Z"
  ],
  "WSJ Tech & IPOs": [
-  "A Rocket Supply Crunch Is Making It Harder to Hitch a Ride to Space",
-  "https://www.wsj.com/business/a-rocket-supply-crunch-is-making-it-harder-to-hitch-a-ride-to-space-883f5e53?mod=rss_Technology",
-  "2026-09-22T02:00:00Z"
+  "Meta Shows AI Agents Aren’t Just For Businesses Anymore",
+  "https://www.wsj.com/cio-journal/meta-shows-ai-agents-arent-just-for-businesses-anymore-b78bd8b8?mod=rss_Technology",
+  "2026-09-22T12:31:00Z"
  ],
  "MarketWatch": [
-  "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
-  "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
-  "2026-09-22T11:26:00Z"
+  "My plan to pay off $7,500 in credit-card debt can work for you",
+  "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
+  "2026-09-22T14:25:00Z"
  ],
  "Semafor Business": [
-  "Zipline inks Côte d'Ivoire deal to expand drone delivery",
-  "https://www.semafor.com/article/09/22/2026/zipline-inks-eight-year-cte-divoire-deal-to-expand-drone-delivery",
-  "2026-09-22T10:54:19Z"
+  "Qatar Investment Authority deepens US ties with JPMorgan",
+  "https://www.semafor.com/article/09/22/2026/qatar-investment-authority-deepens-us-ties-with-jpmorgan",
+  "2026-09-22T15:07:26Z"
  ],
  "Sky News Business": [
   "Football financier Staveley joins board of tokenisation start-up Ctrl Alt",
@@ -30,24 +30,24 @@
   "2026-09-22T09:08:00Z"
  ],
  "City AM": [
-  "OpenAI and Anthropic summoned to parliament on fears UK AI rules ‘not fit for future’",
-  "https://www.cityam.com/openai-and-anthropic-summoned-to-parliament-on-fears-uk-ai-rules-not-fit-for-future/",
-  "2026-09-22T10:57:06Z"
+  "Mercedes rides the AI Wayve with self-driving deal",
+  "https://www.cityam.com/mercedes-rides-the-ai-wayve-with-self-driving-deal/",
+  "2026-09-22T14:43:27Z"
  ],
  "Fortune": [
-  "Bulls and doomers are both right, says Ray Dalio—AI will be ‘miraculous’ for productivity but fuel a ‘devastating’ bubble and wealth inequality",
-  "https://fortune.com/2026/09/22/ray-dalio-optimists-pessimists-both-correct-ai-calls-productivity-inequality/",
-  "2026-09-22T10:42:51Z"
+  "Apple’s first 50 years: Charts show how the iPhone maker became a $4.85 trillion giant",
+  "https://fortune.com/2026/09/22/apple-first-50-years-history-iphone-mac-services-revenue-growth-timeline/",
+  "2026-09-22T07:00:00Z"
  ],
  "Investing.com Markets": [
-  "Roche obesity drug shows 15.5% weight loss in diabetes trial",
-  "https://www.investing.com/news/stock-market-news/roche-obesity-drug-shows-155-weight-loss-in-diabetes-trial-93CH-4910507",
-  "2026-09-22T11:25:45Z"
+  "Corporate bond buyers get picky with flood of AI debt",
+  "https://www.investing.com/news/stock-market-news/corporate-bond-buyers-get-picky-with-flood-of-ai-debt-4910258",
+  "2026-09-22T15:13:33Z"
  ],
  "Asia Financial": [
-  "Asia Markets Rise on Positive China Talks Ahead of Xi’s Trip to US",
-  "https://www.asiafinancial.com/asia-markets-rise-on-positive-china-talks-ahead-of-xis-trip-to-us",
-  "2026-09-21T12:42:24Z"
+  "Big Oil Must Pay to Repair Damage Done to the Atmosphere: UN Chief",
+  "https://www.asiafinancial.com/big-oil-must-pay-to-repair-damage-done-to-the-atmosphere-un-chief",
+  "2026-09-22T15:04:14Z"
  ],
  "Sherwood News": [
   "Credit markets have a “debt” problem, not a “risk” problem",
@@ -65,9 +65,9 @@
   "2026-09-22T11:13:06Z"
  ],
  "Crunchbase News": [
-  "As Software VCs Chase SpaceX Alumni, A Defense Tech Veteran Warns Of ‘Tourists And FOMO’",
-  "https://news.crunchbase.com/venture/qa-defense-tech-warning-ai-venture-espahbodi-generational/",
-  "2026-09-22T11:00:42Z"
+  "Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies Decide",
+  "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
+  "2026-09-22T12:00:06Z"
  ],
  "Federal Reserve": [
   "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -90,9 +90,9 @@
   "2026-09-22T05:00:00Z"
  ],
  "Economic Indicators": [
-  "UK factory orders show best performance since July 2023, CBI survey shows",
-  "https://www.investing.com/news/economic-indicators/uk-factory-orders-show-best-performance-since-july-2023-cbi-survey-shows-4910269",
-  "2026-09-22T10:14:42Z"
+  "Fed’s discount window supports market liquidity, Jefferson says",
+  "https://www.investing.com/news/economic-indicators/feds-discount-window-supports-market-liquidity-jefferson-says-4911155",
+  "2026-09-22T14:30:56Z"
  ],
  "The Overshoot": [
   "Just Waiting for Disinflation is Not Enough",
@@ -110,24 +110,24 @@
   "2026-09-21T23:48:00Z"
  ],
  "Bloomberg Línea": [
-  "Ventas de centros comerciales en Perú aumentarían 8% en 2026: llegarían a 40.000 millones de soles",
-  "https://www.bloomberglinea.com/economia/ventas-de-centros-comerciales-en-peru-aumentarian-8-en-2026-llegarian-a-40000-millones-de-soles/",
-  "2026-09-22T11:00:01Z"
+  "¿Invertir en bancos de América Latina? Estas son las acciones que recomienda Bank of America",
+  "https://www.bloomberglinea.com/mercados/invertir-en-bancos-de-america-latina-estas-son-las-acciones-que-recomienda-bank-of-america/",
+  "2026-09-22T15:02:23Z"
  ],
  "Brazil Journal": [
-  "A Olist matou o negócio que a fez unicórnio. O novo modelo é melhor?",
-  "https://braziljournal.com/a-olist-matou-o-negocio-que-a-fez-unicornio-o-novo-modelo-e-melhor/",
-  "2026-09-22T09:50:28Z"
+  "O ‘block’ da Amazon no agente da Meta",
+  "https://braziljournal.com/o-block-da-amazon-no-agente-da-meta/",
+  "2026-09-22T14:33:22Z"
  ],
  "NeoFeed": [
-  "Por que a rede elétrica detém a “chave” do novo mapa do poder industrial no Brasil",
-  "https://neofeed.com.br/economia/por-que-a-rede-eletrica-detem-a-chave-do-novo-mapa-do-poder-industrial-no-brasil/",
-  "2026-09-21T21:46:25Z"
+  "O Itaú BBA identificou onde estão os próximos bilhões da Petrobras",
+  "https://neofeed.com.br/negocios/o-itau-bba-identificou-onde-estao-os-proximos-bilhoes-da-petrobras/",
+  "2026-09-22T15:07:38Z"
  ],
  "eixos": [
-  "De olho em novas fronteiras, petroleiras internacionais traçam planos exploratórios para o Brasil",
-  "https://eixos.com.br/newsletters/comece-seu-dia/de-olho-em-novas-fronteiras-petroleiras-internacionais-tracam-planos-exploratorios-para-o-brasil/",
-  "2026-09-22T10:21:10Z"
+  "Amanda Gondim, superintendente de Tecnologia e Meio Ambiente da ANP, fala ao estúdio eixos durante a ROG.e 2026",
+  "https://eixos.com.br/videos-e-podcasts/ao-vivo/amanda-gondim-superintendente-de-tecnologia-e-meio-ambiente-da-anp-fala-ao-estudio-eixos-durante-a-rog-e-2026/",
+  "2026-09-22T14:57:29Z"
  ],
  "LAVCA": [
   "See You Next Week: Global Trends in Tech; Rounds for Kapital, Magnar, Bull",
@@ -140,9 +140,9 @@
   "2026-09-22T11:32:51Z"
  ],
  "Middle Market Growth": [
-  "Share Your Latest Transaction with ACG",
-  "https://middlemarketgrowth.org/share-your-latest-transaction-with-acg/",
-  "2026-09-21T17:59:05Z"
+  "Tech Modernizes the Data Room in ACG’s Due Diligence-Focused Demo Days",
+  "https://middlemarketgrowth.org/acg-virtual-demo-days-due-diligence/",
+  "2026-09-22T13:00:35Z"
  ],
  "Cleary M&A Watch": [
   "SEC Staff Issues Guidance on Disclosure Obligations for Activist Fund Structures Under Schedules 13D and 14A",
@@ -170,9 +170,9 @@
   "2026-09-21T08:00:00Z"
  ],
  "Yet Another Value Pod": [
-  "$NTDOY: is Nintendo's flywheel actually there? | Accrued Interest",
-  "https://podcasters.spotify.com/pod/show/andrew-walker260/episodes/NTDOY-is-Nintendos-flywheel-actually-there---Accrued-Interest-e3p0gj7",
-  "2026-09-18T13:45:51Z"
+  "$FOUR: Shift4 at 6.5x EBITDA. Is the organic growth real? | Emeth Value Capital",
+  "https://podcasters.spotify.com/pod/show/andrew-walker260/episodes/FOUR-Shift4-at-6-5x-EBITDA--Is-the-organic-growth-real---Emeth-Value-Capital-e3p1muk",
+  "2026-09-22T14:35:11Z"
  ],
  "Invest Like the Best": [
   "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
@@ -245,9 +245,9 @@
   "2026-09-18T12:42:00Z"
  ],
  "Alt Goes Mainstream": [
-  "I Squared's Dr. Sadek Wahba - it's time to \"Build\"",
-  "https://share.transistor.fm/s/ec14366e",
-  "2026-09-17T13:02:07Z"
+  "KKR’s Pete Stavros - a culture of ownership - live from AGM’s RIA Field Trip",
+  "https://share.transistor.fm/s/e75068c4",
+  "2026-09-22T12:51:41Z"
  ],
  "Cloud 9fin": [
   "Cloud 9fin — Syndication Nation — Will protein-maxxing keep Chobani king?",
@@ -270,9 +270,9 @@
   "2026-09-15T14:29:00Z"
  ],
  "Yet Another Value Blog": [
-  "If Muse is buying your running shoes, what happens to Nike?",
-  "https://www.yetanothervalueblog.com/p/if-muse-is-buying-your-running-shoes",
-  "2026-09-21T10:48:42Z"
+  "Emeth Value Capital’s Andrew Carreon on Shift4 ($FOUR)",
+  "https://www.yetanothervalueblog.com/p/emeth-value-capitals-andrew-carreon",
+  "2026-09-22T14:35:01Z"
  ],
  "Irrational Analysis": [
   "Cerebras Supernova 2026: Irrational Recap",
