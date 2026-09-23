@@ -1,230 +1,261 @@
 {
  "status": "live",
- "session": "Tuesday, September 22, 2026",
- "builtAt": "2026-09-22T11:55:00Z",
+ "session": "Wednesday, September 23, 2026",
+ "builtAt": "2026-09-23T11:55:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,764.70",
-   "c": "+1.49% Mon",
-   "dir": "up"
+   "v": "7,764.64",
+   "c": "flat Tue (7,764.70 Mon)",
+   "dir": ""
   },
   {
    "n": "Nasdaq Comp",
-   "v": "27,122.09",
-   "c": "+2.26% Mon, record close",
+   "v": "27,244.28",
+   "c": "+0.45% Tue, second straight record close",
    "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "52,048.83",
-   "c": "+366.19 Mon (+0.71%)",
-   "dir": "up"
+   "v": "51,863.69",
+   "c": "-185.14 Tue (-0.36%)",
+   "dir": "dn"
   },
   {
    "n": "US 10Y",
-   "v": "~4.97%",
-   "c": "little changed Tue AM",
-   "dir": ""
+   "v": "4.93%",
+   "c": "-2bp Tue",
+   "dir": "dn"
   },
   {
    "n": "Brent",
-   "v": "~$100",
-   "c": "fell to $97.73 Tue AM then pared, choppy on Iran headlines",
+   "v": "~$98-99",
+   "c": "fell below $100 Tue, fifth straight losing session",
    "dir": "dn"
   },
   {
    "n": "Gold",
-   "v": "$4,379.80",
-   "c": "-1.02% Mon",
+   "v": "$4,307.63",
+   "c": "-0.81% Tue, second straight loss on hawkish Fed talk",
    "dir": "dn"
   }
  ],
- "tapeLine": "Stocks surged Monday on an AI-chip rally: the S&amp;P 500 jumped 1.49% to 7,764.70, the Nasdaq Composite gained 2.26% to a record close of 27,122.09, and the Dow added 366.19 points (+0.71%) to 52,048.83, as early signs of demand for Meta's new Muse AI agent sent semiconductor stocks soaring &mdash; AMD rose 10% to top a $1 trillion market cap and Intel gained 12%, per Bloomberg and the Motley Fool. Brent crude extended its slide, settling -3.4% at $100.34 Monday as traders continued to shrug off the weekend's Houthi strike on Riyadh; a U.S. Central Command statement dated Saturday said Hormuz oil and LNG shipments hit a six-month high, undercutting Friday's and Monday's briefs' framing of the strait as still effectively closed. Overnight, Treasury Secretary Scott Bessent said all Iranian airlines will be shut out of the global system from Wednesday, a threat that briefly lifted oil before Kyodo News reported Iran had offered to reopen the Strait of Hormuz within seven days if the U.S. eases military pressure &mdash; Brent fell to $97.73 in Asian trade before paring back toward $100. Wall Street futures were little changed Tuesday morning per Reuters, with attention on Trump's UN General Assembly address around 9:45 ET (Iran's nuclear program, Gaza) and the run-up to Thursday's Trump-Xi summit, now confirmed as a three-day state visit beginning Wednesday.",
- "matters": "<p>Monday was an AI-and-chips story, not a Fed-and-oil story: the S&amp;P 500 jumped 1.49% to a fresh 7,764.70, the Nasdaq Composite gained 2.26% to a record 27,122.09, and the Dow rose 0.71% to 52,048.83, per the Motley Fool's and Washington Post's close coverage. The trigger was early evidence that Meta's new Muse AI agent is gathering unusually fast adoption, which set off a semiconductor rally: AMD rose 10% to cross a $1 trillion market cap for the first time, Intel gained 12%, and the Philadelphia Semiconductor Index notched its fifth straight gain, up 4.3% on the day, per Bloomberg. That is a different driver than this brief's own regime call flagged Monday morning, which framed the day's futures strength around falling oil and firming Fed odds; those two held directionally but were not what actually moved the tape.</p><p><b>Correcting Friday's and Monday's framing on Hormuz:</b> both briefs described the Strait of Hormuz as \"effectively closed\" since the war began 28 February, citing an Al Jazeera report of a roughly 95% traffic drop as of late August. That was stale by the time Monday's brief ran it. U.S. Central Command chief Admiral Brad Cooper said in a video statement dated Saturday 19 September that oil and LNG shipments through Hormuz hit a six-month high over the prior two weeks, that the strait's main transit lanes are now clear of mines, and that Gulf allies have moved over a billion barrels of crude through it \"in the last couple months,\" per Bloomberg and WorldOil. That report predates Monday's brief and should have been caught; it does not erase the war, but it means the \"effectively closed\" characterization was wrong days before this brief repeated it.</p><p>Oil itself stayed volatile overnight on dueling Iran headlines. Brent settled Monday down 3.4% at $100.34, a fourth straight losing session, as Trump was reported to have decided against striking the Houthis for now and said he would probably be open to meeting Iranian President Masoud Pezeshkian at this week's UN General Assembly, per CNBC. Then Treasury Secretary Scott Bessent told CNBC late Monday that \"on September 23, all the Iranian airlines will be shut down around the world\" &mdash; threatening secondary sanctions on any foreign company that fuels, services or sells tickets for them &mdash; which briefly pushed oil back up. It reversed again after Kyodo News reported Tuesday that a senior Iranian official said Tehran has offered, through an intermediary, to reopen the Strait of Hormuz within seven days if the U.S. lifts its blockade of Iranian ports and announces a halt to military operations around the strait; Brent fell to $97.73 in Asian trading before paring losses back toward $100, per FXStreet and Reuters.</p><p>Iran's president Pezeshkian is headed to New York for the UN General Assembly, putting the leaders of two countries at war in the same city this week; no meeting between him and Trump has been confirmed, and Iranian state media had not responded to Trump's overture as of Monday night, per CNN. Trump addresses the General Assembly Tuesday around 9:45 ET, with Iran's nuclear program and Gaza on the agenda per NBC and CBS previews. Separately, Beijing confirmed Monday that Xi Jinping will make a state visit to Washington from 23-25 September &mdash; his first trip to the U.S. since 2015 &mdash; arriving Wednesday, with the Trump-Xi summit itself, a Rose Garden ceremony and a state dinner with tech-industry attendees now set for Thursday the 24th, per Bloomberg and the South China Morning Post.</p><p>The Fed thread got a more granular data point without resolving: CME FedWatch pricing as of 20 September put the odds of a 25bp hike at the 28 October FOMC meeting at roughly 56-60%, a separate read from this brief's running \"at least one more hike by December\" framing off the September dot plot; neither figure has been tested by new data since last Thursday, and Wednesday's flash PMIs (forecast: manufacturing 53.6, services 56, per S&amp;P Global-linked previews) are still the next real input. The financing-desk test stays open for a fourth session: no new debt-financed sponsor buyout has printed since Baldwin Group on 14 September, and Tuesday's deal wire (Cognex/RealSense, Hg's Greek and Polish deals, Circular Services/Re:Dish) was strategic and add-on M&amp;A, not a large leveraged buyout.</p><p><b>Invalidation:</b> Wednesday's flash PMIs and Trump's UN speech Tuesday could move the Fed and Iran threads well ahead of Thursday's Trump-Xi summit. The Bessent/Kyodo whipsaw shows the oil market is currently trading headline-to-headline on Iran diplomacy; a confirmed Trump-Pezeshkian meeting, or confirmation the airline shutdown actually takes effect Wednesday, would be the next real tests either way.</p>",
+ "tapeLine": "Stocks were mixed and muted Tuesday as investors awaited Trump's UN address: the S&amp;P 500 closed essentially flat at 7,764.64, the Nasdaq Composite added 0.45% to a second straight record close of 27,244.28 on continued AI-linked strength (SanDisk +7%, Micron +5%), while the Dow fell 185.14 points (-0.36%) to 51,863.69 as banks sold off broadly &mdash; JPMorgan fell roughly 3% even after unveiling a new $20bn partnership with the Qatar Investment Authority, with Goldman Sachs and Bank of America also lower &mdash; on Treasury-curve pressure and rotation into tech, per Yahoo Finance, Vantage Markets and Spectrum News. Brent crude fell below $100 for the first time in its current slide, a fifth straight losing session, while gold eased 0.81% to $4,307.63 as St. Louis Fed President Musalem said further rate hikes are likely given persistent inflation, per USAGOLD. Overnight, Trump told the UN General Assembly he faces a \"big decision\" on Iran &mdash; a deal, or he would \"annihilate the Islamic Republic\" &mdash; and most of Iran's delegation walked out; hours later Trump called a three-hour meeting between US envoys Steve Witkoff and Jared Kushner and Iranian officials \"very good\" and \"productive.\" Wednesday brings flash PMIs at 8:45 ET, Iran's President Pezeshkian addressing the UN for the first time since the war began, and Xi Jinping's arrival at Joint Base Andrews around 4pm ET to open a three-day state visit, with Trump personally greeting him on the tarmac.",
+ "matters": "<p>Tuesday was a wait-for-Trump session, not a trend day: the S&amp;P 500 closed essentially flat at 7,764.64, the Nasdaq Composite eked out a second straight record close (27,244.28, +0.45%) on continued AI-linked strength, and the Dow fell 0.36% to 51,863.69 as banks sold off broadly &mdash; JPMorgan fell roughly 3% even after unveiling a new $20bn partnership with the Qatar Investment Authority, with Goldman Sachs and Bank of America also lower, per Yahoo Finance, 24/7 Wall St. and Vantage Markets. The proximate driver was a mix of Treasury-curve pressure on bank margin expectations and continued rotation into tech on concern that AI shopping agents such as Meta's Muse could eventually disrupt traditional payments and financial names &mdash; the same AI-agent story that drove Monday's chip rally, now cutting the other way for financials. That holds up Tuesday morning's regime call that the tape would trade headline-to-headline rather than on trend, graded in the scorecard below.</p><p>Trump's UN General Assembly address was the day's dominant headline and came in more combative than diplomatic: he told the Assembly he has a \"big decision\" to make on Iran &mdash; a deal that lets it \"rebuild and create a far greater country,\" or he \"annihilates the Islamic Republic\" and drives it \"into hell with no chance of survival\" &mdash; and said he expects any deal only after the November midterms, per NBC News and ABC News. All but one member of Iran's delegation walked out during the speech, per CNN. Hours later, however, Trump said US envoys Steve Witkoff and Jared Kushner had a \"very good,\" three-hour meeting with Iranian officials on the sidelines, discussing the Strait of Hormuz and Iran's demands (lifting the naval blockade, releasing frozen assets, ending US operations against \"resistance\" groups) against US demands (no nuclear weapon, an end to Houthi/Hezbollah/Hamas funding), per the Times of Israel. No Trump-Pezeshkian meeting has been scheduled; Iran's President Masoud Pezeshkian addresses the UN General Assembly Wednesday for the first time since the war began in February, with Arab mediators still working to arrange higher-level contact, per France 24 and the National.</p><p>The airline-shutdown thread flagged Monday resolved into action: Treasury Secretary Bessent's threat to shut Iranian airlines out of the global aviation system \"around the world\" took effect Wednesday, enforced through secondary sanctions on the airports, fuel suppliers and ticketing agents that service them rather than the airlines directly; two Iraqi sources told AFP that Baghdad is suspending Iranian-airline flights in response, per Al Jazeera and Khaleej Times. Brent extended its slide for a fifth straight session, falling below $100 a barrel Tuesday for the first time since the run began, even with that fresh escalation on the table &mdash; a data point for, not against, this brief's running read that the market is pricing continuity of exports rather than disruption.</p><p>On the calendar: Wednesday's flash PMIs (8:45 ET; manufacturing forecast 53.6 vs. 53.9 prior, services forecast 55.8 vs. 56.5 prior, per Investing.com) are the next real test of the Fed's second-2026-hike question, still unresolved after St. Louis Fed President Musalem said Tuesday that further hikes are likely given persistent above-target inflation and that 16 of 18 FOMC officials see at least one more increase in 2026, per USAGOLD's market report; futures now imply better-than-even odds of an October move, an incremental read rather than a new print. Five Fed speeches are on tap Wednesday (Williams twice, Jefferson, Barkin, Musalem), per Newsquawk. Separately, Xi Jinping arrives at Joint Base Andrews around 4pm ET to open a three-day state visit &mdash; Trump will personally greet him on the tarmac, a rare gesture ahead of Thursday's Rose Garden summit and state dinner, per the South China Morning Post and the Hill.</p><p>The financing-desk test stays open. Tuesday's largest PE headline &mdash; CEO Thomas Priore's $1.6bn take-private of Priority Technology Holdings at $8.05/share, a 65% premium to the pre-announcement price &mdash; is financed by equity commitments from Searchlight Capital Partners with \"no financing conditions,\" per the company's SEC filing: an equity deal, not the debt-financed sponsor buyout this thread has been waiting for since Baldwin Group on 14 September. Wednesday's deal wire (Pfingsten/Next Point Bearing, Apollo's Forge unit acquiring Pamlico-backed Becker's Healthcare, CVC-backed Bamboo Insurance postponing its US IPO) was similarly smaller, strategic or add-on activity.</p><p><b>Invalidation:</b> A miss on Wednesday's flash PMIs, confirmation or denial of a Trump-Pezeshkian meeting, and Thursday's actual Trump-Xi summit outcomes are the next scheduled tests that could move the Fed, Iran and China threads independently of each other.</p>",
  "calendar": [
   {
-   "time": "Tue 08:15",
-   "event": "ADP NER Pulse (weekly private employment)",
+   "time": "Wed 08:45",
+   "event": "S&P Global flash Manufacturing PMI",
+   "consensus": "53.6",
+   "prior": "53.9",
+   "impact": "medium"
+  },
+  {
+   "time": "Wed 08:45",
+   "event": "S&P Global flash Services PMI",
+   "consensus": "55.8",
+   "prior": "56.5",
+   "impact": "high"
+  },
+  {
+   "time": "Wed 09:30",
+   "event": "EIA weekly petroleum inventories (crude, gasoline, distillate)",
    "consensus": "—",
    "prior": "—",
    "impact": "low"
   },
   {
-   "time": "Tue 09:45",
-   "event": "Trump addresses UN General Assembly (Iran, Gaza)",
-   "consensus": "—",
-   "prior": "—",
-   "impact": "high"
-  },
-  {
-   "time": "Tue 10:05",
-   "event": "NY Fed's Williams speaks, Treasury Markets Conference",
+   "time": "Wed 10:05",
+   "event": "NY Fed's Williams keynote, Treasury Markets Conference",
    "consensus": "—",
    "prior": "—",
    "impact": "medium"
   },
   {
-   "time": "Tue 10:20",
+   "time": "Wed 10:20",
    "event": "Fed Vice Chair Jefferson speaks on discount-window/Treasury market functioning",
    "consensus": "—",
    "prior": "—",
    "impact": "medium"
   },
   {
-   "time": "Tue 13:00",
-   "event": "Richmond Fed's Barkin speaks, CFA Society Baltimore",
+   "time": "Wed",
+   "event": "Richmond Fed's Barkin, opening remarks at Investing in Rural America Conference",
    "consensus": "—",
    "prior": "—",
    "impact": "low"
   },
   {
-   "time": "Tue",
-   "event": "Treasury 2-Year Note auction",
+   "time": "Wed 13:30",
+   "event": "St. Louis Fed's Musalem speaks, London School of Economics",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "medium"
+  },
+  {
+   "time": "Wed 14:00",
+   "event": "NY Fed's Williams, keynote at University of Buffalo",
    "consensus": "—",
    "prior": "—",
    "impact": "low"
   },
   {
-   "time": "Tue PM",
-   "event": "API weekly crude oil inventories",
+   "time": "Wed",
+   "event": "Iran's Pezeshkian addresses UN General Assembly, first since war began",
    "consensus": "—",
    "prior": "—",
-   "impact": "low"
+   "impact": "high"
+  },
+  {
+   "time": "Wed ~16:00",
+   "event": "Xi Jinping arrives Joint Base Andrews; Trump greets him on the tarmac, opening 3-day state visit",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "high"
   }
  ],
- "alsoOnTape": "Xi Jinping's state visit is now confirmed for Wednesday-Friday (23-25 September), arriving at Andrews Air Force Base Wednesday ahead of Thursday's summit, Rose Garden ceremony and state dinner; S&amp;P Global's flash PMIs land Wednesday at 9:45 ET.",
+ "alsoOnTape": "The Iranian-airline shutdown (secondary sanctions on airports, fuel suppliers, ticketing agents) took effect Wednesday; Iraq is suspending Iranian-airline flights in response, per AFP-sourced reporting. Thursday brings the Trump-Xi summit, Rose Garden ceremony and state dinner.",
  "overnight": [
-  "<b>US Monday close</b> &mdash; S&amp;P 500 +1.49% to 7,764.70, Nasdaq Composite +2.26% to a record 27,122.09, Dow +366.19 (+0.71%) to 52,048.83, on an AI/semiconductor rally tied to Meta's Muse AI agent.",
-  "<b>Chips</b> &mdash; AMD +10% to a $1 trillion market cap, Intel +12%, Philadelphia Semiconductor Index +4.3% for a fifth straight gain.",
-  "<b>Oil</b> &mdash; Brent settled Monday -3.4% at $100.34, a fourth straight losing session; overnight it fell to $97.73 in Asian trade on continued Saudi export resilience, spiked briefly on Bessent's Iranian-airline shutdown threat, then pared back toward $100 after Kyodo reported an Iranian offer to reopen Hormuz within seven days.",
-  "<b>Iran</b> &mdash; Treasury Secretary Bessent said all Iranian airlines will be shut out of the global aviation system from Wednesday 23 September; separately, a senior Iranian official told Kyodo News Tehran has offered to reopen the Strait of Hormuz within a week if the US eases its blockade and halts military operations near the strait.",
-  "<b>Hormuz correction</b> &mdash; US Central Command's Admiral Brad Cooper said Saturday that Hormuz oil and LNG shipments hit a six-month high over the prior two weeks and that the strait's main lanes are clear of mines, contradicting this brief's own \"effectively closed\" framing from Friday and Monday.",
-  "<b>Diplomacy</b> &mdash; Iran's President Pezeshkian is traveling to New York for the UN General Assembly; Trump said Sunday he would probably be open to meeting him, but no meeting is confirmed. Trump addresses the General Assembly around 9:45 ET Tuesday.",
-  "<b>Trump-Xi</b> &mdash; Beijing confirmed Monday that Xi will make a state visit to Washington 23-25 September, his first US trip since 2015; the summit itself, a Rose Garden ceremony and a state dinner are set for Thursday.",
-  "<b>Rates/gold</b> &mdash; the 10-year Treasury yield was little changed near 4.97% Tuesday morning; gold eased 1.02% Monday to $4,379.80."
+  "<b>US Tuesday close</b> &mdash; S&amp;P 500 essentially flat at 7,764.64, Nasdaq Composite +0.45% to a second straight record 27,244.28, Dow -185.14 (-0.36%) to 51,863.69, as banks sold off broadly and AI names kept climbing.",
+  "<b>Banks</b> &mdash; JPMorgan fell roughly 3% despite a new $20bn Qatar Investment Authority partnership; Goldman Sachs and Bank of America also lower on Treasury-curve pressure and rotation into tech.",
+  "<b>Trump at the UN</b> &mdash; told the General Assembly he has a \"big decision\" on Iran: a deal, or he \"annihilates the Islamic Republic\"; said any deal is more likely after the November midterms. Most of Iran's delegation walked out during the speech.",
+  "<b>US-Iran talks</b> &mdash; hours later, Trump called a three-hour Witkoff/Kushner meeting with Iranian officials \"very good\" and \"productive\"; Iran's foreign minister reportedly laid out conditions for reopening Hormuz.",
+  "<b>Iranian airlines</b> &mdash; Bessent's threatened worldwide shutdown, enforced via secondary sanctions on airports, fuel suppliers and ticketing agents, took effect Wednesday; Iraq is suspending Iranian-airline flights in response.",
+  "<b>Oil</b> &mdash; Brent fell below $100 a barrel Tuesday for the first time in its current slide, a fifth straight losing session.",
+  "<b>Gold</b> &mdash; eased 0.81% Tuesday to $4,307.63, a second straight loss, after St. Louis Fed's Musalem said further hikes are likely given persistent inflation.",
+  "<b>Xi Jinping</b> &mdash; arrives at Joint Base Andrews around 4pm ET Wednesday to open a three-day state visit; Trump will personally greet him on the tarmac, an unusual gesture ahead of Thursday's summit, Rose Garden ceremony and state dinner."
  ],
- "deals": [],
+ "deals": [
+  {
+   "what": "Priority Technology Holdings: CEO Thomas Priore leads an investor group taking the payments company private at $8.05/share, a 65% premium to its 7 Nov 2025 pre-announcement close.",
+   "number": "$1.6bn enterprise value",
+   "readthrough": "Financed by equity commitments from Searchlight Capital Partners with \"no financing conditions\" &mdash; an equity take-private, not the debt-financed sponsor buyout this brief's financing-desk thread has been waiting for since Baldwin Group on 14 September. Expected to close H1 2027, subject to minority-holder and regulatory approval."
+  }
+ ],
  "macro": [
-  "<b>Fed</b> &mdash; CME FedWatch pricing as of 20 September put roughly 56-60% odds on a 25bp hike at the 28 October FOMC meeting; this brief's running \"at least one more hike by December\" figure (~87% per futures on the September dot plot) is a separate, cumulative read. Neither has been tested by new data since last Thursday; Wednesday's flash PMIs (forecast: manufacturing 53.6, services 56) are the next input.",
-  "<b>Iran war / oil</b> &mdash; Bessent's threat to shut down Iranian airlines worldwide from Wednesday and Kyodo's report of an Iranian offer to reopen Hormuz within seven days pulled oil in opposite directions overnight; Brent net fell to $97.73 in Asian trade before paring back toward $100. Separately, US Central Command's report of six-month-high Hormuz shipments undercuts this brief's prior \"effectively closed\" framing of the strait.",
-  "<b>Trump-Xi summit</b> &mdash; now a confirmed three-day state visit (23-25 September), with the leaders' meeting, a Rose Garden ceremony and a state dinner with tech-industry attendees set for Thursday; trade-truce extension, rare earths, Taiwan and AI governance remain the stated agenda.",
-  "<b>UN General Assembly</b> &mdash; Trump addresses the Assembly around 9:45 ET Tuesday on Iran's nuclear program and Gaza; Iran's Pezeshkian is separately traveling to New York, with no Trump-Pezeshkian meeting yet confirmed.",
-  "<b>Financing desk</b> &mdash; no new debt-financed sponsor buyout has printed since Sequence Holdings/DFO's Baldwin Group deal on 14 September; Tuesday's deal wire (Cognex/RealSense, Hg's EnterSoftone and DataConsult deals, Circular Services/Re:Dish) is strategic and add-on M&amp;A, not a leveraged buyout."
+  "<b>Fed</b> &mdash; St. Louis Fed's Musalem said Tuesday further hikes are likely given persistent above-target inflation, and that 16 of 18 FOMC officials see at least one more 2026 increase; futures now imply better-than-even odds of an October move. Wednesday's flash PMIs (8:45 ET; manufacturing 53.6 forecast vs. 53.9 prior, services 55.8 vs. 56.5) are the next real test and had not printed as this brief was written.",
+  "<b>Iran war / oil</b> &mdash; Bessent's worldwide Iranian-airline shutdown took effect Wednesday, enforced through secondary sanctions on airports, fuel suppliers and ticketing agents; Iraq is suspending Iranian-airline flights in response. Brent nonetheless extended its slide to a fifth session, falling below $100 for the first time.",
+  "<b>US-Iran diplomacy</b> &mdash; Trump's combative UN speech (walked out on by most of Iran's delegation) was followed hours later by a three-hour Witkoff/Kushner meeting with Iranian officials that Trump called \"very good\"; no Trump-Pezeshkian meeting is scheduled. Pezeshkian addresses the UN Wednesday for the first time since the war began.",
+  "<b>Trump-Xi summit</b> &mdash; Xi arrives at Joint Base Andrews around 4pm ET Wednesday to begin a three-day state visit; Trump will personally greet him at the airfield, a rare gesture, ahead of Thursday's Rose Garden ceremony, bilateral meeting and state dinner.",
+  "<b>Financing desk</b> &mdash; Tuesday's $1.6bn Priority Technology take-private is equity-financed (Searchlight Capital, no financing conditions), not the debt-financed sponsor buyout this thread is waiting for. Nothing has printed since Baldwin Group on 14 September."
  ],
  "flow": [
-  "US stock futures were little changed Tuesday morning after Monday's AI-driven rally, per Reuters, with investors awaiting UN General Assembly developments on Iran.",
-  "Chip stocks led Monday's advance on Meta Muse AI-agent demand optimism: AMD +10% (through $1 trillion market cap), Intel +12%, Philadelphia Semiconductor Index +4.3%.",
-  "Oil whipsawed overnight on offsetting Iran headlines (Bessent's airline-shutdown threat vs. Kyodo's Hormuz-reopening report), net still lower than Monday's $100.34 Brent settle.",
-  "Gold eased to $4,379.80 Monday (-1.02%), off Friday's push toward $4,400.",
+  "Sector split was stark Tuesday: materials gained roughly 2% and chip names roughly 2% (SanDisk +7%, Micron +5%), lifting the Nasdaq to a second straight record close, while financials fell roughly 1.9% (JPMorgan -3%) and dragged on the Dow, per Vantage Markets' close recap.",
+  "Banks sold off broadly (JPMorgan, Goldman Sachs, Bank of America all lower) on Treasury-curve pressure on net-interest-margin expectations, even as JPMorgan announced a new $20bn Qatar Investment Authority partnership.",
+  "Oil whipsawed on Iran headlines through the week but net extended its slide Tuesday, closing under $100 for the first time in the current run even against Wednesday's fresh airline-sanctions escalation.",
+  "Gold eased for a second straight session (-0.81% to $4,307.63) as a firmer dollar and hawkish Fed commentary pulled capital out of metals.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page. Nothing here is positioning analysis &mdash; it is sector observation from the tape."
  ],
  "levels": [],
  "regime": {
-  "tag": "AI/chip rally drove Monday's surge, not the oil/Fed dynamics this brief flagged; Iran diplomacy now trading headline-to-headline; Trump's UN speech and Wednesday's PMIs are the next tests",
-  "sizing": "Monday's rally (S&amp;P 500 +1.49%, Nasdaq +2.26% to a record) was real but driven by AI-agent demand optimism in chip stocks, not primarily by the falling-oil/firming-Fed-odds setup this brief highlighted Monday morning — that setup held directionally but was not the cause. Oil is now swinging on same-day Iran headlines (Bessent's airline threat vs. Kyodo's Hormuz-reopening report), which makes Tuesday's tape more headline-sensitive than trend-driven. Trump's UN address (~9:45 ET) and Wednesday's flash PMIs are the next scheduled inputs; Thursday's Trump-Xi summit, now a confirmed three-day state visit, remains the week's largest dated catalyst."
+  "tag": "Muted, headline-sensitive tape ahead of Wednesday's flash PMIs and Thursday's Trump-Xi summit; Iran diplomacy running two tracks at once (combative UN rhetoric vs. \"very good\" side-channel talks)",
+  "sizing": "Tuesday confirmed Monday night's framing: the tape is currently trading headline-to-headline rather than on trend. The S&amp;P 500 and Dow were flat-to-lower while the Nasdaq eked out a second record on AI strength alone, banks sold off on curve/margin pressure, and Brent extended its slide through a fresh escalation (the Iranian-airline shutdown) rather than reacting to it &mdash; consistent with a market pricing continuity of exports over disruption. Wednesday's flash PMIs (8:45 ET) are the first new data test of the Fed's second-hike question since 20 September; Xi's arrival and Thursday's summit are the week's largest dated catalyst and have not yet started trading as a theme."
  },
  "watchlist": [],
- "secondOrder": "The Hormuz correction is the week's most important housekeeping: this brief (and Friday's) described the strait as \"effectively closed\" using data that was three weeks stale by the time it ran, while US Central Command was reporting six-month-high shipments through cleared transit lanes as of Saturday. That does not mean the Iran war is over — Saudi Arabia absorbed a first-ever Houthi missile at Riyadh itself over the weekend, and Bessent's threat to shut down Iranian aviation worldwide from Wednesday is a real escalation — but it means the market's read (oil grinding lower for a fourth straight session) has been closer to right than this brief's own framing. Monday's equity rally complicates the picture further: it was an AI-adoption story (Meta's Muse agent) that happened to coincide with, rather than being caused by, the falling-oil setup flagged Monday morning, a reminder that a correct directional call can still have the wrong mechanism. Oil itself is now trading on same-day Iran diplomacy headlines in both directions at once — Bessent's shutdown threat up, Kyodo's Hormuz-reopening report down — which is a genuinely two-sided setup heading into Trump's UN address and a possible, still-unconfirmed Trump-Pezeshkian meeting. The Fed thread gained a specific number (56-60% odds on the 28 October meeting per CME FedWatch) without new data to test either that or the broader December framing; Wednesday's PMIs are still the input to watch. And the financing thread is now open for a fifth session with nothing behind it.",
+ "secondOrder": "Tuesday's tape argued, again, that direction and mechanism are separable: the S&amp;P 500 and Dow went nowhere or lower while the Nasdaq notched a second straight record on AI strength alone, and banks sold off broadly &mdash; a sector move driven by Treasury-curve pressure on net interest margins as much as by any single headline. The bigger story may be diplomatic rather than economic: Trump's \"annihilate\" threat at the UN and the walkout it produced sit oddly next to his own description, hours later, of a \"very good\" three-hour US-Iran meeting on the sidelines &mdash; two tracks running at once, with Iran's own president due to address the same body Wednesday for the first time since the war began. Oil's reaction is the more useful signal than either rhetoric track alone: the market extended its slide through a fresh US escalation (the worldwide Iranian-airline shutdown) rather than spiking on it, and that continuity-of-exports read has now survived a war, a Houthi strike on Riyadh, and a fresh sanctions escalation without breaking. The financing-desk thread is a smaller but cleaner version of the same instinct &mdash; Tuesday's marquee take-private (Priority Technology) chose to finance itself with equity rather than debt, which is itself informative about where sponsors think leverage costs sit right now, more than a week after the last Fed hike anyone can point to. Wednesday's flash PMIs are the first real data test of the Fed thread since 20 September; a miss would be the first genuine crack in the \"higher for longer\" framing Musalem restated Tuesday.",
  "scorecard": [
   {
-   "verdict": "wrong",
-   "text": "Friday's and Monday's briefs both described the Strait of Hormuz as \"effectively closed\" since the war began 28 February, citing an Al Jazeera report of a roughly 95% traffic drop as of late August. US Central Command chief Admiral Brad Cooper said in a statement dated Saturday 19 September — available before Monday's brief was written — that Hormuz oil and LNG shipments hit a six-month high over the prior two weeks and that the strait's main lanes are now clear of mines. The \"effectively closed\" framing was stale and should have been caught."
-  },
-  {
    "verdict": "right",
-   "text": "Monday's brief bet that the market was pricing continuity of Saudi exports rather than disruption from the weekend's Houthi strike on Riyadh, calling that bet untested by a full week of shipping data. It held through Monday: Brent fell a fourth straight session to settle -3.4% at $100.34, and Tuesday's Central Command report of six-month-high Hormuz shipments further supports the continuity read, though a full week of data is still pending."
-  },
-  {
-   "verdict": "right",
-   "text": "Monday's regime call anticipated futures strength carrying into the session on falling oil and firming Fed odds. Direction was right — the S&amp;P 500 rose 1.49% and the Nasdaq hit a record — but the actual driver was Monday's AI/chip rally on Meta's Muse agent (AMD +10%, Intel +12%), not the oil/Fed setup the brief flagged; the mechanism was wrong even though the call was right."
+   "text": "Tuesday's brief framed the setup as headline-sensitive rather than trend-driven, with Iran diplomacy trading on same-day headlines. That held: the S&amp;P 500 (flat) and Dow (-0.36%) went nowhere while the Nasdaq notched a second record on AI strength alone, banks sold off broadly on curve pressure, and Brent extended its slide through a fresh escalation (Wednesday's Iranian-airline shutdown) rather than spiking on it."
   },
   {
    "verdict": "open",
-   "text": "The financing test flagged since 10 September — a new, large debt-financed sponsor buyout printing — stayed open through Tuesday's deal wire (Cognex/RealSense, Hg's Greek and Polish deals), all strategic or add-on transactions rather than a leveraged buyout. No new candidate has surfaced since Baldwin Group on 14 September."
+   "text": "The financing-desk test &mdash; a new, large debt-financed sponsor buyout &mdash; stayed open. Tuesday's marquee PE headline, the $1.6bn CEO-led take-private of Priority Technology, is financed by equity commitments from Searchlight Capital Partners with no financing conditions, not debt. Nothing has printed since Baldwin Group on 14 September."
   },
   {
    "verdict": "open",
-   "text": "The dot plot's second-2026-hike call remains unresolved. CME FedWatch now puts the 28 October meeting at roughly 56-60% hike odds as of 20 September, a separate read from the brief's running ~87%-by-December figure off the September dot plot; no new data has landed since last Thursday to test either. Wednesday's flash PMIs are the next input."
+   "text": "The Fed's second-2026-hike question, last tested by data via 20 September's CME FedWatch pricing, stayed open. St. Louis Fed's Musalem reiterated Tuesday that further hikes are likely, but Wednesday's flash PMIs &mdash; the next scheduled data input &mdash; had not printed as this brief was written."
+  },
+  {
+   "verdict": "open",
+   "text": "Tuesday's brief flagged a confirmed Trump-Pezeshkian meeting or the Iranian-airline shutdown taking effect as the next real tests for oil. That resolved halfway: the shutdown took effect Wednesday (Iraq is suspending Iranian-airline flights in response), but no Trump-Pezeshkian meeting has been scheduled, even as Pezeshkian addresses the UN Wednesday for the first time since the war began."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "Motley Fool — Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/09/21/stock-market-today-sept-21-tech-strength-powers-nasdaq-to-record-close/"
+   "label": "Yahoo Finance — Stock market today: Tuesday, September 22",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
   },
   {
-   "label": "Washington Post — How major US stock indexes fared Monday 9/21/2026",
-   "url": "https://www.washingtonpost.com/business/2026/09/21/wall-street-stocks-dow-nasdaq/fcebe438-b5fb-11f1-94cb-d3d8f22a8c8b_story.html"
+   "label": "Vantage Markets — Nasdaq Hits Record 27,244 as S&P 500 Closes Flat, Dow Lower",
+   "url": "https://www.vantagemarkets.com/market-news/nasdaq-record-close-sp500-flat-dow-lower-september-23-2026/"
   },
   {
-   "label": "Bloomberg — AMD, Intel Soar as Meta's Muse AI Agent Spurs Chip Stock Rally",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar"
+   "label": "Spectrum News — Wall Street holds near its record as Brent oil falls below $100 per barrel",
+   "url": "https://spectrumlocalnews.com/us/snplus/business/2026/09/22/wall-street-september-22-2026"
   },
   {
-   "label": "Bloomberg — Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says"
+   "label": "ABC News — Trump in UN speech says 'big decision' ahead: deal or 'annihilate' Iran",
+   "url": "https://abcnews.com/Politics/trump-addresses-global-leaders-united-nations-general-assembly/story?id=136648657"
   },
   {
-   "label": "WorldOil — Strait of Hormuz oil shipments hit six-month high, U.S. commander says",
-   "url": "https://www.worldoil.com/news/2026/9/19/strait-of-hormuz-oil-shipments-hit-six-month-high-u-s-commander-says/"
-  },
-  {
-   "label": "CNBC — US-Iran war, oil prices, Trump-Hormuz (Sept 21, 2026)",
-   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
-  },
-  {
-   "label": "CNBC — All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
-   "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html"
-  },
-  {
-   "label": "FXStreet — WTI rises to near $92.50 despite Middle East diplomacy, resuming flows",
-   "url": "https://www.fxstreet.com/news/wti-rises-to-near-9250-despite-middle-east-diplomacy-resuming-flows-202609220143"
-  },
-  {
-   "label": "FXStreet — US Treasury Secretary Bessent says all Iranian airlines to shut down worldwide by September 23",
-   "url": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-all-iranian-airlines-to-shut-down-worldwide-by-september-23-202609220112"
-  },
-  {
-   "label": "CNBC — Oil prices reverse gains as UN General Assembly meeting lifts hopes for Iran war diplomacy",
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html"
-  },
-  {
-   "label": "CNN — Iran to attend UN assembly in New York — even as peace with US remains elusive",
-   "url": "https://www.cnn.com/2026/09/21/middleeast/iran-president-un-general-assembly-new-york-intl"
-  },
-  {
-   "label": "CNBC — Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
-   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
-  },
-  {
-   "label": "NBC News — Trump to address the United Nations General Assembly as Iran war rumbles on",
+   "label": "NBC News — Trump tells UN he could 'annihilate' Iran but expects a deal after the midterms",
    "url": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085"
   },
   {
-   "label": "Bloomberg — China Confirms Xi's First Trip to US in Nearly Three Years",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-confirms-xi-s-first-trip-to-the-us-in-nearly-three-years"
+   "label": "CNN — Key moments from the first day of UN General Assembly speeches",
+   "url": "https://www.cnn.com/2026/09/22/world/live-news/un-general-assembly-trump"
   },
   {
-   "label": "South China Morning Post — Chinese President Xi Jinping will pay state visit to US this week, Beijing confirms",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3368223/chinese-president-xi-jinping-will-pay-state-visit-us-week-beijing-confirms"
+   "label": "The Times of Israel — US and Iranian negotiators hold talks at UN that Trump says 'went very well'",
+   "url": "https://www.timesofisrael.com/us-and-iranian-negotiators-hold-talks-at-un-that-trump-says-went-very-well/"
   },
   {
-   "label": "Investing.com — ADP employment data and Fed speakers highlight Tuesday's calendar",
-   "url": "https://www.investing.com/news/stock-market-news/adp-employment-data-and-fed-speakers-highlight-tuesdays-calendar-93CH-4909494"
+   "label": "The National — Iran's hardliners make room for diplomacy as Pezeshkian arrives in New York for UNGA",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/09/23/irans-hardliners-make-room-for-diplomacy-as-pezeshkian-arrives-in-new-york-for-unga/"
   },
   {
-   "label": "helious.io — Week ahead: S&P Global Manufacturing PMI Wednesday",
-   "url": "https://helious.io/news/week-ahead-2026-w39/week-ahead-s-p-global-manufacturing-pmi-wednesday-s-p"
+   "label": "France 24 — Live: Pezeshkian set to address UN for the first time since US, Israel launched Iran war",
+   "url": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war"
   },
   {
-   "label": "growbeansprout.com — US Fed Funds Interest Rate: Latest Updates and Trends (CME FedWatch, Oct 2026 meeting)",
-   "url": "https://growbeansprout.com/tools/fedwatch"
+   "label": "Al Jazeera — US threatens to ground Iranian airlines worldwide from Wednesday",
+   "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday"
   },
   {
-   "label": "Investing.com — Wall St futures pause after AI rally, focus on Mideast tensions",
-   "url": "https://www.investing.com/news/economy-news/wall-st-futures-pause-after-ai-rally-focus-on-mideast-tensions-4910302"
+   "label": "Khaleej Times — US-Israel-Iran-Lebanon war live updates",
+   "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-september-21-2026"
+  },
+  {
+   "label": "USAGOLD — Physical gold slips below $4,310 as hawkish Fed remarks lift the dollar",
+   "url": "https://www.usagold.com/daily-precious-metals-market-report-september-22-2026/"
+  },
+  {
+   "label": "CNBC — Treasury yields are little changed as traders await Fed comments",
+   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html"
+  },
+  {
+   "label": "Yahoo Finance — JPMorgan Chase Falls 3% Despite New $20B QIA Partnership",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-falls-3-despite-165238714.html"
+  },
+  {
+   "label": "South China Morning Post — Rare honour: Trump will greet Xi at Joint Base Andrews, not just White House",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3367905/rare-honour-trump-will-greet-xi-andrews-not-just-white-house"
+  },
+  {
+   "label": "The Hill — Trump to greet Xi at Joint Base Andrews ahead of state visit",
+   "url": "https://thehill.com/homenews/administration/6095241-xi-joins-trump-washington/"
+  },
+  {
+   "label": "US News — China's Xi Kicks off State Visit to Washington on Wednesday With a Rare Planeside Welcome From Trump",
+   "url": "https://www.usnews.com/news/world/articles/2026-09-23/chinas-xi-kicks-off-state-visit-to-washington-on-wednesday-with-a-rare-planeside-welcome-from-trump"
+  },
+  {
+   "label": "Investing.com — PMI data and crude oil inventories highlight Wednesday's economic calendar",
+   "url": "https://www.investing.com/news/stock-market-news/pmi-data-and-crude-oil-inventories-highlight-wednesdays-economic-calendar-93CH-4911432"
+  },
+  {
+   "label": "Newsquawk — Primer: Today's Fedspeak includes Williams, Jefferson, Barkin",
+   "url": "https://www.newsquawk.com/headlines/primer---todays-fedspeak-includes-williams-jefferson-barkin"
+  },
+  {
+   "label": "SEC 8-K — Priority Technology Holdings, Inc.",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001653558/000121390026101651/ea030604701ex99-3.htm"
+  },
+  {
+   "label": "Pulse2 — Priority Technology To Go Private In $1.6 Billion Deal Led By CEO Thomas Priore",
+   "url": "https://pulse2.com/priority-technology-to-go-private-in-1-6-billion-deal-led-by-ceo-thomas-priore/"
   }
  ]
 }
