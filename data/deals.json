@@ -1,6 +1,176 @@
 [
  {
   "src": "PE Hub",
+  "type": "Divestiture",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Phoenix strikes deal to sell cybersecurity firm Logiq to IBM",
+  "link": "https://www.pehub.com/phoenix-strikes-deal-to-sell-cybersecurity-firm-logiq-to-ibm/",
+  "date": "2026-09-24T11:24:10Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Cloopen Group Holding Limited Announces Shareholders' Approval of Merger Agreement",
+  "link": "https://www.prnewswire.com/news-releases/cloopen-group-holding-limited-announces-shareholders-approval-of-merger-agreement-302888913.html",
+  "date": "2026-09-24T11:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vertiv Announces Agreement to Acquire King Environmental Services Ltd., Expanding Global Fluid Management Services",
+  "link": "https://www.prnewswire.com/news-releases/vertiv-announces-agreement-to-acquire-king-environmental-services-ltd-expanding-global-fluid-management-services-302889097.html",
+  "date": "2026-09-24T10:30:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$3B",
+  "title": "Blackstone shelves $3bn CFO deal amid investor concerns",
+  "link": "https://www.privateequitywire.co.uk/blackstone-shelves-3bn-cfo-deal-amid-investor-concerns/",
+  "date": "2026-09-24T09:31:39Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Keensight’s cybersecurity biz Nomios enters Iberian peninsula with Orbcom; Main Capital signs largest deal to date with Confirma Software stake",
+  "link": "https://www.pehub.com/keensights-cybersecurity-biz-nomios-enters-iberian-peninsula-with-orbcom-main-capital-signs-largest-deal-to-date-with-confirma-software-stake/",
+  "date": "2026-09-24T08:36:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Keensight Capital-backed Nomios strikes deal for Portuguese cybersecurity firm Orbcom",
+  "link": "https://www.pehub.com/keensight-capital-backed-nomios-strikes-deal-for-portuguese-cybersecurity-firm-orbcom/",
+  "date": "2026-09-24T08:04:07Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$14.8B",
+  "title": "Delivery Hero Cancels CEO Exit Plans Due to Uber’s $14.8 Billion Takeover Bid",
+  "link": "https://www.wsj.com/business/delivery-hero-cancels-ceo-exit-plans-due-to-ubers-14-8-billion-takeover-bid-de155bf8?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-24T08:04:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CVC agrees to take minority stake in internet infrastructure firm CDN77",
+  "link": "https://www.pehub.com/cvc-agrees-to-take-minority-stake-in-internet-infrastructure-firm-cdn77/",
+  "date": "2026-09-24T07:51:13Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Tikehau Capital-backed EYSA acquires B2B corporate mobility platform Joinup",
+  "link": "https://www.pehub.com/tikehau-capital-backed-eysa-acquires-b2b-corporate-mobility-platform-joinup/",
+  "date": "2026-09-24T07:42:30Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "Technology",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Main Capital Partners to acquire majority stake in Nordic software group Confirma",
+  "link": "https://www.pehub.com/main-capital-partners-to-acquire-majority-stake-in-nordic-software-group-confirma/",
+  "date": "2026-09-24T07:10:52Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.4B",
+  "title": "Schneider Electric to Launch Bid for Shelly Group in $1.4 Billion Deal",
+  "link": "https://www.wsj.com/business/deals/schneider-electric-to-launch-bid-for-shelly-group-in-1-4-billion-deal-c6cc008e?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-24T06:26:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Telecom & Media",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "L.A. Comes to Grips With a Studio Merger Many Didn’t Want",
+  "link": "https://www.wsj.com/business/media/l-a-comes-to-grips-with-a-studio-merger-many-didnt-want-98afc460?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-23T23:42:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "NCIG Announces Expiration and Results of Cash Tender Offer for Any and All of its Outstanding 4.400% Guaranteed Senior Secured Notes due 2027",
+  "link": "https://www.prnewswire.com/news-releases/ncig-announces-expiration-and-results-of-cash-tender-offer-for-any-and-all-of-its-outstanding-4-400-guaranteed-senior-secured-notes-due-2027--302888342.html",
+  "date": "2026-09-23T23:07:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "PEOPLE INCORPORATED WITHDRAWS PROPOSAL TO PURCHASE ALL PUBLIC SHARES OF MGM RESORTS INTERNATIONAL",
+  "link": "https://www.prnewswire.com/news-releases/people-incorporated-withdraws-proposal-to-purchase-all-public-shares-of-mgm-resorts-international-302888293.html",
+  "date": "2026-09-23T22:05:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "OpenText Announces Pricing of Senior Secured Notes Offering to Redeem its Outstanding 2027 Notes and Fund Tender Offer for a Portion of its Outstanding 2028 Notes",
+  "link": "https://www.prnewswire.com/news-releases/opentext-announces-pricing-of-senior-secured-notes-offering-to-redeem-its-outstanding-2027-notes-and-fund-tender-offer-for-a-portion-of-its-outstanding-2028-notes-302888261.html",
+  "date": "2026-09-23T21:20:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Clarivate Announces Pricing Terms of Offer to Purchase for Cash Certain of its Outstanding Debt Securities",
+  "link": "https://www.prnewswire.com/news-releases/clarivate-announces-pricing-terms-of-offer-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302888191.html",
+  "date": "2026-09-23T20:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Independent Pharmacy Cooperative Acquires IntegralRx",
+  "link": "https://www.prnewswire.com/news-releases/independent-pharmacy-cooperative-acquires-integralrx-302887226.html",
+  "date": "2026-09-23T16:00:00Z"
+ },
+ {
+  "src": "PE Hub",
   "type": "M&A",
   "industry": "—",
   "region": "UK",
@@ -8,175 +178,5 @@
   "title": "Arlington-backed AVS Bio acquires UK bioreagent supplier Biorbyt in add-on deal",
   "link": "https://www.pehub.com/arlington-backed-avs-bio-acquires-uk-bioreagent-supplier-biorbyt-in-add-on-deal/",
   "date": "2026-09-23T14:32:38Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "GHK Capital-backed WSB acquires engineering firm Poly",
-  "link": "https://www.pehub.com/ghk-capital-backed-wsb-acquires-engineering-firm-poly/",
-  "date": "2026-09-23T14:10:35Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Butterfly to buy food packager Sabert; Main Post, CapVest invest in snacking; NBA amends PE rule",
-  "link": "https://www.pehub.com/butterfly-agrees-to-acquire-sabert-main-post-capvest-among-firms-investing-in-snacking-in-2026-nba-amends-pe-rule/",
-  "date": "2026-09-23T13:51:14Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Bio-Techne Shareholders Approve Acquisition by Merck KGaA, Darmstadt, Germany",
-  "link": "https://www.prnewswire.com/news-releases/bio-techne-shareholders-approve-acquisition-by-merck-kgaa-darmstadt-germany-302887726.html",
-  "date": "2026-09-23T13:20:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Healthcare Triangle Signs Letter of Intent to Pursue the Proposed Acquisition of Roboticom's Cutting-Edge Industrial Precision Robotics Automation Business",
-  "link": "https://www.prnewswire.com/news-releases/healthcare-triangle-signs-letter-of-intent-to-pursue-the-proposed-acquisition-of-roboticoms-cutting-edge-industrial-precision-robotics-automation-business-302887053.html",
-  "date": "2026-09-23T13:17:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "LLR Partners takes stake in energy management platform EnergyCAP",
-  "link": "https://www.pehub.com/llr-partners-takes-stake-in-energy-management-platform-energycap/",
-  "date": "2026-09-23T13:13:25Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$344M",
-  "title": "Finnish Drone Group Sensofusion Seeks $344 Million in Helsinki IPO",
-  "link": "https://www.wsj.com/business/retail/finnish-drone-group-sensofusion-seeks-344-million-in-helsinki-ipo-6ed784ac?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-23T13:13:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "OpenText Announces Cash Tender Offer for a Portion of its Outstanding 2028 Notes",
-  "link": "https://www.prnewswire.com/news-releases/opentext-announces-cash-tender-offer-for-a-portion-of-its-outstanding-2028-notes-302887723.html",
-  "date": "2026-09-23T13:12:00Z"
- },
- {
-  "src": "ACG",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "M&A SoCal Mixes Tradition with Modern Dealmaking",
-  "link": "https://middlemarketgrowth.org/acg-los-angeles-m-a-socal-2026/",
-  "date": "2026-09-23T13:00:03Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Ridgeline Roofing Acquires Advantage Roofing &amp; Exteriors",
-  "link": "https://www.prnewswire.com/news-releases/ridgeline-roofing-acquires-advantage-roofing--exteriors-302886890.html",
-  "date": "2026-09-23T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "MoonPay to Acquire North Capital and Expand into Onchain Capital Markets",
-  "link": "https://www.prnewswire.com/news-releases/moonpay-to-acquire-north-capital-and-expand-into-onchain-capital-markets-302887065.html",
-  "date": "2026-09-23T13:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Renovus Capital-backed CloudFirst acquires Forvis Mazars’ IT, cyber unit",
-  "link": "https://www.pehub.com/renovus-capital-backed-cloudfirst-acquires-forvis-mazars-it-cyber-unit/",
-  "date": "2026-09-23T12:51:22Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer",
-  "link": "https://www.wsj.com/business/deals/arcadis-shares-fall-after-canadas-wsp-global-pulls-takeover-offer-d5079668?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-23T11:58:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Apollo-backed Forge to acquire Becker’s Healthcare from Pamlico Capital",
-  "link": "https://www.pehub.com/apollo-backed-forge-to-acquire-beckers-healthcare-from-pamlico-capital/",
-  "date": "2026-09-23T11:35:30Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Pfingsten acquires precision bearings distributor Next Point Bearing Group",
-  "link": "https://www.pehub.com/pfingsten-acquires-precision-bearings-distributor-next-point-bearing-group/",
-  "date": "2026-09-23T11:28:34Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Financials",
-  "region": "UK",
-  "value": "$9B",
-  "title": "African Fintech Airtel Money Targets $9 Billion Valuation With London Listing",
-  "link": "https://www.wsj.com/business/deals/airtel-money-plans-london-listing-e50f163d?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-23T11:02:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Jumbo-Sized Series A Rounds Are On The Rise",
-  "link": "https://news.crunchbase.com/venture/megaround-seriesa-ai-chips-robotics-2026/",
-  "date": "2026-09-23T11:00:38Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Blue Moon Acquires the Turner Copper-Gold VMS Deposit to Further Advance its Western U.S. Critical Mineral Hub and Spoke Model",
-  "link": "https://www.prnewswire.com/news-releases/blue-moon-acquires-the-turner-copper-gold-vms-deposit-to-further-advance-its-western-us-critical-mineral-hub-and-spoke-model-302886873.html",
-  "date": "2026-09-23T11:00:00Z"
  }
 ]
