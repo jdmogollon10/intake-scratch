@@ -1,6 +1,36 @@
 [
  {
   "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "BayPine-backed Relation Insurance acquires assets of Pennsylvania agency LaPlaca",
+  "link": "https://www.pehub.com/baypine-backed-relation-insurance-acquires-assets-of-pennsylvania-agency-laplaca/",
+  "date": "2026-09-25T14:28:34Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Clearlake’s PrimeSource Brands adds JACLO in 12th acquisition since 2020",
+  "link": "https://www.pehub.com/clearlakes-primesource-brands-adds-jaclo-in-12th-acquisition-since-2020/",
+  "date": "2026-09-25T13:07:54Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "GNK HOLDINGS SEEKS NON-BINDING SHAREHOLDER INTEREST IN POTENTIAL $11.00 PER SHARE CASH TENDER OFFER FOR BARK",
+  "link": "https://www.prnewswire.com/news-releases/gnk-holdings-seeks-non-binding-shareholder-interest-in-potential-11-00-per-share-cash-tender-offer-for-bark-302889912.html",
+  "date": "2026-09-25T13:00:00Z"
+ },
+ {
+  "src": "PE Hub",
   "type": "Strategic Investment",
   "industry": "Consumer",
   "region": "Europe",
@@ -40,26 +70,6 @@
   "date": "2026-09-25T09:15:54Z"
  },
  {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
-  "link": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
-  "date": "2026-09-25T09:11:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$12B",
-  "title": "Akamai’s stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
-  "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
-  "date": "2026-09-25T08:42:00Z"
- },
- {
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "Healthcare",
@@ -80,16 +90,6 @@
   "date": "2026-09-24T23:34:00Z"
  },
  {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "3 things Micron investors need to watch as the stakes get higher",
-  "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-  "date": "2026-09-24T23:28:00Z"
- },
- {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
@@ -105,8 +105,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Select Water Solutions Announces Agreement to Acquire Pilot Water Solutions",
-  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-agreement-to-acquire-pilot-water-solutions-302889749.html",
+  "title": "Iridium Stockholders Approve Acquisition by Rocket Lab",
+  "link": "https://www.prnewswire.com/news-releases/iridium-stockholders-approve-acquisition-by-rocket-lab-302889586.html",
   "date": "2026-09-24T20:30:00Z"
  },
  {
@@ -115,29 +115,9 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Iridium Stockholders Approve Acquisition by Rocket Lab",
-  "link": "https://www.prnewswire.com/news-releases/iridium-stockholders-approve-acquisition-by-rocket-lab-302889586.html",
+  "title": "Select Water Solutions Announces Agreement to Acquire Pilot Water Solutions",
+  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-agreement-to-acquire-pilot-water-solutions-302889749.html",
   "date": "2026-09-24T20:30:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Arcventis agrees to majority investment in Harbour Point-backed Aligned Modern Health",
-  "link": "https://www.pehub.com/arcventis-agrees-to-majority-investment-in-harbour-point-backed-aligned-modern-health/",
-  "date": "2026-09-24T18:09:56Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "RS2 Healthcare Partners completes first platform investment in medtech manufacturer KMM",
-  "link": "https://www.pehub.com/rs2-healthcare-partners-completes-first-platform-investment-in-medtech-manufacturer-kmm/",
-  "date": "2026-09-24T18:02:23Z"
  },
  {
   "src": "PR Newswire",
@@ -178,5 +158,25 @@
   "title": "Gramercy Invests in Senior Secured Facility for Autocom",
   "link": "https://www.lavca.org/gramercy-invests-in-senior-secured-facility-for-autocom/",
   "date": "2026-09-24T14:29:52Z"
+ },
+ {
+  "src": "LAVCA",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "6 Degrees Capital and HI Ventures Co-Lead a USD8m Series A for Magnar",
+  "link": "https://www.lavca.org/6-degrees-capital-and-hi-ventures-co-lead-a-usd8m-series-a-for-magnar/",
+  "date": "2026-09-24T14:28:59Z"
+ },
+ {
+  "src": "LAVCA",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Morgan Stanley, Goldman Sachs and Kaszek Lead USD70m Series D for A5X",
+  "link": "https://www.lavca.org/morgan-stanley-goldman-sachs-and-kaszek-lead-usd70m-series-d-for-a5x/",
+  "date": "2026-09-24T14:26:56Z"
  }
 ]
