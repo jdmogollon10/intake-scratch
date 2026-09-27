@@ -1,5 +1,15 @@
 [
  {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: Oura & Accelevation Set to Ring Out September",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-oura-accelevation-set-to-ring-out-september/",
+  "date": "2026-09-26T23:22:43Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -125,8 +135,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Select Water Solutions Announces Agreement to Acquire Pilot Water Solutions",
-  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-agreement-to-acquire-pilot-water-solutions-302889749.html",
+  "title": "Iridium Stockholders Approve Acquisition by Rocket Lab",
+  "link": "https://www.prnewswire.com/news-releases/iridium-stockholders-approve-acquisition-by-rocket-lab-302889586.html",
   "date": "2026-09-24T20:30:00Z"
  },
  {
@@ -135,8 +145,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Iridium Stockholders Approve Acquisition by Rocket Lab",
-  "link": "https://www.prnewswire.com/news-releases/iridium-stockholders-approve-acquisition-by-rocket-lab-302889586.html",
+  "title": "Select Water Solutions Announces Agreement to Acquire Pilot Water Solutions",
+  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-agreement-to-acquire-pilot-water-solutions-302889749.html",
   "date": "2026-09-24T20:30:00Z"
  },
  {
@@ -168,15 +178,5 @@
   "title": "EMARKETER acquires research arm of RetailX for global expansion of trusted retail brand rankings",
   "link": "https://www.prnewswire.com/news-releases/emarketer-acquires-research-arm-of-retailx-for-global-expansion-of-trusted-retail-brand-rankings-302889449.html",
   "date": "2026-09-24T15:13:00Z"
- },
- {
-  "src": "LAVCA",
-  "type": "Strategic Investment",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Gramercy Invests in Senior Secured Facility for Autocom",
-  "link": "https://www.lavca.org/gramercy-invests-in-senior-secured-facility-for-autocom/",
-  "date": "2026-09-24T14:29:52Z"
  }
 ]
