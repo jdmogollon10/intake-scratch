@@ -1,5 +1,35 @@
 [
  {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "Telecom & Media",
+  "region": "Europe",
+  "value": "€6.5B",
+  "title": "Apax in talks to acquire Warburg Pincus stake in €6.5bn Dutch telecoms group Odido",
+  "link": "https://www.privateequitywire.co.uk/apax-in-talks-to-acquire-warburg-pincus-stake-in-e6-5bn-dutch-telecoms-group-odido/",
+  "date": "2026-09-28T09:33:45Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.8B",
+  "title": "Greenbriar nears $1.8bn deal to acquire Spectrum Control from AEA Investors",
+  "link": "https://www.privateequitywire.co.uk/greenbriar-nears-1-8bn-deal-to-acquire-spectrum-control-from-aea-investors/",
+  "date": "2026-09-28T08:28:41Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$27B",
+  "title": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields",
+  "link": "https://www.wsj.com/business/energy-oil/northern-star-rejects-27-billion-takeover-proposal-from-gold-fields-1b2ae9d9?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-28T08:05:00Z"
+ },
+ {
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "—",
@@ -60,46 +90,6 @@
   "date": "2026-09-25T13:00:00Z"
  },
  {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Consumer",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Inflexion agrees to invest in French nail care brand Manucurist",
-  "link": "https://www.pehub.com/inflexion-agrees-to-invest-in-french-nail-care-brand-manucurist/",
-  "date": "2026-09-25T11:29:55Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "PE backs occupational healthcare: 6 deals",
-  "link": "https://www.pehub.com/pe-backs-occupational-healthcare-6-deals/",
-  "date": "2026-09-25T11:00:33Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Take-Private",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "$3.2B",
-  "title": "CVC, NSSK weigh $3.2bn Kobayashi Pharmaceutical take-private",
-  "link": "https://www.privateequitywire.co.uk/cvc-nssk-weigh-3-2bn-kobayashi-pharmaceutical-take-private/",
-  "date": "2026-09-25T09:19:09Z"
- },
- {
-  "src": "PE Wire",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$1B",
-  "title": "Bain-backed EcoCeres targets $1bn Hong Kong IPO",
-  "link": "https://www.privateequitywire.co.uk/bain-backed-ecoceres-targets-1bn-hong-kong-ipo/",
-  "date": "2026-09-25T09:15:54Z"
- },
- {
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "Healthcare",
@@ -135,8 +125,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Iridium Stockholders Approve Acquisition by Rocket Lab",
-  "link": "https://www.prnewswire.com/news-releases/iridium-stockholders-approve-acquisition-by-rocket-lab-302889586.html",
+  "title": "Select Water Solutions Announces Agreement to Acquire Pilot Water Solutions",
+  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-agreement-to-acquire-pilot-water-solutions-302889749.html",
   "date": "2026-09-24T20:30:00Z"
  },
  {
@@ -145,8 +135,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Select Water Solutions Announces Agreement to Acquire Pilot Water Solutions",
-  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-agreement-to-acquire-pilot-water-solutions-302889749.html",
+  "title": "Iridium Stockholders Approve Acquisition by Rocket Lab",
+  "link": "https://www.prnewswire.com/news-releases/iridium-stockholders-approve-acquisition-by-rocket-lab-302889586.html",
   "date": "2026-09-24T20:30:00Z"
  },
  {
@@ -178,5 +168,15 @@
   "title": "EMARKETER acquires research arm of RetailX for global expansion of trusted retail brand rankings",
   "link": "https://www.prnewswire.com/news-releases/emarketer-acquires-research-arm-of-retailx-for-global-expansion-of-trusted-retail-brand-rankings-302889449.html",
   "date": "2026-09-24T15:13:00Z"
+ },
+ {
+  "src": "LAVCA",
+  "type": "Strategic Investment",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Gramercy Invests in Senior Secured Facility for Autocom",
+  "link": "https://www.lavca.org/gramercy-invests-in-senior-secured-facility-for-autocom/",
+  "date": "2026-09-24T14:29:52Z"
  }
 ]
