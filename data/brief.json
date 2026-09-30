@@ -1,163 +1,72 @@
 {
  "status": "live",
- "session": "Tuesday, September 29, 2026",
- "builtAt": "2026-09-29T11:35:22Z",
+ "session": "Wednesday, September 30, 2026",
+ "builtAt": "2026-09-30T11:30:00Z",
  "tape": [
-  {
-   "n": "S&P 500",
-   "v": "7,683.69",
-   "c": "-0.77% Mon after Friday's rally",
-   "dir": "dn"
-  },
-  {
-   "n": "Nasdaq Comp",
-   "v": "26,820.38",
-   "c": "-0.92% Mon",
-   "dir": "dn"
-  },
-  {
-   "n": "Dow",
-   "v": "51,481.51",
-   "c": "-347.11 pts Mon (-0.67%)",
-   "dir": "dn"
-  },
-  {
-   "n": "US 10Y",
-   "v": "~5.24%",
-   "c": "Mon close, a fresh 19-year high; intraday peak 5.272%",
-   "dir": "up"
-  },
-  {
-   "n": "WTI",
-   "v": "$92.60",
-   "c": "+0.21% Mon settle, after a pre-market spike toward $96 faded",
-   "dir": ""
-  },
-  {
-   "n": "Gold (Dec fut)",
-   "v": "$4,168.40",
-   "c": "-3.54% Mon",
-   "dir": "dn"
-  }
+  {"n": "S&P 500", "v": "7,670.84", "c": "-0.16% Tue", "dir": "dn"},
+  {"n": "Nasdaq Comp", "v": "26,797.54", "c": "-0.09% Tue", "dir": "dn"},
+  {"n": "Dow", "v": "51,349.92", "c": "-131.59 pts Tue (-0.26%)", "dir": "dn"},
+  {"n": "US 10Y", "v": "~5.29%", "c": "Tue, highest since 2007; 30Y 5.62%, highest since 2002", "dir": "up"},
+  {"n": "WTI", "v": "$89.38", "c": "-3.5% Tue settle on recovering Middle East exports", "dir": "dn"}
  ],
- "tapeLine": "US stocks fell Monday after Trump rebuffed Iran's Hormuz proposal: the Dow lost 347.11 points (0.67%) to 51,481.51, the S&amp;P 500 slid 0.77% to 7,683.69 and the Nasdaq Composite slipped 0.92% to 26,820.38, per TheStreet. The 10-year Treasury yield ended around 5.24% after touching 5.272%, a fresh 19-year high, per CNBC and Barchart-sourced market reports. WTI settled at $92.60 (+0.21%), per Capital Street FX; December gold fell 3.54% to $4,168.40, per the same report. The Dallas Fed's Texas manufacturing index eased to 9.8 in September from 11.6 in August, while its production index rose to 29.5 and input-price growth accelerated to 4.9%, the fastest in more than two years, per the Dallas Fed survey as reported by Seeking Alpha and Fort Worth Inc. Trump said Sunday he expects talks with Iran to resume this week through Qatari mediators, per CBS News and RFE/RL. Tuesday early trading showed Dow futures edging lower, per TheStreet.",
- "matters": "<p>Monday's session reversed Friday's relief. Stocks fell and the 10-year Treasury yield closed around 5.24%, a fresh 19-year high, as bond sellers returned after Trump rejected Iran's seven-day Hormuz proposal, per CNBC and TheStreet. The Fed-hike thread carried since 18 September is still open: Monday's Dallas Fed survey showed the headline index easing to 9.8 from 11.6 but production and new orders rising, with input-price growth at 4.9%, the fastest in more than two years, per the Dallas Fed as reported by Seeking Alpha.</p><p>The Iran thread moved from rejection to a possible resumption: Trump said Sunday he expects talks to resume this week and did not rule out further strikes before the midterms, per Fox News and CBS News. Tehran said it still expects a US response, per CBS News. No meeting or agreement has been reported.</p><p>The financing-desk thread is unchanged: CVC and NSSK's roughly $3.2bn (JPY500bn) preliminary, non-binding proposal for Kobayashi Pharmaceutical has no disclosed financing structure, and the largest shareholder Oasis is reported unlikely to back it, per Smartkarma and Private Equity Wire.</p><p><b>Invalidation:</b> Tuesday's JOLTS and Conference Board confidence (both 10:00 ET), any confirmed resumption or collapse of US-Iran talks, and the 10-year yield's behaviour around 5.27% are the next tests.</p>",
+ "tapeLine": "US stocks slipped Tuesday as Treasury yields hit fresh multiyear highs: the Dow fell 131.59 points (0.26%) to 51,349.92, the S&amp;P 500 lost 0.16% to 7,670.84 and the Nasdaq Composite eased 0.09% to 26,797.54, per Yahoo Finance and CNBC reports. The 10-year yield climbed to 5.293%, the highest since 2007, and the 30-year to 5.6206%, the highest since June 2002, per a Babypips/Investrade-sourced summary. WTI settled down $3.22 (3.5%) at $89.38 and Brent fell 2.6% to $102.59 as Saudi tanker loadings resumed at Yanbu, per CNBC and Nation Thailand. Conference Board consumer confidence fell to 81.9 in September from a revised 88.6 (consensus in the prior brief: 89.4) and JOLTS openings fell 256,000 to 7.079M in August (prior-brief consensus: 7.23M), per the summary cited. Wednesday futures were little changed to slightly lower ahead of PCE inflation data, per Yahoo Finance.",
+ "matters": "<p>Tuesday's session was a bond-led move: the 10-year yield reached 5.293% and the 30-year 5.62%, both multiyear highs, while stocks slipped only modestly, per Yahoo Finance and Babypips. Consumer confidence dropped to 81.9, reported as the weakest since 2014, and job openings fell to 7.079M, both below the consensus figures carried in Tuesday's brief. The Fed-hike thread carried since 18 September stays open with the 28 October FOMC the decision point.</p><p>Oil fell 3.5% (WTI $89.38) as Middle East exports were reported at 17.5M barrels a day, 98% of pre-war levels, per CNBC. Iran's foreign minister said he expects a formal US response Tuesday to Tehran's proposal; no response or meeting has been confirmed in sources found, per CBS News and Axios.</p><p><b>Invalidation:</b> Wednesday's 8:30 ET GDP and Personal Income &amp; Outlays (PCE) releases, Thursday's ISM Manufacturing (10:00 ET), Friday's jobs report, any confirmed US response to Iran, and the 10-year yield's behaviour around 5.29%.</p>",
  "calendar": [
-  {
-   "time": "Tue 09:00",
-   "event": "S&P/Case-Shiller Home Price Index YoY, July",
-   "consensus": "+2.0%",
-   "prior": "—",
-   "impact": "low"
-  },
-  {
-   "time": "Tue 10:00",
-   "event": "Conference Board Consumer Confidence, September",
-   "consensus": "89.4",
-   "prior": "—",
-   "impact": "high"
-  },
-  {
-   "time": "Tue 10:00",
-   "event": "JOLTS Job Openings, August",
-   "consensus": "7.23M",
-   "prior": "—",
-   "impact": "high"
-  }
+  {"time": "Wed 08:30", "event": "GDP (final)", "consensus": "—", "prior": "—", "impact": "high"},
+  {"time": "Wed 08:30", "event": "Personal Income &amp; Outlays / PCE inflation, August", "consensus": "—", "prior": "—", "impact": "high"},
+  {"time": "Thu 10:00", "event": "ISM Manufacturing PMI", "consensus": "—", "prior": "—", "impact": "high"},
+  {"time": "Fri 08:30", "event": "Employment Situation", "consensus": "—", "prior": "—", "impact": "high"}
  ],
- "alsoOnTape": "Silver fell about 4% Monday alongside gold, per Capital Street FX. Al Jazeera reported Trump said US officials met Iran war mediators. This brief could not source a confirmed Tuesday cash-market close at publish time; Tuesday figures are early indications only.",
+ "alsoOnTape": "Tuesday's gold close could not be sourced and is left out. Brent quotes for Tuesday differ by source ($96.16 vs $102.59); the CNBC-reported settle is used. Wednesday figures are early indications only; no confirmed cash close at publish time.",
  "overnight": [
-  "<b>US Monday close</b> &mdash; Dow -347.11 (-0.67%) to 51,481.51, S&amp;P 500 -0.77% to 7,683.69, Nasdaq Composite -0.92% to 26,820.38, per TheStreet.",
-  "<b>Treasury yields</b> &mdash; the 10-year ended around 5.24% after touching 5.272%, a fresh 19-year high; the 30-year was near 5.55% intraday, per CNBC and market reports.",
-  "<b>Oil and metals</b> &mdash; WTI settled $92.60 (+0.21%); December gold fell 3.54% to $4,168.40, per Capital Street FX.",
-  "<b>Dallas Fed</b> &mdash; Texas manufacturing index 9.8 in September vs 11.6 in August; production 29.5, new orders 30.7, input-price growth 4.9% over 12 months, per the Dallas Fed as reported by Seeking Alpha and Fort Worth Inc.",
-  "<b>Iran/Hormuz</b> &mdash; Trump said Sunday he expects talks with Iran to resume this week after rejecting the Hormuz proposal, per CBS News and RFE/RL.",
-  "<b>Deal wire</b> &mdash; no new terms on CVC/NSSK's ~$3.2bn non-binding Kobayashi Pharmaceutical proposal; Oasis reported unlikely to back it, per Smartkarma.",
-  "<b>Tuesday early</b> &mdash; Dow futures edged lower; oil retreated and Treasury yields eased in early trading, per TheStreet."
+  "<b>US Tuesday close</b> &mdash; Dow -131.59 (-0.26%) to 51,349.92, S&amp;P 500 -0.16% to 7,670.84, Nasdaq Composite -0.09% to 26,797.54, per Yahoo Finance.",
+  "<b>Treasury yields</b> &mdash; 10-year to 5.293% (highest since 2007), 30-year to 5.6206% (highest since June 2002), per Babypips.",
+  "<b>Oil</b> &mdash; WTI settled $89.38 (-3.5%); Brent $102.59 (-2.6%) as Saudi exports resumed via Yanbu and the East-West pipeline, per CNBC and Nation Thailand.",
+  "<b>Data</b> &mdash; Conference Board confidence 81.9 vs revised 88.6; JOLTS 7.079M (-256,000), per Investrade/Babypips summaries.",
+  "<b>Iran</b> &mdash; Tehran awaits a US response to its ceasefire and phased Hormuz reopening plan; Trump told Axios he expects more talks this week, per Axios and CBS News.",
+  "<b>Wednesday early</b> &mdash; US futures little changed to slightly lower ahead of PCE data, per Yahoo Finance."
  ],
- "deals": [
-  {
-   "what": "CVC Capital Partners and NSSK's preliminary, non-binding proposal to take Kobayashi Pharmaceutical private remains unresolved; the company said no decision has been made.",
-   "number": "~$3.2bn (~JPY500bn)",
-   "readthrough": "No financing structure has been disclosed and the largest shareholder, Oasis, is reported unlikely to back it. No confirmed debt-financed sponsor buyout has printed."
-  }
- ],
+ "deals": [],
  "macro": [
-  "<b>Fed</b> &mdash; the 10-year at ~5.24% and Dallas Fed input-price growth at 4.9% keep the hike thread open; the FOMC meets 28 October. Tuesday's JOLTS and Conference Board confidence are the next data.",
-  "<b>Iran/Hormuz</b> &mdash; Trump rejected the proposal Saturday but said Sunday he expects talks to resume this week; Tehran says it awaits a US response. No agreement reported.",
-  "<b>Financing desk</b> &mdash; Kobayashi proposal remains non-binding with no financing terms disclosed."
+  "<b>Fed</b> &mdash; yields at multiyear highs keep the hike thread open; FOMC 28 October. Wednesday's PCE and Friday's jobs report are the next data.",
+  "<b>Iran/Hormuz</b> &mdash; Trump rejected the seven-day proposal on 26 September but expects more talks; Iran expects a formal US response. Nothing confirmed.",
+  "<b>Growth</b> &mdash; confidence and job openings both came in below the consensus figures carried Tuesday."
  ],
  "flow": [
-  "Monday's selling was broad across the three main indexes and coincided with a fresh 19-year high in the 10-year yield, per TheStreet and CNBC.",
-  "Gold fell 3.54% and silver about 4% in the same session, per Capital Street FX.",
+  "Stocks were near flat while the 30-year yield hit its highest since 2002, per Yahoo Finance.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page. Nothing here is positioning analysis &mdash; it is sector observation from the tape."
  ],
  "levels": [],
  "regime": {
-  "tag": "Monday reversed Friday's relief rally as Trump's rejection of Iran's Hormuz plan sent the 10-year yield to a 19-year high and stocks and metals lower.",
-  "sizing": "The Fed-hike thread stays open, with the 28 October FOMC the decision point. The Iran thread moved from rejection toward possible resumed talks, unconfirmed. The financing-desk thread is unchanged."
+  "tag": "Yields made fresh multiyear highs while stocks barely moved and oil fell on recovering Middle East exports.",
+  "sizing": "The Fed-hike thread stays open, with the 28 October FOMC the decision point. The Iran thread awaits a US response, unconfirmed. Weak confidence and openings data add a growth-side question to the rates thread."
  },
  "watchlist": [],
- "secondOrder": "Monday's WTI settle of $92.60 (+0.21%) shows the pre-market oil spike toward $96 did not hold, while the yield and equity moves did. That points to rates, not crude, as the main driver of Monday's selling, per the figures above. Gold's 3.54% drop alongside a rising yield fits the same reading; this is an observation, not a forecast.",
+ "secondOrder": "Tuesday reversed Monday's split: oil fell 3.5% and stocks moved little, while yields rose to new highs, so rates again stood out as the driver over crude. Weak confidence alongside rising long yields is an observation, not a forecast.",
  "scorecard": [
   {
-   "verdict": "wrong",
-   "text": "Monday's brief carried a pre-market read that WTI had jumped as much as 4% to $96.44 on reports that US-Iran talks had stalled. WTI settled at $92.60, up only 0.21%, and Trump said Sunday he expects talks to resume this week, per Capital Street FX and CBS News. The oil-spike and 'stalled talks' framing did not hold."
+   "verdict": "right",
+   "text": "Tuesday's brief named the 10-year's behaviour around 5.27% as a test. The yield moved through it to 5.293%, per Babypips. Its read that rates rather than crude were the main driver held: WTI fell 3.5% while stocks slipped only 0.16%."
   },
   {
    "verdict": "right",
-   "text": "Monday's brief pointed to futures lower and the 10-year yield rising toward 5.23%. Stocks closed lower (S&amp;P -0.77%) and the 10-year ended around 5.24%, per TheStreet and CNBC."
+   "text": "Tuesday's brief carried early Dow futures edging lower. The Dow closed down 0.26%, per Yahoo Finance."
   },
   {
    "verdict": "open",
-   "text": "Monday's brief named the Dallas Fed index as a test: it came in at 9.8 versus 11.6 prior, with production and new orders higher, per Seeking Alpha. A mixed read for the Fed thread, which stays open. Any formal US response to Iran and any new Houthi strike on Saudi energy infrastructure remain unconfirmed."
+   "text": "Tuesday's brief flagged JOLTS and Conference Board as tests, with consensus 7.23M and 89.4. Actuals were 7.079M and 81.9, both below. Whether that changes the Fed thread awaits Wednesday's PCE. Resumed US-Iran talks remain unconfirmed."
   }
  ],
  "midday": null,
  "sources": [
-  {
-   "label": "TheStreet — Stock Market Today (Sept. 28, 2026): Nasdaq, S&P 500 fall after Trump rebuffs Iran peace deal",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026"
-  },
-  {
-   "label": "TheStreet — Stock Market Today (Sept. 29, 2026): Dow futures edge lower",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026"
-  },
-  {
-   "label": "CNBC — Treasury yields rise as march to multiyear highs continues",
-   "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html"
-  },
-  {
-   "label": "Capital Street FX — US Session Report, 28 September 2026",
-   "url": "https://www.capitalstreetfx.com/market-analysis/oil-jumps-and-silver-sink-28-september-2026/"
-  },
-  {
-   "label": "Seeking Alpha — Dallas Fed manufacturing index drops less than expected in September",
-   "url": "https://seekingalpha.com/news/4647626-dallas-fed-manufacturing-index-drops-less-than-expected-in-september"
-  },
-  {
-   "label": "Fort Worth Inc. — Texas Manufacturing Output Jumps in September",
-   "url": "https://fortworthinc.com/news/texas-manufacturing-output-surges-in-september-dallas-fed-su/"
-  },
-  {
-   "label": "CBS News — Trump expects talks with Iran to resume this week after rejecting proposal",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/"
-  },
-  {
-   "label": "RFE/RL via GlobalSecurity — Trump Sees More Talks In Coming Week",
-   "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-rferl02.htm"
-  },
-  {
-   "label": "Fox News — Trump won't rule out more Iran strikes before midterms",
-   "url": "https://www.foxnews.com/live-news/trump-iran-war-news-peace-talks-hormuz-september-28"
-  },
-  {
-   "label": "Private Equity Wire — CVC, NSSK weigh $3.2bn Kobayashi Pharmaceutical take-private",
-   "url": "https://www.privateequitywire.co.uk/cvc-nssk-weigh-3-2bn-kobayashi-pharmaceutical-take-private/"
-  },
-  {
-   "label": "Smartkarma — Kobayashi Pharma: CVC/NSSK Buyout Rumour Faces an Oasis Hurdle",
-   "url": "https://www.smartkarma.com/insights/kobayashi-pharma-4967-jp-cvc-nssk-buyout-rumour-faces-an-oasis-hurdle"
-  }
+  {"label": "CNBC — Stock market today: live updates (Sept. 29, 2026)", "url": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html"},
+  {"label": "Yahoo Finance — Dow, S&P 500, Nasdaq wobble as 30-year Treasury yield climbs to 24-year high", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html"},
+  {"label": "Yahoo Finance — Futures little changed ahead of PCE inflation data (Sept. 30)", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html"},
+  {"label": "Babypips — Financial & Forex Market Recap, Sept. 29, 2026", "url": "https://www.babypips.com/news/financial-forex-market-recap-2026-09-29"},
+  {"label": "Investrade — Market Review: September 29, 2026", "url": "https://investrade.com/market-review-september-29-2026/"},
+  {"label": "CNBC — Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports", "url": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html"},
+  {"label": "Nation Thailand — Brent falls 2.6% to US$102.59 on September 29", "url": "https://www.nationthailand.com/news/world/40071680"},
+  {"label": "Axios — After nixing Iran proposal, Trump tells Axios he expects talks this week", "url": "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations"},
+  {"label": "CBS News — Iran war updates: Tehran expects US response", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/"}
  ]
 }
