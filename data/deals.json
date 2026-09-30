@@ -1,173 +1,83 @@
 [
  {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "—",
-  "value": "$2.9B",
-  "title": "Antin inks Vicinity Energy stake sale to Harrison Street at $2.9bn EV",
-  "link": "https://www.pehub.com/antin-inks-vicinity-energy-stake-sale-to-harrison-street-at-2-9bn-ev/",
-  "date": "2026-09-30T11:33:38Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.06B",
-  "title": "Hormel Foods to Buy Brakebush Brothers for About $1.06 Billion",
-  "link": "https://www.wsj.com/business/deals/hormel-foods-to-buy-brakebush-brothers-for-about-1-06-billion-6adef7ff?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-30T11:22:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Private equity looks to unlock value in consumer businesses via carve-outs",
-  "link": "https://www.pehub.com/private-equity-firms-look-to-unlock-value-in-consumer-businesses-with-corporate-carve-outs/",
-  "date": "2026-09-30T11:00:05Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "Undisclosed",
-  "title": "PEOPLES BANCORP INC. AND CAPITAL BANCORP, INC. ANNOUNCE MERGER AGREEMENT",
-  "link": "https://www.prnewswire.com/news-releases/peoples-bancorp-inc-and-capital-bancorp-inc-announce-merger-agreement-302893578.html",
-  "date": "2026-09-30T11:00:00Z"
+  "value": "$160M",
+  "title": "CrownPoint Partners Tops $160 Million in 2026 Closed Deal Volume; More Than $275 Million Under Agreement or Listed",
+  "link": "https://www.prnewswire.com/news-releases/crownpoint-partners-tops-160-million-in-2026-closed-deal-volume-more-than-275-million-under-agreement-or-listed-302894691.html",
+  "date": "2026-09-30T16:05:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Energy",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Solidion Technology Chairman and CEO Jaymes Winters Justifies Below Market Acquisition Price for Flux Power, Inc. (Nasdaq: FLUX)",
-  "link": "https://www.prnewswire.com/news-releases/solidion-technology-chairman-and-ceo-jaymes-winters-justifies-below-market-acquisition-price-for-flux-power-inc-nasdaq-flux-302893836.html",
-  "date": "2026-09-30T10:45:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Hormel Foods Announces Definitive Agreement To Acquire Brakebush, A Leading Value-Added Chicken Company",
-  "link": "https://www.prnewswire.com/news-releases/hormel-foods-announces-definitive-agreement-to-acquire-brakebush-a-leading-value-added-chicken-company-302893854.html",
-  "date": "2026-09-30T10:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$450M",
-  "title": "Kenon Announces Agreement to Acquire 25% Interest in District Heating and Cooling Business in the United States for approximately $450 million",
-  "link": "https://www.prnewswire.com/news-releases/kenon-announces-agreement-to-acquire-25-interest-in-district-heating-and-cooling-business-in-the-united-states-for-approximately-450-million-302894240.html",
-  "date": "2026-09-30T10:09:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "H.I.G. Capital Completes Acquisition of Arco",
-  "link": "https://www.prnewswire.com/news-releases/hig-capital-completes-acquisition-of-arco-302893248.html",
-  "date": "2026-09-30T10:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Chilly Markets and AI Safety Debates Derail Wall Street’s Blockbuster IPO Season",
-  "link": "https://www.wsj.com/world/chilly-markets-and-ai-safety-debates-derail-wall-streets-blockbuster-ipo-season-f2bf312b?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-30T09:56:00Z"
+  "title": "OpenMetal Acquires Economize, Launches Labs to Help Businesses Optimize Their Cloud and AI Infrastructure",
+  "link": "https://www.prnewswire.com/news-releases/openmetal-acquires-economize-launches-labs-to-help-businesses-optimize-their-cloud-and-ai-infrastructure-302894460.html",
+  "date": "2026-09-30T15:30:00Z"
  },
  {
-  "src": "MarketWatch",
+  "src": "PE Hub",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "There’s a new Wall Street ‘TACO’ index — and this one is saying it’s time for Trump to strike a deal",
-  "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
-  "date": "2026-09-30T09:16:00Z"
+  "title": "Wynnchurch Capital’s EMS acquires Florida fencing and hurricane shutter distributor AMD Supply",
+  "link": "https://www.pehub.com/wynnchurch-capitals-ems-acquires-florida-fencing-and-hurricane-shutter-distributor-amd-supply/",
+  "date": "2026-09-30T15:25:48Z"
  },
  {
   "src": "PE Hub",
   "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
+  "industry": "Energy",
+  "region": "US",
   "value": "Undisclosed",
-  "title": "Aspirity Partners agrees majority stake in Onomondo",
-  "link": "https://www.pehub.com/aspirity-partners-agrees-majority-stake-in-onomondo/",
-  "date": "2026-09-30T09:00:29Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "Aspirity Partners to acquire majority stake in IoT infra business Onomondo; KKR and EQT sign deals in Asia",
-  "link": "https://www.pehub.com/aspirity-partners-to-acquire-majority-stake-in-iot-infra-business-onomondo-kkr-and-eqt-sign-deals-in-asia/",
-  "date": "2026-09-30T09:00:22Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Schroders Capital CEO to leave as Nuveen takeover nears completion",
-  "link": "https://www.privateequitywire.co.uk/schroders-capital-ceo-to-leave-as-nuveen-takeover-nears-completion/",
-  "date": "2026-09-30T08:41:21Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "Apollo completes acquisition of Japanese glassmaker Nippon Sheet Glass",
-  "link": "https://www.pehub.com/apollo-completes-acquisition-of-japanese-glassmaker-nippon-sheet-glass/",
-  "date": "2026-09-30T08:30:41Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "FF EAI Robotics Ecosystem Inc. (f/k/a AIxCrypto Holdings, Inc.) to Acquire FF Robotics Business for Standalone Listing; Faraday Future Unveils New Execution Plans for \"Built In USA\" Acceleration Program and Initiates Conditional Approval Application, Will Roll Out New Robot Product in Q1 2027",
-  "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-fka-aixcrypto-holdings-inc-to-acquire-ff-robotics-business-for-standalone-listing-faraday-future-unveils-new-execution-plans-for-built-in-usa-acceleration-program-and-initiates-conditional-a-302893648.html",
-  "date": "2026-09-30T02:24:00Z"
+  "title": "ArcLight takes 50 percent stake in 5.4GW North American power portfolio IATP",
+  "link": "https://www.pehub.com/arclight-takes-50-percent-stake-in-5-4gw-north-american-power-portfolio-iatp/",
+  "date": "2026-09-30T15:05:46Z"
  },
  {
   "src": "WSJ",
-  "type": "IPO",
+  "type": "M&A",
   "industry": "—",
-  "region": "—",
+  "region": "Europe",
   "value": "Undisclosed",
-  "title": "Wall Street’s Hopes for a Blockbuster IPO Season Are Fading",
-  "link": "https://www.wsj.com/finance/stocks/wall-streets-hopes-for-a-blockbuster-ipo-season-are-starting-to-fade-1bb8f8db?mod=rss_markets_main",
-  "date": "2026-09-30T01:00:00Z"
+  "title": "German Union Warns of Potential Conflict With Volkswagen Over Wage Deals",
+  "link": "https://www.wsj.com/business/autos/german-union-warns-of-potential-conflict-with-volkswagen-over-wage-deals-7259c054?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-30T15:03:00Z"
  },
  {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Energy",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: Accelevation (ACCV) Prices IPO at $18 – $2 Below Range",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-accelevation-accv-proposed-prices-ipo-at-18-2-below-range/",
-  "date": "2026-09-29T23:27:54Z"
+  "title": "ArcLight Completes Acquisition of 50% Stake in 5.4 GW Diversified Power Infrastructure Portfolio",
+  "link": "https://www.prnewswire.com/news-releases/arclight-completes-acquisition-of-50-stake-in-5-4-gw-diversified-power-infrastructure-portfolio-302893480.html",
+  "date": "2026-09-30T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Firestone Partners and Matterhorn Venture Partners Acquire Multi-Tenant Industrial Property in Marietta, GA",
+  "link": "https://www.prnewswire.com/news-releases/firestone-partners-and-matterhorn-venture-partners-acquire-multi-tenant-industrial-property-in-marietta-ga-302894509.html",
+  "date": "2026-09-30T14:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Divestiture",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "$2.9B",
+  "title": "Aurelius, Yellow Wood lead carve-out momentum in consumer sector; Antin to sell Vicinity at $2.9bn; Bain invests in Kahua",
+  "link": "https://www.pehub.com/aurelius-yellow-wood-lead-carve-out-momentum-in-consumer-sector-antin-to-sell-vicinity-at-2-9bn-bain-invests-in-kahua/",
+  "date": "2026-09-30T13:50:42Z"
  },
  {
   "src": "PR Newswire",
@@ -175,8 +85,98 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "SPARK I ACQUISITION CORPORATION ANNOUNCES ADDITIONAL CONTRIBUTION OF $0.10 PER SHARE TO TRUST ACCOUNT FOR EXTENSION",
-  "link": "https://www.prnewswire.com/news-releases/spark-i-acquisition-corporation-announces-additional-contribution-of-0-10-per-share-to-trust-account-for-extension-302893311.html",
-  "date": "2026-09-29T21:00:00Z"
+  "title": "VARVAGLIONE 1921 INTRODUCES CÀ, ITS FIRST METODO CLASSICO SPARKLING WINE, AND ANNOUNCES THE ACQUISITION OF THE HISTORIC CASINO NITTI ESTATE",
+  "link": "https://www.prnewswire.com/news-releases/varvaglione-1921-introduces-ca-its-first-metodo-classico-sparkling-wine-and-announces-the-acquisition-of-the-historic-casino-nitti-estate-302894456.html",
+  "date": "2026-09-30T13:33:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Resonant Clinical Solutions Expands Global Equipment &amp; Ancillaries Business with Acquisition of Labfish",
+  "link": "https://www.prnewswire.com/news-releases/resonant-clinical-solutions-expands-global-equipment--ancillaries-business-with-acquisition-of-labfish-302893220.html",
+  "date": "2026-09-30T13:28:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Kroger Boots Red Bull in High-Stakes Push for Everyday Low Prices",
+  "link": "https://www.wsj.com/cmo-today/kroger-boots-red-bull-in-high-stakes-push-for-everyday-low-prices-905a6a52?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-30T13:25:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Volo Sports Acquires Fray and CLUBWAKA Miami, Expanding Its National Footprint to 17 Markets",
+  "link": "https://www.prnewswire.com/news-releases/volo-sports-acquires-fray-and-clubwaka-miami-expanding-its-national-footprint-to-17-markets-302893487.html",
+  "date": "2026-09-30T13:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "WEBCO INDUSTRIES, INC. ANNOUNCES LAUNCH OF TENDER OFFER FOR COMMON STOCK",
+  "link": "https://www.prnewswire.com/news-releases/webco-industries-inc-announces-launch-of-tender-offer-for-common-stock-302894252.html",
+  "date": "2026-09-30T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Clio Acquires Learned Hand",
+  "link": "https://www.prnewswire.com/news-releases/clio-acquires-learned-hand-302893566.html",
+  "date": "2026-09-30T13:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "Divestiture",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "DoorDash Reaches Deals to Sell More Shoes and Clothing",
+  "link": "https://www.wsj.com/business/retail/doordash-reaches-deals-to-sell-more-shoes-and-clothing-0c69088f?mod=pls_whats_news_us_business_f",
+  "date": "2026-09-30T13:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "UK",
+  "value": "Undisclosed",
+  "title": "HIG Capital completes acquisition of UK safety equipment distributor Arco",
+  "link": "https://www.pehub.com/hig-capital-completes-acquisition-of-uk-safety-equipment-distributor-arco/",
+  "date": "2026-09-30T12:39:11Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Choice Hotels to Acquire Harvest Hosts, Expanding Its Reach with the Value-Minded Traveler Into Outdoor and RV Travel",
+  "link": "https://www.prnewswire.com/news-releases/choice-hotels-to-acquire-harvest-hosts-expanding-its-reach-with-the-value-minded-traveler-into-outdoor-and-rv-travel-302894366.html",
+  "date": "2026-09-30T12:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ODNB Financial Corporation and National Capital Bancorp, Inc. Announce Receipt of OCC Approval and Federal Reserve Waiver to Complete Mergers",
+  "link": "https://www.prnewswire.com/news-releases/odnb-financial-corporation-and-national-capital-bancorp-inc-announce-receipt-of-occ-approval-and-federal-reserve-waiver-to-complete-mergers-302893793.html",
+  "date": "2026-09-30T12:28:00Z"
  }
 ]
