@@ -1,13 +1,133 @@
 [
  {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Antin acquires majority stake in aerial firefighting firm HP Helicopters",
+  "link": "https://www.pehub.com/antin-acquires-majority-stake-in-aerial-firefighting-firm-hp-helicopters/",
+  "date": "2026-10-01T11:21:57Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Window Is Opening Selectively; Readiness Will Decide Who Gets Through",
+  "link": "https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/",
+  "date": "2026-10-01T11:00:42Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Private equity invests in garage door businesses: 5 standout deals",
+  "link": "https://www.pehub.com/private-equity-invests-in-garage-door-businesses-5-standout-deals/",
+  "date": "2026-10-01T11:00:14Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "$160M",
-  "title": "CrownPoint Partners Tops $160 Million in 2026 Closed Deal Volume; More Than $275 Million Under Agreement or Listed",
-  "link": "https://www.prnewswire.com/news-releases/crownpoint-partners-tops-160-million-in-2026-closed-deal-volume-more-than-275-million-under-agreement-or-listed-302894691.html",
-  "date": "2026-09-30T16:05:00Z"
+  "value": "Undisclosed",
+  "title": "Ault &amp; Company Purchases 10.4 Million Shares of Hyperscale Data Common Stock at $0.50 Per Share",
+  "link": "https://www.prnewswire.com/news-releases/ault--company-purchases-10-4-million-shares-of-hyperscale-data-common-stock-at-0-50-per-share-302895332.html",
+  "date": "2026-10-01T11:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Global Dealmaking Cools in Third Quarter",
+  "link": "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-01T10:36:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$10B",
+  "title": "TPG raises $10bn for second climate private equity fund",
+  "link": "https://www.privateequitywire.co.uk/tpg-raises-10bn-for-second-climate-private-equity-fund/",
+  "date": "2026-10-01T09:42:43Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Pophouse Entertainment strikes deal for 50% stake in Sia’s music rights",
+  "link": "https://www.pehub.com/pophouse-entertainment-strikes-deal-for-50-stake-in-sias-music-rights/",
+  "date": "2026-10-01T09:32:24Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Nuveen Completes Acquisition of Schroders",
+  "link": "https://www.prnewswire.com/news-releases/nuveen-completes-acquisition-of-schroders-302895276.html",
+  "date": "2026-10-01T09:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Legacy Distribution Acquires Leading Content Distributor Vision Films in Global Expansion",
+  "link": "https://www.prnewswire.com/news-releases/legacy-distribution-acquires-leading-content-distributor-vision-films-in-global-expansion-302895111.html",
+  "date": "2026-10-01T08:49:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "AI data centre boom drives new private investment in clean energy",
+  "link": "https://www.privateequitywire.co.uk/ai-data-centre-boom-drives-new-private-investment-in-clean-energy/",
+  "date": "2026-10-01T08:27:26Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Antin agrees sale of majority stake in Vicinity Energy to Harrison Street",
+  "link": "https://www.privateequitywire.co.uk/antin-agrees-sale-of-majority-stake-in-vicinity-energy-to-harrison-street/",
+  "date": "2026-10-01T08:25:21Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Arcus agrees to buy SK Pharma from Syz Capital and Saturnus Capital",
+  "link": "https://www.pehub.com/arcus-agrees-to-buy-sk-pharma-from-syz-capital-and-saturnus-capital/",
+  "date": "2026-10-01T07:39:46Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Ambienta builds sustainable Nordic aquaculture tech platform with four acquisitions",
+  "link": "https://www.pehub.com/ambienta-builds-nordic-aquaculture-tech-platform-with-four-acquisitions/",
+  "date": "2026-10-01T07:00:21Z"
  },
  {
   "src": "PR Newswire",
@@ -15,79 +135,29 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "OpenMetal Acquires Economize, Launches Labs to Help Businesses Optimize Their Cloud and AI Infrastructure",
-  "link": "https://www.prnewswire.com/news-releases/openmetal-acquires-economize-launches-labs-to-help-businesses-optimize-their-cloud-and-ai-infrastructure-302894460.html",
-  "date": "2026-09-30T15:30:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Wynnchurch Capital’s EMS acquires Florida fencing and hurricane shutter distributor AMD Supply",
-  "link": "https://www.pehub.com/wynnchurch-capitals-ems-acquires-florida-fencing-and-hurricane-shutter-distributor-amd-supply/",
-  "date": "2026-09-30T15:25:48Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "ArcLight takes 50 percent stake in 5.4GW North American power portfolio IATP",
-  "link": "https://www.pehub.com/arclight-takes-50-percent-stake-in-5-4gw-north-american-power-portfolio-iatp/",
-  "date": "2026-09-30T15:05:46Z"
+  "title": "Fresenius completes acquisition of mAbxience, creating a stronger platform for future portfolio expansion",
+  "link": "https://www.prnewswire.com/news-releases/fresenius-completes-acquisition-of-mabxience-creating-a-stronger-platform-for-future-portfolio-expansion-302895070.html",
+  "date": "2026-10-01T05:00:00Z"
  },
  {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "German Union Warns of Potential Conflict With Volkswagen Over Wage Deals",
-  "link": "https://www.wsj.com/business/autos/german-union-warns-of-potential-conflict-with-volkswagen-over-wage-deals-7259c054?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-30T15:03:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Energy",
   "region": "—",
-  "value": "Undisclosed",
-  "title": "ArcLight Completes Acquisition of 50% Stake in 5.4 GW Diversified Power Infrastructure Portfolio",
-  "link": "https://www.prnewswire.com/news-releases/arclight-completes-acquisition-of-50-stake-in-5-4-gw-diversified-power-infrastructure-portfolio-302893480.html",
-  "date": "2026-09-30T14:00:00Z"
+  "value": "$672M",
+  "title": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal",
+  "link": "https://www.wsj.com/business/lynas-rare-earths-to-buy-meteoric-resources-in-672-million-deal-2701e09b?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-01T04:56:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Industrials",
+  "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Firestone Partners and Matterhorn Venture Partners Acquire Multi-Tenant Industrial Property in Marietta, GA",
-  "link": "https://www.prnewswire.com/news-releases/firestone-partners-and-matterhorn-venture-partners-acquire-multi-tenant-industrial-property-in-marietta-ga-302894509.html",
-  "date": "2026-09-30T14:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Divestiture",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "$2.9B",
-  "title": "Aurelius, Yellow Wood lead carve-out momentum in consumer sector; Antin to sell Vicinity at $2.9bn; Bain invests in Kahua",
-  "link": "https://www.pehub.com/aurelius-yellow-wood-lead-carve-out-momentum-in-consumer-sector-antin-to-sell-vicinity-at-2-9bn-bain-invests-in-kahua/",
-  "date": "2026-09-30T13:50:42Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "VARVAGLIONE 1921 INTRODUCES CÀ, ITS FIRST METODO CLASSICO SPARKLING WINE, AND ANNOUNCES THE ACQUISITION OF THE HISTORIC CASINO NITTI ESTATE",
-  "link": "https://www.prnewswire.com/news-releases/varvaglione-1921-introduces-ca-its-first-metodo-classico-sparkling-wine-and-announces-the-acquisition-of-the-historic-casino-nitti-estate-302894456.html",
-  "date": "2026-09-30T13:33:00Z"
+  "title": "IMG Completes Acquisition of World Nomads, Expanding Global Travel Insurance Distribution",
+  "link": "https://www.prnewswire.com/news-releases/img-completes-acquisition-of-world-nomads-expanding-global-travel-insurance-distribution-302895147.html",
+  "date": "2026-10-01T00:18:00Z"
  },
  {
   "src": "PR Newswire",
@@ -95,19 +165,9 @@
   "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Resonant Clinical Solutions Expands Global Equipment &amp; Ancillaries Business with Acquisition of Labfish",
-  "link": "https://www.prnewswire.com/news-releases/resonant-clinical-solutions-expands-global-equipment--ancillaries-business-with-acquisition-of-labfish-302893220.html",
-  "date": "2026-09-30T13:28:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Kroger Boots Red Bull in High-Stakes Push for Everyday Low Prices",
-  "link": "https://www.wsj.com/cmo-today/kroger-boots-red-bull-in-high-stakes-push-for-everyday-low-prices-905a6a52?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-30T13:25:00Z"
+  "title": "Vyrao is acquired by a newly established Healthcare &amp; Beauty Platform, Tresalis, Naming Yasmin Sewell Chief Brand Officer",
+  "link": "https://www.prnewswire.com/news-releases/vyrao-is-acquired-by-a-newly-established-healthcare--beauty-platform-tresalis-naming-yasmin-sewell-chief-brand-officer-302895082.html",
+  "date": "2026-09-30T23:30:00Z"
  },
  {
   "src": "PR Newswire",
@@ -115,68 +175,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Volo Sports Acquires Fray and CLUBWAKA Miami, Expanding Its National Footprint to 17 Markets",
-  "link": "https://www.prnewswire.com/news-releases/volo-sports-acquires-fray-and-clubwaka-miami-expanding-its-national-footprint-to-17-markets-302893487.html",
-  "date": "2026-09-30T13:03:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "WEBCO INDUSTRIES, INC. ANNOUNCES LAUNCH OF TENDER OFFER FOR COMMON STOCK",
-  "link": "https://www.prnewswire.com/news-releases/webco-industries-inc-announces-launch-of-tender-offer-for-common-stock-302894252.html",
-  "date": "2026-09-30T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Clio Acquires Learned Hand",
-  "link": "https://www.prnewswire.com/news-releases/clio-acquires-learned-hand-302893566.html",
-  "date": "2026-09-30T13:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "Divestiture",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DoorDash Reaches Deals to Sell More Shoes and Clothing",
-  "link": "https://www.wsj.com/business/retail/doordash-reaches-deals-to-sell-more-shoes-and-clothing-0c69088f?mod=pls_whats_news_us_business_f",
-  "date": "2026-09-30T13:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "HIG Capital completes acquisition of UK safety equipment distributor Arco",
-  "link": "https://www.pehub.com/hig-capital-completes-acquisition-of-uk-safety-equipment-distributor-arco/",
-  "date": "2026-09-30T12:39:11Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Choice Hotels to Acquire Harvest Hosts, Expanding Its Reach with the Value-Minded Traveler Into Outdoor and RV Travel",
-  "link": "https://www.prnewswire.com/news-releases/choice-hotels-to-acquire-harvest-hosts-expanding-its-reach-with-the-value-minded-traveler-into-outdoor-and-rv-travel-302894366.html",
-  "date": "2026-09-30T12:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ODNB Financial Corporation and National Capital Bancorp, Inc. Announce Receipt of OCC Approval and Federal Reserve Waiver to Complete Mergers",
-  "link": "https://www.prnewswire.com/news-releases/odnb-financial-corporation-and-national-capital-bancorp-inc-announce-receipt-of-occ-approval-and-federal-reserve-waiver-to-complete-mergers-302893793.html",
-  "date": "2026-09-30T12:28:00Z"
+  "title": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger",
+  "link": "https://www.prnewswire.com/news-releases/paramount-skydance-and-warner-bros-discovery-announce-anticipated-closing-date-of-paramount-merger-302895095.html",
+  "date": "2026-09-30T22:49:00Z"
  }
 ]
