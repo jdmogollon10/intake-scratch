@@ -1,153 +1,43 @@
 [
  {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Antin acquires majority stake in aerial firefighting firm HP Helicopters",
-  "link": "https://www.pehub.com/antin-acquires-majority-stake-in-aerial-firefighting-firm-hp-helicopters/",
-  "date": "2026-10-01T11:21:57Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Window Is Opening Selectively; Readiness Will Decide Who Gets Through",
-  "link": "https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/",
-  "date": "2026-10-01T11:00:42Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Private equity invests in garage door businesses: 5 standout deals",
-  "link": "https://www.pehub.com/private-equity-invests-in-garage-door-businesses-5-standout-deals/",
-  "date": "2026-10-01T11:00:14Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Ault &amp; Company Purchases 10.4 Million Shares of Hyperscale Data Common Stock at $0.50 Per Share",
-  "link": "https://www.prnewswire.com/news-releases/ault--company-purchases-10-4-million-shares-of-hyperscale-data-common-stock-at-0-50-per-share-302895332.html",
-  "date": "2026-10-01T11:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Global Dealmaking Cools in Third Quarter",
-  "link": "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-01T10:36:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$10B",
-  "title": "TPG raises $10bn for second climate private equity fund",
-  "link": "https://www.privateequitywire.co.uk/tpg-raises-10bn-for-second-climate-private-equity-fund/",
-  "date": "2026-10-01T09:42:43Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Pophouse Entertainment strikes deal for 50% stake in Sia’s music rights",
-  "link": "https://www.pehub.com/pophouse-entertainment-strikes-deal-for-50-stake-in-sias-music-rights/",
-  "date": "2026-10-01T09:32:24Z"
+  "title": "Limble Acquires FM360's Professional Services Business, Names Founder John Rimer VP of Professional Services",
+  "link": "https://www.prnewswire.com/news-releases/limble-acquires-fm360s-professional-services-business-names-founder-john-rimer-vp-of-professional-services-302896096.html",
+  "date": "2026-10-01T17:00:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
-  "region": "—",
+  "region": "US",
   "value": "Undisclosed",
-  "title": "Nuveen Completes Acquisition of Schroders",
-  "link": "https://www.prnewswire.com/news-releases/nuveen-completes-acquisition-of-schroders-302895276.html",
-  "date": "2026-10-01T09:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Legacy Distribution Acquires Leading Content Distributor Vision Films in Global Expansion",
-  "link": "https://www.prnewswire.com/news-releases/legacy-distribution-acquires-leading-content-distributor-vision-films-in-global-expansion-302895111.html",
-  "date": "2026-10-01T08:49:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "AI data centre boom drives new private investment in clean energy",
-  "link": "https://www.privateequitywire.co.uk/ai-data-centre-boom-drives-new-private-investment-in-clean-energy/",
-  "date": "2026-10-01T08:27:26Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Antin agrees sale of majority stake in Vicinity Energy to Harrison Street",
-  "link": "https://www.privateequitywire.co.uk/antin-agrees-sale-of-majority-stake-in-vicinity-energy-to-harrison-street/",
-  "date": "2026-10-01T08:25:21Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Arcus agrees to buy SK Pharma from Syz Capital and Saturnus Capital",
-  "link": "https://www.pehub.com/arcus-agrees-to-buy-sk-pharma-from-syz-capital-and-saturnus-capital/",
-  "date": "2026-10-01T07:39:46Z"
+  "title": "KromAmericas Announces Acquisition Of American Flame Monitoring",
+  "link": "https://www.prnewswire.com/news-releases/kromamericas-announces-acquisition-of-american-flame-monitoring-302896272.html",
+  "date": "2026-10-01T16:47:00Z"
  },
  {
   "src": "PE Hub",
   "type": "M&A",
   "industry": "Technology",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Ambienta builds sustainable Nordic aquaculture tech platform with four acquisitions",
-  "link": "https://www.pehub.com/ambienta-builds-nordic-aquaculture-tech-platform-with-four-acquisitions/",
-  "date": "2026-10-01T07:00:21Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Fresenius completes acquisition of mAbxience, creating a stronger platform for future portfolio expansion",
-  "link": "https://www.prnewswire.com/news-releases/fresenius-completes-acquisition-of-mabxience-creating-a-stronger-platform-for-future-portfolio-expansion-302895070.html",
-  "date": "2026-10-01T05:00:00Z"
+  "title": "Thoma Bravo and 7Ridge’s Trading Technologies acquires equities trading platform TRAFiX",
+  "link": "https://www.pehub.com/thoma-bravo-and-7ridges-trading-technologies-acquires-equities-trading-platform-trafix/",
+  "date": "2026-10-01T16:34:42Z"
  },
  {
-  "src": "WSJ",
+  "src": "PE Hub",
   "type": "M&A",
   "industry": "—",
-  "region": "—",
-  "value": "$672M",
-  "title": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal",
-  "link": "https://www.wsj.com/business/lynas-rare-earths-to-buy-meteoric-resources-in-672-million-deal-2701e09b?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-01T04:56:00Z"
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Lovell Minnick’s Warner Pacific strikes deal for California general agency Beere&Purves",
+  "link": "https://www.pehub.com/lovell-minnicks-warner-pacific-strikes-deal-for-california-general-agency-beerepurves/",
+  "date": "2026-10-01T16:28:07Z"
  },
  {
   "src": "PR Newswire",
@@ -155,19 +45,9 @@
   "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "IMG Completes Acquisition of World Nomads, Expanding Global Travel Insurance Distribution",
-  "link": "https://www.prnewswire.com/news-releases/img-completes-acquisition-of-world-nomads-expanding-global-travel-insurance-distribution-302895147.html",
-  "date": "2026-10-01T00:18:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Vyrao is acquired by a newly established Healthcare &amp; Beauty Platform, Tresalis, Naming Yasmin Sewell Chief Brand Officer",
-  "link": "https://www.prnewswire.com/news-releases/vyrao-is-acquired-by-a-newly-established-healthcare--beauty-platform-tresalis-naming-yasmin-sewell-chief-brand-officer-302895082.html",
-  "date": "2026-09-30T23:30:00Z"
+  "title": "ALKEME Insurance Expands National Reach with Three Strategic Acquisitions in Q3 2026",
+  "link": "https://www.prnewswire.com/news-releases/alkeme-insurance-expands-national-reach-with-three-strategic-acquisitions-in-q3-2026-302896270.html",
+  "date": "2026-10-01T16:19:00Z"
  },
  {
   "src": "PR Newswire",
@@ -175,8 +55,128 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger",
-  "link": "https://www.prnewswire.com/news-releases/paramount-skydance-and-warner-bros-discovery-announce-anticipated-closing-date-of-paramount-merger-302895095.html",
-  "date": "2026-09-30T22:49:00Z"
+  "title": "Labsphere Acquires Photon Gear, Adding Ultra-High-Precision Optical Design and Assembly",
+  "link": "https://www.prnewswire.com/news-releases/labsphere-acquires-photon-gear-adding-ultra-high-precision-optical-design-and-assembly-302896267.html",
+  "date": "2026-10-01T16:17:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "David Ellison Asks CNN CEO to Stay After Paramount-Warner Deal Closes",
+  "link": "https://www.wsj.com/business/media/ellison-asks-cnn-ceo-to-stay-after-paramount-warner-deal-closes-166dd76a?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-01T15:45:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "ArchKey Expands Purpose-Built Platform Through Acquisition of US Communications &amp; Electric",
+  "link": "https://www.prnewswire.com/news-releases/archkey-expands-purpose-built-platform-through-acquisition-of-us-communications--electric-302896180.html",
+  "date": "2026-10-01T15:40:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Telecom & Media",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Rightfiber Completes Acquisition of Fastwyre Broadband's Nebraska Business",
+  "link": "https://www.prnewswire.com/news-releases/rightfiber-completes-acquisition-of-fastwyre-broadbands-nebraska-business-302896169.html",
+  "date": "2026-10-01T15:02:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "NOVATAE RISK GROUP ACQUIRES SPECIALIZED PROGRAM SOLUTIONS",
+  "link": "https://www.prnewswire.com/news-releases/novatae-risk-group-acquires-specialized-program-solutions-302895816.html",
+  "date": "2026-10-01T15:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "KKR completes majority stake deal for Thomson Reuters’ print business",
+  "link": "https://www.pehub.com/kkr-completes-majority-stake-deal-for-thomson-reuters-print-business/",
+  "date": "2026-10-01T14:53:12Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Electric Power Group Acquires Grid Protection Alliance",
+  "link": "https://www.prnewswire.com/news-releases/electric-power-group-acquires-grid-protection-alliance-302895601.html",
+  "date": "2026-10-01T14:37:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Bloomberg Completes Canoe Intelligence Acquisition, Advancing Strategy to Transform Private Markets Investing",
+  "link": "https://www.prnewswire.com/news-releases/bloomberg-completes-canoe-intelligence-acquisition-advancing-strategy-to-transform-private-markets-investing-302894795.html",
+  "date": "2026-10-01T14:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "RBFCU, True Sky Federal Credit Union Complete Merger",
+  "link": "https://www.prnewswire.com/news-releases/rbfcu-true-sky-federal-credit-union-complete-merger-302896133.html",
+  "date": "2026-10-01T14:16:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Foundry Commercial Expands Senior Living Portfolio with Acquisitions in N.J., Fla.",
+  "link": "https://www.prnewswire.com/news-releases/foundry-commercial-expands-senior-living-portfolio-with-acquisitions-in-nj-fla-302896119.html",
+  "date": "2026-10-01T14:09:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Sargento Acquires La Terra Fina a Category Leader in Premium Dips, Spreads and Quiches",
+  "link": "https://www.prnewswire.com/news-releases/sargento-acquires-la-terra-fina-a-category-leader-in-premium-dips-spreads-and-quiches-302895268.html",
+  "date": "2026-10-01T14:01:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$120M",
+  "title": "Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stalls",
+  "link": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/",
+  "date": "2026-10-01T13:55:55Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Centre Partners’ Nearly Natural acquires 3D-printed planter maker Modernized Pottery",
+  "link": "https://www.pehub.com/centre-partners-nearly-natural-acquires-3d-printed-planter-maker-modernized-pottery/",
+  "date": "2026-10-01T13:18:32Z"
  }
 ]
