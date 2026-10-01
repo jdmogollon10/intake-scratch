@@ -1,72 +1,149 @@
 {
  "status": "live",
- "session": "Wednesday, September 30, 2026",
- "builtAt": "2026-09-30T11:30:00Z",
+ "session": "Thursday, October 1, 2026",
+ "builtAt": "2026-10-01T11:30:00Z",
  "tape": [
-  {"n": "S&P 500", "v": "7,670.84", "c": "-0.16% Tue", "dir": "dn"},
-  {"n": "Nasdaq Comp", "v": "26,797.54", "c": "-0.09% Tue", "dir": "dn"},
-  {"n": "Dow", "v": "51,349.92", "c": "-131.59 pts Tue (-0.26%)", "dir": "dn"},
-  {"n": "US 10Y", "v": "~5.29%", "c": "Tue, highest since 2007; 30Y 5.62%, highest since 2002", "dir": "up"},
-  {"n": "WTI", "v": "$89.38", "c": "-3.5% Tue settle on recovering Middle East exports", "dir": "dn"}
+  {
+   "n": "S&P 500",
+   "v": "7,651.54",
+   "c": "-0.3% Wed",
+   "dir": "dn"
+  },
+  {
+   "n": "Nasdaq Comp",
+   "v": "26,861.06",
+   "c": "+0.2% Wed",
+   "dir": "up"
+  },
+  {
+   "n": "Dow",
+   "v": "50,906.05",
+   "c": "-443.87 pts Wed (-0.9%)",
+   "dir": "dn"
+  },
+  {
+   "n": "US 10Y",
+   "v": "~5.29%",
+   "c": "Wed, little changed; 30Y ~5.63%",
+   "dir": "up"
+  },
+  {
+   "n": "WTI",
+   "v": "~$90",
+   "c": "Wed futures quote; settle not sourced",
+   "dir": "up"
+  }
  ],
- "tapeLine": "US stocks slipped Tuesday as Treasury yields hit fresh multiyear highs: the Dow fell 131.59 points (0.26%) to 51,349.92, the S&amp;P 500 lost 0.16% to 7,670.84 and the Nasdaq Composite eased 0.09% to 26,797.54, per Yahoo Finance and CNBC reports. The 10-year yield climbed to 5.293%, the highest since 2007, and the 30-year to 5.6206%, the highest since June 2002, per a Babypips/Investrade-sourced summary. WTI settled down $3.22 (3.5%) at $89.38 and Brent fell 2.6% to $102.59 as Saudi tanker loadings resumed at Yanbu, per CNBC and Nation Thailand. Conference Board consumer confidence fell to 81.9 in September from a revised 88.6 (consensus in the prior brief: 89.4) and JOLTS openings fell 256,000 to 7.079M in August (prior-brief consensus: 7.23M), per the summary cited. Wednesday futures were little changed to slightly lower ahead of PCE inflation data, per Yahoo Finance.",
- "matters": "<p>Tuesday's session was a bond-led move: the 10-year yield reached 5.293% and the 30-year 5.62%, both multiyear highs, while stocks slipped only modestly, per Yahoo Finance and Babypips. Consumer confidence dropped to 81.9, reported as the weakest since 2014, and job openings fell to 7.079M, both below the consensus figures carried in Tuesday's brief. The Fed-hike thread carried since 18 September stays open with the 28 October FOMC the decision point.</p><p>Oil fell 3.5% (WTI $89.38) as Middle East exports were reported at 17.5M barrels a day, 98% of pre-war levels, per CNBC. Iran's foreign minister said he expects a formal US response Tuesday to Tehran's proposal; no response or meeting has been confirmed in sources found, per CBS News and Axios.</p><p><b>Invalidation:</b> Wednesday's 8:30 ET GDP and Personal Income &amp; Outlays (PCE) releases, Thursday's ISM Manufacturing (10:00 ET), Friday's jobs report, any confirmed US response to Iran, and the 10-year yield's behaviour around 5.29%.</p>",
+ "tapeLine": "US stocks ended a mixed Wednesday: the Dow fell 443.87 points (0.9%) to 50,906.05, the S&amp;P 500 lost 0.3% to 7,651.54 and the Nasdaq Composite rose 0.2% to 26,861.06, per AP via ABC News and CNBC. For September the S&amp;P 500 fell 0.5%, the Dow 4.3% and the Nasdaq rose 1.9%; for the third quarter the S&amp;P gained 2%, the Nasdaq 2.5% and the Dow lost 2.7%, per CNBC. August PCE inflation rose 3.4% year on year against 3.7% expected, with core PCE at 3.0%, also below forecasts, per CNBC and DailyForex; Q2 GDP was revised up to 2.2% from 1.5%, per InvestingLive. The 10-year yield sat near 5.29% and the 30-year near 5.63%, per Tradingeconomics-type quote pages. Thursday futures rose after Micron beat and raised guidance: Nasdaq 100 futures +1.0%, S&amp;P 500 +0.6% in early trade, per TradingView News and ATFX.",
+ "matters": "<p>Wednesday's data cut against Tuesday's growth-weakness question: PCE inflation came in below forecasts (headline 3.4% vs 3.7% expected, core 3.0%) while Q2 GDP was revised up to 2.2% from 1.5%, per CNBC, DailyForex and InvestingLive. Yet the 10-year stayed near 5.29%, so the softer inflation print did not visibly pull yields lower in sources found. The Fed-hike thread carried since 18 September stays open with the 28 October FOMC the decision point.</p><p>Thursday leans on tech: Micron reported fiscal Q4 EPS of $33.42 on revenue of $54.23B against estimates of $31.83 and $51.49B and raised its Q1 outlook, per TradingView News and ATFX; index futures rose in early trade. Iran confirmed on 30 September it received a US response to its seven-day Hormuz proposal via Qatari mediators; contents were not disclosed, per Fortune and CBS News.</p><p><b>Invalidation:</b> Thursday's ISM Manufacturing (10:00 ET) and jobless claims, Friday's jobs report, the contents of the US reply to Iran, and the 10-year yield's behaviour around 5.29%.</p>",
  "calendar": [
-  {"time": "Wed 08:30", "event": "GDP (final)", "consensus": "—", "prior": "—", "impact": "high"},
-  {"time": "Wed 08:30", "event": "Personal Income &amp; Outlays / PCE inflation, August", "consensus": "—", "prior": "—", "impact": "high"},
-  {"time": "Thu 10:00", "event": "ISM Manufacturing PMI", "consensus": "—", "prior": "—", "impact": "high"},
-  {"time": "Fri 08:30", "event": "Employment Situation", "consensus": "—", "prior": "—", "impact": "high"}
+  {
+   "time": "Thu 08:30",
+   "event": "Initial jobless claims",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "med"
+  },
+  {
+   "time": "Thu 10:00",
+   "event": "ISM Manufacturing PMI",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "high"
+  },
+  {
+   "time": "Fri 08:30",
+   "event": "Employment Situation",
+   "consensus": "—",
+   "prior": "—",
+   "impact": "high"
+  }
  ],
- "alsoOnTape": "Tuesday's gold close could not be sourced and is left out. Brent quotes for Tuesday differ by source ($96.16 vs $102.59); the CNBC-reported settle is used. Wednesday figures are early indications only; no confirmed cash close at publish time.",
+ "alsoOnTape": "Wednesday's WTI and Brent settles could not be sourced; the WTI ~$90 is a futures quote and Brent quotes differ by source ($97.44 vs near $103), so neither is carried as a close. Gold is not sourced. Thursday figures are early futures indications only. Reports differ on the prior-month core PCE reading, so it is left out.",
  "overnight": [
-  "<b>US Tuesday close</b> &mdash; Dow -131.59 (-0.26%) to 51,349.92, S&amp;P 500 -0.16% to 7,670.84, Nasdaq Composite -0.09% to 26,797.54, per Yahoo Finance.",
-  "<b>Treasury yields</b> &mdash; 10-year to 5.293% (highest since 2007), 30-year to 5.6206% (highest since June 2002), per Babypips.",
-  "<b>Oil</b> &mdash; WTI settled $89.38 (-3.5%); Brent $102.59 (-2.6%) as Saudi exports resumed via Yanbu and the East-West pipeline, per CNBC and Nation Thailand.",
-  "<b>Data</b> &mdash; Conference Board confidence 81.9 vs revised 88.6; JOLTS 7.079M (-256,000), per Investrade/Babypips summaries.",
-  "<b>Iran</b> &mdash; Tehran awaits a US response to its ceasefire and phased Hormuz reopening plan; Trump told Axios he expects more talks this week, per Axios and CBS News.",
-  "<b>Wednesday early</b> &mdash; US futures little changed to slightly lower ahead of PCE data, per Yahoo Finance."
+  "<b>US Wednesday close</b> &mdash; Dow -443.87 (-0.9%) to 50,906.05, S&amp;P 500 -0.3% to 7,651.54, Nasdaq Composite +0.2% to 26,861.06, per AP via ABC News and CNBC.",
+  "<b>Inflation/GDP</b> &mdash; August PCE 3.4% y/y vs 3.7% expected, core 3.0%; Q2 GDP revised to 2.2% from 1.5%, per CNBC, DailyForex and InvestingLive.",
+  "<b>Treasury yields</b> &mdash; 10-year near 5.29%, 30-year near 5.63% on 30 September, per Tradingeconomics quote page.",
+  "<b>Micron</b> &mdash; fiscal Q4 EPS $33.42, revenue $54.23B vs $31.83 and $51.49B expected; Q1 outlook raised, per TradingView News and ATFX.",
+  "<b>Iran</b> &mdash; Tehran says it received a US response to its Hormuz proposal via Qatar; contents undisclosed, per Fortune and CBS News.",
+  "<b>Thursday early</b> &mdash; Nasdaq 100 futures +1.0%, S&amp;P 500 futures +0.6%, per TradingView News."
  ],
  "deals": [],
  "macro": [
-  "<b>Fed</b> &mdash; yields at multiyear highs keep the hike thread open; FOMC 28 October. Wednesday's PCE and Friday's jobs report are the next data.",
-  "<b>Iran/Hormuz</b> &mdash; Trump rejected the seven-day proposal on 26 September but expects more talks; Iran expects a formal US response. Nothing confirmed.",
-  "<b>Growth</b> &mdash; confidence and job openings both came in below the consensus figures carried Tuesday."
+  "<b>Fed</b> &mdash; softer PCE and a higher GDP revision arrive with the 10-year near 5.29%; FOMC 28 October. Friday's jobs report is the next data.",
+  "<b>Iran/Hormuz</b> &mdash; a US reply was delivered through Qatar; Iran has not stated its contents. Sequencing is reported as the sticking point, per a briefed official cited by secondary sources.",
+  "<b>Growth</b> &mdash; Q2 GDP revised up to 2.2%, after Tuesday's weak confidence and openings data."
  ],
  "flow": [
-  "Stocks were near flat while the 30-year yield hit its highest since 2002, per Yahoo Finance.",
+  "The Dow fell 0.9% while the Nasdaq rose 0.2% on Wednesday, a tech-versus-rest split, per AP.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page. Nothing here is positioning analysis &mdash; it is sector observation from the tape."
  ],
  "levels": [],
  "regime": {
-  "tag": "Yields made fresh multiyear highs while stocks barely moved and oil fell on recovering Middle East exports.",
-  "sizing": "The Fed-hike thread stays open, with the 28 October FOMC the decision point. The Iran thread awaits a US response, unconfirmed. Weak confidence and openings data add a growth-side question to the rates thread."
+  "tag": "Inflation data cooled but long yields held near multiyear highs; tech led while the Dow lagged into quarter-end.",
+  "sizing": "The Fed-hike thread stays open, with the 28 October FOMC the decision point. The Iran thread has a US reply of undisclosed content. Thursday's ISM and Friday's jobs report are the next tests."
  },
  "watchlist": [],
- "secondOrder": "Tuesday reversed Monday's split: oil fell 3.5% and stocks moved little, while yields rose to new highs, so rates again stood out as the driver over crude. Weak confidence alongside rising long yields is an observation, not a forecast.",
+ "secondOrder": "Softer inflation did not visibly move the 10-year, which stayed near 5.29%, so the rates thread looks driven by more than the latest PCE print. That is an observation, not a forecast.",
  "scorecard": [
   {
-   "verdict": "right",
-   "text": "Tuesday's brief named the 10-year's behaviour around 5.27% as a test. The yield moved through it to 5.293%, per Babypips. Its read that rates rather than crude were the main driver held: WTI fell 3.5% while stocks slipped only 0.16%."
+   "verdict": "wrong",
+   "text": "Wednesday's brief carried early futures as little changed to slightly lower. The Dow closed down 0.9% and the S&amp;P 500 down 0.3%, a larger drop than 'slightly' for the Dow, while the Nasdaq rose 0.2%, per AP and CNBC."
   },
   {
    "verdict": "right",
-   "text": "Tuesday's brief carried early Dow futures edging lower. The Dow closed down 0.26%, per Yahoo Finance."
+   "text": "Wednesday's brief named the 10-year's behaviour around 5.29% as a test. It stayed near 5.29% through the PCE release, per Tradingeconomics."
+  },
+  {
+   "verdict": "right",
+   "text": "Wednesday's brief said no US response to Iran was confirmed. That held at publish time; Iran confirmed receipt of a response later on 30 September, per Fortune."
   },
   {
    "verdict": "open",
-   "text": "Tuesday's brief flagged JOLTS and Conference Board as tests, with consensus 7.23M and 89.4. Actuals were 7.079M and 81.9, both below. Whether that changes the Fed thread awaits Wednesday's PCE. Resumed US-Iran talks remain unconfirmed."
+   "text": "Wednesday's brief asked whether weak confidence and openings data would change the Fed thread. PCE came in below forecasts but the 10-year did not fall; Thursday's ISM and Friday's jobs report remain."
   }
  ],
  "midday": null,
  "sources": [
-  {"label": "CNBC — Stock market today: live updates (Sept. 29, 2026)", "url": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html"},
-  {"label": "Yahoo Finance — Dow, S&P 500, Nasdaq wobble as 30-year Treasury yield climbs to 24-year high", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html"},
-  {"label": "Yahoo Finance — Futures little changed ahead of PCE inflation data (Sept. 30)", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html"},
-  {"label": "Babypips — Financial & Forex Market Recap, Sept. 29, 2026", "url": "https://www.babypips.com/news/financial-forex-market-recap-2026-09-29"},
-  {"label": "Investrade — Market Review: September 29, 2026", "url": "https://investrade.com/market-review-september-29-2026/"},
-  {"label": "CNBC — Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports", "url": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html"},
-  {"label": "Nation Thailand — Brent falls 2.6% to US$102.59 on September 29", "url": "https://www.nationthailand.com/news/world/40071680"},
-  {"label": "Axios — After nixing Iran proposal, Trump tells Axios he expects talks this week", "url": "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations"},
-  {"label": "CBS News — Iran war updates: Tehran expects US response", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/"}
+  {
+   "label": "CNBC — Stock market today live updates (Sept. 30, 2026)",
+   "url": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html"
+  },
+  {
+   "label": "ABC News — How major US stock indexes fared Wednesday 9/30/2026",
+   "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112"
+  },
+  {
+   "label": "TheStreet — Stock Market Today (Sept. 30, 2026)",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026"
+  },
+  {
+   "label": "InvestingLive — US GDP Final for Q2 2.2% vs 1.5% estimate",
+   "url": "https://investinglive.com/news/us-gdp-final-for-q2-2-2-vs-1-5-estimate/"
+  },
+  {
+   "label": "DailyForex — US GDP Grows 2.2% in Q2 as Core PCE Inflation Cools",
+   "url": "https://www.dailyforex.com/forex-news/2026/09/us-inflation-news-30-september-2026/250244"
+  },
+  {
+   "label": "Tradingeconomics — US 10 Year Treasury Note Yield",
+   "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+  },
+  {
+   "label": "TradingView News — Futures mixed even as Micron fuels AI rally",
+   "url": "https://www.tradingview.com/news/stocktwits:50e17959d094b:0-nasdaq-s-p-500-dow-futures-mixed-even-as-micron-fuels-ai-rally-orcl-nke-tsla-rklb-asts-psky-in-focus/"
+  },
+  {
+   "label": "ATFX — US Stock Futures Climb on Micron's Earnings Beat and Guidance",
+   "url": "https://www.atfxcapital.com/en/analysis/market-news/us-stock-futures-climb-on-microns-earnings"
+  },
+  {
+   "label": "Fortune — Iran says it got a U.S. response to its peace proposal",
+   "url": "https://fortune.com/2026/09/30/trump-iran-hormuz-strait-talks/"
+  },
+  {
+   "label": "CBS News — Iran war live updates",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/"
+  }
  ]
 }
