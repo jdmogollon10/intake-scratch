@@ -1,5 +1,95 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Samfara finalise l'acquisition de Chr. Olesen Synthesis, fabricant danois de principes actifs pharmaceutiques (API) soumis à un contrôle réglementaire",
+  "link": "https://www.prnewswire.com/news-releases/samfara-finalise-lacquisition-de-chr-olesen-synthesis-fabricant-danois-de-principes-actifs-pharmaceutiques-api-soumis-a-un-controle-reglementaire-302897285.html",
+  "date": "2026-10-02T15:49:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Financials",
+  "region": "—",
+  "value": "$7B",
+  "title": "Ant-Backed Fintech Mynt Valued at Around $7 Billion in Philippine IPO",
+  "link": "https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-02T15:31:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "HydroEdge Solutions Acquires Majority Interest in RES Water, Creating the Appalachian Basin's Premier Full-Cycle Water Management Platform",
+  "link": "https://www.prnewswire.com/news-releases/hydroedge-solutions-acquires-majority-interest-in-res-water-creating-the-appalachian-basins-premier-full-cycle-water-management-platform-302897266.html",
+  "date": "2026-10-02T15:23:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "TXO accelerates growth strategy with acquisition of Wesbell Communications",
+  "link": "https://www.prnewswire.com/news-releases/txo-accelerates-growth-strategy-with-acquisition-of-wesbell-communications-302897261.html",
+  "date": "2026-10-02T15:18:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$150M",
+  "title": "Supabase Announces $150M in New Funding and Turso Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
+  "date": "2026-10-02T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SU Group Investment Completes Acquisition of KM Safety Solution Company; Expands Safety Solutions and Adds Intelligent Emergency Lighting Products",
+  "link": "https://www.prnewswire.com/news-releases/su-group-investment-completes-acquisition-of-km-safety-solution-company-expands-safety-solutions-and-adds-intelligent-emergency-lighting-products-302896984.html",
+  "date": "2026-10-02T12:40:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vestar-backed Roland Foods agrees to acquire Savor Brands from Dot Foods",
+  "link": "https://www.pehub.com/vestar-backed-roland-foods-agrees-to-acquire-savor-brands-from-dot-foods/",
+  "date": "2026-10-02T12:13:44Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "SGS acquires Prescient Security in the US, an expert in enterprise cybersecurity and digital compliance",
+  "link": "https://www.prnewswire.com/news-releases/sgs-acquires-prescient-security-in-the-us-an-expert-in-enterprise-cybersecurity-and-digital-compliance-302896959.html",
+  "date": "2026-10-02T12:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Banner Capital inks Seaway Plastics deal to form third Fund II platform",
+  "link": "https://www.pehub.com/banner-capital-inks-seaway-plastics-deal-to-form-third-fund-ii-platform/",
+  "date": "2026-10-02T11:54:48Z"
+ },
+ {
   "src": "PE Hub",
   "type": "M&A",
   "industry": "—",
@@ -50,16 +140,6 @@
   "date": "2026-10-02T10:00:31Z"
  },
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Inside Nuveen CEO’s ‘Evolutionary’ Merger Playbook",
-  "link": "https://www.wsj.com/business/inside-nuveen-ceos-evolutionary-merger-playbook-251c4321?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-02T09:59:00Z"
- },
- {
   "src": "PE Hub",
   "type": "Strategic Investment",
   "industry": "Consumer",
@@ -98,85 +178,5 @@
   "title": "FF EAI Robotics Ecosystem Inc. (NASDAQ: FFR), Which Has Proposed to Acquire FFAI's EAI Robotics Business, Highlights FFAI's EAI Robotics World 2.0 Showcase at IROS 2026, Four-Core Full-Stack AI Ecosystem and Industry Productivity Solutions",
   "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-which-has-proposed-to-acquire-ffais-eai-robotics-business-highlights-ffais-eai-robotics-world-2-0-showcase-at-iros-2026--four-core-full-stack-ai-ecosystem-and-industry-productivity--302896994.html",
   "date": "2026-10-02T06:10:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Samfara completes acquisition of Chr. Olesen Synthesis, Danish manufacturer of controlled-substance APIs",
-  "link": "https://www.prnewswire.com/news-releases/samfara-completes-acquisition-of-chr-olesen-synthesis-danish-manufacturer-of-controlled-substance-apis-302896417.html",
-  "date": "2026-10-02T06:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ON Semicondcutor to Buy Synaptics for Cash, Not Stock, in Downsized Deal",
-  "link": "https://www.wsj.com/business/deals/on-semicondcutor-to-buy-synaptics-for-cash-not-stock-in-downsized-deal-d2781e36?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-01T22:25:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Samsonite Group Completes Acquisition of BÉIS",
-  "link": "https://www.prnewswire.com/news-releases/samsonite-group-completes-acquisition-of-beis-302896685.html",
-  "date": "2026-10-01T22:18:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Banner Capital Announces Agreement to Acquire Seaway Plastics Engineering, MME Group, and Wright Engineered Plastics",
-  "link": "https://www.prnewswire.com/news-releases/banner-capital-announces-agreement-to-acquire-seaway-plastics-engineering-mme-group-and-wright-engineered-plastics-302896640.html",
-  "date": "2026-10-01T21:22:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ENERGY SERVICES OF AMERICA ANNOUNCES AGREEMENT TO ACQUIRE FAMCO, INC.",
-  "link": "https://www.prnewswire.com/news-releases/energy-services-of-america-announces-agreement-to-acquire-famco-inc-302896609.html",
-  "date": "2026-10-01T21:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Divestiture",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Modine Completes Spin-off and Combination of its Performance Technologies Business with Gentherm",
-  "link": "https://www.prnewswire.com/news-releases/modine-completes-spin-off-and-combination-of-its-performance-technologies-business-with-gentherm-302896597.html",
-  "date": "2026-10-01T20:38:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group",
-  "link": "https://www.wsj.com/business/retail/barbie-maker-mattel-draws-takeover-interest-from-authentic-brands-group-21270470?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-01T20:37:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cardinal Infrastructure Group, Inc., Announces Closing of Allied Paving Contractors Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/cardinal-infrastructure-group-inc-announces-closing-of-allied-paving-contractors-acquisition-302896539.html",
-  "date": "2026-10-01T20:30:00Z"
  }
 ]
