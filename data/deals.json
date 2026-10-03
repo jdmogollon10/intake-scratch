@@ -1,5 +1,35 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$81B",
+  "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
+  "link": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-03T01:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Resonant Clinical Solutions développe ses activités mondiales dans le domaine des équipements et accessoires médicaux grâce à l'acquisition de Labfish",
+  "link": "https://www.prnewswire.com/news-releases/resonant-clinical-solutions-developpe-ses-activites-mondiales-dans-le-domaine-des-equipements-et-accessoires-medicaux-grace-a-lacquisition-de-labfish-302897573.html",
+  "date": "2026-10-02T23:43:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "MES Life Safety Acquires PRO-CO",
+  "link": "https://www.prnewswire.com/news-releases/mes-life-safety-acquires-pro-co-302897571.html",
+  "date": "2026-10-02T23:32:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Healthcare",
@@ -148,35 +178,5 @@
   "title": "Music deals in focus after Pophouse acquires stake in Sia’s master music rights; Forward Consumer Partners featured in They Said It",
   "link": "https://www.pehub.com/music-deals-in-focus-after-pophouse-acquires-stake-in-sias-master-music-rights-forward-consumer-partners-featured-in-they-said-it/",
   "date": "2026-10-02T08:58:12Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Monzo turns to PE after Nubank ends takeover talks",
-  "link": "https://www.privateequitywire.co.uk/monzo-turns-to-pe-after-nubank-ends-takeover-talks/",
-  "date": "2026-10-02T08:53:15Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$4.2B",
-  "title": "Ares raises $4.2bn for first structured solutions secondaries fund",
-  "link": "https://www.privateequitywire.co.uk/ares-raises-4-2bn-for-first-structured-solutions-secondaries-fund/",
-  "date": "2026-10-02T08:46:50Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "FF EAI Robotics Ecosystem Inc. (NASDAQ: FFR), Which Has Proposed to Acquire FFAI's EAI Robotics Business, Highlights FFAI's EAI Robotics World 2.0 Showcase at IROS 2026, Four-Core Full-Stack AI Ecosystem and Industry Productivity Solutions",
-  "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-which-has-proposed-to-acquire-ffais-eai-robotics-business-highlights-ffais-eai-robotics-world-2-0-showcase-at-iros-2026--four-core-full-stack-ai-ecosystem-and-industry-productivity--302896994.html",
-  "date": "2026-10-02T06:10:00Z"
  }
 ]
