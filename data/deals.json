@@ -1,15 +1,5 @@
 [
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$81B",
-  "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
-  "link": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-03T01:00:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Healthcare",
@@ -178,5 +168,15 @@
   "title": "Music deals in focus after Pophouse acquires stake in Sia’s master music rights; Forward Consumer Partners featured in They Said It",
   "link": "https://www.pehub.com/music-deals-in-focus-after-pophouse-acquires-stake-in-sias-master-music-rights-forward-consumer-partners-featured-in-they-said-it/",
   "date": "2026-10-02T08:58:12Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Monzo turns to PE after Nubank ends takeover talks",
+  "link": "https://www.privateequitywire.co.uk/monzo-turns-to-pe-after-nubank-ends-takeover-talks/",
+  "date": "2026-10-02T08:53:15Z"
  }
 ]
