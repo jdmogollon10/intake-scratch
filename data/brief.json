@@ -1,116 +1,123 @@
 {
  "status": "live",
- "session": "Friday, October 2, 2026",
- "builtAt": "2026-10-02T11:35:09Z",
+ "session": "Monday, October 5, 2026",
+ "builtAt": "2026-10-05T11:35:29Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,666.45",
-   "c": "+0.19% Thu",
+   "v": "7,722.72",
+   "c": "+0.7% Fri",
    "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,871.60",
-   "c": "+0.04% Thu",
+   "v": "27,190.86",
+   "c": "+1.2% Fri",
    "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "50,926.56",
-   "c": "+20.51 pts Thu (+0.04%)",
+   "v": "51,176.96",
+   "c": "+250.40 pts Fri (+0.5%)",
    "dir": "up"
   },
   {
    "n": "US 10Y",
-   "v": "~5.24%",
-   "c": "Thu, eased from 5.344% intraday high",
-   "dir": "dn"
+   "v": "5.281%",
+   "c": "Fri, +~5 bp after initially falling",
+   "dir": "up"
   }
  ],
- "tapeLine": "US stocks ended barely higher Thursday as Treasury yields retreated from multiyear highs: the S&amp;P 500 added 0.19% to 7,666.45, the Nasdaq Composite 0.04% to 26,871.60 and the Dow 20.51 points (0.04%) to 50,926.56, per the Washington Post and Yahoo Finance reports. The 10-year yield touched 5.344%, its highest since 2002, before easing to about 5.243%, per CNBC. Friday morning futures pointed higher ahead of the September jobs report (08:30 ET): Dow and S&amp;P 500 futures +0.3%, Nasdaq-100 futures +0.6%, per Yahoo Finance and TheStreet.",
- "matters": "<p>Thursday's data leaned firm. Initial jobless claims slipped to 197,000 for the week ended 26 September against 200,000 expected, with continuing claims at a three-year low, per Reuters-based reports. The ISM Manufacturing PMI read 54.5 in September versus 54.6 in August, with the prices index jumping to 77.9 from 71.1, per ISM via PR Newswire. Yields eased from their highs but the 10-year remains above 5.2%.</p><p>Today's September jobs report is the next test: the Dow Jones consensus is for +84,000 payrolls and unemployment holding at 4.1%, after +162,000 in August, per CNBC/Yahoo reports; other surveys put the forecast between 88,000 and 100,000. Options pricing implies roughly a 0.9% move for SPY through Friday's expiration, per Yahoo Finance. Reports note the Fed raised rates about two weeks ago; the 28 October FOMC is the next decision point.</p><p><b>Invalidation:</b> the payrolls and unemployment prints, average hourly earnings (+0.3% m/m expected), the 10-year's behaviour after the report, and the contents of the US reply to Iran, still undisclosed in sources found.</p>",
+ "tapeLine": "US stocks rallied Friday on a weak jobs report: the S&amp;P 500 rose 0.7% to 7,722.72, the Nasdaq Composite 1.2% to 27,190.86, the Dow 250.40 points (0.5%) to 51,176.96 and the Russell 2000 0.9% to 2,832.90, per the Associated Press. The 10-year yield, after first falling, rose almost 5 basis points to 5.281%, per CNBC. Monday premarket, Dow futures were down about 0.2% and S&amp;P 500 futures about 0.1%, per Yahoo Finance.",
+ "matters": "<p>September payrolls rose just 29,000 against a Dow Jones consensus of +84,000, and unemployment rose to 4.2% from 4.1%, per the BLS release as reported by CNBC. Average hourly earnings rose 0.1% m/m and 3% y/y, per Bloomberg. Traders cut the odds of an October Fed hike: CME FedWatch showed about 17%, against roughly 36% a week earlier, per CNBC.</p><p>Yields did not follow the data lower: the 10-year closed near 5.28%, per CNBC. This week is light on data. ISM Services and S&amp;P Global services PMIs are due today, and the minutes of the Fed's September meeting arrive Wednesday, per calendars from Kiplinger and Newsquawk.</p><p><b>Invalidation:</b> the ISM Services print, the tone of Wednesday's FOMC minutes, and whether the 10-year holds above 5.2% after a weak labor report.</p>",
  "calendar": [
   {
-   "time": "Fri 08:30",
-   "event": "Employment Situation (Sept)",
-   "consensus": "+84K payrolls, 4.1% unemployment (Dow Jones)",
-   "prior": "+162K (Aug)",
+   "time": "Mon",
+   "event": "ISM Services PMI (Sept); S&P Global Services/Composite PMI",
+   "consensus": "not sourced",
+   "prior": "not sourced",
+   "impact": "high"
+  },
+  {
+   "time": "Wed",
+   "event": "FOMC minutes (September meeting)",
+   "consensus": "n/a",
+   "prior": "n/a",
    "impact": "high"
   }
  ],
- "alsoOnTape": "Thursday oil figures conflict: Tradingeconomics-type pages show Brent 96.76 and WTI 88.89, while CNBC described Brent futures back above $100, so neither is carried as a settle. Gold is not sourced. Friday figures are early futures indications only.",
+ "alsoOnTape": "Oil is not carried: sources found this session disagree on levels and none gives a dated settle. Gold is not sourced.",
  "overnight": [
-  "<b>US Thursday close</b> &mdash; S&amp;P 500 +0.19% to 7,666.45, Nasdaq Composite +0.04% to 26,871.60, Dow +20.51 to 50,926.56, per the Washington Post and Yahoo Finance.",
-  "<b>Treasuries</b> &mdash; 10-year hit 5.344% intraday, highest since 2002, then eased to about 5.243%, per CNBC.",
-  "<b>Claims</b> &mdash; initial jobless claims 197,000 vs 200,000 expected; continuing claims at a three-year low, per Reuters-based reports.",
-  "<b>ISM Manufacturing</b> &mdash; 54.5 vs 54.6 prior; prices index 77.9 vs 71.1, per ISM via PR Newswire.",
-  "<b>Friday early</b> &mdash; Dow and S&amp;P 500 futures +0.3%, Nasdaq-100 +0.6% ahead of the jobs report, per Yahoo Finance and TheStreet."
+  "<b>US Friday close</b> &mdash; S&amp;P 500 +0.7% to 7,722.72, Nasdaq +1.2% to 27,190.86, Dow +0.5% to 51,176.96, per the Associated Press.",
+  "<b>Payrolls</b> &mdash; +29,000 vs +84,000 expected; unemployment 4.2%; hourly earnings +0.1% m/m, per CNBC and Bloomberg.",
+  "<b>Treasuries</b> &mdash; 10-year at 5.281% after an early drop, per CNBC.",
+  "<b>Fed odds</b> &mdash; October hike probability about 17% on CME FedWatch, per CNBC.",
+  "<b>Monday early</b> &mdash; Dow futures -0.2%, S&amp;P 500 futures -0.1%, per Yahoo Finance."
  ],
  "deals": [],
  "macro": [
-  "<b>Labor</b> &mdash; low claims and a firm ISM employment index (52.7) precede today's payrolls; consensus +84K, per Dow Jones via CNBC/Yahoo.",
-  "<b>Rates</b> &mdash; the 10-year eased from a 24-year high; the Fed hike thread stays open with FOMC on 28 October.",
-  "<b>Iran/Hormuz</b> &mdash; US reply delivered via Qatar on 30 September; contents not disclosed in sources found."
+  "<b>Labor</b> &mdash; payrolls +29K and unemployment 4.2%, with participation at 61.8%, per Bloomberg/CNBC.",
+  "<b>Rates</b> &mdash; October hike odds fell to about 17%, yet the 10-year rose to 5.281%; FOMC is 28 October.",
+  "<b>Fed calendar</b> &mdash; September minutes Wednesday; Goolsbee speaks Monday, Williams and Bowman Tuesday, per Newsquawk."
  ],
  "flow": [
-  "Thursday's index moves were near flat after stocks clawed back earlier declines, per CNBC.",
+  "Friday's rally left the S&amp;P 500 within 1% of its record high, per the Associated Press.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Yields eased from multiyear highs and indexes finished flat; the jobs report is the session's test.",
-  "sizing": "The Fed-hike thread stays open, with the 28 October FOMC the decision point. Today's payrolls and the 10-year's reaction are the next evidence."
+  "tag": "Stocks rallied on a weak jobs report while the 10-year held near 5.28%.",
+  "sizing": "Hike odds fell sharply but yields did not; Wednesday's FOMC minutes and the 28 October FOMC are the next evidence."
  },
  "watchlist": [],
- "secondOrder": "Claims and ISM data were firm while the ISM prices index jumped, so inflation-input pressure and a resilient labor market sit alongside 10-year yields above 5.2%. That is an observation, not a forecast.",
+ "secondOrder": "A payroll miss lowered hike odds and lifted equities, but long yields rose rather than fell. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "wrong",
-   "text": "Thursday's brief cited early futures up (Nasdaq 100 +1.0%, S&amp;P +0.6%) after Micron. The indexes closed only marginally higher (S&amp;P +0.19%, Nasdaq +0.04%) after clawing back earlier declines, so the early strength largely faded."
+   "text": "Friday's brief framed a firm labor market ahead of payrolls (consensus +84K). The print was +29K with unemployment up to 4.2%, per CNBC."
   },
   {
-   "verdict": "right",
-   "text": "Thursday's brief named jobless claims and ISM Manufacturing as tests. Both printed: claims 197K vs 200K expected, ISM 54.5, per Reuters-based reports and ISM."
-  },
-  {
-   "verdict": "open",
-   "text": "Thursday's brief held the 10-year near 5.29% as the level to watch. It reached 5.344% then eased to ~5.24%; Friday's jobs report remains."
+   "verdict": "wrong",
+   "text": "Friday's brief cited early futures up (Dow/S&amp;P +0.3%, Nasdaq-100 +0.6%). They closed higher: S&amp;P +0.7%, Nasdaq +1.2%, Dow +0.5%, per the Associated Press, so the direction was right but the size understated."
   },
   {
    "verdict": "open",
-   "text": "Thursday's brief noted the US reply to Iran's proposal was of undisclosed content; no contents were found in today's sources."
+   "text": "Friday's brief listed the 10-year's reaction as a test. It closed at 5.281%, still above 5.2%; the 28 October FOMC remains."
+  },
+  {
+   "verdict": "open",
+   "text": "Friday's brief noted the US reply to Iran was of undisclosed content; no contents were found in this session's sources."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "Washington Post — How major US stock indexes fared Thursday 10/1/2026",
-   "url": "https://www.washingtonpost.com/business/2026/10/01/wall-street-stocks-dow-nasdaq/a19f2dce-bdd5-11f1-81fc-9b76f8343b6c_story.html"
+   "label": "AP via WTOP — How major US stock indexes fared Friday 10/2/2026",
+   "url": "https://wtop.com/news/2026/10/how-major-us-stock-indexes-fared-friday-10-2-2026"
   },
   {
-   "label": "CNBC — Treasury yields fall from multiyear highs",
-   "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html"
+   "label": "CNBC — Labor market faltered in September, jobs up 29,000",
+   "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
   },
   {
-   "label": "Yahoo Finance — Stock market today Friday Oct 2 (jobs report)",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html"
+   "label": "CNBC — 10-year Treasury yield ticks higher despite weak jobs report",
+   "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
   },
   {
-   "label": "TheStreet — Stock Market Today (Oct. 2, 2026)",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-02-2026"
+   "label": "CNBC — Traders see little chance of October Fed hike",
+   "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
   },
   {
-   "label": "PR Newswire — September 2026 ISM Manufacturing PMI Report",
-   "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html"
+   "label": "Bloomberg — US Job Growth Misses Estimates",
+   "url": "https://bloomberg.com/news/articles/2026-10-02/us-firms-add-just-29-000-jobs-unemployment-rate-ticks-up"
   },
   {
-   "label": "US News — US Weekly Jobless Claims Fall",
-   "url": "https://money.usnews.com/investing/news/articles/2026-10-01/us-weekly-jobless-claims-fall-layoffs-drop-in-september"
+   "label": "Yahoo Finance — Stock market today Monday October 5",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html"
   },
   {
-   "label": "Newsquawk — Preview: US September jobs data",
-   "url": "https://www.newsquawk.com/headlines/preview-us-september-jobs-data-is-due-on-2nd-october-2026-at-1330bst0830edt"
+   "label": "Kiplinger — Economic data this week (Oct 5-9)",
+   "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
   }
  ]
 }
