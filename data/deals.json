@@ -1,5 +1,165 @@
 [
  {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Warburg Pincus invests in Awayday as Ares and LightBay retain control",
+  "link": "https://www.pehub.com/warburg-pincus-invests-in-awayday-as-ares-and-lightbay-retain-control/",
+  "date": "2026-10-05T11:31:32Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$125M",
+  "title": "The IPO Buzz: TRexBio (TRXB Proposed) Sets Terms for $125 Million IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-trexbio-trxb-proposed-sets-terms-for-125-million-ipo/",
+  "date": "2026-10-05T11:22:05Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Superior Hydrovac Announces Acquisition of Delta Daylighting",
+  "link": "https://www.prnewswire.com/news-releases/superior-hydrovac-announces-acquisition-of-delta-daylighting-302898263.html",
+  "date": "2026-10-05T11:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ECARX Completes Acquisition of Flyme Software Business, Securing End-to-End Operating System Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/ecarx-completes-acquisition-of-flyme-software-business-securing-end-to-end-operating-system-capabilities-302897915.html",
+  "date": "2026-10-05T11:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Divestiture",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Mutares receives offer to sell controlling stake in Lapeyre to Italian investors",
+  "link": "https://www.pehub.com/mutares-receives-offer-to-sell-controlling-stake-in-lapeyre-to-italian-investors/",
+  "date": "2026-10-05T10:47:53Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "TDR Capital agrees to acquire infrastructure services group OCU from Triton",
+  "link": "https://www.pehub.com/tdr-capital-agrees-to-acquire-infrastructure-services-group-ocu-from-triton/",
+  "date": "2026-10-05T10:42:47Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "HEARTWOOD PARTNERS' PORTFOLIO COMPANY NORLEE GROUP ANNOUNCES EIGHTH ADD-ON ACQUISITION OF IEM ELECTRIC, INC.",
+  "link": "https://www.prnewswire.com/news-releases/heartwood-partners-portfolio-company-norlee-group-announces-eighth-add-on-acquisition-of-iem-electric-inc-302897809.html",
+  "date": "2026-10-05T10:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SEI Group Acquires Greenhome Specialties, Inc.",
+  "link": "https://www.prnewswire.com/news-releases/sei-group-acquires-greenhome-specialties-inc-302897754.html",
+  "date": "2026-10-05T10:00:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$23B",
+  "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+  "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+  "date": "2026-10-05T09:39:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Basware Completes Acquisition of Trustpair, Strengthening Financial Integrity from Invoice to Payment",
+  "link": "https://www.prnewswire.com/news-releases/basware-completes-acquisition-of-trustpair-strengthening-financial-integrity-from-invoice-to-payment-302897413.html",
+  "date": "2026-10-05T09:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$22.6B",
+  "title": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
+  "link": "https://www.wsj.com/business/deals/schneider-electric-to-buy-software-maker-ptc-for-22-6-billion-7a23a60c?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-05T08:47:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "EVIDENT Completes Acquisition of CrestOptics S.p.A.",
+  "link": "https://www.prnewswire.com/news-releases/evident-completes-acquisition-of-crestoptics-spa-302897594.html",
+  "date": "2026-10-05T07:20:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "EVIDENT finalise l'acquisition de CrestOptics S.p.A.",
+  "link": "https://www.prnewswire.com/news-releases/evident-finalise-lacquisition-de-crestoptics-spa-302897673.html",
+  "date": "2026-10-05T07:20:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$35.3B",
+  "title": "Intesa Sweetens Monte dei Paschi Bid to $35.3 Billion, But Warns on Rival Deals",
+  "link": "https://www.wsj.com/business/deals/intesa-sweetens-monte-dei-paschi-bid-to-35-3-billion-but-warns-on-rival-deals-bf0094e3?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-05T07:10:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$2B",
+  "title": "Shionogi to Acquire IntraBio for $2 Billion",
+  "link": "https://www.wsj.com/business/shionogi-to-acquire-intrabio-for-2-billion-d1fb2d19?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-05T07:07:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "$1.1B",
+  "title": "Ithaca Energy to Buy Offshore Canada Oil Assets From Suncor Energy for Up to $1.1 Billion",
+  "link": "https://www.wsj.com/business/energy-oil/ithaca-energy-to-buy-offshore-canada-oil-assets-from-suncor-energy-for-up-to-1-1-billion-dc0195fe?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-05T06:47:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Healthcare",
@@ -18,165 +178,5 @@
   "title": "MES Life Safety Acquires PRO-CO",
   "link": "https://www.prnewswire.com/news-releases/mes-life-safety-acquires-pro-co-302897571.html",
   "date": "2026-10-02T23:32:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Samfara finalise l'acquisition de Chr. Olesen Synthesis, fabricant danois de principes actifs pharmaceutiques (API) soumis à un contrôle réglementaire",
-  "link": "https://www.prnewswire.com/news-releases/samfara-finalise-lacquisition-de-chr-olesen-synthesis-fabricant-danois-de-principes-actifs-pharmaceutiques-api-soumis-a-un-controle-reglementaire-302897285.html",
-  "date": "2026-10-02T15:49:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Financials",
-  "region": "—",
-  "value": "$7B",
-  "title": "Ant-Backed Fintech Mynt Valued at Around $7 Billion in Philippine IPO",
-  "link": "https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-02T15:31:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "HydroEdge Solutions Acquires Majority Interest in RES Water, Creating the Appalachian Basin's Premier Full-Cycle Water Management Platform",
-  "link": "https://www.prnewswire.com/news-releases/hydroedge-solutions-acquires-majority-interest-in-res-water-creating-the-appalachian-basins-premier-full-cycle-water-management-platform-302897266.html",
-  "date": "2026-10-02T15:23:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "TXO accelerates growth strategy with acquisition of Wesbell Communications",
-  "link": "https://www.prnewswire.com/news-releases/txo-accelerates-growth-strategy-with-acquisition-of-wesbell-communications-302897261.html",
-  "date": "2026-10-02T15:18:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$150M",
-  "title": "Supabase Announces $150M in New Funding and Turso Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
-  "date": "2026-10-02T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "SU Group Investment Completes Acquisition of KM Safety Solution Company; Expands Safety Solutions and Adds Intelligent Emergency Lighting Products",
-  "link": "https://www.prnewswire.com/news-releases/su-group-investment-completes-acquisition-of-km-safety-solution-company-expands-safety-solutions-and-adds-intelligent-emergency-lighting-products-302896984.html",
-  "date": "2026-10-02T12:40:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Vestar-backed Roland Foods agrees to acquire Savor Brands from Dot Foods",
-  "link": "https://www.pehub.com/vestar-backed-roland-foods-agrees-to-acquire-savor-brands-from-dot-foods/",
-  "date": "2026-10-02T12:13:44Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "SGS acquires Prescient Security in the US, an expert in enterprise cybersecurity and digital compliance",
-  "link": "https://www.prnewswire.com/news-releases/sgs-acquires-prescient-security-in-the-us-an-expert-in-enterprise-cybersecurity-and-digital-compliance-302896959.html",
-  "date": "2026-10-02T12:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Banner Capital inks Seaway Plastics deal to form third Fund II platform",
-  "link": "https://www.pehub.com/banner-capital-inks-seaway-plastics-deal-to-form-third-fund-ii-platform/",
-  "date": "2026-10-02T11:54:48Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "PE eyes customer loyalty in skincare brands: 8 deals",
-  "link": "https://www.pehub.com/pe-eyes-customer-loyalty-in-skincare-brands-8-deals/",
-  "date": "2026-10-02T11:00:38Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "US",
-  "value": "$1.22B",
-  "title": "Investcorp raises $1.22bn for latest North American private equity fund",
-  "link": "https://www.privateequitywire.co.uk/investcorp-raises-1-22bn-for-latest-north-american-private-equity-fund/",
-  "date": "2026-10-02T10:14:47Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$2B",
-  "title": "Oaktree raises $2bn for debut asset-backed finance fund",
-  "link": "https://www.privateequitywire.co.uk/oaktree-raises-2bn-for-debut-asset-backed-finance-fund/",
-  "date": "2026-10-02T10:13:55Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "€2B",
-  "title": "CVC, Blackstone, Advent and EQT eye €2bn Robin Radar deal",
-  "link": "https://www.privateequitywire.co.uk/cvc-blackstone-advent-and-eqt-eye-e2bn-robin-radar-deal/",
-  "date": "2026-10-02T10:12:18Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "TDR Capital’s Lyceum Education Group strikes deal for Aspiration Training",
-  "link": "https://www.pehub.com/tdr-capitals-lyceum-education-group-strikes-deal-for-aspiration-training/",
-  "date": "2026-10-02T10:00:31Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Music deals in focus after Pophouse acquires stake in Sia’s master music rights; Forward Consumer Partners featured in They Said It",
-  "link": "https://www.pehub.com/music-deals-in-focus-after-pophouse-acquires-stake-in-sias-master-music-rights-forward-consumer-partners-featured-in-they-said-it/",
-  "date": "2026-10-02T08:58:12Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Monzo turns to PE after Nubank ends takeover talks",
-  "link": "https://www.privateequitywire.co.uk/monzo-turns-to-pe-after-nubank-ends-takeover-talks/",
-  "date": "2026-10-02T08:53:15Z"
  }
 ]
