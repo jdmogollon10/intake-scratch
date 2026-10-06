@@ -1,53 +1,73 @@
 [
  {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$5.1B",
-  "title": "KKR strikes $5.1bn deal for Hg and General Atlantic-backed Gen II",
-  "link": "https://www.pehub.com/kkr-strikes-5-1bn-deal-for-hg-and-general-atlantic-backed-gen-ii/",
-  "date": "2026-10-06T11:33:18Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "M&A",
+  "src": "WSJ",
+  "type": "IPO",
   "industry": "Technology",
   "region": "—",
-  "value": "Undisclosed",
-  "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
-  "link": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
-  "date": "2026-10-06T11:00:47Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Antin bets on data centers, wildfire control with High Performance Helicopters deal",
-  "link": "https://www.pehub.com/antin-bets-on-data-centers-wildfires-with-high-performance-helicopters-deal/",
-  "date": "2026-10-06T11:00:26Z"
+  "value": "$4B",
+  "title": "AI Neocloud Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
+  "link": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-06T16:45:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Consumer",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "A2Z Cust2Mate Completes Acquisition of In-Store Retail Media Business Hedia",
-  "link": "https://www.prnewswire.com/news-releases/a2z-cust2mate-completes-acquisition-of-in-store-retail-media-business-hedia-302899583.html",
-  "date": "2026-10-06T11:00:00Z"
+  "title": "Cushing Terrell Grows its Architecture Team in Seattle with the Acquisition of Graphite Design Group",
+  "link": "https://www.prnewswire.com/news-releases/cushing-terrell-grows-its-architecture-team-in-seattle-with-the-acquisition-of-graphite-design-group-302898973.html",
+  "date": "2026-10-06T16:30:00Z"
  },
  {
   "src": "PR Newswire",
-  "type": "Financing",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Net at Work Acquires the business of Cloud 9 ERP Solutions, an Acumatica Gold Certified Implementation Partner",
+  "link": "https://www.prnewswire.com/news-releases/net-at-work-acquires-the-business-of-cloud-9-erp-solutions-an-acumatica-gold-certified-implementation-partner-302900010.html",
+  "date": "2026-10-06T16:18:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "$5M",
-  "title": "pubX Raises $5M Series A Led by Chicago Ventures and Acquires Compliant to Build Agent-to-Agent Advertising Infrastructure from the Ground Up",
-  "link": "https://www.prnewswire.com/news-releases/pubx-raises-5m-series-a-led-by-chicago-ventures-and-acquires-compliant-to-build-agent-to-agent-advertising-infrastructure-from-the-ground-up-302899056.html",
-  "date": "2026-10-06T10:59:00Z"
+  "value": "Undisclosed",
+  "title": "Vance Street’s Fumex acquires Montreal air filtration firm Filtrabox",
+  "link": "https://www.pehub.com/vance-streets-fumex-acquires-montreal-air-filtration-firm-filtrabox/",
+  "date": "2026-10-06T15:15:11Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Bradbury Capital Holdings Inc. Announces Closing of Business Combination with Technology &amp; Telecommunication Acquisition Corporation and Commencement of Trading on Nasdaq Under Ticker Symbol \"BBCI\".",
+  "link": "https://www.prnewswire.com/news-releases/bradbury-capital-holdings-inc-announces-closing-of-business-combination-with-technology--telecommunication-acquisition-corporation-and-commencement-of-trading-on-nasdaq-under-ticker-symbol-bbci-302899907.html",
+  "date": "2026-10-06T14:31:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Take-Private",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "$5.8B",
+  "title": "CD&R and McKesson ink $5.8bn take-private deal for Option Care Health",
+  "link": "https://www.pehub.com/cdr-and-mckesson-ink-5-8bn-take-private-deal-for-option-care-health/",
+  "date": "2026-10-06T14:17:20Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vance Street Capital Expands Air Filtration Platform with Acquisition of PAT Technology Systems, Owner of Filtrabox",
+  "link": "https://www.prnewswire.com/news-releases/vance-street-capital-expands-air-filtration-platform-with-acquisition-of-pat-technology-systems-owner-of-filtrabox-302899559.html",
+  "date": "2026-10-06T14:00:00Z"
  },
  {
   "src": "PE Hub",
@@ -55,19 +75,9 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Apheon acquires majority stake in dental instruments maker Hager & Meisinger",
-  "link": "https://www.pehub.com/apheon-acquires-majority-stake-in-dental-instruments-maker-hager-meisinger/",
-  "date": "2026-10-06T10:56:16Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Redhawk Federal Solutions, LLC Secures Regions Bank Financing to Support Geneva Software Acquisition and Accelerate Growth",
-  "link": "https://www.prnewswire.com/news-releases/redhawk-federal-solutions-llc-secures-regions-bank-financing-to-support-geneva-software-acquisition-and-accelerate-growth-302899673.html",
-  "date": "2026-10-06T10:51:00Z"
+  "title": "Beach Point invests in Fullers Foods, providing liquidity for Quilvest",
+  "link": "https://www.pehub.com/beach-point-invests-in-fullers-foods-providing-liquidity-for-quilvest/",
+  "date": "2026-10-06T13:57:56Z"
  },
  {
   "src": "PR Newswire",
@@ -75,99 +85,89 @@
   "industry": "Consumer",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Fast-Growing Greek Yogurt Bar Brand Clio Acquired by Stride Consumer Partners in Majority Investment, Marking Its Next Chapter of Growth",
-  "link": "https://www.prnewswire.com/news-releases/fast-growing-greek-yogurt-bar-brand-clio-acquired-by-stride-consumer-partners-in-majority-investment-marking-its-next-chapter-of-growth-302898774.html",
-  "date": "2026-10-06T10:30:00Z"
+  "title": "Lippincott to acquire brand and innovation studio Athletics",
+  "link": "https://www.prnewswire.com/news-releases/lippincott-to-acquire-brand-and-innovation-studio-athletics-302899750.html",
+  "date": "2026-10-06T13:40:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "UK",
+  "value": "Undisclosed",
+  "title": "Sterling Group’s Foundation Fund acquires Slingmax from River Associates",
+  "link": "https://www.pehub.com/sterling-groups-foundation-fund-acquires-slingmax-from-river-associates/",
+  "date": "2026-10-06T13:15:39Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "FFL Partners invests in newly rebranded medical device servicer Ally Technical",
+  "link": "https://www.pehub.com/ffl-partners-invests-in-newly-rebranded-medical-device-servicer-ally-technical/",
+  "date": "2026-10-06T13:10:56Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$5.8B",
+  "title": "CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion",
+  "link": "https://www.wsj.com/business/deals/cd-r-mckesson-to-acquire-at-home-infusion-therapy-provider-for-5-8-billion-1beddf40?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-06T13:10:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "American Hartford Gold Acquires Assets of Rosland Capital in Major Expansion",
+  "link": "https://www.prnewswire.com/news-releases/american-hartford-gold-acquires-assets-of-rosland-capital-in-major-expansion-302899045.html",
+  "date": "2026-10-06T13:05:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Energy",
-  "region": "US",
+  "region": "—",
   "value": "Undisclosed",
-  "title": "Solidion Technology (NASDAQ: STI) Sees no Basis to Increase Its Offer to Polar Power, Inc. (NASDAQ: POLA) in Response to Board Rejection of All-Cash Asset Acquisition Proposal",
-  "link": "https://www.prnewswire.com/news-releases/solidion-technology-nasdaq-sti-sees-no-basis-to-increase-its-offer-to-polar-power-inc-nasdaq-pola-in-response-to-board-rejection-of-all-cash-asset-acquisition-proposal-302899555.html",
-  "date": "2026-10-06T10:00:00Z"
+  "title": "Middle River Power Acquires Panoche Energy Center from Ares",
+  "link": "https://www.prnewswire.com/news-releases/middle-river-power-acquires-panoche-energy-center-from-ares-302899660.html",
+  "date": "2026-10-06T13:00:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
-  "region": "—",
+  "region": "UK",
   "value": "Undisclosed",
-  "title": "Unit4 to Acquire Napta and Accelerate Skills-Based Resource Management for Professional &amp; Business Services Firms",
-  "link": "https://www.prnewswire.com/news-releases/unit4-to-acquire-napta-and-accelerate-skills-based-resource-management-for-professional--business-services-firms-302898810.html",
-  "date": "2026-10-06T10:00:00Z"
+  "title": "The Sterling Group Foundation Fund Acquires Slingmax Group, a Provider of Engineered Lifting and Rigging Solutions",
+  "link": "https://www.prnewswire.com/news-releases/the-sterling-group-foundation-fund-acquires-slingmax-group-a-provider-of-engineered-lifting-and-rigging-solutions-302899400.html",
+  "date": "2026-10-06T13:00:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "Financing",
-  "industry": "Healthcare",
-  "region": "Europe",
-  "value": "$2.6B",
-  "title": "Forbion Raises $2.6 Billion in Boost to European Biotech Industry",
-  "link": "https://www.wsj.com/tech/biotech/forbion-raises-2-6-billion-in-boost-to-european-biotech-industry-5945d8c9?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-06T10:00:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Nova Capital acquires BMP Group and RB Medical from Andrew Industries",
-  "link": "https://www.privateequitywire.co.uk/nova-capital-acquires-bmp-group-and-rb-medical-from-andrew-industries/",
-  "date": "2026-10-06T08:34:07Z"
- },
- {
-  "src": "PE Hub",
+  "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
-  "region": "Europe",
-  "value": "$5.1B",
-  "title": "KKR bets on fund admin with $5.1bn Gen II Fund Services deal; Main picks up Germany’s Raynet; Ambienta’s Maccaferri makes two add-ons",
-  "link": "https://www.pehub.com/kkr-bets-on-fund-admin-with-5-1bn-gen-ii-fund-services-deal-main-picks-up-germanys-raynet-ambientas-maccaferri-makes-two-add-ons/",
-  "date": "2026-10-06T08:32:18Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "$5B",
-  "title": "McKesson and CD&R close in on $5bn-plus acquisition of Option Care Health",
-  "link": "https://www.privateequitywire.co.uk/mckesson-and-cdr-close-in-on-5bn-plus-acquisition-of-option-care-health/",
-  "date": "2026-10-06T08:21:33Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
+  "region": "LATAM",
   "value": "Undisclosed",
-  "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
-  "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-06T08:09:00Z"
+  "title": "TA Services Acquires Carmen Pacheco Transportation and Interload Forwarding, Expanding U.S.-Mexico Cross-Border Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/ta-services-acquires-carmen-pacheco-transportation-and-interload-forwarding-expanding-usmexico-cross-border-capabilities-302899788.html",
+  "date": "2026-10-06T12:53:00Z"
  },
  {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$5.1B",
-  "title": "KKR to acquire Gen II from Hg, General Atlantic for $5.1bn",
-  "link": "https://www.pehub.com/kkr-to-acquire-gen-ii-from-hg-general-atlantic-for-5-1bn/",
-  "date": "2026-10-06T07:21:43Z"
- },
- {
-  "src": "PE Hub",
+  "src": "PR Newswire",
   "type": "M&A",
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Ambienta-backed Maccaferri strikes deals for Iterchimica and Surface Tech",
-  "link": "https://www.pehub.com/ambienta-backed-maccaferri-strikes-deals-for-iterchimica-and-surface-tech/",
-  "date": "2026-10-06T07:18:58Z"
+  "title": "Alto to Acquire Forge Trust from Schwab, Creating the Category-Defining Platform for Private Market Investing through Retirement Accounts",
+  "link": "https://www.prnewswire.com/news-releases/alto-to-acquire-forge-trust-from-schwab-creating-the-category-defining-platform-for-private-market-investing-through-retirement-accounts-302899762.html",
+  "date": "2026-10-06T12:40:00Z"
  },
  {
   "src": "PR Newswire",
@@ -175,8 +175,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Arthur J. Gallagher &amp; Co. Acquires Winter &amp; Co Solicitors LLP",
-  "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-winter--co-solicitors-llp-302899173.html",
-  "date": "2026-10-06T07:00:00Z"
+  "title": "Personalized Story Group Acquires Hooray Heroes, Expanding Its Global Personalized Publishing Portfolio",
+  "link": "https://www.prnewswire.com/news-releases/personalized-story-group-acquires-hooray-heroes-expanding-its-global-personalized-publishing-portfolio-302899536.html",
+  "date": "2026-10-06T12:38:00Z"
  }
 ]
