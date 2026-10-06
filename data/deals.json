@@ -1,93 +1,63 @@
 [
  {
   "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$5.1B",
+  "title": "KKR strikes $5.1bn deal for Hg and General Atlantic-backed Gen II",
+  "link": "https://www.pehub.com/kkr-strikes-5-1bn-deal-for-hg-and-general-atlantic-backed-gen-ii/",
+  "date": "2026-10-06T11:33:18Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
+  "link": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+  "date": "2026-10-06T11:00:47Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Antin bets on data centers, wildfire control with High Performance Helicopters deal",
+  "link": "https://www.pehub.com/antin-bets-on-data-centers-wildfires-with-high-performance-helicopters-deal/",
+  "date": "2026-10-06T11:00:26Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "A2Z Cust2Mate Completes Acquisition of In-Store Retail Media Business Hedia",
+  "link": "https://www.prnewswire.com/news-releases/a2z-cust2mate-completes-acquisition-of-in-store-retail-media-business-hedia-302899583.html",
+  "date": "2026-10-06T11:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$5M",
+  "title": "pubX Raises $5M Series A Led by Chicago Ventures and Acquires Compliant to Build Agent-to-Agent Advertising Infrastructure from the Ground Up",
+  "link": "https://www.prnewswire.com/news-releases/pubx-raises-5m-series-a-led-by-chicago-ventures-and-acquires-compliant-to-build-agent-to-agent-advertising-infrastructure-from-the-ground-up-302899056.html",
+  "date": "2026-10-06T10:59:00Z"
+ },
+ {
+  "src": "PE Hub",
   "type": "Strategic Investment",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Warburg Pincus invests in Awayday as Ares and LightBay retain control",
-  "link": "https://www.pehub.com/warburg-pincus-invests-in-awayday-as-ares-and-lightbay-retain-control/",
-  "date": "2026-10-05T11:31:32Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$125M",
-  "title": "The IPO Buzz: TRexBio (TRXB Proposed) Sets Terms for $125 Million IPO",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-trexbio-trxb-proposed-sets-terms-for-125-million-ipo/",
-  "date": "2026-10-05T11:22:05Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Superior Hydrovac Announces Acquisition of Delta Daylighting",
-  "link": "https://www.prnewswire.com/news-releases/superior-hydrovac-announces-acquisition-of-delta-daylighting-302898263.html",
-  "date": "2026-10-05T11:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ECARX Completes Acquisition of Flyme Software Business, Securing End-to-End Operating System Capabilities",
-  "link": "https://www.prnewswire.com/news-releases/ecarx-completes-acquisition-of-flyme-software-business-securing-end-to-end-operating-system-capabilities-302897915.html",
-  "date": "2026-10-05T11:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Divestiture",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Mutares receives offer to sell controlling stake in Lapeyre to Italian investors",
-  "link": "https://www.pehub.com/mutares-receives-offer-to-sell-controlling-stake-in-lapeyre-to-italian-investors/",
-  "date": "2026-10-05T10:47:53Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "TDR Capital agrees to acquire infrastructure services group OCU from Triton",
-  "link": "https://www.pehub.com/tdr-capital-agrees-to-acquire-infrastructure-services-group-ocu-from-triton/",
-  "date": "2026-10-05T10:42:47Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "HEARTWOOD PARTNERS' PORTFOLIO COMPANY NORLEE GROUP ANNOUNCES EIGHTH ADD-ON ACQUISITION OF IEM ELECTRIC, INC.",
-  "link": "https://www.prnewswire.com/news-releases/heartwood-partners-portfolio-company-norlee-group-announces-eighth-add-on-acquisition-of-iem-electric-inc-302897809.html",
-  "date": "2026-10-05T10:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "SEI Group Acquires Greenhome Specialties, Inc.",
-  "link": "https://www.prnewswire.com/news-releases/sei-group-acquires-greenhome-specialties-inc-302897754.html",
-  "date": "2026-10-05T10:00:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$23B",
-  "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-  "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-  "date": "2026-10-05T09:39:00Z"
+  "title": "Apheon acquires majority stake in dental instruments maker Hager & Meisinger",
+  "link": "https://www.pehub.com/apheon-acquires-majority-stake-in-dental-instruments-maker-hager-meisinger/",
+  "date": "2026-10-06T10:56:16Z"
  },
  {
   "src": "PR Newswire",
@@ -95,79 +65,109 @@
   "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Basware Completes Acquisition of Trustpair, Strengthening Financial Integrity from Invoice to Payment",
-  "link": "https://www.prnewswire.com/news-releases/basware-completes-acquisition-of-trustpair-strengthening-financial-integrity-from-invoice-to-payment-302897413.html",
-  "date": "2026-10-05T09:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$22.6B",
-  "title": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
-  "link": "https://www.wsj.com/business/deals/schneider-electric-to-buy-software-maker-ptc-for-22-6-billion-7a23a60c?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-05T08:47:00Z"
+  "title": "Redhawk Federal Solutions, LLC Secures Regions Bank Financing to Support Geneva Software Acquisition and Accelerate Growth",
+  "link": "https://www.prnewswire.com/news-releases/redhawk-federal-solutions-llc-secures-regions-bank-financing-to-support-geneva-software-acquisition-and-accelerate-growth-302899673.html",
+  "date": "2026-10-06T10:51:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Consumer",
   "region": "—",
   "value": "Undisclosed",
-  "title": "EVIDENT Completes Acquisition of CrestOptics S.p.A.",
-  "link": "https://www.prnewswire.com/news-releases/evident-completes-acquisition-of-crestoptics-spa-302897594.html",
-  "date": "2026-10-05T07:20:00Z"
+  "title": "Fast-Growing Greek Yogurt Bar Brand Clio Acquired by Stride Consumer Partners in Majority Investment, Marking Its Next Chapter of Growth",
+  "link": "https://www.prnewswire.com/news-releases/fast-growing-greek-yogurt-bar-brand-clio-acquired-by-stride-consumer-partners-in-majority-investment-marking-its-next-chapter-of-growth-302898774.html",
+  "date": "2026-10-06T10:30:00Z"
  },
  {
   "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "EVIDENT finalise l'acquisition de CrestOptics S.p.A.",
-  "link": "https://www.prnewswire.com/news-releases/evident-finalise-lacquisition-de-crestoptics-spa-302897673.html",
-  "date": "2026-10-05T07:20:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$35.3B",
-  "title": "Intesa Sweetens Monte dei Paschi Bid to $35.3 Billion, But Warns on Rival Deals",
-  "link": "https://www.wsj.com/business/deals/intesa-sweetens-monte-dei-paschi-bid-to-35-3-billion-but-warns-on-rival-deals-bf0094e3?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-05T07:10:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$2B",
-  "title": "Shionogi to Acquire IntraBio for $2 Billion",
-  "link": "https://www.wsj.com/business/shionogi-to-acquire-intrabio-for-2-billion-d1fb2d19?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-05T07:07:00Z"
- },
- {
-  "src": "WSJ",
   "type": "M&A",
   "industry": "Energy",
-  "region": "—",
-  "value": "$1.1B",
-  "title": "Ithaca Energy to Buy Offshore Canada Oil Assets From Suncor Energy for Up to $1.1 Billion",
-  "link": "https://www.wsj.com/business/energy-oil/ithaca-energy-to-buy-offshore-canada-oil-assets-from-suncor-energy-for-up-to-1-1-billion-dc0195fe?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-05T06:47:00Z"
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Solidion Technology (NASDAQ: STI) Sees no Basis to Increase Its Offer to Polar Power, Inc. (NASDAQ: POLA) in Response to Board Rejection of All-Cash Asset Acquisition Proposal",
+  "link": "https://www.prnewswire.com/news-releases/solidion-technology-nasdaq-sti-sees-no-basis-to-increase-its-offer-to-polar-power-inc-nasdaq-pola-in-response-to-board-rejection-of-all-cash-asset-acquisition-proposal-302899555.html",
+  "date": "2026-10-06T10:00:00Z"
  },
  {
   "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Unit4 to Acquire Napta and Accelerate Skills-Based Resource Management for Professional &amp; Business Services Firms",
+  "link": "https://www.prnewswire.com/news-releases/unit4-to-acquire-napta-and-accelerate-skills-based-resource-management-for-professional--business-services-firms-302898810.html",
+  "date": "2026-10-06T10:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "Financing",
+  "industry": "Healthcare",
+  "region": "Europe",
+  "value": "$2.6B",
+  "title": "Forbion Raises $2.6 Billion in Boost to European Biotech Industry",
+  "link": "https://www.wsj.com/tech/biotech/forbion-raises-2-6-billion-in-boost-to-european-biotech-industry-5945d8c9?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-06T10:00:00Z"
+ },
+ {
+  "src": "PE Wire",
   "type": "M&A",
   "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Resonant Clinical Solutions développe ses activités mondiales dans le domaine des équipements et accessoires médicaux grâce à l'acquisition de Labfish",
-  "link": "https://www.prnewswire.com/news-releases/resonant-clinical-solutions-developpe-ses-activites-mondiales-dans-le-domaine-des-equipements-et-accessoires-medicaux-grace-a-lacquisition-de-labfish-302897573.html",
-  "date": "2026-10-02T23:43:00Z"
+  "title": "Nova Capital acquires BMP Group and RB Medical from Andrew Industries",
+  "link": "https://www.privateequitywire.co.uk/nova-capital-acquires-bmp-group-and-rb-medical-from-andrew-industries/",
+  "date": "2026-10-06T08:34:07Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "$5.1B",
+  "title": "KKR bets on fund admin with $5.1bn Gen II Fund Services deal; Main picks up Germany’s Raynet; Ambienta’s Maccaferri makes two add-ons",
+  "link": "https://www.pehub.com/kkr-bets-on-fund-admin-with-5-1bn-gen-ii-fund-services-deal-main-picks-up-germanys-raynet-ambientas-maccaferri-makes-two-add-ons/",
+  "date": "2026-10-06T08:32:18Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "$5B",
+  "title": "McKesson and CD&R close in on $5bn-plus acquisition of Option Care Health",
+  "link": "https://www.privateequitywire.co.uk/mckesson-and-cdr-close-in-on-5bn-plus-acquisition-of-option-care-health/",
+  "date": "2026-10-06T08:21:33Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
+  "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-06T08:09:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$5.1B",
+  "title": "KKR to acquire Gen II from Hg, General Atlantic for $5.1bn",
+  "link": "https://www.pehub.com/kkr-to-acquire-gen-ii-from-hg-general-atlantic-for-5-1bn/",
+  "date": "2026-10-06T07:21:43Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Ambienta-backed Maccaferri strikes deals for Iterchimica and Surface Tech",
+  "link": "https://www.pehub.com/ambienta-backed-maccaferri-strikes-deals-for-iterchimica-and-surface-tech/",
+  "date": "2026-10-06T07:18:58Z"
  },
  {
   "src": "PR Newswire",
@@ -175,8 +175,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "MES Life Safety Acquires PRO-CO",
-  "link": "https://www.prnewswire.com/news-releases/mes-life-safety-acquires-pro-co-302897571.html",
-  "date": "2026-10-02T23:32:00Z"
+  "title": "Arthur J. Gallagher &amp; Co. Acquires Winter &amp; Co Solicitors LLP",
+  "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-winter--co-solicitors-llp-302899173.html",
+  "date": "2026-10-06T07:00:00Z"
  }
 ]
