@@ -1,13 +1,23 @@
 [
  {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Technology",
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
   "region": "—",
-  "value": "$4B",
-  "title": "AI Neocloud Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
-  "link": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-06T16:45:00Z"
+  "value": "Undisclosed",
+  "title": "ANTA Sports Completes Acquisition of 29.06% Stake in PUMA, Becomes Largest Shareholder",
+  "link": "https://www.prnewswire.com/news-releases/anta-sports-completes-acquisition-of-29-06-stake-in-puma-becomes-largest-shareholder-302901071.html",
+  "date": "2026-10-07T11:11:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Frasers Nets Stake in Under Armour in Latest Push Into Sportswear",
+  "link": "https://www.wsj.com/business/retail/frasers-buys-stake-in-sportswear-brand-under-armour-9cac5322?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-07T10:33:00Z"
  },
  {
   "src": "PR Newswire",
@@ -15,19 +25,149 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Cushing Terrell Grows its Architecture Team in Seattle with the Acquisition of Graphite Design Group",
-  "link": "https://www.prnewswire.com/news-releases/cushing-terrell-grows-its-architecture-team-in-seattle-with-the-acquisition-of-graphite-design-group-302898973.html",
-  "date": "2026-10-06T16:30:00Z"
+  "title": "Third Coast Bancshares, Inc. and Great Plains Bancshares, Inc. Announce Definitive Merger Agreement",
+  "link": "https://www.prnewswire.com/news-releases/third-coast-bancshares-inc-and-great-plains-bancshares-inc-announce-definitive-merger-agreement-302900499.html",
+  "date": "2026-10-07T10:30:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Technology",
+  "industry": "Energy",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Solidion Technology (NASDAQ : STI) estime qu'il n'y a aucune raison de revoir à la hausse son offre sur Polar Power, Inc. (NASDAQ : POLA) en réaction au rejet par le conseil d'administration de la proposition d'acquisition d'actifs entièrement en numéraire",
+  "link": "https://www.prnewswire.com/news-releases/solidion-technology-nasdaq--sti-estime-quil-ny-a-aucune-raison-de-revoir-a-la-hausse-son-offre-sur-polar-power-inc-nasdaq--pola-en-reaction-au-rejet-par-le-conseil-dadministration-de-la-proposition-dacquisition-dactif-302901025.html",
+  "date": "2026-10-07T09:56:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Take-Private",
+  "industry": "—",
+  "region": "—",
+  "value": "€10.5B",
+  "title": "CVC ups Recordati take-private offer to €10.5bn after shareholder pushback",
+  "link": "https://www.privateequitywire.co.uk/cvc-ups-recordati-take-private-offer-to-e10-5bn-after-shareholder-pushback/",
+  "date": "2026-10-07T08:15:41Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$5.1B",
+  "title": "KKR to acquire Gen II Fund Services for $5.1bn from Hg and General Atlantic",
+  "link": "https://www.privateequitywire.co.uk/kkr-to-acquire-gen-ii-fund-services-for-5-1bn-from-hg-and-general-atlantic/",
+  "date": "2026-10-07T08:13:07Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Net at Work Acquires the business of Cloud 9 ERP Solutions, an Acumatica Gold Certified Implementation Partner",
-  "link": "https://www.prnewswire.com/news-releases/net-at-work-acquires-the-business-of-cloud-9-erp-solutions-an-acumatica-gold-certified-implementation-partner-302900010.html",
-  "date": "2026-10-06T16:18:00Z"
+  "title": "Searchlight and Fitzroy to acquire credit manager Kredinor from SpareBank 1 Gruppen",
+  "link": "https://www.pehub.com/searchlight-and-fitzroy-to-acquire-credit-manager-kredinor-from-sparebank-1-gruppen/",
+  "date": "2026-10-07T07:45:28Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Eurazeo to acquire majority stake in water efficiency specialist Miya",
+  "link": "https://www.pehub.com/eurazeo-to-acquire-majority-stake-in-water-efficiency-specialist-miya/",
+  "date": "2026-10-07T07:26:06Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "A High-Stakes Gambit Clinched Paramount’s Warner Deal",
+  "link": "https://www.wsj.com/business/media/paramount-warner-bros-deal-873905b0?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-07T03:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Skydance Corporation Announces Expiration, Pricing Terms, and Settlement of Exchange Offers and Tender Offers",
+  "link": "https://www.prnewswire.com/news-releases/skydance-corporation-announces-expiration-pricing-terms-and-settlement-of-exchange-offers-and-tender-offers-302900538.html",
+  "date": "2026-10-07T02:08:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Harbor Health Brings Care and Coverage Together in Houston with the Acquisition of Village Medical Clinics",
+  "link": "https://www.prnewswire.com/news-releases/harbor-health-brings-care-and-coverage-together-in-houston-with-the-acquisition-of-village-medical-clinics-302900374.html",
+  "date": "2026-10-06T21:48:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Real Estate",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "RADIANT LOGISTICS ACQUIRES WHITACRE LOGISTICS' DALLAS OPERATIONS",
+  "link": "https://www.prnewswire.com/news-releases/radiant-logistics-acquires-whitacre-logistics-dallas-operations-302900349.html",
+  "date": "2026-10-06T21:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Coast Counties Peterbilt Expands into Northern Nevada with Acquisition of Peterbilt Truck Parts &amp; Equipment",
+  "link": "https://www.prnewswire.com/news-releases/coast-counties-peterbilt-expands-into-northern-nevada-with-acquisition-of-peterbilt-truck-parts--equipment-302900303.html",
+  "date": "2026-10-06T20:02:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Strategic Buyer Acquires Florida MSP as Demand Rises for Managed IT Services",
+  "link": "https://www.prnewswire.com/news-releases/strategic-buyer-acquires-florida-msp-as-demand-rises-for-managed-it-services-302900302.html",
+  "date": "2026-10-06T20:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Valtir Completes Acquisition of QWICK KURB, Inc., Expanding Portfolio of Roadway Safety Solutions",
+  "link": "https://www.prnewswire.com/news-releases/valtir-completes-acquisition-of-qwick-kurb-inc-expanding-portfolio-of-roadway-safety-solutions-302900293.html",
+  "date": "2026-10-06T19:52:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Littlejohn’s Ardurra strikes deal for Texas water engineering firm eHT",
+  "link": "https://www.pehub.com/littlejohns-ardurra-strikes-deal-for-texas-water-engineering-firm-eht/",
+  "date": "2026-10-06T19:07:59Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Quantum X Inc. Announces Binding Letter of Intent to Acquire 80% of Institutional Market Data Provider TraderMade Systems Ltd.",
+  "link": "https://www.prnewswire.com/news-releases/quantum-x-inc-announces-binding-letter-of-intent-to-acquire-80-of-institutional-market-data-provider-tradermade-systems-ltd-302900210.html",
+  "date": "2026-10-06T19:00:00Z"
  },
  {
   "src": "PE Hub",
@@ -38,145 +178,5 @@
   "title": "Vance Street’s Fumex acquires Montreal air filtration firm Filtrabox",
   "link": "https://www.pehub.com/vance-streets-fumex-acquires-montreal-air-filtration-firm-filtrabox/",
   "date": "2026-10-06T15:15:11Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Bradbury Capital Holdings Inc. Announces Closing of Business Combination with Technology &amp; Telecommunication Acquisition Corporation and Commencement of Trading on Nasdaq Under Ticker Symbol \"BBCI\".",
-  "link": "https://www.prnewswire.com/news-releases/bradbury-capital-holdings-inc-announces-closing-of-business-combination-with-technology--telecommunication-acquisition-corporation-and-commencement-of-trading-on-nasdaq-under-ticker-symbol-bbci-302899907.html",
-  "date": "2026-10-06T14:31:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Take-Private",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "$5.8B",
-  "title": "CD&R and McKesson ink $5.8bn take-private deal for Option Care Health",
-  "link": "https://www.pehub.com/cdr-and-mckesson-ink-5-8bn-take-private-deal-for-option-care-health/",
-  "date": "2026-10-06T14:17:20Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Vance Street Capital Expands Air Filtration Platform with Acquisition of PAT Technology Systems, Owner of Filtrabox",
-  "link": "https://www.prnewswire.com/news-releases/vance-street-capital-expands-air-filtration-platform-with-acquisition-of-pat-technology-systems-owner-of-filtrabox-302899559.html",
-  "date": "2026-10-06T14:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Beach Point invests in Fullers Foods, providing liquidity for Quilvest",
-  "link": "https://www.pehub.com/beach-point-invests-in-fullers-foods-providing-liquidity-for-quilvest/",
-  "date": "2026-10-06T13:57:56Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Lippincott to acquire brand and innovation studio Athletics",
-  "link": "https://www.prnewswire.com/news-releases/lippincott-to-acquire-brand-and-innovation-studio-athletics-302899750.html",
-  "date": "2026-10-06T13:40:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Sterling Group’s Foundation Fund acquires Slingmax from River Associates",
-  "link": "https://www.pehub.com/sterling-groups-foundation-fund-acquires-slingmax-from-river-associates/",
-  "date": "2026-10-06T13:15:39Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "FFL Partners invests in newly rebranded medical device servicer Ally Technical",
-  "link": "https://www.pehub.com/ffl-partners-invests-in-newly-rebranded-medical-device-servicer-ally-technical/",
-  "date": "2026-10-06T13:10:56Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$5.8B",
-  "title": "CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion",
-  "link": "https://www.wsj.com/business/deals/cd-r-mckesson-to-acquire-at-home-infusion-therapy-provider-for-5-8-billion-1beddf40?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-06T13:10:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "American Hartford Gold Acquires Assets of Rosland Capital in Major Expansion",
-  "link": "https://www.prnewswire.com/news-releases/american-hartford-gold-acquires-assets-of-rosland-capital-in-major-expansion-302899045.html",
-  "date": "2026-10-06T13:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Middle River Power Acquires Panoche Energy Center from Ares",
-  "link": "https://www.prnewswire.com/news-releases/middle-river-power-acquires-panoche-energy-center-from-ares-302899660.html",
-  "date": "2026-10-06T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "The Sterling Group Foundation Fund Acquires Slingmax Group, a Provider of Engineered Lifting and Rigging Solutions",
-  "link": "https://www.prnewswire.com/news-releases/the-sterling-group-foundation-fund-acquires-slingmax-group-a-provider-of-engineered-lifting-and-rigging-solutions-302899400.html",
-  "date": "2026-10-06T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "LATAM",
-  "value": "Undisclosed",
-  "title": "TA Services Acquires Carmen Pacheco Transportation and Interload Forwarding, Expanding U.S.-Mexico Cross-Border Capabilities",
-  "link": "https://www.prnewswire.com/news-releases/ta-services-acquires-carmen-pacheco-transportation-and-interload-forwarding-expanding-usmexico-cross-border-capabilities-302899788.html",
-  "date": "2026-10-06T12:53:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Alto to Acquire Forge Trust from Schwab, Creating the Category-Defining Platform for Private Market Investing through Retirement Accounts",
-  "link": "https://www.prnewswire.com/news-releases/alto-to-acquire-forge-trust-from-schwab-creating-the-category-defining-platform-for-private-market-investing-through-retirement-accounts-302899762.html",
-  "date": "2026-10-06T12:40:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Personalized Story Group Acquires Hooray Heroes, Expanding Its Global Personalized Publishing Portfolio",
-  "link": "https://www.prnewswire.com/news-releases/personalized-story-group-acquires-hooray-heroes-expanding-its-global-personalized-publishing-portfolio-302899536.html",
-  "date": "2026-10-06T12:38:00Z"
  }
 ]
