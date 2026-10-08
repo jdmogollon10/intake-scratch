@@ -1,63 +1,113 @@
 [
  {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Breakwater-backed Chemistry strikes deal for Boston creative agency Colossus",
+  "link": "https://www.pehub.com/breakwater-backed-chemistry-strikes-deal-for-boston-creative-agency-colossus/",
+  "date": "2026-10-08T11:25:05Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Permira-backed Acuity Analytics completes deal for US data consultancy Continuus",
+  "link": "https://www.pehub.com/permira-backed-acuity-analytics-completes-deal-for-us-data-consultancy-continuus/",
+  "date": "2026-10-08T11:16:44Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Grovecourt Capital’s Guide Architecture strikes deal for medical equipment planner MAIA",
+  "link": "https://www.pehub.com/grovecourt-capitals-guide-architecture-strikes-deal-for-medical-equipment-planner-maia/",
+  "date": "2026-10-08T11:11:48Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "CHEMISTRY ACQUIRES COLOSSUS, ESTABLISHING A BOSTON OFFICE AND EXPANDING CREATIVE AND DESIGN CAPABILITIES",
-  "link": "https://www.prnewswire.com/news-releases/chemistry-acquires-colossus-establishing-a-boston-office-and-expanding-creative-and-design-capabilities-302901437.html",
-  "date": "2026-10-07T17:18:00Z"
+  "title": "Century Communities Triples Dallas-Fort Worth Footprint with Acquisition of HistoryMaker Homes",
+  "link": "https://www.prnewswire.com/news-releases/century-communities-triples-dallas-fort-worth-footprint-with-acquisition-of-historymaker-homes-302901878.html",
+  "date": "2026-10-08T11:00:00Z"
  },
  {
-  "src": "PE Hub",
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Tower Arch Capital Announces Successful Recapitalization of Creedence Energy Services by Monomoy Capital Partners",
+  "link": "https://www.prnewswire.com/news-releases/tower-arch-capital-announces-successful-recapitalization-of-creedence-energy-services-by-monomoy-capital-partners-302901307.html",
+  "date": "2026-10-08T11:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Drilling Tools International Corp. Signs Definitive Agreement to Acquire Saltire Energy Limited &amp; Foxley Energy Limited",
+  "link": "https://www.prnewswire.com/news-releases/drilling-tools-international-corp-signs-definitive-agreement-to-acquire-saltire-energy-limited--foxley-energy-limited-302901803.html",
+  "date": "2026-10-08T10:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ZEISS acquires Ceres Holographics to accelerate holography industrialization",
+  "link": "https://www.prnewswire.com/news-releases/zeiss-acquires-ceres-holographics-to-accelerate-holography-industrialization-302902301.html",
+  "date": "2026-10-08T09:12:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "PE managers mush for higher carried interest in continuation deals",
+  "link": "https://www.privateequitywire.co.uk/pe-managers-mush-for-higher-carried-interest-in-continuation-deals/",
+  "date": "2026-10-08T08:27:05Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$8.9B",
+  "title": "Weston family agrees $8.9bn deal to acquire Boots from Sycamore",
+  "link": "https://www.privateequitywire.co.uk/weston-family-agrees-8-9bn-deal-to-acquire-boots-from-sycamore/",
+  "date": "2026-10-08T08:22:09Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "PCB Technologies to Acquire Silicon Valley's Gorilla Circuits for an Enterprise Value of USD 120 million, Establishing US Manufacturing Footprint",
+  "link": "https://www.prnewswire.com/news-releases/pcb-technologies-to-acquire-silicon-valleys-gorilla-circuits-for-an-enterprise-value-of-usd-120-million-establishing-us-manufacturing-footprint-302902210.html",
+  "date": "2026-10-08T08:00:00Z"
+ },
+ {
+  "src": "WSJ",
   "type": "Strategic Investment",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Spectrum Equity makes first institutional investment in hospital data firm Symmetric",
-  "link": "https://www.pehub.com/spectrum-equity-makes-first-institutional-investment-in-hospital-data-firm-symmetric/",
-  "date": "2026-10-07T16:50:42Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "OTR Solutions Accelerates Its Factoring and Technology Strategy with Acquisition of CCT Factoring's Transportation Portfolio",
-  "link": "https://www.prnewswire.com/news-releases/otr-solutions-accelerates-its-factoring-and-technology-strategy-with-acquisition-of-cct-factorings-transportation-portfolio-302901416.html",
-  "date": "2026-10-07T16:49:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "BDT & MSD agrees to acquire Sunrise Senior Living from PSP Investments",
-  "link": "https://www.pehub.com/bdt-msd-agrees-to-acquire-sunrise-senior-living-from-psp-investments/",
-  "date": "2026-10-07T16:45:46Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Divestiture",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Altaris completes carve-out of Clarivate’s life sciences and healthcare business",
-  "link": "https://www.pehub.com/altaris-completes-carve-out-of-clarivates-life-sciences-and-healthcare-business/",
-  "date": "2026-10-07T16:41:01Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "eFormed Ventures Acquires Outdoor Life, Bringing New Technology to a 130-Year Outdoor Legacy",
-  "link": "https://www.prnewswire.com/news-releases/eformed-ventures-acquires-outdoor-life-bringing-new-technology-to-a-130-year-outdoor-legacy-302901353.html",
-  "date": "2026-10-07T16:05:00Z"
+  "title": "Porsche AG Increases Stake in Manthey Racing to 67%",
+  "link": "https://www.wsj.com/business/autos/porsche-ag-increases-stake-in-manthey-racing-to-67-93c13b92?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-08T07:55:00Z"
  },
  {
   "src": "PR Newswire",
@@ -65,89 +115,49 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Spring Labs Acquires Winnow to Connect the Law to the Daily Work of Compliance",
-  "link": "https://www.prnewswire.com/news-releases/spring-labs-acquires-winnow-to-connect-the-law-to-the-daily-work-of-compliance-302901357.html",
-  "date": "2026-10-07T15:59:00Z"
+  "title": "ANTA Sports finalise l'acquisition d'une participation de 29,06 % dans PUMA et devient son principal actionnaire",
+  "link": "https://www.prnewswire.com/news-releases/anta-sports-finalise-lacquisition-dune-participation-de-29-06--dans-puma-et-devient-son-principal-actionnaire-302902176.html",
+  "date": "2026-10-08T06:51:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Anyflo emerges from stealth with acquisition of Native, to simplify stablecoin payments for enterprises",
+  "link": "https://www.prnewswire.com/news-releases/anyflo-emerges-from-stealth-with-acquisition-of-native-to-simplify-stablecoin-payments-for-enterprises-302901053.html",
+  "date": "2026-10-08T01:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Orca and Loopscale Merge to Build Capital Markets for AI and the Frontier Economy",
+  "link": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
+  "date": "2026-10-07T23:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Acuity Analytics expands US data and technology capabilities with acquisition of Continuus",
+  "link": "https://www.prnewswire.com/news-releases/acuity-analytics-expands-us-data-and-technology-capabilities-with-acquisition-of-continuus-302901684.html",
+  "date": "2026-10-07T21:22:00Z"
  },
  {
   "src": "WSJ",
   "type": "M&A",
-  "industry": "Healthcare",
-  "region": "UK",
-  "value": "$8.9B",
-  "title": "Canada’s Weston Family to Buy British Pharmacy Chain Boots for $8.9 Billion",
-  "link": "https://www.wsj.com/business/retail/wittington-investments-in-8-9-billion-deal-to-buy-british-pharmacy-chain-boots-d2b91a85?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-07T14:34:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "$650M",
-  "title": "Silver Point Leads $650 Million Financing Supporting the Acquisition of C&amp;D Trojan by Stryten Energy",
-  "link": "https://www.prnewswire.com/news-releases/silver-point-leads-650-million-financing-supporting-the-acquisition-of-cd-trojan-by-stryten-energy-302901249.html",
-  "date": "2026-10-07T14:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Arthur J. Gallagher &amp; Co. Acquires Ornella Underwriting Limited",
-  "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-ornella-underwriting-limited-302901245.html",
-  "date": "2026-10-07T14:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Sojourner aims to broaden personal care capabilities with LPNA merger; Main Capital, Gemspring, One Equity bet on cybersecurity",
-  "link": "https://www.pehub.com/sojourner-aims-to-broaden-personal-care-capabilities-with-lpna-merger-main-capital-gemspring-one-equity-bet-on-cybersecurity/",
-  "date": "2026-10-07T13:50:16Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Goldman Sachs-backed Integrity Care Group completes deal for 15 NextCare clinics",
-  "link": "https://www.pehub.com/goldman-sachs-backed-integrity-care-group-completes-deal-for-15-nextcare-clinics/",
-  "date": "2026-10-07T13:40:04Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CFGI announces acquisition of BAO Consulting Group, enhancing Dallas market presence",
-  "link": "https://www.prnewswire.com/news-releases/cfgi-announces-acquisition-of-bao-consulting-group-enhancing-dallas-market-presence-302901190.html",
-  "date": "2026-10-07T13:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Critical Materials Group Acquires Rocky Mountain Scientific Laboratory, Adding Travis Swanson as Chief Science Officer",
-  "link": "https://www.prnewswire.com/news-releases/critical-materials-group-acquires-rocky-mountain-scientific-laboratory-adding-travis-swanson-as-chief-science-officer-302900535.html",
-  "date": "2026-10-07T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$2B",
-  "title": "Acquisition Lets AI and Operators Learn From Nearly $2 Billion in Annual Aesthetics Transactions",
-  "link": "https://www.prnewswire.com/news-releases/acquisition-lets-ai-and-operators-learn-from-nearly-2-billion-in-annual-aesthetics-transactions-302900595.html",
-  "date": "2026-10-07T12:58:00Z"
+  "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+  "link": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-07T21:01:00Z"
  },
  {
   "src": "PR Newswire",
@@ -155,28 +165,18 @@
   "industry": "Energy",
   "region": "—",
   "value": "Undisclosed",
-  "title": "AmyriAD Therapeutics Acquires Recognify Life Sciences, Expanding Its Clinical-Stage Cognition Pipeline with RL-007 (Inidascamine)",
-  "link": "https://www.prnewswire.com/news-releases/amyriad-therapeutics-acquires-recognify-life-sciences-expanding-its-clinical-stage-cognition-pipeline-with-rl-007-inidascamine-302900667.html",
-  "date": "2026-10-07T12:45:00Z"
+  "title": "Pacolet Milliken Expands its Biomass Platform with the Acquisition of Georgia Renewable Power",
+  "link": "https://www.prnewswire.com/news-releases/pacolet-milliken-expands-its-biomass-platform-with-the-acquisition-of-georgia-renewable-power-302901648.html",
+  "date": "2026-10-07T21:00:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Technology",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Conversational AI Is Finally Connected to the Work: Automation Anywhere to Acquire Boost.ai",
-  "link": "https://www.prnewswire.com/news-releases/conversational-ai-is-finally-connected-to-the-work-automation-anywhere-to-acquire-boostai-302900621.html",
-  "date": "2026-10-07T12:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Simple Mining Acquires Sphere 3D Bitcoin Mining Site in Iowa, Growing Platform to Nearly 160 MW",
-  "link": "https://www.prnewswire.com/news-releases/simple-mining-acquires-sphere-3d-bitcoin-mining-site-in-iowa-growing-platform-to-nearly-160-mw-302900603.html",
-  "date": "2026-10-07T12:00:00Z"
+  "title": "Clear Channel Outdoor Receives CFIUS Clearance for Acquisition by Mubadala Capital",
+  "link": "https://www.prnewswire.com/news-releases/clear-channel-outdoor-receives-cfius-clearance-for-acquisition-by-mubadala-capital-302901634.html",
+  "date": "2026-10-07T20:30:00Z"
  }
 ]
