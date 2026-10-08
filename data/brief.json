@@ -1,97 +1,84 @@
 {
  "status": "live",
- "session": "Wednesday, October 7, 2026",
- "builtAt": "2026-10-07T11:30:00Z",
+ "session": "Thursday, October 8, 2026",
+ "builtAt": "2026-10-08T11:30:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,818.93",
-   "c": "+0.58% Tue, record",
-   "dir": "up"
+   "v": "7,801.77",
+   "c": "-0.22% Wed",
+   "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "27,599.79",
-   "c": "+0.45% Tue, record",
-   "dir": "up"
+   "v": "27,538.69",
+   "c": "-0.22% Wed",
+   "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "51,521.28",
-   "c": "+253.38 pts Tue (+0.49%)",
-   "dir": "up"
+   "v": "51,179.87",
+   "c": "-341.41 pts Wed (-0.66%)",
+   "dir": "down"
   },
   {
    "n": "US 10Y",
-   "v": "5.30%",
-   "c": "Wed morning, +1.4 bp",
+   "v": "5.326%",
+   "c": "Wed intraday, high 5.350%",
    "dir": "up"
   }
  ],
- "tapeLine": "US stocks rose Tuesday: the S&amp;P 500 gained 0.58% to a record 7,818.93, its first close above 7,800, the Nasdaq Composite 0.45% to a record 27,599.79 and the Dow 253.38 points (0.49%) to 51,521.28, per CNBC and Yahoo Finance. Wednesday morning the 10-year Treasury yield was 5.30% (+1.4 bp), the 2-year 4.80% and the 30-year 5.68%, per FXStreet. Futures were mixed: Dow -0.06%, S&amp;P 500 +0.06%, Nasdaq -0.16%.",
- "matters": "<p>Stocks closed at records on Tuesday, led by chipmakers, as yields eased, per CNBC. Wednesday morning yields rebounded and futures were mixed, per FXStreet.</p><p>The September FOMC minutes are due at 2:00 p.m. ET Wednesday; the next FOMC meeting is 28 October. Expectations for an October hike fell to 22.1% from 64.2% a week earlier, per CME FedWatch as cited by Admiral Markets.</p><p><b>Invalidation:</b> the tone of the minutes, and whether the 10-year holds above 5.3%.</p>",
- "calendar": [
-  {
-   "time": "Wed 2:00pm ET",
-   "event": "FOMC minutes (September 15-16 meeting)",
-   "consensus": "n/a",
-   "prior": "n/a",
-   "impact": "high"
-  }
- ],
+ "tapeLine": "US stocks fell Wednesday: the S&amp;P 500 slipped 0.22% to 7,801.77, the Nasdaq Composite 0.22% to 27,538.69 and the Dow 341.41 points (0.66%) to 51,179.87, retreating from Tuesday's records, per CNBC. The 10-year Treasury yield rose to as high as 5.350% Wednesday, topping Monday's high; it was 5.326% intraday, per CNBC via Yahoo Finance. No Thursday-morning futures or yield levels were found.",
+ "matters": "<p>Stocks retreated from records Wednesday as the 10-year yield reached a new multi-year high of 5.350%, per CNBC.</p><p>The September FOMC minutes were scheduled for 2:00 p.m. ET Wednesday. Their contents could not be confirmed from the sources found, so they are not summarised here. The next FOMC meeting is 28 October.</p><p><b>Invalidation:</b> whether the 10-year stays above 5.3%, and whether the indexes hold near Tuesday's record closes.</p>",
+ "calendar": [],
  "alsoOnTape": "Oil and gold are not carried: no dated, consistent levels were found this session.",
  "overnight": [
-  "<b>US Tuesday close</b> &mdash; S&amp;P 500 +0.58% to 7,818.93 (record), Nasdaq +0.45% to 27,599.79 (record), Dow +0.49% to 51,521.28, per CNBC and Yahoo Finance.",
-  "<b>Futures Wednesday</b> &mdash; Dow -0.06%, S&amp;P 500 +0.06%, Nasdaq -0.16%, per FXStreet.",
-  "<b>Treasuries</b> &mdash; 10-year 5.30%, 2-year 4.80%, 30-year 5.68% Wednesday morning, per FXStreet."
+  "<b>US Wednesday close</b> &mdash; S&amp;P 500 -0.22% to 7,801.77, Nasdaq -0.22% to 27,538.69, Dow -0.66% to 51,179.87, per CNBC.",
+  "<b>Treasuries</b> &mdash; 10-year hit 5.350% Wednesday, above Monday's high; 5.326% intraday, 30-year 5.706%, per CNBC via Yahoo Finance."
  ],
  "deals": [],
  "macro": [
-  "<b>Rates</b> &mdash; 10-year at 5.30% Wednesday morning, near the 52-week high of 5.315% reached Monday.",
-  "<b>Fed</b> &mdash; September minutes at 2:00 p.m. ET Wednesday; FOMC 28 October. Odds of an October hike 22.1% per CME FedWatch, as cited by Admiral Markets."
+  "<b>Rates</b> &mdash; 10-year yield reached 5.350% Wednesday, a new high for the move, per CNBC.",
+  "<b>Fed</b> &mdash; September minutes were due 2:00 p.m. ET Wednesday; contents not confirmed. FOMC 28 October."
  ],
  "flow": [
-  "The S&amp;P 500 and Nasdaq both closed at records Tuesday, per CNBC.",
+  "The S&amp;P 500 and Nasdaq both fell 0.22% Wednesday after Tuesday's record closes, per CNBC.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Stocks at records on Tuesday; 10-year yield near its 52-week high.",
-  "sizing": "Equities are absorbing high yields; Wednesday's FOMC minutes are the next evidence."
+  "tag": "Stocks pulled back from records Wednesday as the 10-year yield hit 5.350%.",
+  "sizing": "Yields rose to a new high and equities gave ground; Thursday's follow-through is the next evidence."
  },
  "watchlist": [],
- "secondOrder": "Equities made records on a day yields eased, then yields rebounded Wednesday morning. That is an observation, not a forecast.",
+ "secondOrder": "Equities slipped on the day the 10-year yield set a new high. That is an observation, not a forecast.",
  "scorecard": [
   {
+   "verdict": "wrong",
+   "text": "Yesterday's brief said equities were absorbing high yields. Wednesday stocks fell from records as the 10-year reached 5.350%, per CNBC."
+  },
+  {
    "verdict": "right",
-   "text": "Yesterday's regime read was that equities were absorbing higher yields. Stocks rose again Tuesday to records, per CNBC."
+   "text": "Yesterday's test was whether the 10-year holds above 5.3%. It did, trading 5.326% and as high as 5.350% Wednesday, per CNBC via Yahoo Finance."
   },
   {
    "verdict": "open",
-   "text": "Yesterday's brief listed whether the 10-year keeps rising above 5.3% as a test. It eased Tuesday, then was back at 5.30% Wednesday morning, per FXStreet; unresolved."
-  },
-  {
-   "verdict": "open",
-   "text": "Wednesday's FOMC minutes and the 28 October FOMC have not yet occurred."
+   "text": "Wednesday's FOMC minutes were released but their contents could not be confirmed from sources found; the 28 October FOMC has not occurred."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "CNBC — S&P 500 posts first close above 7,800, boosted by tech gains and cooler yields",
+   "label": "CNBC — S&P 500 retreats from record as elevated yields keep traders on guard",
+   "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html"
+  },
+  {
+   "label": "Yahoo Finance — Stock market today: Dow falls, S&P 500 and Nasdaq retreat from records amid bond market jitters",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html"
+  },
+  {
+   "label": "CNBC — S&P 500 posts first close above 7,800 (Tuesday records)",
    "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html"
-  },
-  {
-   "label": "Yahoo Finance — Stock market today: S&P 500, Nasdaq hit record highs as Nvidia, AMD lead tech higher",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-6-dow-sp-500-nasdaq-080526166.html"
-  },
-  {
-   "label": "FXStreet — Dow Jones futures fall as US Treasury yields rebound ahead of FOMC Minutes",
-   "url": "https://www.fxstreet.com/news/dow-jones-futures-fall-as-us-treasury-yields-rebound-ahead-of-fomc-minutes-202610070843"
-  },
-  {
-   "label": "Admiral Markets — FOMC Minutes October 2026",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/fomc-minutes-october-2026"
   }
  ]
 }
