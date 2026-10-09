@@ -1,5 +1,155 @@
 [
  {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$1B",
+  "title": "Blackstone raises $1bn for private credit continuation fund",
+  "link": "https://www.privateequitywire.co.uk/blackstone-raises-1bn-for-private-credit-continuation-fund/",
+  "date": "2026-10-09T11:34:40Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Kinepolis completes acquisition of Showcase Cinemas, Expands its U.S. footprint with theatres in Massachusetts and New York",
+  "link": "https://www.prnewswire.com/news-releases/kinepolis-completes-acquisition-of-showcase-cinemas-expands-its-us-footprint-with-theatres-in-massachusetts-and-new-york-302903139.html",
+  "date": "2026-10-09T11:27:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$175M",
+  "title": "The IPO Buzz: City Therapeutics (CTY Proposed) Sets Terms for $175 Million IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-city-therapeutics-cty-proposed-sets-terms-for-175-million-ipo/",
+  "date": "2026-10-09T11:05:39Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell",
+  "link": "https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/",
+  "date": "2026-10-09T11:00:56Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Private equity circles equipment providers amid growing surgical demand: 6 deals",
+  "link": "https://www.pehub.com/private-equity-circles-growing-surgical-demand-6-deals/",
+  "date": "2026-10-09T11:00:40Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Metro Supply Chain Joins NX Group Following Completion of Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/metro-supply-chain-joins-nx-group-following-completion-of-acquisition-302903087.html",
+  "date": "2026-10-09T11:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "MIDEA COMPLETES THE ACQUISITION OF ESAOTE",
+  "link": "https://www.prnewswire.com/news-releases/midea-completes-the-acquisition-of-esaote-302902498.html",
+  "date": "2026-10-09T10:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom",
+  "link": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067?mod=rss_markets_main",
+  "date": "2026-10-09T07:18:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Hexagon to acquire Rocscience, closing the loop between real-world monitoring and advanced simulation",
+  "link": "https://www.prnewswire.com/news-releases/hexagon-to-acquire-rocscience-closing-the-loop-between-real-world-monitoring-and-advanced-simulation-302903322.html",
+  "date": "2026-10-09T06:13:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$116.62M",
+  "title": "The IPO Buzz: TRex Bio (TRXB) Prices IPO at $14 – Low End – to Raise $116.62 Million",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-trex-bio-trxb-prices-ipo-at-14-low-end-to-raise-116-62-million/",
+  "date": "2026-10-09T04:28:50Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions",
+  "link": "https://www.wsj.com/tech/nvidia-backed-firmus-scraps-australian-ipo-citing-market-conditions-4793fe60?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-08T22:57:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Sun Life cautions shareholders regarding Ocehan LLC's below-market bid for shares",
+  "link": "https://www.prnewswire.com/news-releases/sun-life-cautions-shareholders-regarding-ocehan-llc-s-below-market-bid-for-shares-897477148.html",
+  "date": "2026-10-08T21:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SVRN Acquires FastNEAR, Expanding Its Role Operating Essential NEAR Infrastructure",
+  "link": "https://www.prnewswire.com/news-releases/svrn-acquires-fastnear-expanding-its-role-operating-essential-near-infrastructure-302902854.html",
+  "date": "2026-10-08T20:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Premiere Digital Acquires Amdocs' Vubiquity, Creating a Global Digital Distribution Leader",
+  "link": "https://www.prnewswire.com/news-releases/premiere-digital-acquires-amdocs-vubiquity-creating-a-global-digital-distribution-leader-302902921.html",
+  "date": "2026-10-08T20:01:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Salt Creek Capital seals deal for Montreal ventilation maker MK Plastics",
+  "link": "https://www.pehub.com/salt-creek-capital-seals-deal-for-montreal-ventilation-maker-mk-plastics/",
+  "date": "2026-10-08T19:14:40Z"
+ },
+ {
   "src": "LAVCA",
   "type": "M&A",
   "industry": "—",
@@ -28,155 +178,5 @@
   "title": "Blockchain Capital Leads USD15m Investment in NG.Cash",
   "link": "https://www.lavca.org/blockchain-capital-leads-usd15m-investment-in-ng-cash/",
   "date": "2026-10-08T16:00:47Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Klipboard acquires Linxup to enhance its connected Fleet Management and Field Service Management offering in North America",
-  "link": "https://www.prnewswire.com/news-releases/klipboard-acquires-linxup-to-enhance-its-connected-fleet-management-and-field-service-management-offering-in-north-america-302902594.html",
-  "date": "2026-10-08T15:45:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "XKIG Strengthens Midwest Presence with Acquisition of Wilderness Land Management",
-  "link": "https://www.prnewswire.com/news-releases/xkig-strengthens-midwest-presence-with-acquisition-of-wilderness-land-management-302902621.html",
-  "date": "2026-10-08T15:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "AEA Investors and BCI Acquire Rensa Filtration",
-  "link": "https://www.prnewswire.com/news-releases/aea-investors-and-bci-acquire-rensa-filtration-302902601.html",
-  "date": "2026-10-08T15:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Lovell Minnick, Carlyle AlpInvest-backed SRS Acquiom agrees to Pantarai acquisition",
-  "link": "https://www.pehub.com/lovell-minnick-carlyle-alpinvest-backed-srs-acquiom-agrees-to-pantarai-acquisition/",
-  "date": "2026-10-08T14:11:59Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Petauri Expands HEOR and Market Access Capabilities with Acquisition of Franklin Pharmaceutical Consulting",
-  "link": "https://www.prnewswire.com/news-releases/petauri-expands-heor-and-market-access-capabilities-with-acquisition-of-franklin-pharmaceutical-consulting-302902069.html",
-  "date": "2026-10-08T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Asurion Completes Acquisition of Domestic &amp; General to Expand Technology Care Across the Connected Home",
-  "link": "https://www.prnewswire.com/news-releases/asurion-completes-acquisition-of-domestic--general-to-expand-technology-care-across-the-connected-home-302902478.html",
-  "date": "2026-10-08T13:20:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Sterling-backed Verdantas inks deal for Austin civil engineering firm Civilitude",
-  "link": "https://www.pehub.com/sterling-backed-verdantas-inks-deal-for-austin-civil-engineering-firm-civilitude/",
-  "date": "2026-10-08T13:12:57Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Thoma Bravo’s BlueMatrix agrees to acquire AI research platform Aiera",
-  "link": "https://www.pehub.com/thoma-bravos-bluematrix-agrees-to-acquire-ai-research-platform-aiera/",
-  "date": "2026-10-08T13:08:55Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Kinetico® Expands Global Presence with Acquisitions in France and Italy",
-  "link": "https://www.prnewswire.com/news-releases/kinetico-expands-global-presence-with-acquisitions-in-france-and-italy-302902233.html",
-  "date": "2026-10-08T13:06:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Verdantas Strengthens Texas Presence with Acquisition of Austin-based Civilitude Engineers and Planners",
-  "link": "https://www.prnewswire.com/news-releases/verdantas-strengthens-texas-presence-with-acquisition-of-austin-based-civilitude-engineers-and-planners-302901367.html",
-  "date": "2026-10-08T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Thoma Bravo-backed BlueMatrix to Acquire Aiera, Advancing Governed AI Distribution for Investment Research",
-  "link": "https://www.prnewswire.com/news-releases/thoma-bravo-backed-bluematrix-to-acquire-aiera-advancing-governed-ai-distribution-for-investment-research-302902401.html",
-  "date": "2026-10-08T13:00:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$150M",
-  "title": "The IPO Buzz: Iambic Therapeutics (IAM Proposed) Launches $150 Million IPO",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-iambic-therapeutics-iam-proposed-launches-150-million-ipo/",
-  "date": "2026-10-08T12:49:59Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.65B",
-  "title": "Viatris to Buy Pacira BioSciences for $1.65 Billion",
-  "link": "https://www.wsj.com/health/pharma/viatris-to-buy-pacira-biosciences-for-1-65-billion-0ba22d4d?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-08T12:48:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Founder-Led Personalized Story Group Acquires International Consumer Publishing Brand, Hooray Heroes",
-  "link": "https://www.prnewswire.com/news-releases/founder-led-personalized-story-group-acquires-international-consumer-publishing-brand-hooray-heroes-302901907.html",
-  "date": "2026-10-08T12:42:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Capacity LLC Acquires UK-Based Core Fulfilment, Creating a Single Fulfillment Partner for Consumer Brands Expanding Across the US and UK",
-  "link": "https://www.prnewswire.com/news-releases/capacity-llc-acquires-uk-based-core-fulfilment-creating-a-single-fulfillment-partner-for-consumer-brands-expanding-across-the-us-and-uk-302902405.html",
-  "date": "2026-10-08T12:38:00Z"
  }
 ]
