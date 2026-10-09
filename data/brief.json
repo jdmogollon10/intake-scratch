@@ -1,84 +1,82 @@
 {
  "status": "live",
- "session": "Thursday, October 8, 2026",
- "builtAt": "2026-10-08T11:30:00Z",
+ "session": "Friday, October 9, 2026",
+ "builtAt": "2026-10-09T11:30:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,801.77",
-   "c": "-0.22% Wed",
+   "v": "7,765.36",
+   "c": "-0.47% Thu",
    "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "27,538.69",
-   "c": "-0.22% Wed",
+   "v": "27,193.34",
+   "c": "-1.25% Thu",
    "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "51,179.87",
-   "c": "-341.41 pts Wed (-0.66%)",
-   "dir": "down"
-  },
-  {
-   "n": "US 10Y",
-   "v": "5.326%",
-   "c": "Wed intraday, high 5.350%",
+   "v": "51,231.64",
+   "c": "+51.77 pts Thu (+0.1%)",
    "dir": "up"
   }
  ],
- "tapeLine": "US stocks fell Wednesday: the S&amp;P 500 slipped 0.22% to 7,801.77, the Nasdaq Composite 0.22% to 27,538.69 and the Dow 341.41 points (0.66%) to 51,179.87, retreating from Tuesday's records, per CNBC. The 10-year Treasury yield rose to as high as 5.350% Wednesday, topping Monday's high; it was 5.326% intraday, per CNBC via Yahoo Finance. No Thursday-morning futures or yield levels were found.",
- "matters": "<p>Stocks retreated from records Wednesday as the 10-year yield reached a new multi-year high of 5.350%, per CNBC.</p><p>The September FOMC minutes were scheduled for 2:00 p.m. ET Wednesday. Their contents could not be confirmed from the sources found, so they are not summarised here. The next FOMC meeting is 28 October.</p><p><b>Invalidation:</b> whether the 10-year stays above 5.3%, and whether the indexes hold near Tuesday's record closes.</p>",
+ "tapeLine": "US stocks were mixed Thursday: the S&amp;P 500 fell 0.47% to 7,765.36 and the Nasdaq Composite 1.25% to 27,193.34 while the Dow added 51.77 points to 51,231.64, as an FT report questioning OpenAI's revenue hit AI-linked chip stocks, per CNBC and Motley Fool. Sources disagreed on the 10-year yield's direction and close (CNBC intraday readings of 5.227% and 5.322%; Motley Fool 5.28%), so no yield level is carried. No Friday-morning futures were found.",
+ "matters": "<p>The Nasdaq fell 1.25% Thursday after a Financial Times report cast doubt on OpenAI's revenue, hitting Nvidia, Micron and Intel, per CNBC. The Dow edged higher.</p><p>The 10-year yield reached its highest level since 2002 on Wednesday, per CNBC; Thursday's close could not be confirmed. The September FOMC minutes came out Wednesday; secondary sources describe a 12-0 hike to 3.75%&ndash;4.00%, not confirmed against the Fed's text. The next FOMC meeting is 27&ndash;28 October.</p><p><b>Invalidation:</b> whether chip and AI stocks keep selling off, and whether the 10-year holds near its multi-year high.</p>",
  "calendar": [],
  "alsoOnTape": "Oil and gold are not carried: no dated, consistent levels were found this session.",
  "overnight": [
-  "<b>US Wednesday close</b> &mdash; S&amp;P 500 -0.22% to 7,801.77, Nasdaq -0.22% to 27,538.69, Dow -0.66% to 51,179.87, per CNBC.",
-  "<b>Treasuries</b> &mdash; 10-year hit 5.350% Wednesday, above Monday's high; 5.326% intraday, 30-year 5.706%, per CNBC via Yahoo Finance."
+  "<b>US Thursday close</b> &mdash; S&amp;P 500 -0.47% to 7,765.36, Nasdaq -1.25% to 27,193.34, Dow +0.1% to 51,231.64, per CNBC.",
+  "<b>AI trade</b> &mdash; FT report questioning OpenAI revenue weighed on Nvidia, Micron and Intel, per CNBC."
  ],
  "deals": [],
  "macro": [
-  "<b>Rates</b> &mdash; 10-year yield reached 5.350% Wednesday, a new high for the move, per CNBC.",
-  "<b>Fed</b> &mdash; September minutes were due 2:00 p.m. ET Wednesday; contents not confirmed. FOMC 28 October."
+  "<b>Rates</b> &mdash; 10-year hit its highest level since 2002 Wednesday, per CNBC; Thursday's close is disputed across sources.",
+  "<b>Fed</b> &mdash; September minutes released 7 October; next FOMC 27&ndash;28 October."
  ],
  "flow": [
-  "The S&amp;P 500 and Nasdaq both fell 0.22% Wednesday after Tuesday's record closes, per CNBC.",
+  "The Nasdaq's 1.25% fall was the largest among the majors Thursday, per CNBC.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Stocks pulled back from records Wednesday as the 10-year yield hit 5.350%.",
-  "sizing": "Yields rose to a new high and equities gave ground; Thursday's follow-through is the next evidence."
+  "tag": "Tech led stocks lower Thursday on AI-revenue doubts while yields stayed near multi-year highs.",
+  "sizing": "Equities split by sector and yields stayed elevated; Friday's follow-through is the next evidence."
  },
  "watchlist": [],
- "secondOrder": "Equities slipped on the day the 10-year yield set a new high. That is an observation, not a forecast.",
+ "secondOrder": "Chip stocks fell on a single press report while yields sat near 24-year highs. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "wrong",
-   "text": "Yesterday's brief said equities were absorbing high yields. Wednesday stocks fell from records as the 10-year reached 5.350%, per CNBC."
-  },
-  {
-   "verdict": "right",
-   "text": "Yesterday's test was whether the 10-year holds above 5.3%. It did, trading 5.326% and as high as 5.350% Wednesday, per CNBC via Yahoo Finance."
+   "text": "Wednesday's test was whether indexes hold near Tuesday's record closes. Thursday the S&P 500 fell a further 0.47% to 7,765.36 and the Nasdaq 1.25%, per CNBC."
   },
   {
    "verdict": "open",
-   "text": "Wednesday's FOMC minutes were released but their contents could not be confirmed from sources found; the 28 October FOMC has not occurred."
+   "text": "Wednesday's test of the 10-year holding above 5.3% is unresolved: Thursday readings ranged from 5.227% to 5.322% and sources disagreed."
+  },
+  {
+   "verdict": "open",
+   "text": "The 27-28 October FOMC has not occurred."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "CNBC — S&P 500 retreats from record as elevated yields keep traders on guard",
-   "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html"
+   "label": "Yahoo Finance — Stock market today: S&P 500, Nasdaq fall for second day in a row as AI trade takes a hit",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
   },
   {
-   "label": "Yahoo Finance — Stock market today: Dow falls, S&P 500 and Nasdaq retreat from records amid bond market jitters",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html"
+   "label": "Motley Fool — Stock Market Today, Oct. 8: Tech Stocks Slide as Treasury Yields and Oil Prices Surge",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/10/08/stock-market-today-oct-8-tech-stocks-slide-as-treasury-yields-and-oil-prices-surge/"
   },
   {
-   "label": "CNBC — S&P 500 posts first close above 7,800 (Tuesday records)",
-   "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html"
+   "label": "CNBC — Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback",
+   "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html"
+  },
+  {
+   "label": "Federal Reserve — October 7, 2026 press release (minutes)",
+   "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
   }
  ]
 }
