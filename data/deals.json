@@ -1,6 +1,36 @@
 [
  {
   "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
+  "link": "https://www.prnewswire.com/news-releases/evernorth-completes-business-combination-with-armada-acquisition-corp-ii-302903875.html",
+  "date": "2026-10-09T20:51:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Kentucky American Water Completes Acquisition of Black Mountain Utility District System",
+  "link": "https://www.prnewswire.com/news-releases/kentucky-american-water-completes-acquisition-of-black-mountain-utility-district-system-302903870.html",
+  "date": "2026-10-09T20:42:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$2B",
+  "title": "TKO Hotels Announces Proposed $2 Billion Acquisition of Service Properties Trust's Hotel Portfolio",
+  "link": "https://www.prnewswire.com/news-releases/tko-hotels-announces-proposed-2-billion-acquisition-of-service-properties-trusts-hotel-portfolio-302903819.html",
+  "date": "2026-10-09T19:16:00Z"
+ },
+ {
+  "src": "PR Newswire",
   "type": "Strategic Investment",
   "industry": "—",
   "region": "—",
@@ -148,35 +178,5 @@
   "title": "The IPO Buzz: City Therapeutics (CTY Proposed) Sets Terms for $175 Million IPO",
   "link": "https://www.iposcoop.com/the-ipo-buzz-city-therapeutics-cty-proposed-sets-terms-for-175-million-ipo/",
   "date": "2026-10-09T11:05:39Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell",
-  "link": "https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/",
-  "date": "2026-10-09T11:00:56Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Private equity circles equipment providers amid growing surgical demand: 6 deals",
-  "link": "https://www.pehub.com/private-equity-circles-growing-surgical-demand-6-deals/",
-  "date": "2026-10-09T11:00:40Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Metro Supply Chain Joins NX Group Following Completion of Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/metro-supply-chain-joins-nx-group-following-completion-of-acquisition-302903087.html",
-  "date": "2026-10-09T11:00:00Z"
  }
 ]
