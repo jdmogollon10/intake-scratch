@@ -1,59 +1,58 @@
 {
  "status": "live",
- "session": "Friday, October 9, 2026",
- "builtAt": "2026-10-09T11:30:00Z",
+ "session": "Monday, October 12, 2026",
+ "builtAt": "2026-10-12T11:35:54Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,765.36",
-   "c": "-0.47% Thu",
-   "dir": "down"
+   "v": "7,811.54",
+   "c": "+0.6% Fri",
+   "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "27,193.34",
-   "c": "-1.25% Thu",
-   "dir": "down"
+   "v": "27,366.17",
+   "c": "+0.6% Fri",
+   "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "51,231.64",
-   "c": "+51.77 pts Thu (+0.1%)",
+   "v": "51,654.95",
+   "c": "+423.31 pts Fri (+0.8%)",
    "dir": "up"
   }
  ],
- "tapeLine": "US stocks were mixed Thursday: the S&amp;P 500 fell 0.47% to 7,765.36 and the Nasdaq Composite 1.25% to 27,193.34 while the Dow added 51.77 points to 51,231.64, as an FT report questioning OpenAI's revenue hit AI-linked chip stocks, per CNBC and Motley Fool. Sources disagreed on the 10-year yield's direction and close (CNBC intraday readings of 5.227% and 5.322%; Motley Fool 5.28%), so no yield level is carried. No Friday-morning futures were found.",
- "matters": "<p>The Nasdaq fell 1.25% Thursday after a Financial Times report cast doubt on OpenAI's revenue, hitting Nvidia, Micron and Intel, per CNBC. The Dow edged higher.</p><p>The 10-year yield reached its highest level since 2002 on Wednesday, per CNBC; Thursday's close could not be confirmed. The September FOMC minutes came out Wednesday; secondary sources describe a 12-0 hike to 3.75%&ndash;4.00%, not confirmed against the Fed's text. The next FOMC meeting is 27&ndash;28 October.</p><p><b>Invalidation:</b> whether chip and AI stocks keep selling off, and whether the 10-year holds near its multi-year high.</p>",
+ "tapeLine": "US stocks rose Friday, with the S&amp;P 500 up 0.6% to 7,811.54, just short of its record from three days earlier, the Nasdaq up 0.6% to 27,366.17 and the Dow up 0.8% to 51,654.95, per a La Nacion report of the closing numbers. A second summary (parameter.io) put the Dow at 51,829 and the 10-year yield close at 5.18% against 5.24% elsewhere, so the Dow level is from one source and no yield level is carried. No Monday-morning US futures were found.",
+ "matters": "<p>US indexes recovered Friday, with the S&amp;P 500 closing just short of its record, per La Nacion. A summary on parameter.io puts the weekly gains at S&amp;P 500 +1.2% and Nasdaq +2%; that is a single source.</p><p>The 10-year Treasury yield was reported near its highest in nearly two decades, at 5.24% midday per AP and 5.18% at the close per parameter.io; sources disagree. The cash Treasury market is closed Monday for Columbus Day while equities stay open, per CMC Markets.</p><p>September CPI is due Wednesday and JPMorgan reports Tuesday, per CMC Markets and Investinglive previews. No consensus or prior figures were found, so the calendar is left empty. The next FOMC meeting is 27&ndash;28 October.</p><p><b>Invalidation:</b> whether the S&amp;P 500 takes out its record close, and whether yields keep rising into CPI.</p>",
  "calendar": [],
- "alsoOnTape": "Oil and gold are not carried: no dated, consistent levels were found this session.",
+ "alsoOnTape": "Brent crude was reported near $104 amid uncertainty over the Iran war, per a single summary (parameter.io); no second source, so no level is carried. Gold is not carried.",
  "overnight": [
-  "<b>US Thursday close</b> &mdash; S&amp;P 500 -0.47% to 7,765.36, Nasdaq -1.25% to 27,193.34, Dow +0.1% to 51,231.64, per CNBC.",
-  "<b>AI trade</b> &mdash; FT report questioning OpenAI revenue weighed on Nvidia, Micron and Intel, per CNBC."
+  "<b>US Friday close</b> &mdash; S&amp;P 500 +0.6% to 7,811.54, Nasdaq +0.6% to 27,366.17, Dow +0.8% to 51,654.95, per La Nacion; Dow level differs in another summary."
  ],
  "deals": [],
  "macro": [
-  "<b>Rates</b> &mdash; 10-year hit its highest level since 2002 Wednesday, per CNBC; Thursday's close is disputed across sources.",
-  "<b>Fed</b> &mdash; September minutes released 7 October; next FOMC 27&ndash;28 October."
+  "<b>Rates</b> &mdash; 10-year near its highest in nearly two decades Friday; close reported as 5.18% or 5.24% depending on source.",
+  "<b>Data</b> &mdash; September CPI Wednesday; PPI, retail sales and jobless claims Thursday, per Investinglive.",
+  "<b>Holiday</b> &mdash; cash Treasury market closed Monday; equities open, per CMC Markets."
  ],
  "flow": [
-  "The Nasdaq's 1.25% fall was the largest among the majors Thursday, per CNBC.",
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Tech led stocks lower Thursday on AI-revenue doubts while yields stayed near multi-year highs.",
-  "sizing": "Equities split by sector and yields stayed elevated; Friday's follow-through is the next evidence."
+  "tag": "Stocks bounced Friday to within reach of record highs while yields stayed near multi-year highs.",
+  "sizing": "Equities rebounded but rates remain elevated; CPI Wednesday is the next scheduled evidence."
  },
  "watchlist": [],
- "secondOrder": "Chip stocks fell on a single press report while yields sat near 24-year highs. That is an observation, not a forecast.",
+ "secondOrder": "The S&P 500 sits close to a record while the 10-year sits near a two-decade high. That is an observation, not a forecast.",
  "scorecard": [
   {
-   "verdict": "wrong",
-   "text": "Wednesday's test was whether indexes hold near Tuesday's record closes. Thursday the S&P 500 fell a further 0.47% to 7,765.36 and the Nasdaq 1.25%, per CNBC."
+   "verdict": "right",
+   "text": "Friday's test was whether the 10-year holds near its multi-year high. Both Friday readings (5.18% and 5.24%) stayed near the high, per AP and parameter.io."
   },
   {
    "verdict": "open",
-   "text": "Wednesday's test of the 10-year holding above 5.3% is unresolved: Thursday readings ranged from 5.227% to 5.322% and sources disagreed."
+   "text": "Friday's test of whether chip and AI stocks keep selling off cannot be graded: indexes rose Friday, but no sourced chip-sector move was found."
   },
   {
    "verdict": "open",
@@ -63,20 +62,24 @@
  "midday": null,
  "sources": [
   {
-   "label": "Yahoo Finance — Stock market today: S&P 500, Nasdaq fall for second day in a row as AI trade takes a hit",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+   "label": "La Nacion (AP) — How major US stock indexes fared Friday 10/9/2026",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1092026-nid09102026/"
   },
   {
-   "label": "Motley Fool — Stock Market Today, Oct. 8: Tech Stocks Slide as Treasury Yields and Oil Prices Surge",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/10/08/stock-market-today-oct-8-tech-stocks-slide-as-treasury-yields-and-oil-prices-surge/"
+   "label": "Coeur d'Alene Press (AP) — US stocks rise toward the finish of a record-breaking week",
+   "url": "https://cdapress.com/news/2026/oct/09/us-stocks-rise-toward-the-finish-of-a-record-breaking-week/"
   },
   {
-   "label": "CNBC — Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback",
-   "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html"
+   "label": "parameter.io — Market wrap: major indexes finish higher despite Treasury yield surge",
+   "url": "https://parameter.io/market-wrap-major-indexes-finish-higher-despite-treasury-yield-surge/"
   },
   {
-   "label": "Federal Reserve — October 7, 2026 press release (minutes)",
-   "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+   "label": "CMC Markets — The Week Ahead: US CPI, eurozone CPI, JPMorgan earnings",
+   "url": "https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-us-cpi-eurozone-cpi-jpmorgan-earnings"
+  },
+  {
+   "label": "Investinglive — Week ahead: US inflation and retail sales lead a busy economic calendar",
+   "url": "https://investinglive.com/news/week-ahead-us-inflation-and-retail-sales-lead-a-busy-economic-calendar-be-aware/"
   }
  ]
 }
