@@ -1,5 +1,75 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$1.3B",
+  "title": "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
+  "link": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-12T11:00:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "GTCR and Elliott Near Deal to Acquire CCC Intelligent Solutions",
+  "link": "https://www.privateequitywire.co.uk/gtcr-and-elliott-near-deal-to-acquire-ccc-intelligent-solutions/",
+  "date": "2026-10-12T09:04:31Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "$1.35B",
+  "title": "Consonance Capital raises $1.35bn for oversubscribed third healthcare fund",
+  "link": "https://www.privateequitywire.co.uk/consonance-capital-raises-1-35bn-for-oversubscribed-third-healthcare-fund/",
+  "date": "2026-10-12T09:02:09Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Real Estate",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Constellation Cold Logistics acquires Impruv Logistics AS in Norway",
+  "link": "https://www.prnewswire.com/news-releases/constellation-cold-logistics-acquires-impruv-logistics-as-in-norway-302905493.html",
+  "date": "2026-10-12T09:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Stocks Rise as Oil Eases After Russian Diesel Deal Despite Middle East Tension",
+  "link": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
+  "date": "2026-10-12T08:41:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Divestiture",
+  "industry": "Energy",
+  "region": "—",
+  "value": "$725M",
+  "title": "DCC energy to sell Nexora for $725m ahead of KKR-led buyout",
+  "link": "https://www.privateequitywire.co.uk/dcc-energy-to-sell-nexora-for-725m-ahead-of-kkr-led-buyout/",
+  "date": "2026-10-12T08:27:58Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$7B",
+  "title": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
+  "link": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-11T20:26:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -100,36 +170,6 @@
   "date": "2026-10-09T13:00:00Z"
  },
  {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.05B",
-  "title": "Aphias Capital raises $1.05bn for oversubscribed debut PE fund",
-  "link": "https://www.privateequitywire.co.uk/aphias-capital-raises-1-05bn-for-oversubscribed-debut-pe-fund/",
-  "date": "2026-10-09T12:51:31Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "£5.7B",
-  "title": "Apollo’s £5.7bn easyJet takeover expected to close early next year",
-  "link": "https://www.privateequitywire.co.uk/apollos-5-7bn-easyjet-takeover-expected-to-close-early-next-year/",
-  "date": "2026-10-09T12:49:34Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Carlyle’s Lukoil oversees assets deal expires",
-  "link": "https://www.privateequitywire.co.uk/carlyles-lukoil-oversees-assets-deal-expires/",
-  "date": "2026-10-09T12:47:32Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -138,45 +178,5 @@
   "title": "Express Wash Concepts Expands Metro Detroit Footprint with Acquisition of Three CleanHub Car Wash Locations",
   "link": "https://www.prnewswire.com/news-releases/express-wash-concepts-expands-metro-detroit-footprint-with-acquisition-of-three-cleanhub-car-wash-locations-302903522.html",
   "date": "2026-10-09T12:28:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Precision Products Group Acquires Monadnock Non-Wovens, Expanding Its Engineered Textiles Portfolio with Specialty Filtration and Acoustic Media",
-  "link": "https://www.prnewswire.com/news-releases/precision-products-group-acquires-monadnock-non-wovens-expanding-its-engineered-textiles-portfolio-with-specialty-filtration-and-acoustic-media-302903499.html",
-  "date": "2026-10-09T11:56:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$1B",
-  "title": "Blackstone raises $1bn for private credit continuation fund",
-  "link": "https://www.privateequitywire.co.uk/blackstone-raises-1bn-for-private-credit-continuation-fund/",
-  "date": "2026-10-09T11:34:40Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Kinepolis completes acquisition of Showcase Cinemas, Expands its U.S. footprint with theatres in Massachusetts and New York",
-  "link": "https://www.prnewswire.com/news-releases/kinepolis-completes-acquisition-of-showcase-cinemas-expands-its-us-footprint-with-theatres-in-massachusetts-and-new-york-302903139.html",
-  "date": "2026-10-09T11:27:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$175M",
-  "title": "The IPO Buzz: City Therapeutics (CTY Proposed) Sets Terms for $175 Million IPO",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-city-therapeutics-cty-proposed-sets-terms-for-175-million-ipo/",
-  "date": "2026-10-09T11:05:39Z"
  }
 ]
