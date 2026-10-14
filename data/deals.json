@@ -1,123 +1,63 @@
 [
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "US",
-  "value": "$400M",
-  "title": "3C Merges with Datalec to Create US$400M+ Revenue Liquid Cooling and Data Centre Services Platform",
-  "link": "https://www.prnewswire.com/news-releases/3c-merges-with-datalec-to-create-us400m-revenue-liquid-cooling-and-data-centre-services-platform-302907909.html",
-  "date": "2026-10-14T11:02:00Z"
- },
- {
   "src": "WSJ",
-  "type": "IPO",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Malaysia Pharmacy Chain Braves Volatile Market With Mid-November Listing Plan",
-  "link": "https://www.wsj.com/business/malaysia-pharmacy-chain-braves-volatile-market-with-mid-november-listing-plan-633827c8?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-14T10:43:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
+  "type": "Strategic Investment",
   "industry": "—",
   "region": "—",
-  "value": "$3.5B",
-  "title": "LSEG in talks to acquire Permira-backed Octus for $3.5bn",
-  "link": "https://www.privateequitywire.co.uk/lseg-in-talks-to-acquire-permira-backed-octus-for-3-5bn/",
-  "date": "2026-10-14T09:27:11Z"
+  "value": "Undisclosed",
+  "title": "Berkshire Hathaway Builds 4% Stake in Bending Spoons",
+  "link": "https://www.wsj.com/finance/stocks/berkshire-hathaway-builds-4-stake-in-bending-spoons-a9f97f44?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-14T15:32:00Z"
  },
  {
-  "src": "WSJ",
+  "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Healthcare",
+  "industry": "Consumer",
   "region": "—",
-  "value": "$1.5B",
-  "title": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-  "link": "https://www.wsj.com/business/deals/galderma-to-buy-zo-skin-health-for-1-5-billion-354ba9ff?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-14T07:38:00Z"
+  "value": "Undisclosed",
+  "title": "West Madison Foods Acquires the Bob's Big Boy Salad Dressings &amp; Dips Retail Brand",
+  "link": "https://www.prnewswire.com/news-releases/west-madison-foods-acquires-the-bobs-big-boy-salad-dressings--dips-retail-brand-302908688.html",
+  "date": "2026-10-14T14:15:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "Brazil",
+  "value": "Undisclosed",
+  "title": "Archimed acquires majority stake in Brazilian wastewater treatment specialist Genetica",
+  "link": "https://www.pehub.com/archimed-acquires-majority-stake-in-brazilian-wastewater-treatment-specialist-genetica/",
+  "date": "2026-10-14T14:11:36Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Rockbridge Growth Equity’s FormativGroup acquires AI and technology consultancy Saige Consulting",
+  "link": "https://www.pehub.com/rockbridge-growth-equitys-formativgroup-acquires-ai-and-technology-consultancy-saige-consulting/",
+  "date": "2026-10-14T13:30:39Z"
  },
  {
   "src": "WSJ",
-  "type": "IPO",
-  "industry": "Technology",
+  "type": "Strategic Investment",
+  "industry": "Financials",
   "region": "Asia-Pacific",
   "value": "Undisclosed",
-  "title": "Failure of Australia’s Largest IPO in Decades Sends Tremors Through AI Trade",
-  "link": "https://www.wsj.com/finance/firmus-ipo-ai-trade-f490c240?mod=rss_markets_main",
-  "date": "2026-10-14T01:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "LATAM",
-  "value": "Undisclosed",
-  "title": "Ensorcia Announces Agreement to Acquire Argentina Wildcats",
-  "link": "https://www.prnewswire.com/news-releases/ensorcia-announces-agreement-to-acquire-argentina-wildcats-302907778.html",
-  "date": "2026-10-14T00:38:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower",
-  "link": "https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html",
-  "date": "2026-10-13T20:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Just Women's Sports Acquires Victra Sports, Launches Mobile App And New Sports-Specific Channels",
-  "link": "https://www.prnewswire.com/news-releases/just-womens-sports-acquires-victra-sports-launches-mobile-app-and-new-sports-specific-channels-302907340.html",
-  "date": "2026-10-13T17:50:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Datacor Acquires MySep, a Leader in Process Separator Simulation",
-  "link": "https://www.prnewswire.com/news-releases/datacor-acquires-mysep-a-leader-in-process-separator-simulation-302907036.html",
-  "date": "2026-10-13T17:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Nel ASA: Receives purchase order for multiple containerized PEM solutions from a leading U.S. technology customer",
-  "link": "https://www.prnewswire.com/news-releases/nel-asa-receives-purchase-order-for-multiple-containerized-pem-solutions-from-a-leading-us-technology-customer-302907383.html",
-  "date": "2026-10-13T16:59:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Terminus Capital Partners takes majority stake in agtech software provider PickTrace",
-  "link": "https://www.pehub.com/terminus-capital-partners-takes-majority-stake-in-agtech-software-provider-picktrace/",
-  "date": "2026-10-13T16:36:57Z"
+  "title": "Fairfax Financial Buying Majority Stake in India’s IDBI Bank",
+  "link": "https://www.wsj.com/finance/fairfax-financial-buying-majority-stake-in-indias-idbi-bank-faf0fe0c?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-14T13:30:00Z"
  },
  {
   "src": "PE Hub",
   "type": "M&A",
-  "industry": "Technology",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Wynnchurch’s ORS Nasco strikes deals for Techniweld and Sycamore-backed Essendant brands",
-  "link": "https://www.pehub.com/wynnchurchs-ors-nasco-strikes-deals-for-techniweld-and-sycamore-backed-essendant-brands/",
-  "date": "2026-10-13T16:27:37Z"
+  "title": "Blackford Capital’s Habco acquires century-old Virginia electrical contractor EG Middleton",
+  "link": "https://www.pehub.com/blackford-capitals-habco-acquires-century-old-virginia-electrical-contractor-eg-middleton/",
+  "date": "2026-10-14T13:24:33Z"
  },
  {
   "src": "PR Newswire",
@@ -125,9 +65,9 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "GA Telesis Accelerates Next-Generation Aftermarket Leadership with Acquisition of Three Additional Airbus A320neo Airframes",
-  "link": "https://www.prnewswire.com/news-releases/ga-telesis-accelerates-next-generation-aftermarket-leadership-with-acquisition-of-three-additional-airbus-a320neo-airframes-302907246.html",
-  "date": "2026-10-13T15:04:00Z"
+  "title": "24 Seven Acquires Staffing Firm SRI",
+  "link": "https://www.prnewswire.com/news-releases/24-seven-acquires-staffing-firm-sri-302908113.html",
+  "date": "2026-10-14T13:08:00Z"
  },
  {
   "src": "PR Newswire",
@@ -135,48 +75,108 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "AppWork Acquires Paraspot AI, Expanding into AI Vision-Powered Inspections",
-  "link": "https://www.prnewswire.com/news-releases/appwork-acquires-paraspot-ai-expanding-into-ai-vision-powered-inspections-302907243.html",
-  "date": "2026-10-13T15:01:00Z"
+  "title": "FormativGroup Acquires Saige Consulting, Adding AI and Data Engineering to Its Platform",
+  "link": "https://www.prnewswire.com/news-releases/formativgroup-acquires-saige-consulting-adding-ai-and-data-engineering-to-its-platform-302908016.html",
+  "date": "2026-10-14T13:00:00Z"
  },
  {
   "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Acorns Acquires Frich, Expanding Its Financial Education Community",
+  "link": "https://www.prnewswire.com/news-releases/acorns-acquires-frich-expanding-its-financial-education-community-302908117.html",
+  "date": "2026-10-14T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Simplicity Group Acquires MAIA Wealth, Expanding Wealth Management Capabilities with New Denver Team",
+  "link": "https://www.prnewswire.com/news-releases/simplicity-group-acquires-maia-wealth-expanding-wealth-management-capabilities-with-new-denver-team-302908053.html",
+  "date": "2026-10-14T13:00:00Z"
+ },
+ {
+  "src": "PE Hub",
   "type": "Strategic Investment",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Terminus Capital Partners makes majority growth investment in PickTrace to support and accelerate the company's vision of building the operating system for specialty agriculture",
-  "link": "https://www.prnewswire.com/news-releases/terminus-capital-partners-makes-majority-growth-investment-in-picktrace-to-support-and-accelerate-the-companys-vision-of-building-the-operating-system-for-specialty-agriculture-302906737.html",
-  "date": "2026-10-13T15:00:00Z"
+  "title": "BBH Capital Partners takes minority stake in loan servicer Goal Solutions",
+  "link": "https://www.pehub.com/bbh-capital-partners-takes-minority-stake-in-loan-servicer-goal-solutions/",
+  "date": "2026-10-14T12:50:37Z"
  },
  {
   "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Marshall Goldman Expands into Florida with Acquisition of Marino Performance Motors",
+  "link": "https://www.prnewswire.com/news-releases/marshall-goldman-expands-into-florida-with-acquisition-of-marino-performance-motors-302908005.html",
+  "date": "2026-10-14T12:50:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Blackford Capital Acquires E.G. Middleton, Inc., Expanding Its MEP Services Platform into Virginia",
+  "link": "https://www.prnewswire.com/news-releases/blackford-capital-acquires-eg-middleton-inc-expanding-its-mep-services-platform-into-virginia-302907996.html",
+  "date": "2026-10-14T12:46:00Z"
+ },
+ {
+  "src": "PE Hub",
   "type": "Strategic Investment",
-  "industry": "Healthcare",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "HealthpointCapital Makes Significant Investment in Ospitek, a Leading Provider of Surgical Operations and Patient Flow Intelligence Software",
-  "link": "https://www.prnewswire.com/news-releases/healthpointcapital-makes-significant-investment-in-ospitek-a-leading-provider-of-surgical-operations-and-patient-flow-intelligence-software-302907132.html",
-  "date": "2026-10-13T14:06:00Z"
+  "title": "Ara Partners takes majority stake in crop residue harvester Pacific Ag",
+  "link": "https://www.pehub.com/ara-partners-takes-majority-stake-in-crop-residue-harvester-pacific-ag/",
+  "date": "2026-10-14T12:44:33Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Financing",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$5M",
+  "title": "Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
+  "link": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/",
+  "date": "2026-10-14T12:00:38Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Real Estate",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Helium Ventures Announces Jitsu Acquisition and Product Expansion",
-  "link": "https://www.prnewswire.com/news-releases/helium-ventures-announces-jitsu-acquisition-and-product-expansion-302906656.html",
-  "date": "2026-10-13T13:47:00Z"
+  "title": "Ara Infrastructure Acquires Majority Interest in Pacific Ag, North America's Largest Crop Residue Supply and Logistics Company",
+  "link": "https://www.prnewswire.com/news-releases/ara-infrastructure-acquires-majority-interest-in-pacific-ag-north-americas-largest-crop-residue-supply-and-logistics-company-302907830.html",
+  "date": "2026-10-14T12:00:00Z"
  },
  {
-  "src": "ACG",
+  "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "100 Notable Acquisitions by ACG Members in Q3 2026",
-  "link": "https://middlemarketgrowth.org/100-notable-acquisitions-acg-members-q3-2026/",
-  "date": "2026-10-13T13:00:15Z"
+  "title": "Zocdoc Acquires Sohar Health to Make Insurance Easier to Navigate for Patients and Providers",
+  "link": "https://www.prnewswire.com/news-releases/zocdoc-acquires-sohar-health-to-make-insurance-easier-to-navigate-for-patients-and-providers-302907770.html",
+  "date": "2026-10-14T12:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Flex Completes Acquisition of EPC Power, Expanding Power Conversion Capabilities for AI Data Centers and Grid Applications",
+  "link": "https://www.prnewswire.com/news-releases/flex-completes-acquisition-of-epc-power-expanding-power-conversion-capabilities-for-ai-data-centers-and-grid-applications-302907691.html",
+  "date": "2026-10-14T12:00:00Z"
  }
 ]
