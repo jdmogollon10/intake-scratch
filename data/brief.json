@@ -1,61 +1,65 @@
 {
  "status": "live",
- "session": "Wednesday, October 14, 2026",
- "builtAt": "2026-10-14T11:30:00Z",
+ "session": "Thursday, October 15, 2026",
+ "builtAt": "2026-10-15T11:35:28Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,807.24",
-   "c": "-0.1% Mon",
+   "v": "7,718.94",
+   "c": "-1.1% Wed",
    "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "27,245.90",
-   "c": "-0.4% Mon",
+   "v": "26,692.87",
+   "c": "-1.9% Wed",
    "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "51,850.55",
-   "c": "+195.60 pts Mon (+0.4%)",
-   "dir": "up"
+   "v": "51,621.48",
+   "c": "-48.62 pts Wed (-0.1%)",
+   "dir": "down"
   }
  ],
- "tapeLine": "Latest sourced close is Monday 12 October, a holiday-thinned session with the bond market shut for Columbus Day: S&amp;P 500 -0.1% to 7,807.24, Nasdaq -0.4% to 27,245.90, Dow +0.4% to 51,850.55, per La Nacion (AP) and Meta Trading Club. No Tuesday close or Wednesday futures were found.",
- "matters": "<p>Monday's close was mixed: the Dow gained while the S&amp;P 500 and Nasdaq slipped, with semiconductors the weak spot (roughly -2.7%) and energy the leader, per Meta Trading Club (12 Oct). The S&amp;P 500 finished below Friday's 7,811.54.</p><p>Tuesday's session, including the JPMorgan and Goldman Sachs reports, could not be sourced: the only item labelled 13 October carried Monday's numbers, so no Tuesday level or earnings result is carried. September CPI is scheduled for Wednesday and PPI Thursday, per Investinglive and CMC Markets; no sourced consensus was found.</p><p><b>Invalidation:</b> whether the S&amp;P 500 closes above Friday's 7,811.54, and what CPI does to yields once the bond market is open again.</p>",
+ "tapeLine": "Latest sourced close is Wednesday 14 October, after a hotter-than-expected September CPI: S&amp;P 500 -1.1% to 7,718.94 (worst day since July), Nasdaq -1.9% to 26,692.87, Dow -0.1% to 51,621.48, per AP via Yahoo Finance and BBN Times. No Thursday futures were found.",
+ "matters": "<p>Wednesday's September CPI rose 0.6% on the month and 3.7% on the year against 3.6% expected and 3.4% in August; core rose 0.3% on the month and 2.6% on the year, per the BLS release as reported by CNBC (14 Oct). Gasoline rose 9.1% on the month and made up over half of the headline increase.</p><p>Stocks fell on it, led by AI and chip names: the S&amp;P 500 closed at 7,718.94, down 86.51 points from Tuesday's 7,805.45, its fifth loss in six sessions since the record, per AP (14 Oct). Several outlets framed the print as reviving Federal Reserve rate-hike bets; no sourced odds were found.</p><p><b>Invalidation:</b> whether Thursday's PPI and retail sales confirm the energy-led price pressure, and whether the S&amp;P 500 recovers Friday's 7,811.54 record close.</p>",
  "calendar": [],
- "alsoOnTape": "WTI crude rose about 1.9% toward $93 on Monday on Middle East supply worries, per Meta Trading Club (12 Oct); single source. Gold is not carried.",
+ "alsoOnTape": "Oil, gold and Treasury yield levels for Wednesday were not found with a dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Monday 12 October: S&amp;P 500 -0.1% to 7,807.24, Nasdaq -0.4% to 27,245.90, Dow +0.4% to 51,850.55, Russell 2000 -0.4% to 2,794.48, per La Nacion (AP). Tuesday not confirmed."
+  "<b>Latest confirmed close</b> &mdash; Wednesday 14 October: S&amp;P 500 -1.1% to 7,718.94, Nasdaq -1.9% to 26,692.87, Dow -0.1% to 51,621.48, per AP via Yahoo Finance. Thursday futures not found."
  ],
  "deals": [],
  "macro": [
-  "<b>Data</b> &mdash; September CPI Wednesday; PPI, retail sales and jobless claims Thursday, per Investinglive.",
-  "<b>Earnings</b> &mdash; JPMorgan and Goldman Sachs were due before the open Tuesday, per CryptoDaily; no results were found."
+  "<b>Data</b> &mdash; September CPI (14 Oct): +0.6% m/m, 3.7% y/y vs 3.6% expected; core 2.6% y/y vs 2.5% expected, per CNBC and BLS. PPI, retail sales and jobless claims are due Thursday, per Investinglive.",
+  "<b>Earnings</b> &mdash; Tuesday: Goldman Sachs reported diluted EPS $17.01 vs $13.65 consensus and revenue $18.68bn vs $17.03bn, per 247WallSt (13 Oct). JPMorgan shares were little changed; its figures were not found. Wells Fargo fell about 3%. Bank of America's weak results were cited as a Wednesday drag, per Yahoo Finance."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Last confirmed close (Monday) was within 0.1% of Friday's level; Tuesday is unconfirmed.",
-  "sizing": "CPI Wednesday and PPI Thursday are the next scheduled evidence."
+  "tag": "Indexes broke lower Wednesday: S&P 500 -1.1% after five sessions within about 0.1% of the record.",
+  "sizing": "PPI and retail sales Thursday, then the 27-28 October FOMC, are the next scheduled evidence."
  },
  "watchlist": [],
- "secondOrder": "Monday's thin, mixed session moved indexes little while semiconductors fell sharply. That is an observation, not a forecast.",
+ "secondOrder": "An energy-driven inflation surprise hit the AI and chip-heavy Nasdaq hardest, while the Dow barely moved. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "wrong",
-   "text": "Yesterday's open test, whether the S&amp;P 500 would take out its record close, resolved no: Monday's close of 7,807.24 was below Friday's 7,811.54, per La Nacion (AP). The brief could not name a Monday level; it can now."
+   "text": "The prior regime read, that indexes held within 0.1% of record levels, broke on Wednesday: the S&amp;P 500 fell 1.1% to 7,718.94 after CPI, per AP. It held through Tuesday (7,805.45) only."
   },
   {
    "verdict": "right",
-   "text": "The regime read of indexes near record highs held at the last confirmed close: S&amp;P 500 within 0.1% of Friday on Monday, per La Nacion (AP)."
+   "text": "The prior invalidation level held: the S&amp;P 500 did not close above Friday's 7,811.54 on Tuesday (7,805.45) or Wednesday, per AP."
+  },
+  {
+   "verdict": "right",
+   "text": "CPI was flagged as the next scheduled evidence and it moved the market: 3.7% y/y vs 3.6% expected, per CNBC."
   },
   {
    "verdict": "open",
-   "text": "Whether yields keep rising into CPI cannot be graded: the bond market was closed Monday and no sourced Tuesday yield was found."
+   "text": "Whether yields kept rising into CPI cannot be graded: no sourced Tuesday or Wednesday yield level was found."
   },
   {
    "verdict": "open",
@@ -65,28 +69,32 @@
  "midday": null,
  "sources": [
   {
-   "label": "La Nacion (AP) — How major US stock indexes fared Monday 10/12/2026",
-   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-10122026-nid12102026/"
+   "label": "AP via Yahoo Finance — How major US stock indexes fared Wednesday 10/14/2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201908701.html"
   },
   {
-   "label": "Meta Trading Club — Stock Market Today: Tech Slips, Energy Leads (Oct 12)",
-   "url": "https://www.metatradingclub.com/2026/10/12/"
+   "label": "BBN Times — S&P 500 Drops to 7,718.94 as Hot September CPI and Chip Selloff Hit Wall Street",
+   "url": "https://www.bbntimes.com/financial/s-p-500-drops-to-7-718-94-as-hot-september-cpi-and-chip-selloff-hit-wall-street"
+  },
+  {
+   "label": "CNBC — Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+   "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+  },
+  {
+   "label": "La Nacion (AP) — How major US stock indexes fared Tuesday 10/13/2026",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-10132026-nid13102026/"
+  },
+  {
+   "label": "247WallSt — Goldman Sachs Rises on Equities-Led Earnings Beat (13 Oct)",
+   "url": "https://247wallst.com/investing/2026/10/13/goldman-sachs-rises-on-equities-led-earnings-beat-jpmorgan-chase-treads-water-wells-fargo-declines-3/"
   },
   {
    "label": "La Nacion (AP) — How major US stock indexes fared Friday 10/9/2026",
    "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1092026-nid09102026/"
   },
   {
-   "label": "CMC Markets — The Week Ahead: US CPI, eurozone CPI, JPMorgan earnings",
-   "url": "https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-us-cpi-eurozone-cpi-jpmorgan-earnings"
-  },
-  {
    "label": "Investinglive — Week ahead: US inflation and retail sales lead a busy economic calendar",
    "url": "https://investinglive.com/news/week-ahead-us-inflation-and-retail-sales-lead-a-busy-economic-calendar-be-aware/"
-  },
-  {
-   "label": "CryptoDaily — JPMorgan, Goldman and CPI: Wall Street's High-Stakes Week",
-   "url": "https://cryptodaily.co.uk/2026/10/jpmorgan-goldman-cpi-sp-500-october-2026"
   }
  ]
 }
