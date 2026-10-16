@@ -1,5 +1,85 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "France and Germany Reach Deal to Protect Europe’s Car Industry",
+  "link": "https://www.wsj.com/business/autos/france-and-germany-reach-deal-to-protect-europes-car-industry-f829c51d?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-16T14:34:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Frazier Healthcare’s LUX Infusion enters Colorado with Suite Health acquisition",
+  "link": "https://www.pehub.com/frazier-healthcares-lux-infusion-enters-colorado-with-suite-health-acquisition/",
+  "date": "2026-10-16T14:31:57Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy",
+  "link": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
+  "date": "2026-10-16T14:14:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "BorboletaPro Acquires Dulce Lash Artistry and Becomes Preferred Lash and Brow Education Partner of Paul Mitchell Advanced Education",
+  "link": "https://www.prnewswire.com/news-releases/borboletapro-acquires-dulce-lash-artistry-and-becomes-preferred-lash-and-brow-education-partner-of-paul-mitchell-advanced-education-302910769.html",
+  "date": "2026-10-16T14:04:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "EP Technology Group Acquires JBI Technologies Inc., Creating New Opportunities for Growth in Hospitality Technology Services",
+  "link": "https://www.prnewswire.com/news-releases/ep-technology-group-acquires-jbi-technologies-inc-creating-new-opportunities-for-growth-in-hospitality-technology-services-302911232.html",
+  "date": "2026-10-16T13:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Bluegem to acquire Italian frozen foods group Rispo from Europe Capital Partners",
+  "link": "https://www.pehub.com/bluegem-to-acquire-italian-frozen-foods-group-rispo-from-europe-capital-partners/",
+  "date": "2026-10-16T12:18:58Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Greybull Stewardship acquires El Paso textile recycler Mid-West Textile",
+  "link": "https://www.pehub.com/greybull-stewardship-acquires-el-paso-textile-recycler-mid-west-textile/",
+  "date": "2026-10-16T12:05:06Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "BERETTA HOLDING S.A. ANNOUNCES PRELIMINARY RESULTS OF CASH TENDER OFFER FOR SHARES OF STURM, RUGER &amp; COMPANY, INC.",
+  "link": "https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html",
+  "date": "2026-10-16T12:00:00Z"
+ },
+ {
   "src": "PE Hub",
   "type": "Take-Private",
   "industry": "—",
@@ -98,85 +178,5 @@
   "title": "NIPPON EXPRESS HOLDINGS Acquires All Shares of Metro Supply Chain Group",
   "link": "https://www.prnewswire.com/news-releases/nippon-express-holdings-acquires-all-shares-of-metro-supply-chain-group-302910816.html",
   "date": "2026-10-16T06:00:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: City Therapeutics (CTY) Upsizes IPO & Prices it at $18 – Mid-Point",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-city-therapeutics-cty-upsizes-ipo-prices-it-at-18-mid-point/",
-  "date": "2026-10-16T03:54:45Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "WaveDivision Capital, Stephens Capital Partners, and The Pritzker Organization Partner with Management to Acquire EarthLink",
-  "link": "https://www.prnewswire.com/news-releases/wavedivision-capital-stephens-capital-partners-and-the-pritzker-organization-partner-with-management-to-acquire-earthlink-302910600.html",
-  "date": "2026-10-15T20:24:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "26North strikes deal for Olympus Partners’ MEI Industrial Solutions",
-  "link": "https://www.pehub.com/26north-strikes-deal-for-olympus-partners-mei-industrial-solutions/",
-  "date": "2026-10-15T17:44:49Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Robots &amp; Pencils Acquires Tiger Pistol to Scale Reusable Agentic Patterns into Products",
-  "link": "https://www.prnewswire.com/news-releases/robots--pencils-acquires-tiger-pistol-to-scale-reusable-agentic-patterns-into-products-302910257.html",
-  "date": "2026-10-15T15:11:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Codex Capital backs merger of AnyCard, Lifestyle and Savvy to form Norell",
-  "link": "https://www.pehub.com/codex-capital-backs-merger-of-anycard-lifestyle-and-savvy-to-form-norell/",
-  "date": "2026-10-15T15:03:38Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "LUX Infusion Expands into Colorado Through Acquisition of Suite Health",
-  "link": "https://www.prnewswire.com/news-releases/lux-infusion-expands-into-colorado-through-acquisition-of-suite-health-302910226.html",
-  "date": "2026-10-15T14:47:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Noor Companies Acquires FlatRate, Announces Plans for National Franchise Expansion",
-  "link": "https://www.prnewswire.com/news-releases/noor-companies-acquires-flatrate-announces-plans-for-national-franchise-expansion-302910183.html",
-  "date": "2026-10-15T13:49:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Take-Private",
-  "industry": "—",
-  "region": "—",
-  "value": "$6.1B",
-  "title": "GTCR and Elliott strike $6.1bn take-private deal for CCC Intelligent Solutions",
-  "link": "https://www.pehub.com/gtcr-and-elliott-strike-6-1bn-take-private-deal-for-ccc-intelligent-solutions/",
-  "date": "2026-10-15T13:31:04Z"
  }
 ]
