@@ -3,6 +3,66 @@
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Air-Traffic Controllers’ Practice of Leaving Work Early Targeted in Pay Deal",
+  "link": "https://www.wsj.com/us-news/air-traffic-controllers-reach-deal-with-faa-for-2-8-pay-increase-5eb91365?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-16T22:06:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Arity to Acquire INRIX, Advancing a Connected Vision for the Future of Transportation",
+  "link": "https://www.prnewswire.com/news-releases/arity-to-acquire-inrix-advancing-a-connected-vision-for-the-future-of-transportation-302911491.html",
+  "date": "2026-10-16T17:14:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vista Equity Partners strikes deal to carve out HID’s PKI business",
+  "link": "https://www.pehub.com/vista-equity-partners-strikes-deal-to-carve-out-hids-pki-business/",
+  "date": "2026-10-16T16:36:33Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
+  "link": "https://www.prnewswire.com/news-releases/parkview-health-announces-agreement-to-acquire-ovation-healthcare-to-strengthen-community-healthcare-nationwide-advance-local-affordability-302911410.html",
+  "date": "2026-10-16T15:48:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: TCGX Acquisition II (TCXB) Gains 12 Percent in its NASDAQ Debut",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-tcgx-acquisition-ii-tcxb-gains-12-percent-in-its-nasdaq-debut/",
+  "date": "2026-10-16T15:34:04Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Gryphon’s Vivify Specialty Ingredients acquires botanical extracts supplier AuNutra Industries",
+  "link": "https://www.pehub.com/gryphons-vivify-specialty-ingredients-acquires-botanical-extracts-supplier-aunutra-industries/",
+  "date": "2026-10-16T15:11:21Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
   "region": "Europe",
   "value": "Undisclosed",
   "title": "France and Germany Reach Deal to Protect Europe’s Car Industry",
@@ -18,16 +78,6 @@
   "title": "Frazier Healthcare’s LUX Infusion enters Colorado with Suite Health acquisition",
   "link": "https://www.pehub.com/frazier-healthcares-lux-infusion-enters-colorado-with-suite-health-acquisition/",
   "date": "2026-10-16T14:31:57Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy",
-  "link": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
-  "date": "2026-10-16T14:14:00Z"
  },
  {
   "src": "PR Newswire",
@@ -70,16 +120,6 @@
   "date": "2026-10-16T12:05:06Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BERETTA HOLDING S.A. ANNOUNCES PRELIMINARY RESULTS OF CASH TENDER OFFER FOR SHARES OF STURM, RUGER &amp; COMPANY, INC.",
-  "link": "https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html",
-  "date": "2026-10-16T12:00:00Z"
- },
- {
   "src": "PE Hub",
   "type": "Take-Private",
   "industry": "—",
@@ -98,26 +138,6 @@
   "title": "PE eyes cardiometabolic care amid GLP-1 boom, outpatient shifts: 6 deals",
   "link": "https://www.pehub.com/pe-eyes-cardiometabolic-care-amid-glp-1-boom-outpatient-shifts-6-deals/",
   "date": "2026-10-16T11:00:50Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CSL Group Acquires SIMPL Wireless to Bring Critical Connectivity® to North America",
-  "link": "https://www.prnewswire.com/news-releases/csl-group-acquires-simpl-wireless-to-bring-critical-connectivity-to-north-america-302910610.html",
-  "date": "2026-10-16T11:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Exclusive: Vista agrees to acquire HID’s PKI business unit",
-  "link": "https://www.pehub.com/exclusive-vista-agrees-to-acquire-hids-pki-business-unit/",
-  "date": "2026-10-16T10:00:57Z"
  },
  {
   "src": "PE Wire",
@@ -150,33 +170,13 @@
   "date": "2026-10-16T09:24:56Z"
  },
  {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
+  "src": "IPOScoop",
+  "type": "IPO",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Apax agrees to take Warburg’s stake in telco biz Odido; Codex bets on growing gift card market with Norell",
-  "link": "https://www.pehub.com/apax-agrees-to-take-warburgs-stake-in-telco-biz-odido-codex-bets-on-growing-gift-card-market-with-norell/",
-  "date": "2026-10-16T08:26:31Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Apax to acquire co-investor Warburg Pincus’s stake in Dutch telco Odido",
-  "link": "https://www.pehub.com/apax-to-acquire-co-investor-warburg-pincuss-stake-in-dutch-telco-odido/",
-  "date": "2026-10-16T07:09:44Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "NIPPON EXPRESS HOLDINGS Acquires All Shares of Metro Supply Chain Group",
-  "link": "https://www.prnewswire.com/news-releases/nippon-express-holdings-acquires-all-shares-of-metro-supply-chain-group-302910816.html",
-  "date": "2026-10-16T06:00:00Z"
+  "title": "The IPO Buzz: City Therapeutics Upsizes IPO & Prices it at $18 Mid-Point – & Stock Pops",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-city-therapeutics-cty-upsizes-ipo-prices-it-at-18-mid-point/",
+  "date": "2026-10-16T03:54:45Z"
  }
 ]
