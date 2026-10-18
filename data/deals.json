@@ -1,13 +1,23 @@
 [
  {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+  "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+  "date": "2026-10-18T13:00:00Z"
+ },
+ {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Air-Traffic Controllers’ Practice of Leaving Work Early Targeted in Pay Deal",
-  "link": "https://www.wsj.com/us-news/air-traffic-controllers-reach-deal-with-faa-for-2-8-pay-increase-5eb91365?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-16T22:06:00Z"
+  "title": "SoftBank in Early Talks to Buy Allied Universal",
+  "link": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-17T18:14:00Z"
  },
  {
   "src": "PR Newswire",
@@ -168,15 +178,5 @@
   "title": "Thoma Bravo-backed Proofpoint to acquire Varonis in $6.3bn deal",
   "link": "https://www.privateequitywire.co.uk/thoma-bravo-backed-proofpoint-to-acquire-varonis-in-6-3bn-deal/",
   "date": "2026-10-16T09:24:56Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: City Therapeutics Upsizes IPO & Prices it at $18 Mid-Point – & Stock Pops",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-city-therapeutics-cty-upsizes-ipo-prices-it-at-18-mid-point/",
-  "date": "2026-10-16T03:54:45Z"
  }
 ]
