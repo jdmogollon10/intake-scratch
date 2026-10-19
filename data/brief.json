@@ -1,64 +1,60 @@
 {
  "status": "live",
- "session": "Friday, October 16, 2026",
- "builtAt": "2026-10-16T11:30:00Z",
+ "session": "Monday, October 19, 2026",
+ "builtAt": "2026-10-19T11:35:05Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,744.81",
-   "c": "+0.3% Thu",
-   "dir": "up"
+   "v": "7,659.44",
+   "c": "-1.1% Fri",
+   "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,713.03",
-   "c": "+0.1% Thu",
-   "dir": "up"
+   "v": "26,140.03",
+   "c": "-2.1% Fri",
+   "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "52,177.69",
-   "c": "+556.21 pts Thu (+1.08%)",
-   "dir": "up"
+   "v": "52,002.41",
+   "c": "-175.28 pts Fri (-0.3%)",
+   "dir": "down"
   }
  ],
- "tapeLine": "Latest sourced close is Thursday 15 October, after a hot September PPI: Dow +1.08% to 52,177.69, S&amp;P 500 +0.3% to 7,744.81 (one outlet gives 7,744.06), Nasdaq +0.1% to 26,713.03, per Investing.com and Seeking Alpha. No Friday futures were found.",
- "matters": "<p>Thursday's September PPI rose 1.3% on the month, the largest monthly rise in about four and a half years, against forecasts of roughly 0.3-0.6% that varied by outlet; core PPI rose 0.7% on the month, per Seeking Alpha (15 Oct). Retail sales were due the same morning; no result was found.</p><p>Stocks recovered from early losses as Treasury yields fell: Fed rate-hike expectations rose after the data, then the rise was erased as bonds rallied, per Investing.com (15 Oct). Eight of 11 S&amp;P sectors rose, led by healthcare; energy lagged. The Nasdaq 100 had been more than 5% below its record at the lows, per the same report.</p><p><b>Invalidation:</b> whether the S&amp;P 500 reclaims Friday 9 October's 7,811.54 record close, and whether yields keep falling after a PPI print this far above forecast.</p>",
+ "tapeLine": "Latest sourced close is Friday 16 October, led lower by AI and chip stocks: S&amp;P 500 -1.1% to 7,659.44, Nasdaq -2.1% to 26,140.03, Dow -0.3% to 52,002.41, per AP (16 Oct). Both the S&amp;P 500 and Nasdaq had their worst week since June. No Monday futures were found.",
+ "matters": "<p>Friday’s selloff was concentrated in chips and AI-linked names: Micron fell 5.6% and Intel 5.8%, amid doubts about how long the AI infrastructure boom lasts, per AP (16 Oct). The Russell 2000 fell 1.7% to 2,721.37. Rising oil prices also drew attention to the inflation outlook, per a CNBC live report. Energy stocks rose and partly offset the Dow’s losses.</p><p>Weekly moves: S&amp;P 500 -1.9%, Nasdaq -4.5%, Russell 2000 -3%, Dow +0.7%, per AP (16 Oct). The VIX closed at 19.99, its highest since 29 July, per the same coverage.</p><p><b>Invalidation:</b> whether the S&amp;P 500 holds below Thursday’s 7,744.81 close, now about 1.1% above Friday’s close, and whether chip weakness spreads beyond the sector.</p>",
  "calendar": [],
- "alsoOnTape": "Oil, gold and Treasury yield levels were not found with a dated source and are not carried.",
+ "alsoOnTape": "Oil, gold and Treasury yield levels were not found with a dated source and are not carried. VIX closed at 19.99 on Friday, per AP (16 Oct).",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Thursday 15 October: Dow +1.08% to 52,177.69, S&amp;P 500 +0.3% to 7,744.81, Nasdaq +0.1% to 26,713.03, per Investing.com. Friday futures not found."
+  "<b>Latest confirmed close</b> &mdash; Friday 16 October: S&amp;P 500 7,659.44 (-1.1%), Nasdaq 26,140.03 (-2.1%), Dow 52,002.41 (-0.3%), per AP. Monday futures not found."
  ],
  "deals": [],
  "macro": [
-  "<b>Data</b> &mdash; September PPI (15 Oct): +1.3% m/m vs ~0.3-0.6% forecast depending on outlet; core +0.7% m/m, per Seeking Alpha. September retail sales and jobless claims results were not found. CPI on Wednesday was +0.6% m/m, 3.7% y/y, per CNBC (14 Oct)."
+  "<b>Data</b> &mdash; No new U.S. data release for Monday was confirmed. Last sourced: September CPI +0.6% m/m, 3.7% y/y, per CNBC (14 Oct); September PPI +1.3% m/m, per Seeking Alpha (15 Oct). The 27-28 October FOMC is the next scheduled Fed event."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Indexes rebounded Thursday despite a much hotter PPI, as yields fell; the S&P 500 remains about 0.9% below its 7,811.54 record close.",
-  "sizing": "The 27-28 October FOMC is the next scheduled evidence; no Friday data release was confirmed."
+  "tag": "Risk-off into the week: the S&P 500 is about 2.0% below its 7,811.54 record close of 9 October, after its worst week since June.",
+  "sizing": "No scheduled catalyst was confirmed for Monday; the 27-28 October FOMC is the next scheduled evidence."
  },
  "watchlist": [],
- "secondOrder": "Two energy-led inflation prints in two days produced opposite equity reactions: Wednesday's CPI sold off, Thursday's larger PPI surprise was bought once bonds rallied. That is an observation, not a forecast.",
+ "secondOrder": "Thursday’s rebound on a hot PPI was followed by Friday’s tech-led drop with oil higher: the inflation backdrop did not decide direction either day; sector-specific AI worries did on Friday. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "wrong",
-   "text": "The prior read that PPI and retail sales were the next evidence on energy-led price pressure: PPI confirmed it (+1.3% m/m), but the implied pressure on equities did not follow, with all three indexes closing higher, per Investing.com."
+   "text": "The prior invalidation framing, whether the S&amp;P 500 would reclaim 7,811.54 or keep falling yields, treated yields as the swing factor; Friday’s drop came from AI and chip stocks instead, with the S&amp;P 500 -1.1% to 7,659.44, per AP."
   },
   {
    "verdict": "right",
-   "text": "The prior invalidation level held: the S&amp;P 500 did not recover 7,811.54; it closed Thursday at 7,744.81, per Investing.com."
-  },
-  {
-   "verdict": "right",
-   "text": "The prior note that rate-hike bets were reviving was borne out only briefly: they rose after PPI and were erased the same session as bonds rallied, per Investing.com."
+   "text": "The prior level held again: the S&amp;P 500 did not reclaim 7,811.54 and closed Friday at 7,659.44, per AP."
   },
   {
    "verdict": "open",
-   "text": "Whether yields rose into CPI cannot be graded: no sourced yield levels were found."
+   "text": "Whether yields kept falling after the PPI print cannot be graded: no sourced yield levels were found."
   },
   {
    "verdict": "open",
@@ -68,24 +64,24 @@
  "midday": null,
  "sources": [
   {
-   "label": "Investing.com — Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI",
-   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317"
+   "label": "ABC News/AP — How major US stock indexes fared Friday 10/16/2026",
+   "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
   },
   {
-   "label": "Investing.com — U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.08%",
-   "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637"
+   "label": "Yahoo Finance — Markets News, Oct. 16, 2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html"
   },
   {
-   "label": "Seeking Alpha — U.S. equities finished in the green after the latest PPI inflation report landed",
-   "url": "https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed"
+   "label": "CNBC — Nasdaq slides 2% to post worst week since June",
+   "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"
   },
   {
-   "label": "CNBC — Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+   "label": "CNBC — Consumer prices rose 3.7% annually in September",
    "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
   },
   {
-   "label": "AP via Yahoo Finance — How major US stock indexes fared Wednesday 10/14/2026",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201908701.html"
+   "label": "Seeking Alpha — U.S. equities finished in the green after the latest PPI report",
+   "url": "https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed"
   }
  ]
 }
