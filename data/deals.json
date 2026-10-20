@@ -1,5 +1,165 @@
 [
  {
+  "src": "Crunchbase",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer",
+  "link": "https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/",
+  "date": "2026-10-20T11:00:16Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$250M",
+  "title": "The IPO Buzz: Lycia Therapeutics (LYCA Proposed) Sets Terms for $250 Million IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-lycia-therapeutics-lyca-proposed-sets-terms-for-250-million-ipo/",
+  "date": "2026-10-20T10:57:05Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
+  "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
+  "date": "2026-10-20T09:30:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "UK",
+  "value": "Undisclosed",
+  "title": "UK pension investment in private markets held back by lack of opportunities, says PMI",
+  "link": "https://www.privateequitywire.co.uk/uk-pension-investment-in-private-markets-held-back-by-lack-of-opportunities-says-pmi/",
+  "date": "2026-10-20T09:14:45Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "RMB Ventures exits Afrikelp as Stirling Square-backed SAS Group takes majority stake",
+  "link": "https://www.privateequitywire.co.uk/rmb-ventures-exits-afrikelp-as-stirling-square-backed-sas-group-takes-majority-stake/",
+  "date": "2026-10-20T09:11:19Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Forward Consumer Partners acquires Welly brand from Unilever",
+  "link": "https://www.privateequitywire.co.uk/forward-consumer-partners-acquires-welly-brand-from-unilever/",
+  "date": "2026-10-20T09:10:03Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "US",
+  "value": "$700M",
+  "title": "Charlesbank invests in US law firm’s back-office operations in $700m deal",
+  "link": "https://www.privateequitywire.co.uk/charlesbank-invests-in-us-law-firms-back-office-operations-in-700m-deal/",
+  "date": "2026-10-20T09:04:10Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Astorg’s Oxoid Remel to carve out microbiology diagnostic division of fellow portco Solabia; Platinum to buy lighting tower company Trime",
+  "link": "https://www.pehub.com/astorgs-oxoid-remel-to-carve-out-microbiology-diagnostic-division-of-fellow-portco-solabia-platinum-to-buy-lighting-tower-company-trime/",
+  "date": "2026-10-20T07:59:07Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Ambienta’s Wateralia acquires Italian valve maker CSA from owner Luca Bonatti",
+  "link": "https://www.pehub.com/ambientas-wateralia-acquires-italian-valve-maker-csa-from-owner-luca-bonatti/",
+  "date": "2026-10-20T07:47:54Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Rockpool Investments backs buyout of Industrial Door Systems for buy-and-build",
+  "link": "https://www.pehub.com/rockpool-investments-backs-buyout-of-industrial-door-systems-for-buy-and-build/",
+  "date": "2026-10-20T07:42:19Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Take-Private",
+  "industry": "—",
+  "region": "UK",
+  "value": "Undisclosed",
+  "title": "Arlington Capital Partners completes take-private of UK photonics firm Gooch & Housego",
+  "link": "https://www.pehub.com/arlington-capital-partners-completes-take-private-of-uk-photonics-firm-gooch-housego/",
+  "date": "2026-10-20T07:34:35Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Platinum Equity to acquire majority stake in Italian equipment maker Trime",
+  "link": "https://www.pehub.com/platinum-equity-to-acquire-majority-stake-in-italian-equipment-maker-trime/",
+  "date": "2026-10-20T07:24:05Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Astorg plans for Oxoid Remel to acquire Solabia’s microbiology diagnostics division",
+  "link": "https://www.pehub.com/astorg-plans-for-oxoid-remel-to-acquire-solabias-microbiology-diagnostics-division/",
+  "date": "2026-10-20T07:19:01Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.97B",
+  "title": "Tradeweb to Buy Trumid For About $1.97 Billion",
+  "link": "https://www.wsj.com/business/deals/tradeweb-to-buy-trumid-for-about-1-97-billion-1fd21bdb?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-19T21:49:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Construction Partners, Inc. Completes Florida Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/construction-partners-inc-completes-florida-acquisition-302913034.html",
+  "date": "2026-10-19T20:15:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Forward Consumer Partners strikes deal to carve out Welly from Unilever",
+  "link": "https://www.pehub.com/forward-consumer-partners-strikes-deal-to-carve-out-welly-from-unilever/",
+  "date": "2026-10-19T17:44:19Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -18,165 +178,5 @@
   "title": "National Kitchen &amp; Bath Showrooms Expands into Virginia with Acquisition of Greenwich Kitchens",
   "link": "https://www.prnewswire.com/news-releases/national-kitchen--bath-showrooms-expands-into-virginia-with-acquisition-of-greenwich-kitchens-302912851.html",
   "date": "2026-10-19T16:31:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Archimed acquires majority stake in medical imaging cloud provider 3verest",
-  "link": "https://www.pehub.com/archimed-acquires-majority-stake-in-medical-imaging-cloud-provider-3verest/",
-  "date": "2026-10-19T15:41:34Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Central National Gottesman Inc. (CNG) Acquires Nebraska-Based Omaha Paper Company",
-  "link": "https://www.prnewswire.com/news-releases/central-national-gottesman-inc-cng-acquires-nebraska-based-omaha-paper-company-302912689.html",
-  "date": "2026-10-19T15:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "NexTech Solutions (NTS) Acquires Halcyon Days Consulting, Adding Combat-Tested Tactical Mission Networks to Its Defense Technology Portfolio",
-  "link": "https://www.prnewswire.com/news-releases/nextech-solutions-nts-acquires-halcyon-days-consulting-adding-combat-tested-tactical-mission-networks-to-its-defense-technology-portfolio-302912738.html",
-  "date": "2026-10-19T14:45:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Garibaldi Blue takes majority stake in Canadian coffee roaster Level Ground",
-  "link": "https://www.pehub.com/garibaldi-blue-takes-majority-stake-in-canadian-coffee-roaster-level-ground/",
-  "date": "2026-10-19T14:41:09Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Scorpion deepens its investment in pest control and lawn care, acquires Coalmarch Marketing",
-  "link": "https://www.prnewswire.com/news-releases/scorpion-deepens-its-investment-in-pest-control-and-lawn-care-acquires-coalmarch-marketing-302912687.html",
-  "date": "2026-10-19T14:01:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "System One Acquires GMP, a Critical Infrastructure Capital Project Planning and Consulting Leader",
-  "link": "https://www.prnewswire.com/news-releases/system-one-acquires-gmp-a-critical-infrastructure-capital-project-planning-and-consulting-leader-302912206.html",
-  "date": "2026-10-19T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "$30M",
-  "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
-  "link": "https://www.prnewswire.com/news-releases/kapital-agrees-to-acquire-ai-startup-woz-for-30m-to-enhance-capabilities-of-ai-native-banking-platform-302912404.html",
-  "date": "2026-10-19T14:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Divestiture",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$2.9B",
-  "title": "KKR to sell Infinity to Ares for $2.9bn; Thoma Bravo, GTCR and Francisco among PE firms making SaaS take-privates in 2026",
-  "link": "https://www.pehub.com/kkr-to-sell-infinity-to-ares-for-2-9bn-thoma-bravo-gtcr-and-francisco-among-pe-firms-making-saas-take-privates-in-2026/",
-  "date": "2026-10-19T13:32:45Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "GoPro Files Preliminary Proxy Statement; Proposed Merger with Starman Optical on Track",
-  "link": "https://www.prnewswire.com/news-releases/gopro-files-preliminary-proxy-statement-proposed-merger-with-starman-optical-on-track-302912646.html",
-  "date": "2026-10-19T13:20:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "WILLIAMS SAFETY &amp; RESCUE COMPLETES ACQUISITION OF FRANDSON SAFETY",
-  "link": "https://www.prnewswire.com/news-releases/williams-safety--rescue-completes-acquisition-of-frandson-safety-302911847.html",
-  "date": "2026-10-19T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Arthur J. Gallagher &amp; Co. Acquires Intelligent Communications Experiences",
-  "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-intelligent-communications-experiences-302911555.html",
-  "date": "2026-10-19T13:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Lightview Capital makes investment in lobbying firm Thorn Run Partners",
-  "link": "https://www.pehub.com/lightview-capital-makes-investment-in-lobbying-firm-thorn-run-partners/",
-  "date": "2026-10-19T12:44:45Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Eqvista Launches Company-Sponsored Tender Offers, Expanding Private Market Liquidity Capabilities",
-  "link": "https://www.prnewswire.com/news-releases/eqvista-launches-company-sponsored-tender-offers-expanding-private-market-liquidity-capabilities-302911472.html",
-  "date": "2026-10-19T12:37:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "$3.4B",
-  "title": "Silgan to Combine With Trivium Packaging in $3.4 Billion Deal",
-  "link": "https://www.wsj.com/business/deals/silgan-to-combine-with-trivium-packaging-in-3-4-billion-deal-bf732879?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-19T12:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "KORT Payments to Acquire AptPay, Expanding Real-Time Payments and Payment Orchestration Across North America",
-  "link": "https://www.prnewswire.com/news-releases/kort-payments-to-acquire-aptpay-expanding-real-time-payments-and-payment-orchestration-across-north-america-302912058.html",
-  "date": "2026-10-19T12:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Banner Capital launches roofing platform with Exterior Solutions Group deal",
-  "link": "https://www.pehub.com/banner-capital-launches-roofing-platform-with-exterior-solutions-group-deal/",
-  "date": "2026-10-19T11:49:39Z"
  }
 ]
