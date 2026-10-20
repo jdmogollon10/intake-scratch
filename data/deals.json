@@ -1,5 +1,155 @@
 [
  {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+  "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+  "date": "2026-10-20T15:27:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Trinity Acquires Verix, Adding AI-Powered Next-Best-Action and Omnichannel Orchestration to the TrinityEDGE Platform",
+  "link": "https://www.prnewswire.com/news-releases/trinity-acquires-verix-adding-ai-powered-next-best-action-and-omnichannel-orchestration-to-the-trinityedge-platform-302914278.html",
+  "date": "2026-10-20T15:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Azra AI Acquires Blackford Analysis to Close the Most Dangerous Gap in Healthcare: What Happens After the Scan",
+  "link": "https://www.prnewswire.com/news-releases/azra-ai-acquires-blackford-analysis-to-close-the-most-dangerous-gap-in-healthcare-what-happens-after-the-scan-302913732.html",
+  "date": "2026-10-20T15:02:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Threadlock Precision, Supported by The D. E. Shaw Group, Acquires Service &amp; Sales, Inc. to Expand U.S. Aerospace and Defense Precision Manufacturing Network",
+  "link": "https://www.prnewswire.com/news-releases/threadlock-precision-supported-by-the-d-e-shaw-group-acquires-service--sales-inc-to-expand-us-aerospace-and-defense-precision-manufacturing-network-302913013.html",
+  "date": "2026-10-20T15:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SERVICEMASTER OF TACOMA ACQUIRES REDMOND RESTORATION OPERATION, EXPANDING EASTSIDE FOOTPRINT",
+  "link": "https://www.prnewswire.com/news-releases/servicemaster-of-tacoma-acquires-redmond-restoration-operation-expanding-eastside-footprint-302910855.html",
+  "date": "2026-10-20T15:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "IBM Ventures Invests in Leena AI to Accelerate Agentic AI Across the Enterprise Back Office",
+  "link": "https://www.prnewswire.com/news-releases/ibm-ventures-invests-in-leena-ai-to-accelerate-agentic-ai-across-the-enterprise-back-office-302914251.html",
+  "date": "2026-10-20T14:51:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Altaris-backed Tegria inks deal for healthcare cybersecurity provider CloudWave",
+  "link": "https://www.pehub.com/altaris-backed-tegria-inks-deal-for-healthcare-cybersecurity-provider-cloudwave/",
+  "date": "2026-10-20T14:35:12Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Partner Companies Acquires Advanced CNC Industries, Inc., Increasing Manufacturing Capacity for Aerospace, Defense, Medical and Energy Customers",
+  "link": "https://www.prnewswire.com/news-releases/the-partner-companies-acquires-advanced-cnc-industries-inc-increasing-manufacturing-capacity-for-aerospace-defense-medical-and-energy-customers-302914204.html",
+  "date": "2026-10-20T14:19:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Southern Paving &amp; Milling Announces Acquisition of Carolina Site",
+  "link": "https://www.prnewswire.com/news-releases/southern-paving--milling-announces-acquisition-of-carolina-site-302913842.html",
+  "date": "2026-10-20T13:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$5.7B",
+  "title": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
+  "link": "https://www.wsj.com/business/deals/salesforce-to-buy-customer-engagement-platform-for-nearly-5-7-billion-aba17cfe?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-20T12:44:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Apogem Capital leads minority investment in Revelstoke-backed Family Care Center",
+  "link": "https://www.pehub.com/apogem-capital-leads-minority-investment-in-revelstoke-backed-family-care-center/",
+  "date": "2026-10-20T12:28:58Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Morgan Stanley Capital Partners strikes deal for equipment servicer The Rapid Group",
+  "link": "https://www.pehub.com/morgan-stanley-capital-partners-strikes-deal-for-equipment-servicer-the-rapid-group/",
+  "date": "2026-10-20T12:22:40Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "First Legal Deepens Its New York Presence with Acquisition of AAA Attorney Service",
+  "link": "https://www.prnewswire.com/news-releases/first-legal-deepens-its-new-york-presence-with-acquisition-of-aaa-attorney-service-302913242.html",
+  "date": "2026-10-20T12:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Formidium Expands AI-Native Fund Administration in Europe with Acquisition of Ci Fund Services S.A.",
+  "link": "https://www.prnewswire.com/news-releases/formidium-expands-ai-native-fund-administration-in-europe-with-acquisition-of-ci-fund-services-sa-302913049.html",
+  "date": "2026-10-20T12:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Brightstar Capital Partners takes majority stake in equipment servicer Material Handling Group",
+  "link": "https://www.pehub.com/brightstar-capital-partners-takes-majority-stake-in-equipment-servicer-material-handling-group/",
+  "date": "2026-10-20T11:41:43Z"
+ },
+ {
   "src": "Crunchbase",
   "type": "M&A",
   "industry": "Financials",
@@ -20,16 +170,6 @@
   "date": "2026-10-20T10:57:05Z"
  },
  {
-  "src": "MarketWatch",
-  "type": "IPO",
-  "industry": "Technology",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
-  "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
-  "date": "2026-10-20T09:30:00Z"
- },
- {
   "src": "PE Wire",
   "type": "Strategic Investment",
   "industry": "—",
@@ -38,145 +178,5 @@
   "title": "UK pension investment in private markets held back by lack of opportunities, says PMI",
   "link": "https://www.privateequitywire.co.uk/uk-pension-investment-in-private-markets-held-back-by-lack-of-opportunities-says-pmi/",
   "date": "2026-10-20T09:14:45Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "RMB Ventures exits Afrikelp as Stirling Square-backed SAS Group takes majority stake",
-  "link": "https://www.privateequitywire.co.uk/rmb-ventures-exits-afrikelp-as-stirling-square-backed-sas-group-takes-majority-stake/",
-  "date": "2026-10-20T09:11:19Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Forward Consumer Partners acquires Welly brand from Unilever",
-  "link": "https://www.privateequitywire.co.uk/forward-consumer-partners-acquires-welly-brand-from-unilever/",
-  "date": "2026-10-20T09:10:03Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "US",
-  "value": "$700M",
-  "title": "Charlesbank invests in US law firm’s back-office operations in $700m deal",
-  "link": "https://www.privateequitywire.co.uk/charlesbank-invests-in-us-law-firms-back-office-operations-in-700m-deal/",
-  "date": "2026-10-20T09:04:10Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Astorg’s Oxoid Remel to carve out microbiology diagnostic division of fellow portco Solabia; Platinum to buy lighting tower company Trime",
-  "link": "https://www.pehub.com/astorgs-oxoid-remel-to-carve-out-microbiology-diagnostic-division-of-fellow-portco-solabia-platinum-to-buy-lighting-tower-company-trime/",
-  "date": "2026-10-20T07:59:07Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Ambienta’s Wateralia acquires Italian valve maker CSA from owner Luca Bonatti",
-  "link": "https://www.pehub.com/ambientas-wateralia-acquires-italian-valve-maker-csa-from-owner-luca-bonatti/",
-  "date": "2026-10-20T07:47:54Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Rockpool Investments backs buyout of Industrial Door Systems for buy-and-build",
-  "link": "https://www.pehub.com/rockpool-investments-backs-buyout-of-industrial-door-systems-for-buy-and-build/",
-  "date": "2026-10-20T07:42:19Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Take-Private",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Arlington Capital Partners completes take-private of UK photonics firm Gooch & Housego",
-  "link": "https://www.pehub.com/arlington-capital-partners-completes-take-private-of-uk-photonics-firm-gooch-housego/",
-  "date": "2026-10-20T07:34:35Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Platinum Equity to acquire majority stake in Italian equipment maker Trime",
-  "link": "https://www.pehub.com/platinum-equity-to-acquire-majority-stake-in-italian-equipment-maker-trime/",
-  "date": "2026-10-20T07:24:05Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Astorg plans for Oxoid Remel to acquire Solabia’s microbiology diagnostics division",
-  "link": "https://www.pehub.com/astorg-plans-for-oxoid-remel-to-acquire-solabias-microbiology-diagnostics-division/",
-  "date": "2026-10-20T07:19:01Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.97B",
-  "title": "Tradeweb to Buy Trumid For About $1.97 Billion",
-  "link": "https://www.wsj.com/business/deals/tradeweb-to-buy-trumid-for-about-1-97-billion-1fd21bdb?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-19T21:49:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Construction Partners, Inc. Completes Florida Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/construction-partners-inc-completes-florida-acquisition-302913034.html",
-  "date": "2026-10-19T20:15:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Forward Consumer Partners strikes deal to carve out Welly from Unilever",
-  "link": "https://www.pehub.com/forward-consumer-partners-strikes-deal-to-carve-out-welly-from-unilever/",
-  "date": "2026-10-19T17:44:19Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "IXL Learning Acquires NoRedInk",
-  "link": "https://www.prnewswire.com/news-releases/ixl-learning-acquires-noredink-302912835.html",
-  "date": "2026-10-19T17:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "National Kitchen &amp; Bath Showrooms Expands into Virginia with Acquisition of Greenwich Kitchens",
-  "link": "https://www.prnewswire.com/news-releases/national-kitchen--bath-showrooms-expands-into-virginia-with-acquisition-of-greenwich-kitchens-302912851.html",
-  "date": "2026-10-19T16:31:00Z"
  }
 ]
