@@ -1,5 +1,155 @@
 [
  {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Blackstone and TPG-backed Hologic agrees deal for precision oncology firm Reveal Genomics",
+  "link": "https://www.pehub.com/blackstone-and-tpg-backed-hologic-agrees-deal-for-precision-oncology-firm-reveal-genomics/",
+  "date": "2026-10-21T15:34:19Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Mérieux NutriSciences Completes Acquisition of Certified Group, Becoming North America's Leading Food Testing Provider",
+  "link": "https://www.prnewswire.com/news-releases/merieux-nutrisciences-completes-acquisition-of-certified-group-becoming-north-americas-leading-food-testing-provider-302915607.html",
+  "date": "2026-10-21T15:00:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "Divestiture",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Extens strikes deal to sell MediReport stake to Philips",
+  "link": "https://www.pehub.com/extens-strikes-deal-to-sell-medireport-stake-to-philips/",
+  "date": "2026-10-21T14:30:41Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Stocks Higher as SpaceX Hints at Tesla Deal Talks",
+  "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
+  "date": "2026-10-21T14:10:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Blackstone aims to relieve defense supply chain chokepoints with Falcata; Archimed in first deal from MED IV with Organika Health Products",
+  "link": "https://www.pehub.com/blackstone-aims-to-relieve-defense-supply-chain-chokepoints-with-falcata-archimed-in-first-deal-from-med-iv-with-organika-health-products/",
+  "date": "2026-10-21T13:34:10Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Decibel Comments on Tender Offer by Ewing Morris for up to 6.8% of Common Shares at $1.91 per Share",
+  "link": "https://www.prnewswire.com/news-releases/decibel-comments-on-tender-offer-by-ewing-morris-for-up-to-6-8-of-common-shares-at-1-91-per-share-302915523.html",
+  "date": "2026-10-21T13:23:00Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "GHK’s CPL strikes first add-on deal for Chicago architecture firm Bailey Edward",
+  "link": "https://www.pehub.com/ghks-cpl-strikes-first-add-on-deal-for-chicago-architecture-firm-bailey-edward/",
+  "date": "2026-10-21T13:11:16Z"
+ },
+ {
+  "src": "PE Hub",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Granite Creek, Columbia Basin seal deal for coatings specialist Matheson Industrial",
+  "link": "https://www.pehub.com/granite-creek-columbia-basin-seal-deal-for-coatings-specialist-matheson-industrial/",
+  "date": "2026-10-21T13:04:29Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Arthur J. Gallagher &amp; Co. Acquires The Mund Group, Ltd.",
+  "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-the-mund-group-ltd-302912573.html",
+  "date": "2026-10-21T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "HR Path Strengthens its Australian Presence with Strategic Acquisition of Payroll Experts Australia",
+  "link": "https://www.prnewswire.com/news-releases/hr-path-strengthens-its-australian-presence-with-strategic-acquisition-of-payroll-experts-australia-302915161.html",
+  "date": "2026-10-21T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CPL Expands Chicago, Midwest Footprint Through Acquisition of Bailey Edward",
+  "link": "https://www.prnewswire.com/news-releases/cpl-expands-chicago-midwest-footprint-through-acquisition-of-bailey-edward-302915059.html",
+  "date": "2026-10-21T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Stord Acquires AMS Fulfillment, Enhancing Its Market-Leading Scale and Network Coverage",
+  "link": "https://www.prnewswire.com/news-releases/stord-acquires-ams-fulfillment-enhancing-its-market-leading-scale-and-network-coverage-302915069.html",
+  "date": "2026-10-21T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Shrieve Chemical Company Acquires Research Solutions Group",
+  "link": "https://www.prnewswire.com/news-releases/shrieve-chemical-company-acquires-research-solutions-group-302914663.html",
+  "date": "2026-10-21T12:57:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Newforma Acquires Lumi AI and Sets Its Standard for AI Answers on Project Data",
+  "link": "https://www.prnewswire.com/news-releases/newforma-acquires-lumi-ai-and-sets-its-standard-for-ai-answers-on-project-data-302914832.html",
+  "date": "2026-10-21T11:38:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Akzo Nobel in Talks to Shed European Refinishing Unit for Axalta Merger Nod",
+  "link": "https://www.wsj.com/business/deals/akzo-nobel-in-talks-to-shed-european-refinishing-unit-for-axalta-merger-nod-9e194ad0?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-21T11:36:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Technology",
@@ -10,22 +160,12 @@
   "date": "2026-10-21T10:30:00Z"
  },
  {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Goldman Sachs Alternatives’ LRQA acquires supply chain auditor Omega Compliance",
-  "link": "https://www.pehub.com/goldman-sachs-alternatives-lrqa-acquires-supply-chain-auditor-omega-compliance/",
-  "date": "2026-10-21T09:36:15Z"
- },
- {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Stock Market Today: SpaceX Shares Surge on Tesla Deal Talks",
+  "title": "Stock Market Today: SpaceX Shares Surge After Tesla Deal Talks",
   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
   "date": "2026-10-21T09:01:41Z"
  },
@@ -38,145 +178,5 @@
   "title": "Centerbridge and Mubadala near £1bn Canaccord Wealth deal",
   "link": "https://www.privateequitywire.co.uk/centerbridge-and-mubadala-near-1bn-canaccord-wealth-deal/",
   "date": "2026-10-21T08:59:11Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$10B",
-  "title": "EQT in advanced talks to acquire Qiagen for over $10bn",
-  "link": "https://www.privateequitywire.co.uk/eqt-in-advanced-talks-to-acquire-qiagen-for-over-10bn/",
-  "date": "2026-10-21T08:58:06Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "HR Path renforce sa présence en Australie avec l'acquisition stratégique de Payroll Experts Australia",
-  "link": "https://www.prnewswire.com/news-releases/hr-path-renforce-sa-presence-en-australie-avec-lacquisition-strategique-de-payroll-experts-australia-302915198.html",
-  "date": "2026-10-21T08:42:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "HR Path Strengthens its Australian Presence with Strategic Acquisition of Payroll Experts Australia",
-  "link": "https://www.prnewswire.com/news-releases/hr-path-strengthens-its-australian-presence-with-strategic-acquisition-of-payroll-experts-australia-302915164.html",
-  "date": "2026-10-21T07:38:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BGF completes investment in engineering consultancy Harley Haddow",
-  "link": "https://www.pehub.com/bgf-completes-investment-in-engineering-consultancy-harley-haddow/",
-  "date": "2026-10-21T07:37:52Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "WestBridge completes investment in Foresight-backed financial planner Beckett",
-  "link": "https://www.pehub.com/westbridge-completes-investment-in-foresight-backed-financial-planner-beckett/",
-  "date": "2026-10-21T07:29:22Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
-  "link": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94?mod=rss_markets_main",
-  "date": "2026-10-21T02:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
-  "link": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-20T22:47:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Network Brainiacs Expands into Maryland Through Acquisition of Computer Enhancement Systems in Frederick",
-  "link": "https://www.prnewswire.com/news-releases/network-brainiacs-expands-into-maryland-through-acquisition-of-computer-enhancement-systems-in-frederick-302914596.html",
-  "date": "2026-10-20T22:43:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ACR Accelerates Sustainability Strategy with Acquisition of Molded Fiber Leader Ultra Green",
-  "link": "https://www.prnewswire.com/news-releases/acr-accelerates-sustainability-strategy-with-acquisition-of-molded-fiber-leader-ultra-green-302914587.html",
-  "date": "2026-10-20T20:01:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "WaveDivision, Pritzker and Stephens strike deal for Trive-backed EarthLink",
-  "link": "https://www.pehub.com/wavedivision-pritzker-and-stephens-strike-deal-for-trive-backed-earthlink/",
-  "date": "2026-10-20T18:03:49Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "King Risk Partners Expands Professional Liability Expertise with Acquisitions of Risk Avoidance Managers and Coastal Insurors",
-  "link": "https://www.prnewswire.com/news-releases/king-risk-partners-expands-professional-liability-expertise-with-acquisitions-of-risk-avoidance-managers-and-coastal-insurors-302914355.html",
-  "date": "2026-10-20T16:09:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Trinity Acquires Verix, Adding AI-Powered Next-Best-Action and Omnichannel Orchestration to the TrinityEDGE Platform",
-  "link": "https://www.prnewswire.com/news-releases/trinity-acquires-verix-adding-ai-powered-next-best-action-and-omnichannel-orchestration-to-the-trinityedge-platform-302914278.html",
-  "date": "2026-10-20T15:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Azra AI Acquires Blackford Analysis to Close the Most Dangerous Gap in Healthcare: What Happens After the Scan",
-  "link": "https://www.prnewswire.com/news-releases/azra-ai-acquires-blackford-analysis-to-close-the-most-dangerous-gap-in-healthcare-what-happens-after-the-scan-302913732.html",
-  "date": "2026-10-20T15:02:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Threadlock Precision, Supported by The D. E. Shaw Group, Acquires Service &amp; Sales, Inc. to Expand U.S. Aerospace and Defense Precision Manufacturing Network",
-  "link": "https://www.prnewswire.com/news-releases/threadlock-precision-supported-by-the-d-e-shaw-group-acquires-service--sales-inc-to-expand-us-aerospace-and-defense-precision-manufacturing-network-302913013.html",
-  "date": "2026-10-20T15:00:00Z"
  }
 ]
