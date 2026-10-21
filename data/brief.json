@@ -1,65 +1,65 @@
 {
  "status": "live",
- "session": "Tuesday, October 20, 2026",
- "builtAt": "2026-10-20T11:35:08Z",
+ "session": "Wednesday, October 21, 2026",
+ "builtAt": "2026-10-21T11:35:20Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,690.73",
-   "c": "+0.4% Mon",
+   "v": "7,712.57",
+   "c": "+0.28% Tue",
    "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,430.89",
-   "c": "+1.1% Mon",
-   "dir": "up"
+   "v": "26,424.82",
+   "c": "-0.02% Tue",
+   "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "51,966.03",
-   "c": "-36.38 pts Mon (-0.1%)",
-   "dir": "down"
+   "v": "52,495.88",
+   "c": "+529.85 pts Tue (+1.0%)",
+   "dir": "up"
   }
  ],
- "tapeLine": "Latest sourced close is Monday 19 October, a tech-led rebound: S&amp;P 500 +0.4% to 7,690.73, Nasdaq +1.1% to 26,430.89, Dow -0.1% to 51,966.03, per Yahoo Finance/AP (19 Oct). No Tuesday futures were found.",
- "matters": "<p>Chips rebounded after Friday’s selloff: the iShares Semiconductor ETF (SOXX) gained 3.7% Monday and chip stocks were on pace to end a nine-day losing streak, per Anadolu Agency (19 Oct). The Dow lagged as tech rebounded. The VIX fell 7.95% to 18.4, per the same report.</p><p>The Nasdaq is still below where it started last week, after falling 4.5% in the prior week, per AP (16 Oct). One outlet (24/7 Wall St) reported a different close (S&amp;P 500 7,709.63); the AP-consistent figures are used here.</p><p><b>Invalidation:</b> whether the S&amp;P 500 reclaims Thursday’s 7,744.81 close (about 0.7% above Monday’s close) or the chip bounce fades.</p>",
+ "tapeLine": "Latest sourced close is Tuesday 20 October, a Dow-led day: S&amp;P 500 +0.28% to 7,712.57, Nasdaq -0.02% to 26,424.82, Dow +1.0% to 52,495.88, per CNBC/Kiplinger/TheStreet coverage (20 Oct). No Wednesday futures levels were found.",
+ "matters": "<p>The Dow added 529.85 points on Tuesday, helped by a 5%+ jump in 3M after it raised full-year profit guidance, per Kiplinger (20 Oct). The Nasdaq ended flat as chip and AI stocks, weak early, recovered part of their losses.</p><p>After the close, Netflix fell 5.8% to $64.74 in after-hours trading after guiding Q4 EPS to $0.67, below the street, per Mitrade (21 Oct). Sources differ on exact timing and figures, so treat the level as approximate.</p><p><b>Invalidation:</b> whether the S&amp;P 500 reclaims Thursday’s 7,744.81 close (about 0.4% above Tuesday’s close) or the Nasdaq slips below Monday’s 26,430.89.</p>",
  "calendar": [],
- "alsoOnTape": "Oil, gold and Treasury yield levels were not found with a dated source and are not carried. VIX closed near 18.4 on Monday, per Anadolu Agency (19 Oct).",
+ "alsoOnTape": "Oil, gold, Treasury yield and VIX levels for Tuesday were not found with a dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Monday 19 October: S&amp;P 500 7,690.73 (+0.4%), Nasdaq 26,430.89 (+1.1%), Dow 51,966.03 (-0.1%). Tuesday futures not found.",
-  "<b>Earnings</b> &mdash; Digrin’s 20 Oct calendar lists Coca-Cola, RTX, Verizon, Danaher, Lockheed Martin, 3M, GM and Northrop Grumman before the open; another calendar (Tickflow) conflicts on the count, so times are unconfirmed. No results found yet."
+  "<b>Latest confirmed close</b> &mdash; Tuesday 20 October: S&amp;P 500 7,712.57 (+0.28%), Nasdaq 26,424.82 (-0.02%), Dow 52,495.88 (+1.0%). Wednesday futures not found.",
+  "<b>Earnings</b> &mdash; RTX reported Q3 on 20 Oct: sales $25.0B (+11%), adjusted EPS $2.26 including a $0.25 IEEPA cost-recovery benefit, and raised 2026 guidance to adjusted sales $97.0-$97.5B and EPS $7.65-$7.75, per its SEC-filed release. 3M raised full-year profit guidance, per Kiplinger. Netflix guided Q4 EPS to $0.67, below the street, and fell about 5.8% after hours, per Mitrade (21 Oct)."
  ],
  "deals": [],
  "macro": [
-  "<b>Data</b> &mdash; No U.S. data release for Tuesday was confirmed. Last sourced: September CPI +0.6% m/m, 3.7% y/y, per CNBC (14 Oct); September PPI +1.3% m/m, per Seeking Alpha (15 Oct). The 27-28 October FOMC is the next scheduled Fed event."
+  "<b>Data</b> &mdash; No U.S. data release for Wednesday was confirmed. Last sourced: September CPI +0.6% m/m, 3.7% y/y, per CNBC (14 Oct); September PPI +1.3% m/m, per Seeking Alpha (15 Oct). The 27-28 October FOMC is the next scheduled Fed event."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Tentative stabilisation: the S&P 500 is about 1.5% below its 7,811.54 record close of 9 October after a one-day bounce from its worst week since June.",
-  "sizing": "No scheduled macro catalyst was confirmed for Tuesday; the 27-28 October FOMC is the next scheduled evidence."
+  "tag": "Tentative stabilisation continues: the S&P 500 is about 1.3% below its 7,811.54 record close of 9 October after a second straight gain, though the Nasdaq was flat.",
+  "sizing": "No scheduled macro catalyst was confirmed for Wednesday; the 27-28 October FOMC is the next scheduled evidence."
  },
  "watchlist": [],
- "secondOrder": "Friday’s selloff was sector-specific (AI and chips) and Monday’s rebound was the same sector reversing, with the Dow flat: leadership, not the macro backdrop, drove both days. That is an observation, not a forecast.",
+ "secondOrder": "Tuesday’s gain came from an industrial and earnings-guidance story (3M, RTX) rather than tech, with the Nasdaq flat: leadership rotated from Monday’s chip rebound. That is an observation, not a forecast.",
  "scorecard": [
   {
+   "verdict": "right",
+   "text": "The prior regime call, tentative stabilisation, held on Tuesday: the S&amp;P 500 rose a further 0.28% to 7,712.57, per CNBC/Kiplinger coverage."
+  },
+  {
+   "verdict": "right",
+   "text": "The prior invalidation level held: the S&amp;P 500 did not reclaim Thursday’s 7,744.81 and closed at 7,712.57."
+  },
+  {
    "verdict": "wrong",
-   "text": "The prior regime call, risk-off into the week, did not hold on Monday: the S&amp;P 500 rose 0.4% and the Nasdaq 1.1% as chips rebounded, per Yahoo Finance/AP."
-  },
-  {
-   "verdict": "right",
-   "text": "The prior level held: the S&amp;P 500 did not reclaim 7,811.54 and closed Monday at 7,690.73, per Yahoo Finance/AP."
-  },
-  {
-   "verdict": "right",
-   "text": "The prior watch item, whether chip weakness would spread beyond the sector, resolved no: chips rebounded (SOXX +3.7%) and the Dow was little changed, per Anadolu Agency."
+   "text": "The prior framing that Monday’s tech-led bounce was the driver to watch missed Tuesday’s source of strength: the Nasdaq finished flat (-0.02%) while the Dow, lifted by 3M, gained 1.0%."
   },
   {
    "verdict": "open",
-   "text": "Whether yields kept falling after the PPI print cannot be graded: no sourced yield levels were found."
+   "text": "Whether yields kept falling after the PPI print still cannot be graded: no sourced yield levels were found."
   },
   {
    "verdict": "open",
@@ -69,20 +69,24 @@
  "midday": null,
  "sources": [
   {
+   "label": "CNBC — Stock futures rise as traders evaluate latest raft of earnings (20 Oct)",
+   "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
+  },
+  {
+   "label": "Kiplinger — Dow Gains 529 Points on 3M Data Center Deal, Earnings Beat",
+   "url": "https://kiplinger.com/investing/stocks/dow-gains-529-points-on-3m-data-center-deal-stock-market-today"
+  },
+  {
+   "label": "Mitrade — The Dow gained 500 points and the two AI names that matter fell after hours",
+   "url": "https://www.mitrade.com/insights/shares-analysis/us-stocks/netflix-q3-guide-spacex-first-profit-20261021J1356"
+  },
+  {
+   "label": "RTX Corp — Form 8-K, Q3 2026 results exhibit 99",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000101829/000010182926000030/a2026-10x208xkerexhibit99.htm"
+  },
+  {
    "label": "Yahoo Finance/AP — How major US stock indexes fared Monday 10/19/2026",
    "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202016557.html"
-  },
-  {
-   "label": "Anadolu Agency — US stocks close Monday mixed as tech shares rise",
-   "url": "https://aa.com.tr/en/economy/us-stocks-close-monday-mixed-as-tech-shares-raise/4093958"
-  },
-  {
-   "label": "Digrin — Earnings calendar 2026-10-20",
-   "url": "https://www.digrin.com/stocks/earnings_calendar/2026-10-20"
-  },
-  {
-   "label": "ABC News/AP — How major US stock indexes fared Friday 10/16/2026",
-   "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
   },
   {
    "label": "CNBC — Consumer prices rose 3.7% annually in September",
