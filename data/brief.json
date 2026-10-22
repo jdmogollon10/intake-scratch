@@ -1,61 +1,65 @@
 {
  "status": "live",
- "session": "Wednesday, October 21, 2026",
- "builtAt": "2026-10-21T11:35:20Z",
+ "session": "Thursday, October 22, 2026",
+ "builtAt": "2026-10-22T11:36:29Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,712.57",
-   "c": "+0.28% Tue",
+   "v": "7,757.17",
+   "c": "+0.58% Wed",
    "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,424.82",
-   "c": "-0.02% Tue",
-   "dir": "down"
+   "v": "26,702.86",
+   "c": "+1.05% Wed",
+   "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "52,495.88",
-   "c": "+529.85 pts Tue (+1.0%)",
+   "v": "52,856.09",
+   "c": "+0.69% Wed",
    "dir": "up"
   }
  ],
- "tapeLine": "Latest sourced close is Tuesday 20 October, a Dow-led day: S&amp;P 500 +0.28% to 7,712.57, Nasdaq -0.02% to 26,424.82, Dow +1.0% to 52,495.88, per CNBC/Kiplinger/TheStreet coverage (20 Oct). No Wednesday futures levels were found.",
- "matters": "<p>The Dow added 529.85 points on Tuesday, helped by a 5%+ jump in 3M after it raised full-year profit guidance, per Kiplinger (20 Oct). The Nasdaq ended flat as chip and AI stocks, weak early, recovered part of their losses.</p><p>After the close, Netflix fell 5.8% to $64.74 in after-hours trading after guiding Q4 EPS to $0.67, below the street, per Mitrade (21 Oct). Sources differ on exact timing and figures, so treat the level as approximate.</p><p><b>Invalidation:</b> whether the S&amp;P 500 reclaims Thursday’s 7,744.81 close (about 0.4% above Tuesday’s close) or the Nasdaq slips below Monday’s 26,430.89.</p>",
+ "tapeLine": "Latest sourced close is Wednesday 21 October, Nasdaq-led: S&amp;P 500 +0.58% to 7,757.17, Nasdaq +1.05% to 26,702.86, Dow +0.69% to 52,856.09, per CNN Markets and a live-blog recap (21 Oct). No Thursday futures levels were found.",
+ "matters": "<p>The Nasdaq led Wednesday&rsquo;s rally, up 1.05%, on renewed AI-spending confidence, with IBM, Nvidia, Goldman Sachs and Caterpillar leading the Dow, per BBN Times (21 Oct). The Dow closed at its highest in about a month.</p><p>Netflix fell about 5% after a full-year revenue forecast below analysts&rsquo; expectations and a cut to ad revenue guidance; Q3 revenue was $12.87B, +12% y/y, per CNBC (21 Oct).</p><p>Meta and Tesla reported after the close on Wednesday; their post-earnings moves were not found with a dated source and are not carried.</p><p><b>Invalidation:</b> whether the S&amp;P 500 holds above Tuesday&rsquo;s 7,712.57 close, or fails to extend toward the 7,811.54 record close of 9 October (about 0.7% above Wednesday&rsquo;s close).</p>",
  "calendar": [],
- "alsoOnTape": "Oil, gold, Treasury yield and VIX levels for Tuesday were not found with a dated source and are not carried.",
+ "alsoOnTape": "Oil, gold, Treasury yield and VIX levels for Wednesday were not found with a dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Tuesday 20 October: S&amp;P 500 7,712.57 (+0.28%), Nasdaq 26,424.82 (-0.02%), Dow 52,495.88 (+1.0%). Wednesday futures not found.",
-  "<b>Earnings</b> &mdash; RTX reported Q3 on 20 Oct: sales $25.0B (+11%), adjusted EPS $2.26 including a $0.25 IEEPA cost-recovery benefit, and raised 2026 guidance to adjusted sales $97.0-$97.5B and EPS $7.65-$7.75, per its SEC-filed release. 3M raised full-year profit guidance, per Kiplinger. Netflix guided Q4 EPS to $0.67, below the street, and fell about 5.8% after hours, per Mitrade (21 Oct)."
+  "<b>Latest confirmed close</b> &mdash; Wednesday 21 October: S&amp;P 500 7,757.17 (+0.58%), Nasdaq 26,702.86 (+1.05%), Dow 52,856.09 (+0.69%). Thursday futures not found.",
+  "<b>Earnings</b> &mdash; Netflix fell about 5% on a below-consensus full-year revenue forecast, per CNBC (21 Oct). Meta and Tesla reported after Wednesday&rsquo;s close; results and reaction were not found with a dated source."
  ],
  "deals": [],
  "macro": [
-  "<b>Data</b> &mdash; No U.S. data release for Wednesday was confirmed. Last sourced: September CPI +0.6% m/m, 3.7% y/y, per CNBC (14 Oct); September PPI +1.3% m/m, per Seeking Alpha (15 Oct). The 27-28 October FOMC is the next scheduled Fed event."
+  "<b>Data</b> &mdash; No U.S. data release for Thursday was confirmed. Last sourced: September CPI +0.6% m/m, 3.7% y/y, per CNBC (14 Oct); September PPI +1.3% m/m, per Seeking Alpha (15 Oct). The 27-28 October FOMC is the next scheduled Fed event."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Tentative stabilisation continues: the S&P 500 is about 1.3% below its 7,811.54 record close of 9 October after a second straight gain, though the Nasdaq was flat.",
-  "sizing": "No scheduled macro catalyst was confirmed for Wednesday; the 27-28 October FOMC is the next scheduled evidence."
+  "tag": "Tentative stabilisation continues: the S&P 500 is about 0.7% below its 7,811.54 record close of 9 October after a third straight gain, with the Nasdaq leading again.",
+  "sizing": "No scheduled macro catalyst was confirmed for Thursday; Meta and Tesla results are the open evidence, and the 27-28 October FOMC is the next scheduled event."
  },
  "watchlist": [],
- "secondOrder": "Tuesday’s gain came from an industrial and earnings-guidance story (3M, RTX) rather than tech, with the Nasdaq flat: leadership rotated from Monday’s chip rebound. That is an observation, not a forecast.",
+ "secondOrder": "Wednesday reversed Tuesday&rsquo;s pattern: leadership moved back from industrials (3M, RTX) to AI and tech, with the Nasdaq up over 1% and the Dow also higher. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The prior regime call, tentative stabilisation, held on Tuesday: the S&amp;P 500 rose a further 0.28% to 7,712.57, per CNBC/Kiplinger coverage."
-  },
-  {
-   "verdict": "right",
-   "text": "The prior invalidation level held: the S&amp;P 500 did not reclaim Thursday’s 7,744.81 and closed at 7,712.57."
+   "text": "The prior regime call, tentative stabilisation, held on Wednesday: the S&amp;P 500 rose a further 0.58% to 7,757.17, per CNN Markets (21 Oct)."
   },
   {
    "verdict": "wrong",
-   "text": "The prior framing that Monday’s tech-led bounce was the driver to watch missed Tuesday’s source of strength: the Nasdaq finished flat (-0.02%) while the Dow, lifted by 3M, gained 1.0%."
+   "text": "The prior invalidation watch was set at Thursday&rsquo;s 7,744.81 close as the level to reclaim; the S&amp;P 500 closed above it at 7,757.17, so that level no longer constrains the index. The prior secondOrder framing of an industrial rotation also did not persist: the Nasdaq led with +1.05%."
+  },
+  {
+   "verdict": "right",
+   "text": "The prior Nasdaq floor held: the Nasdaq did not slip below Monday&rsquo;s 26,430.89 and closed at 26,702.86."
+  },
+  {
+   "verdict": "right",
+   "text": "The prior note that Netflix&rsquo;s guidance was a negative held: it fell about 5% on Wednesday, per CNBC (21 Oct)."
   },
   {
    "verdict": "open",
@@ -69,24 +73,16 @@
  "midday": null,
  "sources": [
   {
-   "label": "CNBC — Stock futures rise as traders evaluate latest raft of earnings (20 Oct)",
+   "label": "CNN Markets — Dow, S&P 500, Nasdaq quotes (21 Oct)",
+   "url": "https://www.cnn.com/markets"
+  },
+  {
+   "label": "CNBC — S&P 500 notches 3-day win streak, Nasdaq jumps 1% as SpaceX and Tesla rally",
    "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
   },
   {
-   "label": "Kiplinger — Dow Gains 529 Points on 3M Data Center Deal, Earnings Beat",
-   "url": "https://kiplinger.com/investing/stocks/dow-gains-529-points-on-3m-data-center-deal-stock-market-today"
-  },
-  {
-   "label": "Mitrade — The Dow gained 500 points and the two AI names that matter fell after hours",
-   "url": "https://www.mitrade.com/insights/shares-analysis/us-stocks/netflix-q3-guide-spacex-first-profit-20261021J1356"
-  },
-  {
-   "label": "RTX Corp — Form 8-K, Q3 2026 results exhibit 99",
-   "url": "https://www.sec.gov/Archives/edgar/data/0000101829/000010182926000030/a2026-10x208xkerexhibit99.htm"
-  },
-  {
-   "label": "Yahoo Finance/AP — How major US stock indexes fared Monday 10/19/2026",
-   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202016557.html"
+   "label": "BBN Times — North American Stock Markets Today: SpaceX and Super Micro revive the AI trade",
+   "url": "https://www.bbntimes.com/global-economy/north-american-stock-markets-today-s-p-500-dow-jones-nasdaq-and-tsx-rise-as-spacex-and-super-micro-revive-the-ai-trade"
   },
   {
    "label": "CNBC — Consumer prices rose 3.7% annually in September",
