@@ -1,5 +1,95 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "M&amp;E Realty Partners Launches with 835,000-SF Kentucky Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/me-realty-partners-launches-with-835-000-sf-kentucky-acquisition-302916244.html",
+  "date": "2026-10-22T15:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SPYNE ANNOUNCES DATA INTEGRATION WITH COX AUTOMOTIVE'S DEALERTRACK DMS, BENEFITING DEALER CUSTOMERS",
+  "link": "https://www.prnewswire.com/news-releases/spyne-announces-data-integration-with-cox-automotives-dealertrack-dms-benefiting-dealer-customers-302916763.html",
+  "date": "2026-10-22T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Alliant Power Acquires Family Machine LLC, Expanding Remanufacturing Capacity and Customer Service",
+  "link": "https://www.prnewswire.com/news-releases/alliant-power-acquires-family-machine-llc-expanding-remanufacturing-capacity-and-customer-service-302916940.html",
+  "date": "2026-10-22T13:55:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Sequoia Financial Group Acquires Colorado Wealth Manager Quish",
+  "link": "https://www.prnewswire.com/news-releases/sequoia-financial-group-acquires-colorado-wealth-manager-quish-302917053.html",
+  "date": "2026-10-22T13:52:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Financing",
+  "industry": "Financials",
+  "region": "—",
+  "value": "$27M",
+  "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
+  "link": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
+  "date": "2026-10-22T13:00:23Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
+  "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-22T12:57:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Forte Technologies Acquires Business Cyber Security Solutions, Launches Dedicated Cyber Assurance Practice",
+  "link": "https://www.prnewswire.com/news-releases/forte-technologies-acquires-business-cyber-security-solutions-launches-dedicated-cyber-assurance-practice-302916403.html",
+  "date": "2026-10-22T12:53:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Real Diagnostics Acquires SimplyTest, Expands Its High-Complexity Laboratory Portfolio with Saliva-Based Oral Health Testing",
+  "link": "https://www.prnewswire.com/news-releases/real-diagnostics-acquires-simplytest-expands-its-high-complexity-laboratory-portfolio-with-saliva-based-oral-health-testing-302916353.html",
+  "date": "2026-10-22T12:32:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Redesign Health and ARC Global Merge to Help Health Systems Shape the Future of Healthcare From Within",
+  "link": "https://www.prnewswire.com/news-releases/redesign-health-and-arc-global-merge-to-help-health-systems-shape-the-future-of-healthcare-from-within-302915968.html",
+  "date": "2026-10-22T12:00:00Z"
+ },
+ {
   "src": "Crunchbase",
   "type": "IPO",
   "industry": "Technology",
@@ -88,95 +178,5 @@
   "title": "EQT agrees €9.6bn takeover of Qiagen",
   "link": "https://www.privateequitywire.co.uk/eqt-agrees-e9-6bn-takeover-of-qiagen/",
   "date": "2026-10-22T08:50:57Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Körber invests in NAiSE and advances vendor-agnostic fleet management in intralogistics",
-  "link": "https://www.prnewswire.com/news-releases/korber-invests-in-naise-and-advances-vendor-agnostic-fleet-management-in-intralogistics-302915782.html",
-  "date": "2026-10-22T07:30:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "UK",
-  "value": "$3.5B",
-  "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
-  "link": "https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-22T06:55:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Side Acquires Boutique Art Studio Roboto Entertainment in Creative Services Push",
-  "link": "https://www.prnewswire.com/news-releases/side-acquires-boutique-art-studio-roboto-entertainment-in-creative-services-push-302915576.html",
-  "date": "2026-10-22T01:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
-  "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-22T01:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "Cognizant to Acquire DyFlex Solutions, Accelerating AI-Led Enterprise Transformation for SAP Clients in Australia and New Zealand",
-  "link": "https://www.prnewswire.com/news-releases/cognizant-to-acquire-dyflex-solutions-accelerating-ai-led-enterprise-transformation-for-sap-clients-in-australia-and-new-zealand-302916092.html",
-  "date": "2026-10-21T23:25:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Bose Corporation Acquires Skullcandy, Expanding Its Consumer Audio Portfolio to Reach New Audiences",
-  "link": "https://www.prnewswire.com/news-releases/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio-to-reach-new-audiences-302915875.html",
-  "date": "2026-10-21T20:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "VINCI COMPASS ANNOUNCES THE LAUNCH OF VINCI PERMANENT CAPITAL SOLUTIONS WITH THE ACQUISITION OF AUSTRALRE",
-  "link": "https://www.prnewswire.com/news-releases/vinci-compass-announces-the-launch-of-vinci-permanent-capital-solutions-with-the-acquisition-of-australre-302915949.html",
-  "date": "2026-10-21T20:10:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Mapmygenome Completes Acquisition of dnaPower Inc. to Accelerate North American Expansion in DNA, Microbiome, Longevity and Precision Health Testing",
-  "link": "https://www.prnewswire.com/news-releases/mapmygenome-completes-acquisition-of-dnapower-inc-to-accelerate-north-american-expansion-in-dna-microbiome-longevity-and-precision-health-testing-302915388.html",
-  "date": "2026-10-21T16:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Mérieux NutriSciences Completes Acquisition of Certified Group, Becoming North America's Leading Food Testing Provider",
-  "link": "https://www.prnewswire.com/news-releases/merieux-nutrisciences-completes-acquisition-of-certified-group-becoming-north-americas-leading-food-testing-provider-302915607.html",
-  "date": "2026-10-21T15:00:00Z"
  }
 ]
