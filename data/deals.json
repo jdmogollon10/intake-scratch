@@ -1,13 +1,173 @@
 [
  {
-  "src": "PE Hub",
+  "src": "Crunchbase",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
+  "link": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
+  "date": "2026-10-22T11:00:42Z"
+ },
+ {
+  "src": "Crunchbase",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Blackstone and TPG-backed Hologic agrees deal for precision oncology firm Reveal Genomics",
-  "link": "https://www.pehub.com/blackstone-and-tpg-backed-hologic-agrees-deal-for-precision-oncology-firm-reveal-genomics/",
-  "date": "2026-10-21T15:34:19Z"
+  "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
+  "link": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
+  "date": "2026-10-22T11:00:41Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "PRC-Saltillo Acquires Ner Chat, Bringing Minspeak® Symbols to Glint Visual Support Platform",
+  "link": "https://www.prnewswire.com/news-releases/prc-saltillo-acquires-ner-chat-bringing-minspeak-symbols-to-glint-visual-support-platform-302915859.html",
+  "date": "2026-10-22T11:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "H.I.G. Capital Acquires a Majority Stake in L4A to Support Continued Growth and Expansion",
+  "link": "https://www.prnewswire.com/news-releases/hig-capital-acquires-a-majority-stake-in-l4a-to-support-continued-growth-and-expansion-302916040.html",
+  "date": "2026-10-22T10:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
+  "link": "https://www.wsj.com/business/musks-tesla-spacex-merger-would-formalize-a-decadeslong-partnership-3b83e542?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-22T09:56:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vinci Compass acquires AustralRe to launch permanent capital platform",
+  "link": "https://www.privateequitywire.co.uk/vinci-compass-acquires-australre-to-launch-permanent-capital-platform/",
+  "date": "2026-10-22T08:58:13Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ILPA urges greater scrutiny of private equity continuation deals",
+  "link": "https://www.privateequitywire.co.uk/ilpa-urges-greater-scrutiny-of-private-equity-continuation-deals/",
+  "date": "2026-10-22T08:57:06Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$3.5B",
+  "title": "Permira exits Octus in $3.5bn LSEG acquisition",
+  "link": "https://www.privateequitywire.co.uk/permira-exits-octus-in-3-5bn-lseg-acquisition/",
+  "date": "2026-10-22T08:54:30Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "€9.6B",
+  "title": "EQT agrees €9.6bn takeover of Qiagen",
+  "link": "https://www.privateequitywire.co.uk/eqt-agrees-e9-6bn-takeover-of-qiagen/",
+  "date": "2026-10-22T08:50:57Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Körber invests in NAiSE and advances vendor-agnostic fleet management in intralogistics",
+  "link": "https://www.prnewswire.com/news-releases/korber-invests-in-naise-and-advances-vendor-agnostic-fleet-management-in-intralogistics-302915782.html",
+  "date": "2026-10-22T07:30:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "UK",
+  "value": "$3.5B",
+  "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
+  "link": "https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-22T06:55:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Telecom & Media",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Side Acquires Boutique Art Studio Roboto Entertainment in Creative Services Push",
+  "link": "https://www.prnewswire.com/news-releases/side-acquires-boutique-art-studio-roboto-entertainment-in-creative-services-push-302915576.html",
+  "date": "2026-10-22T01:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
+  "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-22T01:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "Cognizant to Acquire DyFlex Solutions, Accelerating AI-Led Enterprise Transformation for SAP Clients in Australia and New Zealand",
+  "link": "https://www.prnewswire.com/news-releases/cognizant-to-acquire-dyflex-solutions-accelerating-ai-led-enterprise-transformation-for-sap-clients-in-australia-and-new-zealand-302916092.html",
+  "date": "2026-10-21T23:25:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Bose Corporation Acquires Skullcandy, Expanding Its Consumer Audio Portfolio to Reach New Audiences",
+  "link": "https://www.prnewswire.com/news-releases/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio-to-reach-new-audiences-302915875.html",
+  "date": "2026-10-21T20:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "VINCI COMPASS ANNOUNCES THE LAUNCH OF VINCI PERMANENT CAPITAL SOLUTIONS WITH THE ACQUISITION OF AUSTRALRE",
+  "link": "https://www.prnewswire.com/news-releases/vinci-compass-announces-the-launch-of-vinci-permanent-capital-solutions-with-the-acquisition-of-australre-302915949.html",
+  "date": "2026-10-21T20:10:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Mapmygenome Completes Acquisition of dnaPower Inc. to Accelerate North American Expansion in DNA, Microbiome, Longevity and Precision Health Testing",
+  "link": "https://www.prnewswire.com/news-releases/mapmygenome-completes-acquisition-of-dnapower-inc-to-accelerate-north-american-expansion-in-dna-microbiome-longevity-and-precision-health-testing-302915388.html",
+  "date": "2026-10-21T16:30:00Z"
  },
  {
   "src": "PR Newswire",
@@ -18,165 +178,5 @@
   "title": "Mérieux NutriSciences Completes Acquisition of Certified Group, Becoming North America's Leading Food Testing Provider",
   "link": "https://www.prnewswire.com/news-releases/merieux-nutrisciences-completes-acquisition-of-certified-group-becoming-north-americas-leading-food-testing-provider-302915607.html",
   "date": "2026-10-21T15:00:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "Divestiture",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Extens strikes deal to sell MediReport stake to Philips",
-  "link": "https://www.pehub.com/extens-strikes-deal-to-sell-medireport-stake-to-philips/",
-  "date": "2026-10-21T14:30:41Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Stocks Higher as SpaceX Hints at Tesla Deal Talks",
-  "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
-  "date": "2026-10-21T14:10:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Blackstone aims to relieve defense supply chain chokepoints with Falcata; Archimed in first deal from MED IV with Organika Health Products",
-  "link": "https://www.pehub.com/blackstone-aims-to-relieve-defense-supply-chain-chokepoints-with-falcata-archimed-in-first-deal-from-med-iv-with-organika-health-products/",
-  "date": "2026-10-21T13:34:10Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Decibel Comments on Tender Offer by Ewing Morris for up to 6.8% of Common Shares at $1.91 per Share",
-  "link": "https://www.prnewswire.com/news-releases/decibel-comments-on-tender-offer-by-ewing-morris-for-up-to-6-8-of-common-shares-at-1-91-per-share-302915523.html",
-  "date": "2026-10-21T13:23:00Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "GHK’s CPL strikes first add-on deal for Chicago architecture firm Bailey Edward",
-  "link": "https://www.pehub.com/ghks-cpl-strikes-first-add-on-deal-for-chicago-architecture-firm-bailey-edward/",
-  "date": "2026-10-21T13:11:16Z"
- },
- {
-  "src": "PE Hub",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Granite Creek, Columbia Basin seal deal for coatings specialist Matheson Industrial",
-  "link": "https://www.pehub.com/granite-creek-columbia-basin-seal-deal-for-coatings-specialist-matheson-industrial/",
-  "date": "2026-10-21T13:04:29Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Arthur J. Gallagher &amp; Co. Acquires The Mund Group, Ltd.",
-  "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-the-mund-group-ltd-302912573.html",
-  "date": "2026-10-21T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "HR Path Strengthens its Australian Presence with Strategic Acquisition of Payroll Experts Australia",
-  "link": "https://www.prnewswire.com/news-releases/hr-path-strengthens-its-australian-presence-with-strategic-acquisition-of-payroll-experts-australia-302915161.html",
-  "date": "2026-10-21T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CPL Expands Chicago, Midwest Footprint Through Acquisition of Bailey Edward",
-  "link": "https://www.prnewswire.com/news-releases/cpl-expands-chicago-midwest-footprint-through-acquisition-of-bailey-edward-302915059.html",
-  "date": "2026-10-21T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Stord Acquires AMS Fulfillment, Enhancing Its Market-Leading Scale and Network Coverage",
-  "link": "https://www.prnewswire.com/news-releases/stord-acquires-ams-fulfillment-enhancing-its-market-leading-scale-and-network-coverage-302915069.html",
-  "date": "2026-10-21T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Shrieve Chemical Company Acquires Research Solutions Group",
-  "link": "https://www.prnewswire.com/news-releases/shrieve-chemical-company-acquires-research-solutions-group-302914663.html",
-  "date": "2026-10-21T12:57:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Newforma Acquires Lumi AI and Sets Its Standard for AI Answers on Project Data",
-  "link": "https://www.prnewswire.com/news-releases/newforma-acquires-lumi-ai-and-sets-its-standard-for-ai-answers-on-project-data-302914832.html",
-  "date": "2026-10-21T11:38:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Akzo Nobel in Talks to Shed European Refinishing Unit for Axalta Merger Nod",
-  "link": "https://www.wsj.com/business/deals/akzo-nobel-in-talks-to-shed-european-refinishing-unit-for-axalta-merger-nod-9e194ad0?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-21T11:36:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Tide Rock Acquires Electro-Spec to Launch Specialty Surface Finishing Platform",
-  "link": "https://www.prnewswire.com/news-releases/tide-rock-acquires-electro-spec-to-launch-specialty-surface-finishing-platform-302914841.html",
-  "date": "2026-10-21T10:30:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Stock Market Today: SpaceX Shares Surge After Tesla Deal Talks",
-  "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
-  "date": "2026-10-21T09:01:41Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "£1B",
-  "title": "Centerbridge and Mubadala near £1bn Canaccord Wealth deal",
-  "link": "https://www.privateequitywire.co.uk/centerbridge-and-mubadala-near-1bn-canaccord-wealth-deal/",
-  "date": "2026-10-21T08:59:11Z"
  }
 ]
