@@ -1,5 +1,35 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
+  "link": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-23T14:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "WSG ACQUIRES SANCTUARY, POSITIONING THE CONTEMPORARY WOMEN'S BRAND FOR GLOBAL GROWTH",
+  "link": "https://www.prnewswire.com/news-releases/wsg-acquires-sanctuary-positioning-the-contemporary-womens-brand-for-global-growth-302917570.html",
+  "date": "2026-10-23T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Malteurop acquires the Chunlei Malting Co. malting plant - A strategic investment that significantly expands its operations and strengthens its position in export markets",
+  "link": "https://www.prnewswire.com/news-releases/malteurop-acquires-the-chunlei-malting-co-malting-plant---a-strategic-investment-that-significantly-expands-its-operations-and-strengthens-its-position-in-export-markets-302917923.html",
+  "date": "2026-10-23T12:00:00Z"
+ },
+ {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "—",
@@ -20,16 +50,6 @@
   "date": "2026-10-23T09:21:07Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Malteurop acquires the Chunlei Malting Co. malting plant - A strategic investment that significantly expands its operations and strengthens its position in export markets",
-  "link": "https://www.prnewswire.com/news-releases/malteurop-acquires-the-chunlei-malting-co-malting-plant---a-strategic-investment-that-significantly-expands-its-operations-and-strengthens-its-position-in-export-markets-302917924.html",
-  "date": "2026-10-23T08:49:00Z"
- },
- {
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "—",
@@ -38,16 +58,6 @@
   "title": "The IPO Buzz: Lycia Therapeutics (LYCA) Upsizes IPO & Prices Deal at $18 – Top of Range",
   "link": "https://www.iposcoop.com/the-ipo-buzz-lycia-therapeutics-lyca-upsizes-ipo-prices-deal-at-18-top-of-range/",
   "date": "2026-10-23T00:02:05Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
-  "link": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-22T23:54:00Z"
  },
  {
   "src": "PR Newswire",
@@ -150,33 +160,23 @@
   "date": "2026-10-22T12:57:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
+  "src": "Crunchbase",
+  "type": "IPO",
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Forte Technologies Acquires Business Cyber Security Solutions, Launches Dedicated Cyber Assurance Practice",
-  "link": "https://www.prnewswire.com/news-releases/forte-technologies-acquires-business-cyber-security-solutions-launches-dedicated-cyber-assurance-practice-302916403.html",
-  "date": "2026-10-22T12:53:00Z"
+  "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
+  "link": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
+  "date": "2026-10-22T11:00:42Z"
  },
  {
-  "src": "PR Newswire",
+  "src": "Crunchbase",
   "type": "M&A",
-  "industry": "Healthcare",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Real Diagnostics Acquires SimplyTest, Expands Its High-Complexity Laboratory Portfolio with Saliva-Based Oral Health Testing",
-  "link": "https://www.prnewswire.com/news-releases/real-diagnostics-acquires-simplytest-expands-its-high-complexity-laboratory-portfolio-with-saliva-based-oral-health-testing-302916353.html",
-  "date": "2026-10-22T12:32:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Redesign Health and ARC Global Merge to Help Health Systems Shape the Future of Healthcare From Within",
-  "link": "https://www.prnewswire.com/news-releases/redesign-health-and-arc-global-merge-to-help-health-systems-shape-the-future-of-healthcare-from-within-302915968.html",
-  "date": "2026-10-22T12:00:00Z"
+  "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
+  "link": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
+  "date": "2026-10-22T11:00:41Z"
  }
 ]
