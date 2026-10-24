@@ -1,5 +1,25 @@
 [
  {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$320M",
+  "title": "The IPO Buzz: OPay Ltd. (OPAY Proposed) of Nigeria Launches $320 Million IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-opay-ltd-opay-proposed-of-nigeria-launches-320-million-ipo/",
+  "date": "2026-10-24T00:18:50Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ENERGY SERVICES OF AMERICA COMPLETES FAMCO ACQUISITION",
+  "link": "https://www.prnewswire.com/news-releases/energy-services-of-america-completes-famco-acquisition-302918424.html",
+  "date": "2026-10-23T20:30:00Z"
+ },
+ {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
@@ -55,7 +75,7 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: Lycia Therapeutics (LYCA) Upsizes IPO & Prices Deal at $18 – Top of Range",
+  "title": "The IPO Buzz: Lycia Therapeutics (LYCA) Upsizes IPO & Prices it at $18 Top – & Stock Pops",
   "link": "https://www.iposcoop.com/the-ipo-buzz-lycia-therapeutics-lyca-upsizes-ipo-prices-deal-at-18-top-of-range/",
   "date": "2026-10-23T00:02:05Z"
  },
@@ -130,16 +150,6 @@
   "date": "2026-10-22T13:55:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Sequoia Financial Group Acquires Colorado Wealth Manager Quish",
-  "link": "https://www.prnewswire.com/news-releases/sequoia-financial-group-acquires-colorado-wealth-manager-quish-302917053.html",
-  "date": "2026-10-22T13:52:00Z"
- },
- {
   "src": "Crunchbase",
   "type": "Financing",
   "industry": "Financials",
@@ -168,15 +178,5 @@
   "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
   "link": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
   "date": "2026-10-22T11:00:42Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
-  "link": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
-  "date": "2026-10-22T11:00:41Z"
  }
 ]
