@@ -1,5 +1,85 @@
 [
  {
+  "src": "PE Wire",
+  "type": "Take-Private",
+  "industry": "—",
+  "region": "—",
+  "value": "$6B",
+  "title": "Bain Capital to retain 40% stake in $6bn Surgery Partners take-private",
+  "link": "https://www.privateequitywire.co.uk/bain-capital-to-retain-40-stake-in-6bn-surgery-partners-take-private/",
+  "date": "2026-10-26T10:52:07Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "UK",
+  "value": "£20.4B",
+  "title": "UK to inject £20.4bn into state-backed investment institutions",
+  "link": "https://www.privateequitywire.co.uk/uk-to-inject-20-4bn-into-state-backed-investment-institutions/",
+  "date": "2026-10-26T10:43:59Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "$239M",
+  "title": "Meiji Yasuda to acquire 5% stake in Man Group in $239m deal",
+  "link": "https://www.privateequitywire.co.uk/meiji-yasuda-to-acquire-5-stake-in-man-group-in-239m-deal/",
+  "date": "2026-10-26T10:42:11Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "An IPO Paused as AI Valuation Fears Mount",
+  "link": "https://www.wsj.com/finance/investing/an-ipo-paused-as-ai-valuation-fears-mount-fa1688c9?mod=rss_markets_main",
+  "date": "2026-10-26T10:25:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Center Brands and Dr. Mamina Turegano Announce the Acquisition of Boscia",
+  "link": "https://www.prnewswire.com/news-releases/the-center-brands-and-dr-mamina-turegano-announce-the-acquisition-of-boscia-302919083.html",
+  "date": "2026-10-26T10:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "EQT Announces Strategic Acquisition of Range Resources, Creating America's Undisputed Natural Gas Champion",
+  "link": "https://www.prnewswire.com/news-releases/eqt-announces-strategic-acquisition-of-range-resources-creating-americas-undisputed-natural-gas-champion-302919052.html",
+  "date": "2026-10-26T10:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Galp Energia Shares Fall After Moeve Merger-Talks Collapse, Overshadowing Positive Earnings",
+  "link": "https://www.wsj.com/business/energy-oil/galp-raises-full-year-view-after-oil-price-assumption-increase-ee79aceb?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-26T09:06:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$40B",
+  "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+  "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+  "date": "2026-10-26T01:50:00Z"
+ },
+ {
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "—",
@@ -60,16 +140,6 @@
   "date": "2026-10-23T09:24:47Z"
  },
  {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$300M",
-  "title": "Blackstone leads $300m financing for Arlington’s Gooch & Housego buyout",
-  "link": "https://www.privateequitywire.co.uk/162319-2/",
-  "date": "2026-10-23T09:21:07Z"
- },
- {
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "—",
@@ -100,56 +170,6 @@
   "date": "2026-10-22T20:00:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Amynta Group Completes Acquisition of Southern States Underwriters",
-  "link": "https://www.prnewswire.com/news-releases/amynta-group-completes-acquisition-of-southern-states-underwriters-302917382.html",
-  "date": "2026-10-22T19:21:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Harlem Children's Zone Acquires FinTech Platform, Goalsetter, to Accelerate Universal Economic Mobility",
-  "link": "https://www.prnewswire.com/news-releases/harlem-childrens-zone-acquires-fintech-platform-goalsetter-to-accelerate-universal-economic-mobility-302917320.html",
-  "date": "2026-10-22T17:59:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "M&amp;E Realty Partners Launches with 835,000-SF Kentucky Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/me-realty-partners-launches-with-835-000-sf-kentucky-acquisition-302916244.html",
-  "date": "2026-10-22T15:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "SPYNE ANNOUNCES DATA INTEGRATION WITH COX AUTOMOTIVE'S DEALERTRACK DMS, BENEFITING DEALER CUSTOMERS",
-  "link": "https://www.prnewswire.com/news-releases/spyne-announces-data-integration-with-cox-automotives-dealertrack-dms-benefiting-dealer-customers-302916763.html",
-  "date": "2026-10-22T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Alliant Power Acquires Family Machine LLC, Expanding Remanufacturing Capacity and Customer Service",
-  "link": "https://www.prnewswire.com/news-releases/alliant-power-acquires-family-machine-llc-expanding-remanufacturing-capacity-and-customer-service-302916940.html",
-  "date": "2026-10-22T13:55:00Z"
- },
- {
   "src": "Crunchbase",
   "type": "Financing",
   "industry": "Financials",
@@ -158,25 +178,5 @@
   "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
   "link": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
   "date": "2026-10-22T13:00:23Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
-  "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-22T12:57:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "IPO",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
-  "link": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
-  "date": "2026-10-22T11:00:42Z"
  }
 ]
