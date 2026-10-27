@@ -1,13 +1,23 @@
 [
  {
-  "src": "WSJ",
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "HuFriedyGroup Signs Agreement to Acquire Mectron's Dental Business",
+  "link": "https://www.prnewswire.com/news-releases/hufriedygroup-signs-agreement-to-acquire-mectrons-dental-business-302920950.html",
+  "date": "2026-10-27T15:34:00Z"
+ },
+ {
+  "src": "MarketWatch",
   "type": "IPO",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
-  "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-27T11:24:00Z"
+  "title": "With the Anthropic IPO, the devil is in the details",
+  "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+  "date": "2026-10-27T15:03:00Z"
  },
  {
   "src": "WSJ",
@@ -17,7 +27,87 @@
   "value": "Undisclosed",
   "title": "General Motors Moving Stock Listing to Nasdaq From NYSE",
   "link": "https://www.wsj.com/finance/stocks/general-motors-moving-stock-listing-to-nasdaq-from-nyse-fbc36f02?mod=rss_markets_main",
-  "date": "2026-10-27T11:10:00Z"
+  "date": "2026-10-27T14:54:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Telecom & Media",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Evolve Media Acquires CafeMom, LittleThings and MamásLatinas, Expanding Its Parenting and Family Portfolio",
+  "link": "https://www.prnewswire.com/news-releases/evolve-media-acquires-cafemom-littlethings-and-mamaslatinas-expanding-its-parenting-and-family-portfolio-302917210.html",
+  "date": "2026-10-27T13:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "$115M",
+  "title": "TCW Steel City Serves as Joint Lead Arranger, Administrative Agent on $115 Million Acquisition Financing for Revenew International LLC",
+  "link": "https://www.prnewswire.com/news-releases/tcw-steel-city-serves-as-joint-lead-arranger-administrative-agent-on-115-million-acquisition-financing-for-revenew-international-llc-302920564.html",
+  "date": "2026-10-27T13:05:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Financial Plus Credit Union and Monroe Community Credit Union Announce Intent to Merge",
+  "link": "https://www.prnewswire.com/news-releases/financial-plus-credit-union-and-monroe-community-credit-union-announce-intent-to-merge-302919996.html",
+  "date": "2026-10-27T13:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "EDGE Acquires Harvest Blade, Strengthens its Resharpening Expertise",
+  "link": "https://www.prnewswire.com/news-releases/edge-acquires-harvest-blade-strengthens-its-resharpening-expertise-302920686.html",
+  "date": "2026-10-27T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "UFP Packaging Expands Gulf Coast Pallet Network with Acquisition of Apache Products",
+  "link": "https://www.prnewswire.com/news-releases/ufp-packaging-expands-gulf-coast-pallet-network-with-acquisition-of-apache-products-302920739.html",
+  "date": "2026-10-27T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Odeko Acquires Nantel McDiarmid in First Cross-Border Transaction",
+  "link": "https://www.prnewswire.com/news-releases/odeko-acquires-nantel-mcdiarmid-in-first-cross-border-transaction-302920051.html",
+  "date": "2026-10-27T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Shrieve Chemical Company Acquires Clear Solutions",
+  "link": "https://www.prnewswire.com/news-releases/shrieve-chemical-company-acquires-clear-solutions-302919944.html",
+  "date": "2026-10-27T12:57:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
+  "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-27T11:24:00Z"
  },
  {
   "src": "PR Newswire",
@@ -31,22 +121,22 @@
  },
  {
   "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BCE announces partnership with La Caisse, which will acquire 49.9% stake in Bell wireless tower infrastructure company",
-  "link": "https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html",
-  "date": "2026-10-27T10:30:00Z"
- },
- {
-  "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
   "title": "Vertiv Completes Acquisition of UtilityInnovation Group",
   "link": "https://www.prnewswire.com/news-releases/vertiv-completes-acquisition-of-utilityinnovation-group-302919810.html",
+  "date": "2026-10-27T10:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Telecom & Media",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "BCE announces partnership with La Caisse, which will acquire 49.9% stake in Bell wireless tower infrastructure company",
+  "link": "https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html",
   "date": "2026-10-27T10:30:00Z"
  },
  {
@@ -88,95 +178,5 @@
   "title": "Apollo, TPG and Blackstone held preliminary buyout talks with Universal Music",
   "link": "https://www.privateequitywire.co.uk/apollo-tpg-and-blackstone-held-preliminary-buyout-talks-with-universal-music/",
   "date": "2026-10-27T09:58:13Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "$5B",
-  "title": "Apollo to acquire minority stake in Mubadala Capital alongside $5bn investment commitment",
-  "link": "https://www.privateequitywire.co.uk/apollo-to-acquire-minority-stake-in-mubadala-capital-alongside-5bn-investment-commitment/",
-  "date": "2026-10-27T09:47:21Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Technology",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "European Chip Stocks Rise as Anthropic’s IPO Prospectus Reinvigorates AI Trade",
-  "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-chip-related-stocks-a902969d?mod=rss_markets_main",
-  "date": "2026-10-27T09:29:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
-  "link": "https://www.wsj.com/business/deals/tata-motors-clears-key-hurdle-in-iveco-takeover-as-shareholders-back-buyout-807f59ac?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-27T08:12:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Valmet to acquire leading manufacturing execution system (MES) business from Tieto to accelerate industrial transition towards autonomous operations",
-  "link": "https://www.prnewswire.com/news-releases/valmet-to-acquire-leading-manufacturing-execution-system-mes-business-from-tieto-to-accelerate-industrial-transition-towards-autonomous-operations-302920375.html",
-  "date": "2026-10-27T06:59:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$63B",
-  "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
-  "link": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
-  "date": "2026-10-27T01:09:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "PlayPower and BCI Burke Announce Mutual Termination of Merger Agreement",
-  "link": "https://www.prnewswire.com/news-releases/playpower-and-bci-burke-announce-mutual-termination-of-merger-agreement-302919967.html",
-  "date": "2026-10-26T22:07:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "FF EAI Robotics Ecosystem (FFR) Completes Acquisition of FFAI Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform October Robot Sales Expected to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots",
-  "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-ffr-completes-acquisition-of-ffai-robotics-business-establishing-a-nasdaq-listed-humanoid-and-bionic-robotics-platform-october-robot-sales-expected-to-exceed-300-units-unveils-ff-omnimind-a-unified-a-302919898.html",
-  "date": "2026-10-26T21:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Blue Moon Announces the Signing of the Refurbishment Contract for the Springer Mill, Engages with Wood Group and Acquires Accommodations for Springer Site",
-  "link": "https://www.prnewswire.com/news-releases/blue-moon-announces-the-signing-of-the-refurbishment-contract-for-the-springer-mill-engages-with-wood-group-and-acquires-accommodations-for-springer-site-302919900.html",
-  "date": "2026-10-26T20:53:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Some Observations About Anthropic’s IPO Filing",
-  "link": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
-  "date": "2026-10-26T20:10:57Z"
  }
 ]
