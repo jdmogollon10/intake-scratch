@@ -1,143 +1,23 @@
 [
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "UFP Industries Expands Pallet Manufacturing Network Through Acquisition of Apache Products",
-  "link": "https://www.prnewswire.com/news-releases/ufp-industries-expands-pallet-manufacturing-network-through-acquisition-of-apache-products-302919525.html",
-  "date": "2026-10-26T16:45:00Z"
+  "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
+  "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-27T11:24:00Z"
  },
  {
   "src": "WSJ",
-  "type": "Take-Private",
-  "industry": "—",
-  "region": "—",
-  "value": "$5.7B",
-  "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
-  "link": "https://www.wsj.com/pro/private-equity/bon-secours-affiliate-to-acquire-surgery-partners-in-5-7-billion-take-private-deal-10321162?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-26T16:40:00Z"
- },
- {
-  "src": "IPOScoop",
   "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: Anthropic (ANT Proposed) Files its S-1",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/",
-  "date": "2026-10-26T15:36:45Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "FF EAI Robotics Ecosystem Completed its Acquisition of the Robotics Business of Faraday Future, Establish Nasdaq-Listed Humanoid and Bionic Robotics Platform",
-  "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-completed-its-acquisition-of-the-robotics-business-of-faraday-future-establish-nasdaq-listed-humanoid-and-bionic-robotics-platform-302919475.html",
-  "date": "2026-10-26T15:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The Partner Companies Acquires F&B MFG, Strengthening Precision Metal Forming Capabilities for Aerospace and Defense",
-  "link": "https://www.prnewswire.com/news-releases/the-partner-companies-acquires-fb-mfg-strengthening-precision-metal-forming-capabilities-for-aerospace-and-defense-302919477.html",
-  "date": "2026-10-26T15:04:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Umios to Acquire High Liner Foods, Creating a Vertically Integrated Global Protein Leader",
-  "link": "https://www.prnewswire.com/news-releases/umios-to-acquire-high-liner-foods-creating-a-vertically-integrated-global-protein-leader-302919419.html",
-  "date": "2026-10-26T14:09:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Clio Acquires Horizon Scanning Platform, Page",
-  "link": "https://www.prnewswire.com/news-releases/clio-acquires-horizon-scanning-platform-page-302918936.html",
-  "date": "2026-10-26T13:30:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$150M",
-  "title": "The IPO Buzz: Aspen Neuroscience (ASPE Proposed) Sets Terms for $150 Million IPO",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-aspen-neuroscience-aspe-proposed-sets-terms-for-150-million-ipo/",
-  "date": "2026-10-26T13:20:54Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Modular Housing Manufacturer MMY US acquired by UK-based Reds10 Group",
-  "link": "https://www.prnewswire.com/news-releases/modular-housing-manufacturer-mmy-us-acquired-by-uk-based-reds10-group-302918806.html",
-  "date": "2026-10-26T13:03:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Katalyst Acquires Bluetowne, Expanding Cybersecurity, Cloud, and Infrastructure Capabilities",
-  "link": "https://www.prnewswire.com/news-releases/katalyst-acquires-bluetowne-expanding-cybersecurity-cloud-and-infrastructure-capabilities-302918823.html",
-  "date": "2026-10-26T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CopperPoint Completes Acquisition of General Indemnity Group, Expanding Nationwide Surety and Specialty Insurance Capabilities",
-  "link": "https://www.prnewswire.com/news-releases/copperpoint-completes-acquisition-of-general-indemnity-group-expanding-nationwide-surety-and-specialty-insurance-capabilities-302918946.html",
-  "date": "2026-10-26T12:36:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$150M",
-  "title": "The IPO Buzz: Bambusa Therapeutics (BBTX Proposed) Launches $150 Million IPO",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-bambusa-therapeutics-bbtx-proposed-launches-150-million-ipo/",
-  "date": "2026-10-26T12:01:19Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "S&P Global Completes Acquisition of OpenZeppelin",
-  "link": "https://www.prnewswire.com/news-releases/sp-global-completes-acquisition-of-openzeppelin-302919305.html",
-  "date": "2026-10-26T12:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
   "industry": "—",
   "region": "US",
   "value": "Undisclosed",
-  "title": "CALIFORNIA CUSTOM FRUITS & FLAVORS ACQUIRES THE CUSTOM NUTRITIONAL INGREDIENTS DIVISION OF SKJODT-BARRETT FOODS",
-  "link": "https://www.prnewswire.com/news-releases/california-custom-fruits--flavors-acquires-the-custom-nutritional-ingredients-division-of-skjodt-barrett-foods-302918387.html",
-  "date": "2026-10-26T12:00:00Z"
+  "title": "General Motors Moving Stock Listing to Nasdaq From NYSE",
+  "link": "https://www.wsj.com/finance/stocks/general-motors-moving-stock-listing-to-nasdaq-from-nyse-fbc36f02?mod=rss_markets_main",
+  "date": "2026-10-27T11:10:00Z"
  },
  {
   "src": "PR Newswire",
@@ -145,9 +25,19 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "High Liner Foods Enters into Agreement to Be Acquired by Umios for C$27.00 per Share in Cash",
-  "link": "https://www.prnewswire.com/news-releases/high-liner-foods-enters-into-agreement-to-be-acquired-by-umios-for-c27-00-per-share-in-cash-302919282.html",
-  "date": "2026-10-26T11:11:00Z"
+  "title": "Guidewire Signs Definitive Agreement to Acquire hyperexponential",
+  "link": "https://www.prnewswire.com/news-releases/guidewire-signs-definitive-agreement-to-acquire-hyperexponential-302920513.html",
+  "date": "2026-10-27T11:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Telecom & Media",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "BCE announces partnership with La Caisse, which will acquire 49.9% stake in Bell wireless tower infrastructure company",
+  "link": "https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html",
+  "date": "2026-10-27T10:30:00Z"
  },
  {
   "src": "PR Newswire",
@@ -155,28 +45,138 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Zafin signe un accord définitif en vue de l'acquisition de Naehas",
-  "link": "https://www.prnewswire.com/news-releases/zafin-signe-un-accord-definitif-en-vue-de-lacquisition-de-naehas-302918821.html",
-  "date": "2026-10-26T11:00:00Z"
+  "title": "Vertiv Completes Acquisition of UtilityInnovation Group",
+  "link": "https://www.prnewswire.com/news-releases/vertiv-completes-acquisition-of-utilityinnovation-group-302919810.html",
+  "date": "2026-10-27T10:30:00Z"
  },
  {
-  "src": "PR Newswire",
+  "src": "WSJ",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Zafin signs definitive agreement to acquire Naehas",
-  "link": "https://www.prnewswire.com/news-releases/zafin-signs-definitive-agreement-to-acquire-naehas-302918709.html",
-  "date": "2026-10-26T11:00:00Z"
+  "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
+  "link": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
+  "date": "2026-10-27T10:26:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Inside the 11th-Hour Scramble to Save Anthropic’s Debt Deal",
+  "link": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-27T10:05:00Z"
  },
  {
   "src": "PE Wire",
-  "type": "Take-Private",
+  "type": "Financing",
+  "industry": "Real Estate",
+  "region": "—",
+  "value": "$1.9B",
+  "title": "Former Blackstone executive’s Town Lane raises $1.9bn for second real estate fund",
+  "link": "https://www.privateequitywire.co.uk/former-blackstone-executives-town-lane-raises-1-9bn-for-second-real-estate-fund/",
+  "date": "2026-10-27T10:01:44Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "$6B",
-  "title": "Bain Capital to retain 40% stake in $6bn Surgery Partners take-private",
-  "link": "https://www.privateequitywire.co.uk/bain-capital-to-retain-40-stake-in-6bn-surgery-partners-take-private/",
-  "date": "2026-10-26T10:52:07Z"
+  "value": "Undisclosed",
+  "title": "Apollo, TPG and Blackstone held preliminary buyout talks with Universal Music",
+  "link": "https://www.privateequitywire.co.uk/apollo-tpg-and-blackstone-held-preliminary-buyout-talks-with-universal-music/",
+  "date": "2026-10-27T09:58:13Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "$5B",
+  "title": "Apollo to acquire minority stake in Mubadala Capital alongside $5bn investment commitment",
+  "link": "https://www.privateequitywire.co.uk/apollo-to-acquire-minority-stake-in-mubadala-capital-alongside-5bn-investment-commitment/",
+  "date": "2026-10-27T09:47:21Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "European Chip Stocks Rise as Anthropic’s IPO Prospectus Reinvigorates AI Trade",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-chip-related-stocks-a902969d?mod=rss_markets_main",
+  "date": "2026-10-27T09:29:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
+  "link": "https://www.wsj.com/business/deals/tata-motors-clears-key-hurdle-in-iveco-takeover-as-shareholders-back-buyout-807f59ac?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-27T08:12:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Valmet to acquire leading manufacturing execution system (MES) business from Tieto to accelerate industrial transition towards autonomous operations",
+  "link": "https://www.prnewswire.com/news-releases/valmet-to-acquire-leading-manufacturing-execution-system-mes-business-from-tieto-to-accelerate-industrial-transition-towards-autonomous-operations-302920375.html",
+  "date": "2026-10-27T06:59:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$63B",
+  "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+  "link": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
+  "date": "2026-10-27T01:09:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "PlayPower and BCI Burke Announce Mutual Termination of Merger Agreement",
+  "link": "https://www.prnewswire.com/news-releases/playpower-and-bci-burke-announce-mutual-termination-of-merger-agreement-302919967.html",
+  "date": "2026-10-26T22:07:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "FF EAI Robotics Ecosystem (FFR) Completes Acquisition of FFAI Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform October Robot Sales Expected to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots",
+  "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-ffr-completes-acquisition-of-ffai-robotics-business-establishing-a-nasdaq-listed-humanoid-and-bionic-robotics-platform-october-robot-sales-expected-to-exceed-300-units-unveils-ff-omnimind-a-unified-a-302919898.html",
+  "date": "2026-10-26T21:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Blue Moon Announces the Signing of the Refurbishment Contract for the Springer Mill, Engages with Wood Group and Acquires Accommodations for Springer Site",
+  "link": "https://www.prnewswire.com/news-releases/blue-moon-announces-the-signing-of-the-refurbishment-contract-for-the-springer-mill-engages-with-wood-group-and-acquires-accommodations-for-springer-site-302919900.html",
+  "date": "2026-10-26T20:53:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Some Observations About Anthropic’s IPO Filing",
+  "link": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+  "date": "2026-10-26T20:10:57Z"
  }
 ]
