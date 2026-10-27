@@ -1,84 +1,80 @@
 {
  "status": "live",
- "session": "Monday, October 26, 2026",
- "builtAt": "2026-10-26T11:35:30Z",
+ "session": "Tuesday, October 27, 2026",
+ "builtAt": "2026-10-27T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,623.68",
-   "c": "-0.52% Fri",
-   "dir": "down"
+   "v": "7,676.77",
+   "c": "+0.70% Mon",
+   "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "25,955.34",
-   "c": "-0.21% Fri",
-   "dir": "down"
+   "v": "26,169.38",
+   "c": "+0.82% Mon",
+   "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "52,215.16",
-   "c": "-1.23% Fri",
-   "dir": "down"
+   "v": "52,361.58",
+   "c": "+0.28% Mon",
+   "dir": "up"
   }
  ],
- "tapeLine": "Friday 23 October closed lower: S&amp;P 500 -0.52% to 7,623.68, Nasdaq -0.21% to 25,955.34, Dow -1.23% (652.82 points) to 52,215.16, Russell 2000 -0.29% to 2,775.90, per the AP-style index recap (23 Oct). Monday futures levels were not found.",
- "matters": "<p>Oil, not tech, drove Friday: WTI crude rose above $100 a barrel on fears the U.S.-Iran conflict could flare again; energy was the only clear sector winner while consumer, telecom and financial shares lagged, per the 23 Oct index recap.</p><p>Tech steadied after Thursday&rsquo;s sell-off: the Philadelphia Semiconductor Index rose 0.44% to 10,779.46. American Express fell more than 3% after announcing about 5% of its global workforce would be cut, per the same recap.</p><p>For the week the S&amp;P 500 lost about 0.5%, the Nasdaq about 0.7% (a second straight weekly loss) and the Dow gained about 0.4%.</p><p><b>Invalidation:</b> the S&amp;P 500 closed below Tuesday&rsquo;s 7,712.57 and about 2.4% under its 7,811.54 record close of 9 October; a close back above 7,712.57 would reverse that read.</p>",
+ "tapeLine": "Monday 26 October closed higher: S&amp;P 500 +0.70% (53.09 points) to 7,676.77, Nasdaq +0.82% to 26,169.38, Dow +0.28% (146.42 points) to 52,361.58, Russell 2000 +0.4% to 2,786.42, per the AP-style index recap (26 Oct). Tuesday futures levels were not confirmed; one report described them as mixed.",
+ "matters": "<p>AI sentiment drove Monday&rsquo;s rebound: reports tied the gains to Anthropic&rsquo;s IPO filing lifting tech, with many parts of the market participating, per CNBC&rsquo;s live coverage (26 Oct).</p><p>The Fed meets 27-28 October and is widely expected to hold rates; fed-funds futures priced only a 9.4% chance of a 25bp hike, per the same coverage. Microsoft, Alphabet and Amazon report later this week.</p><p>Year to date through Monday: S&amp;P 500 +12.1%, Nasdaq +12.6%, Dow +8.9%, Russell 2000 +12.3%, per the AP-style recap. Outlets differ by a few points on the Dow close.</p><p><b>Invalidation:</b> the S&amp;P 500 remains below Tuesday 20 October&rsquo;s 7,712.57 close and about 1.7% under its 7,811.54 record close of 9 October; a close above 7,712.57 would reverse that read.</p>",
  "calendar": [],
- "alsoOnTape": "Gold, Treasury yield and VIX levels were not found with a dated source and are not carried. WTI was reported above $100 on Friday; no exact settle was found.",
+ "alsoOnTape": "Gold and VIX levels were not found with a dated source and are not carried. Oil and 10-year yield figures appeared only in an undated secondary summary and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Friday 23 October: S&amp;P 500 7,623.68 (-0.52%), Nasdaq 25,955.34 (-0.21%), Dow 52,215.16 (-1.23%). Monday futures not found.",
-  "<b>Oil</b> &mdash; WTI above $100 a barrel on renewed U.S.-Iran escalation fears, per the 23 Oct recap."
+  "<b>Latest confirmed close</b> &mdash; Monday 26 October: S&amp;P 500 7,676.77 (+0.70%), Nasdaq 26,169.38 (+0.82%), Dow 52,361.58 (+0.28%). Tuesday futures reported mixed; no levels confirmed."
  ],
  "deals": [],
  "macro": [
-  "<b>Fed</b> &mdash; The 27-28 October FOMC is the next scheduled Fed event, per the prior brief; no data release for Monday was confirmed."
+  "<b>Fed</b> &mdash; FOMC meets 27-28 October; a hold is widely expected, with futures pricing a 9.4% chance of a 25bp increase, per CNBC live coverage (26 Oct).",
+  "<b>Earnings</b> &mdash; Microsoft, Alphabet and Amazon are due to report later this week, per the same coverage."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "The week ended with a rotation of pressure: Thursday&rsquo;s tech sell-off paused (semiconductors +0.44%) but the Dow fell 1.23% as oil climbed above $100 on U.S.-Iran fears.",
-  "sizing": "The 27-28 October FOMC is the next scheduled catalyst; oil headlines are an unscheduled one."
+  "tag": "Monday reversed Friday&rsquo;s drop: all three indexes rose on AI sentiment, with the Nasdaq leading, while the S&amp;P 500 stays below its 20 October close.",
+  "sizing": "The FOMC decision (28 October) and big-tech earnings later this week are the scheduled catalysts."
  },
  "watchlist": [],
- "secondOrder": "The source of pressure changed within a day: Thursday&rsquo;s weakness was AI-cost driven and hit the Nasdaq; Friday&rsquo;s was energy-cost driven and hit the Dow. That is an observation, not a forecast.",
+ "secondOrder": "The driver flipped again: Friday&rsquo;s pressure came from energy costs and hit the Dow; Monday&rsquo;s relief came from AI sentiment and favoured the Nasdaq. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The open question of whether the S&amp;P 500 would reclaim Tuesday&rsquo;s 7,712.57 was answered no: it closed Friday at 7,623.68, per the 23 Oct recap."
+   "text": "The prior brief&rsquo;s invalidation level held: the S&amp;P 500 closed Monday at 7,676.77, still below 7,712.57, per the 26 Oct recap."
   },
   {
    "verdict": "wrong",
-   "text": "The prior brief&rsquo;s framing of the Dow as the steady index (flat Thursday) did not carry: it fell 1.23% on Friday, the worst of the three."
-  },
-  {
-   "verdict": "right",
-   "text": "The prior note that the sell-off was AI-cost specific held up in part: semiconductors stopped falling (+0.44%) once oil became the driver."
+   "text": "The prior brief framed oil as the current driver (&ldquo;a rotation of pressure&rdquo;); Monday&rsquo;s move was attributed to AI sentiment instead, with the Nasdaq leading and the Dow lagging."
   },
   {
    "verdict": "open",
-   "text": "Whether yields kept falling after the PPI print still cannot be graded: no sourced yield levels were found."
+   "text": "Whether yields kept falling after the PPI print still cannot be graded: no dated, sourced yield levels were found."
   },
   {
    "verdict": "open",
-   "text": "The 27-28 October FOMC has not occurred."
+   "text": "The 27-28 October FOMC has not concluded; the decision is due 28 October."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "How major US stock indexes fared Friday 10/23/2026 (Yahoo Finance)",
-   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
+   "label": "How major US stock indexes fared Monday 10/26/2026 (WTOP)",
+   "url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-26-2026"
   },
   {
-   "label": "Spokesman-Review — Dow, S&P 500 fall, tech steadies to end rocky week (23 Oct)",
-   "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
+   "label": "How major US stock indexes fared Monday 10/26/2026 (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201302392.html"
   },
   {
-   "label": "Korea Times — Wall Street sinks as Nasdaq falls over 2% on AI cost worries (23 Oct)",
-   "url": "https://www.koreatimes.co.kr/world/20261023/wall-street-sinks-as-nasdaq-falls-over-2-on-ai-cost-worries"
+   "label": "CNBC — Stocks close higher as excitement over Anthropic IPO filing propels tech sector: Live updates",
+   "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
   }
  ]
 }
