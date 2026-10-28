@@ -1,5 +1,145 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "$9B",
+  "title": "GE Vernova to Buy High-Voltage Grid Equipment Manufacturer for $9 Billion",
+  "link": "https://www.wsj.com/business/energy-oil/ge-vernova-to-buy-high-voltage-grid-equipment-manufacturer-for-9-billion-b29dd2ef?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-28T10:47:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$2B",
+  "title": "I Squared Capital nears $2bn acquisition of F-35 supplier Orizon",
+  "link": "https://www.privateequitywire.co.uk/i-squared-capital-nears-2bn-acquisition-of-f-35-supplier-orizon/",
+  "date": "2026-10-28T10:16:12Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$2.6B",
+  "title": "Ares Capital to acquire Apollo’s MidCap Financial in $2.6bn deal",
+  "link": "https://www.privateequitywire.co.uk/ares-capital-to-acquire-apollos-midcap-financial-in-2-6bn-deal/",
+  "date": "2026-10-28T10:11:19Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$30B",
+  "title": "Advent raises $30bn across flagship buyout and mid-market funds",
+  "link": "https://www.privateequitywire.co.uk/advent-raises-30bn-across-flagship-buyout-and-mid-market-funds/",
+  "date": "2026-10-28T10:04:35Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Patrick Industries, Inc. Reaffirms Merger Agreement with LCI Industries",
+  "link": "https://www.prnewswire.com/news-releases/patrick-industries-inc-reaffirms-merger-agreement-with-lci-industries-302921983.html",
+  "date": "2026-10-28T10:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Oddball Announces Acquisition of Synaptic",
+  "link": "https://www.prnewswire.com/news-releases/oddball-announces-acquisition-of-synaptic-302921372.html",
+  "date": "2026-10-28T10:00:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "$1.4B",
+  "title": "Advent-backed Firehawk Defense valued at $1.4bn after $150m funding round",
+  "link": "https://www.privateequitywire.co.uk/advent-backed-firehawk-defense-valued-at-1-4bn-after-150m-funding-round/",
+  "date": "2026-10-28T09:58:29Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Consumer",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "A. O. Smith Announces Majority Interest of China Business Acquired by CPE; A. O. Smith to Retain 19% Stake and Long-Term Brand License",
+  "link": "https://www.prnewswire.com/news-releases/a-o-smith-announces-majority-interest-of-china-business-acquired-by-cpe-a-o-smith-to-retain-19-stake-and-long-term-brand-license-302921444.html",
+  "date": "2026-10-28T00:55:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Western Microsurgical Announces Acquisitions of Q Surgical and Proficient Surgical",
+  "link": "https://www.prnewswire.com/news-releases/western-microsurgical-announces-acquisitions-of-q-surgical-and-proficient-surgical-302921316.html",
+  "date": "2026-10-27T21:21:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ALAMO GROUP ANNOUNCES ACQUISITION OF ECON ENGINEERING",
+  "link": "https://www.prnewswire.com/news-releases/alamo-group-announces-acquisition-of-econ-engineering-302921217.html",
+  "date": "2026-10-27T20:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Tetragon Financial Group Limited Announcement of Dividend and Intention to Conduct Tender Offer",
+  "link": "https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-announcement-of-dividend-and-intention-to-conduct-tender-offer-302921156.html",
+  "date": "2026-10-27T19:14:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$63B",
+  "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+  "link": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
+  "date": "2026-10-27T17:50:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Dotwork Acquires Arcario Group to Accelerate Adoption of Its AI-Native Enterprise Operating Platform",
+  "link": "https://www.prnewswire.com/news-releases/dotwork-acquires-arcario-group-to-accelerate-adoption-of-its-ai-native-enterprise-operating-platform-302921095.html",
+  "date": "2026-10-27T17:25:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "US WorldMeds Acquires Orbus Therapeutics, Expanding Commitment to Rare Diseases and Advancing Eflornithine in Adult Malignant Glioma",
+  "link": "https://www.prnewswire.com/news-releases/us-worldmeds-acquires-orbus-therapeutics-expanding-commitment-to-rare-diseases-and-advancing-eflornithine-in-adult-malignant-glioma-302921067.html",
+  "date": "2026-10-27T17:00:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -8,26 +148,6 @@
   "title": "HuFriedyGroup Signs Agreement to Acquire Mectron's Dental Business",
   "link": "https://www.prnewswire.com/news-releases/hufriedygroup-signs-agreement-to-acquire-mectrons-dental-business-302920950.html",
   "date": "2026-10-27T15:34:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "With the Anthropic IPO, the devil is in the details",
-  "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-  "date": "2026-10-27T15:03:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "General Motors Moving Stock Listing to Nasdaq From NYSE",
-  "link": "https://www.wsj.com/finance/stocks/general-motors-moving-stock-listing-to-nasdaq-from-nyse-fbc36f02?mod=rss_markets_main",
-  "date": "2026-10-27T14:54:00Z"
  },
  {
   "src": "PR Newswire",
@@ -58,125 +178,5 @@
   "title": "Financial Plus Credit Union and Monroe Community Credit Union Announce Intent to Merge",
   "link": "https://www.prnewswire.com/news-releases/financial-plus-credit-union-and-monroe-community-credit-union-announce-intent-to-merge-302919996.html",
   "date": "2026-10-27T13:01:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "EDGE Acquires Harvest Blade, Strengthens its Resharpening Expertise",
-  "link": "https://www.prnewswire.com/news-releases/edge-acquires-harvest-blade-strengthens-its-resharpening-expertise-302920686.html",
-  "date": "2026-10-27T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "UFP Packaging Expands Gulf Coast Pallet Network with Acquisition of Apache Products",
-  "link": "https://www.prnewswire.com/news-releases/ufp-packaging-expands-gulf-coast-pallet-network-with-acquisition-of-apache-products-302920739.html",
-  "date": "2026-10-27T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Odeko Acquires Nantel McDiarmid in First Cross-Border Transaction",
-  "link": "https://www.prnewswire.com/news-releases/odeko-acquires-nantel-mcdiarmid-in-first-cross-border-transaction-302920051.html",
-  "date": "2026-10-27T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Shrieve Chemical Company Acquires Clear Solutions",
-  "link": "https://www.prnewswire.com/news-releases/shrieve-chemical-company-acquires-clear-solutions-302919944.html",
-  "date": "2026-10-27T12:57:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
-  "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-27T11:24:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Guidewire Signs Definitive Agreement to Acquire hyperexponential",
-  "link": "https://www.prnewswire.com/news-releases/guidewire-signs-definitive-agreement-to-acquire-hyperexponential-302920513.html",
-  "date": "2026-10-27T11:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Vertiv Completes Acquisition of UtilityInnovation Group",
-  "link": "https://www.prnewswire.com/news-releases/vertiv-completes-acquisition-of-utilityinnovation-group-302919810.html",
-  "date": "2026-10-27T10:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BCE announces partnership with La Caisse, which will acquire 49.9% stake in Bell wireless tower infrastructure company",
-  "link": "https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html",
-  "date": "2026-10-27T10:30:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
-  "link": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
-  "date": "2026-10-27T10:26:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Inside the 11th-Hour Scramble to Save Anthropic’s Debt Deal",
-  "link": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-27T10:05:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "Real Estate",
-  "region": "—",
-  "value": "$1.9B",
-  "title": "Former Blackstone executive’s Town Lane raises $1.9bn for second real estate fund",
-  "link": "https://www.privateequitywire.co.uk/former-blackstone-executives-town-lane-raises-1-9bn-for-second-real-estate-fund/",
-  "date": "2026-10-27T10:01:44Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Apollo, TPG and Blackstone held preliminary buyout talks with Universal Music",
-  "link": "https://www.privateequitywire.co.uk/apollo-tpg-and-blackstone-held-preliminary-buyout-talks-with-universal-music/",
-  "date": "2026-10-27T09:58:13Z"
  }
 ]
