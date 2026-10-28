@@ -1,13 +1,153 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Transpharmation Ltd. annonce l'acquisition stratégique d'OrganoTherapeutics SARL",
+  "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-annonce-lacquisition-strategique-dorganotherapeutics-sarl-302922447.html",
+  "date": "2026-10-28T16:42:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "NUMERICA CREDIT UNION AND SELCO COMMUNITY CREDIT UNION ANNOUNCE MERGER OF EQUALS",
+  "link": "https://www.prnewswire.com/news-releases/numerica-credit-union-and-selco-community-credit-union-announce-merger-of-equals-302922066.html",
+  "date": "2026-10-28T16:35:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
+  "link": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
+  "date": "2026-10-28T16:13:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Dallas-Fort Worth Entrepreneurs Invest in Locally Owned MetroScape Landscape",
+  "link": "https://www.prnewswire.com/news-releases/dallasfort-worth-entrepreneurs-invest-in-locally-owned-metroscape-landscape-302922355.html",
+  "date": "2026-10-28T15:35:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Platinum Equity to Acquire EDP",
+  "link": "https://www.prnewswire.com/news-releases/platinum-equity-to-acquire-edp-302922315.html",
+  "date": "2026-10-28T15:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Real Estate",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "Keyrenter Indianapolis North Acquires J & J Property Services, Expanding Its Reach Across Carmel, Westfield and Zionsville",
+  "link": "https://www.prnewswire.com/news-releases/keyrenter-indianapolis-north-acquires-j--j-property-services-expanding-its-reach-across-carmel-westfield-and-zionsville-302922288.html",
+  "date": "2026-10-28T14:29:00Z"
+ },
+ {
   "src": "WSJ",
   "type": "M&A",
-  "industry": "Industrials",
+  "industry": "Energy",
   "region": "—",
   "value": "$9B",
-  "title": "GE Vernova to Buy High-Voltage Grid Equipment Manufacturer for $9 Billion",
+  "title": "GE Vernova to Buy Grid-Equipment Manufacturer for $9 Billion as Energy Demand Grows",
   "link": "https://www.wsj.com/business/energy-oil/ge-vernova-to-buy-high-voltage-grid-equipment-manufacturer-for-9-billion-b29dd2ef?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-28T10:47:00Z"
+  "date": "2026-10-28T14:18:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "A&M Capital Completes Strategic Investment in Delta Group",
+  "link": "https://www.prnewswire.com/news-releases/am-capital-completes-strategic-investment-in-delta-group-302922266.html",
+  "date": "2026-10-28T14:04:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Mercedes-Benz to Offer Voluntary Buyouts for Support Staff as Market Worsens",
+  "link": "https://www.wsj.com/business/mercedes-benz-to-accelerate-efficiency-drive-as-market-conditions-worsen-a7d30c4f?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-28T13:47:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Alchemy Technology Group Acquires Freeit Data Solutions, an Austin-Based IT and Cybersecurity Solutions Provider",
+  "link": "https://www.prnewswire.com/news-releases/alchemy-technology-group-acquires-freeit-data-solutions-an-austin-based-it-and-cybersecurity-solutions-provider-302922225.html",
+  "date": "2026-10-28T13:36:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.4B",
+  "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+  "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-28T13:11:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$28M",
+  "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
+  "link": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
+  "date": "2026-10-28T12:00:48Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Transpharmation Ltd. Announces Strategic Acquisition of OrganoTherapeutics SARL",
+  "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-announces-strategic-acquisition-of-organotherapeutics-sarl-302921332.html",
+  "date": "2026-10-28T12:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CET Energy Solutions Accelerates Growth with Four Acquisitions Across Three States",
+  "link": "https://www.prnewswire.com/news-releases/cet-energy-solutions-accelerates-growth-with-four-acquisitions-across-three-states-302921629.html",
+  "date": "2026-10-28T12:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "EVERSANA Expands Global Commercialization and AI-Powered HEOR Capabilities with Acquisition of U.K.-based Estima Scientific",
+  "link": "https://www.prnewswire.com/news-releases/eversana-expands-global-commercialization-and-ai-powered-heor-capabilities-with-acquisition-of-uk-based-estima-scientific-302921421.html",
+  "date": "2026-10-28T11:58:00Z"
  },
  {
   "src": "PE Wire",
@@ -38,145 +178,5 @@
   "title": "Advent raises $30bn across flagship buyout and mid-market funds",
   "link": "https://www.privateequitywire.co.uk/advent-raises-30bn-across-flagship-buyout-and-mid-market-funds/",
   "date": "2026-10-28T10:04:35Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Patrick Industries, Inc. Reaffirms Merger Agreement with LCI Industries",
-  "link": "https://www.prnewswire.com/news-releases/patrick-industries-inc-reaffirms-merger-agreement-with-lci-industries-302921983.html",
-  "date": "2026-10-28T10:03:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Oddball Announces Acquisition of Synaptic",
-  "link": "https://www.prnewswire.com/news-releases/oddball-announces-acquisition-of-synaptic-302921372.html",
-  "date": "2026-10-28T10:00:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "$1.4B",
-  "title": "Advent-backed Firehawk Defense valued at $1.4bn after $150m funding round",
-  "link": "https://www.privateequitywire.co.uk/advent-backed-firehawk-defense-valued-at-1-4bn-after-150m-funding-round/",
-  "date": "2026-10-28T09:58:29Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Consumer",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "A. O. Smith Announces Majority Interest of China Business Acquired by CPE; A. O. Smith to Retain 19% Stake and Long-Term Brand License",
-  "link": "https://www.prnewswire.com/news-releases/a-o-smith-announces-majority-interest-of-china-business-acquired-by-cpe-a-o-smith-to-retain-19-stake-and-long-term-brand-license-302921444.html",
-  "date": "2026-10-28T00:55:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Western Microsurgical Announces Acquisitions of Q Surgical and Proficient Surgical",
-  "link": "https://www.prnewswire.com/news-releases/western-microsurgical-announces-acquisitions-of-q-surgical-and-proficient-surgical-302921316.html",
-  "date": "2026-10-27T21:21:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ALAMO GROUP ANNOUNCES ACQUISITION OF ECON ENGINEERING",
-  "link": "https://www.prnewswire.com/news-releases/alamo-group-announces-acquisition-of-econ-engineering-302921217.html",
-  "date": "2026-10-27T20:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Tetragon Financial Group Limited Announcement of Dividend and Intention to Conduct Tender Offer",
-  "link": "https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-announcement-of-dividend-and-intention-to-conduct-tender-offer-302921156.html",
-  "date": "2026-10-27T19:14:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$63B",
-  "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
-  "link": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
-  "date": "2026-10-27T17:50:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Dotwork Acquires Arcario Group to Accelerate Adoption of Its AI-Native Enterprise Operating Platform",
-  "link": "https://www.prnewswire.com/news-releases/dotwork-acquires-arcario-group-to-accelerate-adoption-of-its-ai-native-enterprise-operating-platform-302921095.html",
-  "date": "2026-10-27T17:25:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "US WorldMeds Acquires Orbus Therapeutics, Expanding Commitment to Rare Diseases and Advancing Eflornithine in Adult Malignant Glioma",
-  "link": "https://www.prnewswire.com/news-releases/us-worldmeds-acquires-orbus-therapeutics-expanding-commitment-to-rare-diseases-and-advancing-eflornithine-in-adult-malignant-glioma-302921067.html",
-  "date": "2026-10-27T17:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "HuFriedyGroup Signs Agreement to Acquire Mectron's Dental Business",
-  "link": "https://www.prnewswire.com/news-releases/hufriedygroup-signs-agreement-to-acquire-mectrons-dental-business-302920950.html",
-  "date": "2026-10-27T15:34:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Evolve Media Acquires CafeMom, LittleThings and MamásLatinas, Expanding Its Parenting and Family Portfolio",
-  "link": "https://www.prnewswire.com/news-releases/evolve-media-acquires-cafemom-littlethings-and-mamaslatinas-expanding-its-parenting-and-family-portfolio-302917210.html",
-  "date": "2026-10-27T13:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "$115M",
-  "title": "TCW Steel City Serves as Joint Lead Arranger, Administrative Agent on $115 Million Acquisition Financing for Revenew International LLC",
-  "link": "https://www.prnewswire.com/news-releases/tcw-steel-city-serves-as-joint-lead-arranger-administrative-agent-on-115-million-acquisition-financing-for-revenew-international-llc-302920564.html",
-  "date": "2026-10-27T13:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Financial Plus Credit Union and Monroe Community Credit Union Announce Intent to Merge",
-  "link": "https://www.prnewswire.com/news-releases/financial-plus-credit-union-and-monroe-community-credit-union-announce-intent-to-merge-302919996.html",
-  "date": "2026-10-27T13:01:00Z"
  }
 ]
