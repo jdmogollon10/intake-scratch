@@ -1,80 +1,80 @@
 {
  "status": "live",
- "session": "Tuesday, October 27, 2026",
- "builtAt": "2026-10-27T12:00:00Z",
+ "session": "Wednesday, October 28, 2026",
+ "builtAt": "2026-10-28T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,676.77",
-   "c": "+0.70% Mon",
+   "v": "7,722.60",
+   "c": "+0.6% Tue",
    "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,169.38",
-   "c": "+0.82% Mon",
+   "v": "26,477.81",
+   "c": "+1.18% Tue",
    "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "52,361.58",
-   "c": "+0.28% Mon",
+   "v": "52,377.57",
+   "c": "+0.03% Tue",
    "dir": "up"
   }
  ],
- "tapeLine": "Monday 26 October closed higher: S&amp;P 500 +0.70% (53.09 points) to 7,676.77, Nasdaq +0.82% to 26,169.38, Dow +0.28% (146.42 points) to 52,361.58, Russell 2000 +0.4% to 2,786.42, per the AP-style index recap (26 Oct). Tuesday futures levels were not confirmed; one report described them as mixed.",
- "matters": "<p>AI sentiment drove Monday&rsquo;s rebound: reports tied the gains to Anthropic&rsquo;s IPO filing lifting tech, with many parts of the market participating, per CNBC&rsquo;s live coverage (26 Oct).</p><p>The Fed meets 27-28 October and is widely expected to hold rates; fed-funds futures priced only a 9.4% chance of a 25bp hike, per the same coverage. Microsoft, Alphabet and Amazon report later this week.</p><p>Year to date through Monday: S&amp;P 500 +12.1%, Nasdaq +12.6%, Dow +8.9%, Russell 2000 +12.3%, per the AP-style recap. Outlets differ by a few points on the Dow close.</p><p><b>Invalidation:</b> the S&amp;P 500 remains below Tuesday 20 October&rsquo;s 7,712.57 close and about 1.7% under its 7,811.54 record close of 9 October; a close above 7,712.57 would reverse that read.</p>",
+ "tapeLine": "Tuesday 27 October closed higher: S&amp;P 500 +0.6% to 7,722.60, Nasdaq +1.18% to 26,477.81, Dow +0.03% (15.99 points) to 52,377.57, per CNBC and TheStreet coverage (27 Oct). Other outlets show S&amp;P 7,722.52 and Dow 52,378.40. Wednesday futures were described as mixed to lower; no levels confirmed.",
+ "matters": "<p>Chips led Tuesday: Broadcom rose about 4% after a bank group and Blackstone announced $63 billion of financing tied to Anthropic&rsquo;s technology purchase, and Anthropic&rsquo;s IPO filing kept lifting tech sentiment, per Yahoo Finance and CNBC coverage (27 Oct). SoFi closed up about 13.4% after beating Q3 estimates and raising guidance (Motley Fool, 27 Oct). Oil slid, per the same coverage.</p><p>The Fed announces its decision Wednesday 28 October and is widely expected to hold. Alphabet and Microsoft report after Wednesday&rsquo;s close; Amazon is due later this week.</p><p><b>Invalidation triggered:</b> the S&amp;P 500 closed above Tuesday 20 October&rsquo;s 7,712.57 close, which the prior brief named as the level that would reverse its read. It is now about 1.1% under its 7,811.54 record close of 9 October.</p>",
  "calendar": [],
- "alsoOnTape": "Gold and VIX levels were not found with a dated source and are not carried. Oil and 10-year yield figures appeared only in an undated secondary summary and are not carried.",
+ "alsoOnTape": "Gold, VIX and 10-year yield levels were not found with a clean dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Monday 26 October: S&amp;P 500 7,676.77 (+0.70%), Nasdaq 26,169.38 (+0.82%), Dow 52,361.58 (+0.28%). Tuesday futures reported mixed; no levels confirmed."
+  "<b>Latest confirmed close</b> &mdash; Tuesday 27 October: S&amp;P 500 7,722.60 (+0.6%), Nasdaq 26,477.81 (+1.18%), Dow 52,377.57 (+0.03%). Wednesday futures reported mixed to lower; no levels confirmed."
  ],
  "deals": [],
  "macro": [
-  "<b>Fed</b> &mdash; FOMC meets 27-28 October; a hold is widely expected, with futures pricing a 9.4% chance of a 25bp increase, per CNBC live coverage (26 Oct).",
-  "<b>Earnings</b> &mdash; Microsoft, Alphabet and Amazon are due to report later this week, per the same coverage."
+  "<b>Fed</b> &mdash; Decision due Wednesday 28 October; a hold is widely expected, per Yahoo Finance and CNBC coverage (27 Oct).",
+  "<b>Earnings</b> &mdash; Alphabet and Microsoft report after Wednesday&rsquo;s close; Amazon later this week, per the same coverage."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Monday reversed Friday&rsquo;s drop: all three indexes rose on AI sentiment, with the Nasdaq leading, while the S&amp;P 500 stays below its 20 October close.",
-  "sizing": "The FOMC decision (28 October) and big-tech earnings later this week are the scheduled catalysts."
+  "tag": "Second straight up day led by the Nasdaq on chip strength; the S&amp;P 500 is back above its 20 October close while the Dow was flat.",
+  "sizing": "The FOMC decision (28 October) and Alphabet and Microsoft results after the close are the scheduled catalysts."
  },
  "watchlist": [],
- "secondOrder": "The driver flipped again: Friday&rsquo;s pressure came from energy costs and hit the Dow; Monday&rsquo;s relief came from AI sentiment and favoured the Nasdaq. That is an observation, not a forecast.",
+ "secondOrder": "Leadership narrowed: the Nasdaq gained 1.18% while the Dow was flat, so the index gains came from tech rather than broad participation. That is an observation, not a forecast.",
  "scorecard": [
   {
-   "verdict": "right",
-   "text": "The prior brief&rsquo;s invalidation level held: the S&amp;P 500 closed Monday at 7,676.77, still below 7,712.57, per the 26 Oct recap."
-  },
-  {
    "verdict": "wrong",
-   "text": "The prior brief framed oil as the current driver (&ldquo;a rotation of pressure&rdquo;); Monday&rsquo;s move was attributed to AI sentiment instead, with the Nasdaq leading and the Dow lagging."
+   "text": "The prior brief&rsquo;s read held only below 7,712.57; the S&amp;P 500 closed Tuesday at 7,722.60, so that read was invalidated."
+  },
+  {
+   "verdict": "right",
+   "text": "The prior brief named the FOMC (27-28 October) and big-tech earnings as the scheduled catalysts; both remain ahead, with Tuesday&rsquo;s move into them led by tech."
   },
   {
    "verdict": "open",
-   "text": "Whether yields kept falling after the PPI print still cannot be graded: no dated, sourced yield levels were found."
+   "text": "The 28 October FOMC decision has not yet been announced; a hold is expected."
   },
   {
    "verdict": "open",
-   "text": "The 27-28 October FOMC has not concluded; the decision is due 28 October."
+   "text": "Yield behaviour still cannot be graded: no dated, sourced yield levels were found."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "How major US stock indexes fared Monday 10/26/2026 (WTOP)",
-   "url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-26-2026"
+   "label": "TheStreet \u2014 Stock Market Today (Oct. 27, 2026): Nasdaq and Russell 2000 gain as Anthropic lifts tech sector",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
   },
   {
-   "label": "How major US stock indexes fared Monday 10/26/2026 (Yahoo Finance)",
-   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201302392.html"
+   "label": "Yahoo Finance \u2014 Stock Market Today (Oct. 27, 2026): S&P 500 climbs as Wall Street gears up for earnings, Fed meeting",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-135043351.html"
   },
   {
-   "label": "CNBC — Stocks close higher as excitement over Anthropic IPO filing propels tech sector: Live updates",
-   "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+   "label": "Detroit News \u2014 S&P 500, Nasdaq advance as oil eases ahead of Fed decision",
+   "url": "https://www.detroitnews.com/story/business/2026/10/27/sp-500-nasdaq-advance-as-oil-eases-ahead-of-fed-decision/92459851007/"
   }
  ]
 }
