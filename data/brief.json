@@ -1,61 +1,62 @@
 {
  "status": "live",
- "session": "Wednesday, October 28, 2026",
- "builtAt": "2026-10-28T12:00:00Z",
+ "session": "Thursday, October 29, 2026",
+ "builtAt": "2026-10-29T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,722.60",
-   "c": "+0.6% Tue",
+   "v": "7,743.98",
+   "c": "+0.28% Wed",
    "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,477.81",
-   "c": "+1.18% Tue",
+   "v": "26,549.85",
+   "c": "+0.27% Wed",
    "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "52,377.57",
-   "c": "+0.03% Tue",
+   "v": "52,475.10",
+   "c": "+0.19% Wed",
    "dir": "up"
   }
  ],
- "tapeLine": "Tuesday 27 October closed higher: S&amp;P 500 +0.6% to 7,722.60, Nasdaq +1.18% to 26,477.81, Dow +0.03% (15.99 points) to 52,377.57, per CNBC and TheStreet coverage (27 Oct). Other outlets show S&amp;P 7,722.52 and Dow 52,378.40. Wednesday futures were described as mixed to lower; no levels confirmed.",
- "matters": "<p>Chips led Tuesday: Broadcom rose about 4% after a bank group and Blackstone announced $63 billion of financing tied to Anthropic&rsquo;s technology purchase, and Anthropic&rsquo;s IPO filing kept lifting tech sentiment, per Yahoo Finance and CNBC coverage (27 Oct). SoFi closed up about 13.4% after beating Q3 estimates and raising guidance (Motley Fool, 27 Oct). Oil slid, per the same coverage.</p><p>The Fed announces its decision Wednesday 28 October and is widely expected to hold. Alphabet and Microsoft report after Wednesday&rsquo;s close; Amazon is due later this week.</p><p><b>Invalidation triggered:</b> the S&amp;P 500 closed above Tuesday 20 October&rsquo;s 7,712.57 close, which the prior brief named as the level that would reverse its read. It is now about 1.1% under its 7,811.54 record close of 9 October.</p>",
+ "tapeLine": "Wednesday 28 October closed higher after the Fed held: S&amp;P 500 +0.28% to 7,743.98, Nasdaq +0.27% to 26,549.85, Dow +0.19% (97.53 points) to 52,475.10, per search-indexed coverage of the 28 Oct close (CNBC, Xinhua, Bloomberg). Thursday futures levels were not confirmed.",
+ "matters": "<p>The Fed left its target range at 3.75%&ndash;4.00% on Wednesday 28 October. The vote was 10&ndash;2, with Lisa Cook and Beth Hammack dissenting in favor of a quarter-point hike, per CNN and Admiral Markets coverage (28 Oct). Bloomberg described the Fed as giving no clear signal on a December hike; one source put the priced odds of a December 25 bp hike near 85%, which is a single unverified figure.</p><p>A Stock Titan headline (28 Oct) says Fortinet and Alphabet fell after hours. Microsoft&rsquo;s reaction and the size of the moves were not found, so they are not carried. Amazon is due later this week.</p><p>The S&amp;P 500 is about 0.9% under its 7,811.54 record close of 9 October, per the prior brief.</p>",
  "calendar": [],
  "alsoOnTape": "Gold, VIX and 10-year yield levels were not found with a clean dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Tuesday 27 October: S&amp;P 500 7,722.60 (+0.6%), Nasdaq 26,477.81 (+1.18%), Dow 52,377.57 (+0.03%). Wednesday futures reported mixed to lower; no levels confirmed."
+  "<b>Latest confirmed close</b> &mdash; Wednesday 28 October: S&amp;P 500 7,743.98 (+0.28%), Nasdaq 26,549.85 (+0.27%), Dow 52,475.10 (+0.19%). Third straight gain for the S&amp;P 500 and Dow per CNBC&rsquo;s headline.",
+  "<b>After hours</b> &mdash; Fortinet and Alphabet reported lower after the bell, per a Stock Titan headline (28 Oct); magnitudes not found."
  ],
  "deals": [],
  "macro": [
-  "<b>Fed</b> &mdash; Decision due Wednesday 28 October; a hold is widely expected, per Yahoo Finance and CNBC coverage (27 Oct).",
-  "<b>Earnings</b> &mdash; Alphabet and Microsoft report after Wednesday&rsquo;s close; Amazon later this week, per the same coverage."
+  "<b>Fed</b> &mdash; Held at 3.75%&ndash;4.00%, 10&ndash;2 vote with two dissents for a hike (Cook, Hammack), per CNN (28 Oct).",
+  "<b>Earnings</b> &mdash; Alphabet and Microsoft reported after Wednesday&rsquo;s close; Amazon later this week."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Second straight up day led by the Nasdaq on chip strength; the S&amp;P 500 is back above its 20 October close while the Dow was flat.",
-  "sizing": "The FOMC decision (28 October) and Alphabet and Microsoft results after the close are the scheduled catalysts."
+  "tag": "Quiet gain through the Fed: the S&amp;P 500 and Dow rose for a third day while the committee held with two hawkish dissents.",
+  "sizing": "Reaction to Alphabet and Microsoft results is the next scheduled catalyst."
  },
  "watchlist": [],
- "secondOrder": "Leadership narrowed: the Nasdaq gained 1.18% while the Dow was flat, so the index gains came from tech rather than broad participation. That is an observation, not a forecast.",
+ "secondOrder": "Both dissents favored a hike, so the committee&rsquo;s dissent ran hawkish; stocks still closed higher. That is an observation, not a forecast.",
  "scorecard": [
   {
-   "verdict": "wrong",
-   "text": "The prior brief&rsquo;s read held only below 7,712.57; the S&amp;P 500 closed Tuesday at 7,722.60, so that read was invalidated."
+   "verdict": "right",
+   "text": "The prior brief said the FOMC would announce on 28 October with a hold widely expected; the Fed held at 3.75%&ndash;4.00%."
   },
   {
    "verdict": "right",
-   "text": "The prior brief named the FOMC (27-28 October) and big-tech earnings as the scheduled catalysts; both remain ahead, with Tuesday&rsquo;s move into them led by tech."
+   "text": "The prior brief named Alphabet and Microsoft results after Wednesday&rsquo;s close as catalysts; they reported as scheduled."
   },
   {
    "verdict": "open",
-   "text": "The 28 October FOMC decision has not yet been announced; a hold is expected."
+   "text": "Alphabet and Microsoft reactions: only a headline on Alphabet falling after hours was found; the regular-session response is not yet known."
   },
   {
    "verdict": "open",
@@ -65,16 +66,20 @@
  "midday": null,
  "sources": [
   {
-   "label": "TheStreet \u2014 Stock Market Today (Oct. 27, 2026): Nasdaq and Russell 2000 gain as Anthropic lifts tech sector",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+   "label": "CNN — Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike (28 Oct 2026)",
+   "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
   },
   {
-   "label": "Yahoo Finance \u2014 Stock Market Today (Oct. 27, 2026): S&P 500 climbs as Wall Street gears up for earnings, Fed meeting",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-135043351.html"
+   "label": "CNBC — S&P 500, Dow rise for third consecutive day after Fed holds steady on rates",
+   "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html"
   },
   {
-   "label": "Detroit News \u2014 S&P 500, Nasdaq advance as oil eases ahead of Fed decision",
-   "url": "https://www.detroitnews.com/story/business/2026/10/27/sp-500-nasdaq-advance-as-oil-eases-ahead-of-fed-decision/92459851007/"
+   "label": "Xinhua — U.S. stocks close higher as Fed holds rates steady",
+   "url": "https://english.news.cn/20261029/f80380f9d16c4f11887371493d2b3211/c.html"
+  },
+  {
+   "label": "Stock Titan — Stock Market Today Live October 28, 2026: Fed Holds Rates; Fortinet and Alphabet Fall After Hours",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
   }
  ]
 }
