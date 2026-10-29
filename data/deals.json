@@ -1,5 +1,95 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$17B",
+  "title": "DoorDash to Buy Instacart for $17 Billion",
+  "link": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-29T11:31:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+  "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
+  "date": "2026-10-29T11:00:35Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
+  "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
+  "date": "2026-10-29T11:00:12Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$20B",
+  "title": "CD&R raises $20bn towards $26bn flagship buyout fund target",
+  "link": "https://www.privateequitywire.co.uk/cdr-raises-20bn-towards-26bn-flagship-buyout-fund-target/",
+  "date": "2026-10-29T09:52:25Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Harith secures regulatory approval for FlySafair acquisition",
+  "link": "https://www.privateequitywire.co.uk/harith-secures-regulatory-approval-for-flysafair-acquisition/",
+  "date": "2026-10-29T09:41:01Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$100M",
+  "title": "The IPO Buzz: BHAV Acquisition II Raises $100 Million",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-bhav-acquisition-ii-raises-100-million/",
+  "date": "2026-10-29T01:28:35Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Palmdale Propane Acquires Affordable Gas",
+  "link": "https://www.prnewswire.com/news-releases/palmdale-propane-acquires-affordable-gas-302922723.html",
+  "date": "2026-10-28T21:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.4B",
+  "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+  "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-28T19:58:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Federal Signal Expands Vacuum Truck Portfolio by Acquiring Global Vacuum Systems",
+  "link": "https://www.prnewswire.com/news-releases/federal-signal-expands-vacuum-truck-portfolio-by-acquiring-global-vacuum-systems-302922614.html",
+  "date": "2026-10-28T19:30:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -18,16 +108,6 @@
   "title": "NUMERICA CREDIT UNION AND SELCO COMMUNITY CREDIT UNION ANNOUNCE MERGER OF EQUALS",
   "link": "https://www.prnewswire.com/news-releases/numerica-credit-union-and-selco-community-credit-union-announce-merger-of-equals-302922066.html",
   "date": "2026-10-28T16:35:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
-  "link": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-  "date": "2026-10-28T16:13:00Z"
  },
  {
   "src": "PR Newswire",
@@ -80,16 +160,6 @@
   "date": "2026-10-28T14:04:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Mercedes-Benz to Offer Voluntary Buyouts for Support Staff as Market Worsens",
-  "link": "https://www.wsj.com/business/mercedes-benz-to-accelerate-efficiency-drive-as-market-conditions-worsen-a7d30c4f?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-28T13:47:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Technology",
@@ -100,16 +170,6 @@
   "date": "2026-10-28T13:36:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.4B",
-  "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-  "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-28T13:11:00Z"
- },
- {
   "src": "Crunchbase",
   "type": "Financing",
   "industry": "—",
@@ -118,65 +178,5 @@
   "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
   "link": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
   "date": "2026-10-28T12:00:48Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Transpharmation Ltd. Announces Strategic Acquisition of OrganoTherapeutics SARL",
-  "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-announces-strategic-acquisition-of-organotherapeutics-sarl-302921332.html",
-  "date": "2026-10-28T12:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CET Energy Solutions Accelerates Growth with Four Acquisitions Across Three States",
-  "link": "https://www.prnewswire.com/news-releases/cet-energy-solutions-accelerates-growth-with-four-acquisitions-across-three-states-302921629.html",
-  "date": "2026-10-28T12:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "EVERSANA Expands Global Commercialization and AI-Powered HEOR Capabilities with Acquisition of U.K.-based Estima Scientific",
-  "link": "https://www.prnewswire.com/news-releases/eversana-expands-global-commercialization-and-ai-powered-heor-capabilities-with-acquisition-of-uk-based-estima-scientific-302921421.html",
-  "date": "2026-10-28T11:58:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$2B",
-  "title": "I Squared Capital nears $2bn acquisition of F-35 supplier Orizon",
-  "link": "https://www.privateequitywire.co.uk/i-squared-capital-nears-2bn-acquisition-of-f-35-supplier-orizon/",
-  "date": "2026-10-28T10:16:12Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$2.6B",
-  "title": "Ares Capital to acquire Apollo’s MidCap Financial in $2.6bn deal",
-  "link": "https://www.privateequitywire.co.uk/ares-capital-to-acquire-apollos-midcap-financial-in-2-6bn-deal/",
-  "date": "2026-10-28T10:11:19Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$30B",
-  "title": "Advent raises $30bn across flagship buyout and mid-market funds",
-  "link": "https://www.privateequitywire.co.uk/advent-raises-30bn-across-flagship-buyout-and-mid-market-funds/",
-  "date": "2026-10-28T10:04:35Z"
  }
 ]
