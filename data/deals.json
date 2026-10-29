@@ -1,5 +1,105 @@
 [
  {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
+  "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+  "date": "2026-10-29T17:08:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "NIIT Learning Systems Limited Acquires Bluewater Learning to Power AI-Driven Learning and Talent Transformation",
+  "link": "https://www.prnewswire.com/news-releases/niit-learning-systems-limited-acquires-bluewater-learning-to-power-ai-driven-learning-and-talent-transformation-302923820.html",
+  "date": "2026-10-29T16:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Wheelhouse Announces Acquisition of All Star Garage Door",
+  "link": "https://www.prnewswire.com/news-releases/wheelhouse-announces-acquisition-of-all-star-garage-door-302922641.html",
+  "date": "2026-10-29T15:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$7.6B",
+  "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
+  "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-29T14:20:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "SPEYSIDE COMPLETES ACQUISITION OF THE TAPCO TUBE COMPANY",
+  "link": "https://www.prnewswire.com/news-releases/speyside-completes-acquisition-of-the-tapco-tube-company-302922824.html",
+  "date": "2026-10-29T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Divestiture",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Perrigo Announces Agreement to Divest Infant Formula Business to MeridianMade",
+  "link": "https://www.prnewswire.com/news-releases/perrigo-announces-agreement-to-divest-infant-formula-business-to-meridianmade-302923597.html",
+  "date": "2026-10-29T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Oak Hill Capital to Acquire Majority Stake in Wyyerd from Carlyle",
+  "link": "https://www.prnewswire.com/news-releases/oak-hill-capital-to-acquire-majority-stake-in-wyyerd-from-carlyle-302923593.html",
+  "date": "2026-10-29T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CaringKind Completes Merger, Strengthening Long Island Care as National Reach Grows",
+  "link": "https://www.prnewswire.com/news-releases/caringkind-completes-merger-strengthening-long-island-care-as-national-reach-grows-302922932.html",
+  "date": "2026-10-29T12:54:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "JDM Technology Group Strengthens Construction Software Portfolio with Acquisition of Dreeven",
+  "link": "https://www.prnewswire.com/news-releases/jdm-technology-group-strengthens-construction-software-portfolio-with-acquisition-of-dreeven-302923241.html",
+  "date": "2026-10-29T12:51:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "DCN Dx Acquires Human Biospecimen Provider BioSouthTech to Broaden Access to Diverse Patient Populations",
+  "link": "https://www.prnewswire.com/news-releases/dcn-dx-acquires-human-biospecimen-provider-biosouthtech-to-broaden-access-to-diverse-patient-populations-302923660.html",
+  "date": "2026-10-29T12:13:00Z"
+ },
+ {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
@@ -7,7 +107,7 @@
   "value": "$17B",
   "title": "DoorDash to Buy Instacart for $17 Billion",
   "link": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-29T11:31:00Z"
+  "date": "2026-10-29T11:51:00Z"
  },
  {
   "src": "Crunchbase",
@@ -78,105 +178,5 @@
   "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
   "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
   "date": "2026-10-28T19:58:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Federal Signal Expands Vacuum Truck Portfolio by Acquiring Global Vacuum Systems",
-  "link": "https://www.prnewswire.com/news-releases/federal-signal-expands-vacuum-truck-portfolio-by-acquiring-global-vacuum-systems-302922614.html",
-  "date": "2026-10-28T19:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Transpharmation Ltd. annonce l'acquisition stratégique d'OrganoTherapeutics SARL",
-  "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-annonce-lacquisition-strategique-dorganotherapeutics-sarl-302922447.html",
-  "date": "2026-10-28T16:42:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "NUMERICA CREDIT UNION AND SELCO COMMUNITY CREDIT UNION ANNOUNCE MERGER OF EQUALS",
-  "link": "https://www.prnewswire.com/news-releases/numerica-credit-union-and-selco-community-credit-union-announce-merger-of-equals-302922066.html",
-  "date": "2026-10-28T16:35:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Dallas-Fort Worth Entrepreneurs Invest in Locally Owned MetroScape Landscape",
-  "link": "https://www.prnewswire.com/news-releases/dallasfort-worth-entrepreneurs-invest-in-locally-owned-metroscape-landscape-302922355.html",
-  "date": "2026-10-28T15:35:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Platinum Equity to Acquire EDP",
-  "link": "https://www.prnewswire.com/news-releases/platinum-equity-to-acquire-edp-302922315.html",
-  "date": "2026-10-28T15:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Real Estate",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "Keyrenter Indianapolis North Acquires J & J Property Services, Expanding Its Reach Across Carmel, Westfield and Zionsville",
-  "link": "https://www.prnewswire.com/news-releases/keyrenter-indianapolis-north-acquires-j--j-property-services-expanding-its-reach-across-carmel-westfield-and-zionsville-302922288.html",
-  "date": "2026-10-28T14:29:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "$9B",
-  "title": "GE Vernova to Buy Grid-Equipment Manufacturer for $9 Billion as Energy Demand Grows",
-  "link": "https://www.wsj.com/business/energy-oil/ge-vernova-to-buy-high-voltage-grid-equipment-manufacturer-for-9-billion-b29dd2ef?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-28T14:18:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "A&M Capital Completes Strategic Investment in Delta Group",
-  "link": "https://www.prnewswire.com/news-releases/am-capital-completes-strategic-investment-in-delta-group-302922266.html",
-  "date": "2026-10-28T14:04:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Alchemy Technology Group Acquires Freeit Data Solutions, an Austin-Based IT and Cybersecurity Solutions Provider",
-  "link": "https://www.prnewswire.com/news-releases/alchemy-technology-group-acquires-freeit-data-solutions-an-austin-based-it-and-cybersecurity-solutions-provider-302922225.html",
-  "date": "2026-10-28T13:36:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$28M",
-  "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
-  "link": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
-  "date": "2026-10-28T12:00:48Z"
  }
 ]
