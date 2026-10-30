@@ -1,13 +1,123 @@
 [
  {
-  "src": "MarketWatch",
+  "src": "WSJ",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
-  "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
-  "date": "2026-10-29T17:08:00Z"
+  "title": "Sanofi CEO Sets Sights on Deals to Drive Turnaround",
+  "link": "https://www.wsj.com/business/earnings/sanofi-ceo-sets-sights-on-deals-to-drive-turnaround-b61cc8e3?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-30T10:41:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$5B",
+  "title": "Canada commits CAD1.6bn to Cohere’s planned $5bn funding round",
+  "link": "https://www.privateequitywire.co.uk/canada-commits-cad1-6bn-to-coheres-planned-5bn-funding-round/",
+  "date": "2026-10-30T09:35:13Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$7.6B",
+  "title": "Thrive Holdings agrees $7.6bn ADT acquisition",
+  "link": "https://www.privateequitywire.co.uk/thrive-holdings-agrees-7-6bn-adt-acquisition/",
+  "date": "2026-10-30T09:30:56Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: Aspen Neuroscience (ASPE) Prices IPO at $15 – Low End",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-aspen-neuroscience-prices-ipo-at-15-low-end/",
+  "date": "2026-10-30T07:47:50Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Real Estate",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm",
+  "link": "https://www.wsj.com/business/deals/asian-private-equity-firm-to-buy-beleaguered-china-evergrandes-property-management-arm-0d0d5259?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-30T02:54:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: OPay Ltd. (OPAY) of Nigeria Prices IPO at $19 – Low End",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-opay-ltd-opay-of-nigeria-prices-ipo-at-19-low-end/",
+  "date": "2026-10-30T01:50:53Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: Bambusa Therapeutics (BBTX) Upsizes IPO & Prices Deal at $16 – Mid-Point",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-bambusa-therapeutics-bbtx-upsizes-ipo-prices-deal-at-16-mid-point/",
+  "date": "2026-10-30T00:41:48Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "TEXAS COMMUNITY BANCSHARES, INC. AND THE BANC OF SAN JACINTO COUNTY BANCSHARES, INC., THE PARENT OF THE BANK OF SAN JACINTO COUNTY, COLDSPRING, TEXAS, ANNOUNCE MERGER AGREEMENT",
+  "link": "https://www.prnewswire.com/news-releases/texas-community-bancshares-inc-and-the-banc-of-san-jacinto-county-bancshares-inc-the-parent-of-the-bank-of-san-jacinto-county-coldspring-texas-announce-merger-agreement-302924337.html",
+  "date": "2026-10-29T22:39:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vusion Completes Acquisition of In-Store Media, Opening a New Chapter for Digital Retail Media in Physical Stores",
+  "link": "https://www.prnewswire.com/news-releases/vusion-completes-acquisition-of-in-store-media-opening-a-new-chapter-for-digital-retail-media-in-physical-stores-302924244.html",
+  "date": "2026-10-29T20:22:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Coveo Acquires Anglera to Make Product Data a Competitive Advantage in AI-Powered eCommerce",
+  "link": "https://www.prnewswire.com/news-releases/coveo-acquires-anglera-to-make-product-data-a-competitive-advantage-in-ai-powered-ecommerce-302924144.html",
+  "date": "2026-10-29T20:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Static Media Revs Up Presence in Auto Vertical with Acquisition of CarScoops",
+  "link": "https://www.prnewswire.com/news-releases/static-media-revs-up-presence-in-auto-vertical-with-acquisition-of-carscoops-302924019.html",
+  "date": "2026-10-29T17:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Bluewater Learning Acquired by NIIT Learning Systems Limited to Power AI-Driven Learning and Talent Transformation",
+  "link": "https://www.prnewswire.com/news-releases/bluewater-learning-acquired-by-niit-learning-systems-limited-to-power-ai-driven-learning-and-talent-transformation-302924057.html",
+  "date": "2026-10-29T17:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -68,115 +178,5 @@
   "title": "Oak Hill Capital to Acquire Majority Stake in Wyyerd from Carlyle",
   "link": "https://www.prnewswire.com/news-releases/oak-hill-capital-to-acquire-majority-stake-in-wyyerd-from-carlyle-302923593.html",
   "date": "2026-10-29T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CaringKind Completes Merger, Strengthening Long Island Care as National Reach Grows",
-  "link": "https://www.prnewswire.com/news-releases/caringkind-completes-merger-strengthening-long-island-care-as-national-reach-grows-302922932.html",
-  "date": "2026-10-29T12:54:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "JDM Technology Group Strengthens Construction Software Portfolio with Acquisition of Dreeven",
-  "link": "https://www.prnewswire.com/news-releases/jdm-technology-group-strengthens-construction-software-portfolio-with-acquisition-of-dreeven-302923241.html",
-  "date": "2026-10-29T12:51:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DCN Dx Acquires Human Biospecimen Provider BioSouthTech to Broaden Access to Diverse Patient Populations",
-  "link": "https://www.prnewswire.com/news-releases/dcn-dx-acquires-human-biospecimen-provider-biosouthtech-to-broaden-access-to-diverse-patient-populations-302923660.html",
-  "date": "2026-10-29T12:13:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$17B",
-  "title": "DoorDash to Buy Instacart for $17 Billion",
-  "link": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-29T11:51:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
-  "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
-  "date": "2026-10-29T11:00:35Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
-  "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
-  "date": "2026-10-29T11:00:12Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$20B",
-  "title": "CD&R raises $20bn towards $26bn flagship buyout fund target",
-  "link": "https://www.privateequitywire.co.uk/cdr-raises-20bn-towards-26bn-flagship-buyout-fund-target/",
-  "date": "2026-10-29T09:52:25Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Harith secures regulatory approval for FlySafair acquisition",
-  "link": "https://www.privateequitywire.co.uk/harith-secures-regulatory-approval-for-flysafair-acquisition/",
-  "date": "2026-10-29T09:41:01Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$100M",
-  "title": "The IPO Buzz: BHAV Acquisition II Raises $100 Million",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-bhav-acquisition-ii-raises-100-million/",
-  "date": "2026-10-29T01:28:35Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Palmdale Propane Acquires Affordable Gas",
-  "link": "https://www.prnewswire.com/news-releases/palmdale-propane-acquires-affordable-gas-302922723.html",
-  "date": "2026-10-28T21:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.4B",
-  "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-  "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-28T19:58:00Z"
  }
 ]
