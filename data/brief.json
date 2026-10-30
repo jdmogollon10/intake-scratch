@@ -1,62 +1,65 @@
 {
  "status": "live",
- "session": "Thursday, October 29, 2026",
- "builtAt": "2026-10-29T12:00:00Z",
+ "session": "Friday, October 30, 2026",
+ "builtAt": "2026-10-30T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,743.98",
-   "c": "+0.28% Wed",
-   "dir": "up"
+   "v": "7,720.39",
+   "c": "-0.3% Thu",
+   "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "26,549.85",
-   "c": "+0.27% Wed",
-   "dir": "up"
+   "v": "26,184.72",
+   "c": "-1.38% Thu",
+   "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "52,475.10",
-   "c": "+0.19% Wed",
-   "dir": "up"
+   "v": "52,342.56",
+   "c": "-0.25% Thu",
+   "dir": "down"
   }
  ],
- "tapeLine": "Wednesday 28 October closed higher after the Fed held: S&amp;P 500 +0.28% to 7,743.98, Nasdaq +0.27% to 26,549.85, Dow +0.19% (97.53 points) to 52,475.10, per search-indexed coverage of the 28 Oct close (CNBC, Xinhua, Bloomberg). Thursday futures levels were not confirmed.",
- "matters": "<p>The Fed left its target range at 3.75%&ndash;4.00% on Wednesday 28 October. The vote was 10&ndash;2, with Lisa Cook and Beth Hammack dissenting in favor of a quarter-point hike, per CNN and Admiral Markets coverage (28 Oct). Bloomberg described the Fed as giving no clear signal on a December hike; one source put the priced odds of a December 25 bp hike near 85%, which is a single unverified figure.</p><p>A Stock Titan headline (28 Oct) says Fortinet and Alphabet fell after hours. Microsoft&rsquo;s reaction and the size of the moves were not found, so they are not carried. Amazon is due later this week.</p><p>The S&amp;P 500 is about 0.9% under its 7,811.54 record close of 9 October, per the prior brief.</p>",
+ "tapeLine": "Thursday 29 October closed lower on an Alphabet sell-off: S&amp;P 500 -0.3% to 7,720.39, Nasdaq Composite -1.38% to 26,184.72, Dow -132.54 points (-0.25%) to 52,342.56, per search-indexed coverage of the 29 Oct close (Yahoo Finance, CNBC, CNN). Friday futures levels were not confirmed.",
+ "matters": "<p>Alphabet Class A closed at $283.82 on Thursday 29 October, down 12.64% and about $499.8 billion of market value, per the Wall Street Journal as cited in search results; the decline was reported as its worst day on record. Coverage tied it to a third-quarter miss on earnings and revenue, negative free cash flow of $9.07 billion, and renewed worry about AI spending.</p><p>Microsoft beat estimates but gave up early gains and ended roughly flat, per CNN (29 Oct); sources differed on the exact move, so no figure is carried. Small caps rallied against the index decline, per Benzinga (29 Oct).</p><p>Amazon&rsquo;s company release dated 29 October reports third-quarter net sales up 12% to $201.9 billion and operating income of $28.1 billion (13.9% margin). Its after-hours share reaction was not found.</p><p>The S&amp;P 500 closed about 1.2% under its 7,811.54 record close of 9 October, per the prior brief.</p>",
  "calendar": [],
  "alsoOnTape": "Gold, VIX and 10-year yield levels were not found with a clean dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Wednesday 28 October: S&amp;P 500 7,743.98 (+0.28%), Nasdaq 26,549.85 (+0.27%), Dow 52,475.10 (+0.19%). Third straight gain for the S&amp;P 500 and Dow per CNBC&rsquo;s headline.",
-  "<b>After hours</b> &mdash; Fortinet and Alphabet reported lower after the bell, per a Stock Titan headline (28 Oct); magnitudes not found."
+  "<b>Latest confirmed close</b> &mdash; Thursday 29 October: S&amp;P 500 7,720.39 (-0.3%), Nasdaq Composite 26,184.72 (-1.38%), Dow 52,342.56 (-0.25%). The S&amp;P 500&rsquo;s three-day gain ended.",
+  "<b>After hours</b> &mdash; Amazon reported Q3 sales of $201.9 billion (+12%) and operating income of $28.1 billion, per its 29 Oct release; the share reaction was not found."
  ],
  "deals": [],
  "macro": [
-  "<b>Fed</b> &mdash; Held at 3.75%&ndash;4.00%, 10&ndash;2 vote with two dissents for a hike (Cook, Hammack), per CNN (28 Oct).",
-  "<b>Earnings</b> &mdash; Alphabet and Microsoft reported after Wednesday&rsquo;s close; Amazon later this week."
+  "<b>Earnings</b> &mdash; Alphabet fell 12.64% to $283.82 after results; Microsoft ended roughly flat; Amazon reported after the close, per sources dated 29 Oct."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Quiet gain through the Fed: the S&amp;P 500 and Dow rose for a third day while the committee held with two hawkish dissents.",
-  "sizing": "Reaction to Alphabet and Microsoft results is the next scheduled catalyst."
+  "tag": "Risk-off in megacap tech: the Nasdaq Composite fell 1.38% on Alphabet&rsquo;s record one-day drop while small caps rose.",
+  "sizing": "Amazon&rsquo;s after-hours reaction is the next unresolved datapoint."
  },
  "watchlist": [],
- "secondOrder": "Both dissents favored a hike, so the committee&rsquo;s dissent ran hawkish; stocks still closed higher. That is an observation, not a forecast.",
+ "secondOrder": "Alphabet&rsquo;s drop was blamed on capital spending and cash flow, while Microsoft&rsquo;s beat did not hold gains. The market treated the two differently on the same theme. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The prior brief said the FOMC would announce on 28 October with a hold widely expected; the Fed held at 3.75%&ndash;4.00%."
+   "text": "The prior brief named Alphabet and Microsoft results as the next catalyst; both moved the tape, with Alphabet down 12.64% and the Nasdaq Composite down 1.38% on Thursday."
   },
   {
    "verdict": "right",
-   "text": "The prior brief named Alphabet and Microsoft results after Wednesday&rsquo;s close as catalysts; they reported as scheduled."
+   "text": "The prior brief said Amazon was due later in the week; it reported on 29 October, per its release."
+  },
+  {
+   "verdict": "wrong",
+   "text": "The prior brief&rsquo;s read of a quiet, rising tape (three straight gains) did not carry: the S&amp;P 500 and Dow snapped their streak on Thursday."
   },
   {
    "verdict": "open",
-   "text": "Alphabet and Microsoft reactions: only a headline on Alphabet falling after hours was found; the regular-session response is not yet known."
+   "text": "Amazon&rsquo;s share reaction is not yet known; no 2026 after-hours move was found."
   },
   {
    "verdict": "open",
@@ -66,20 +69,24 @@
  "midday": null,
  "sources": [
   {
-   "label": "CNN — Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike (28 Oct 2026)",
-   "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+   "label": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip as Alphabet stock sinks 12% and AI jitters return (29 Oct 2026)",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"
   },
   {
-   "label": "CNBC — S&P 500, Dow rise for third consecutive day after Fed holds steady on rates",
-   "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html"
+   "label": "CNN — Shares of Google's parent company just had their worst day ever (29 Oct 2026)",
+   "url": "https://www.cnn.com/2026/10/29/investing/alphabet-google-stock-ai"
   },
   {
-   "label": "Xinhua — U.S. stocks close higher as Fed holds rates steady",
-   "url": "https://english.news.cn/20261029/f80380f9d16c4f11887371493d2b3211/c.html"
+   "label": "Fox Business — Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
+   "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears"
   },
   {
-   "label": "Stock Titan — Stock Market Today Live October 28, 2026: Fed Holds Rates; Fortinet and Alphabet Fall After Hours",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   "label": "Benzinga — Stock Market Today: Alphabet Sinks 11.8%, Small Caps Rally",
+   "url": "https://www.benzinga.com/markets/equities/26/10/62706774/stock-market-today-alphabet-sinks-small-caps-rally-gdp-rotation"
+  },
+  {
+   "label": "Amazon 8-K — Q3 2026 results (29 Oct 2026)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000038/amzn-20261029.htm"
   }
  ]
 }
