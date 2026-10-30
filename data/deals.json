@@ -1,13 +1,103 @@
 [
  {
-  "src": "WSJ",
+  "src": "MarketWatch",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Sanofi CEO Sets Sights on Deals to Drive Turnaround",
-  "link": "https://www.wsj.com/business/earnings/sanofi-ceo-sets-sights-on-deals-to-drive-turnaround-b61cc8e3?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-30T10:41:00Z"
+  "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+  "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+  "date": "2026-10-30T16:45:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Lepage Millwork to Acquire Fenêtres MQ from Andersen",
+  "link": "https://www.prnewswire.com/news-releases/lepage-millwork-to-acquire-fenetres-mq-from-andersen-302925105.html",
+  "date": "2026-10-30T16:02:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vistra Completes Acquisition of Cogentrix Energy, Expanding Diverse Generation Fleet",
+  "link": "https://www.prnewswire.com/news-releases/vistra-completes-acquisition-of-cogentrix-energy-expanding-diverse-generation-fleet-302925088.html",
+  "date": "2026-10-30T16:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "TPM Holdings Accelerates Investment in AI and Salesforce CRM for the Built World",
+  "link": "https://www.prnewswire.com/news-releases/tpm-holdings-accelerates-investment-in-ai-and-salesforce-crm-for-the-built-world-302924447.html",
+  "date": "2026-10-30T13:48:00Z"
+ },
+ {
+  "src": "ACG",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "From Guesswork to Precision: Modern Deal Outreach",
+  "link": "https://middlemarketgrowth.org/video-grata-modern-deal-outreach/",
+  "date": "2026-10-30T13:00:02Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Viatris Announces Commencement of Tender Offer to Acquire Pacira BioSciences, Inc.",
+  "link": "https://www.prnewswire.com/news-releases/viatris-announces-commencement-of-tender-offer-to-acquire-pacira-biosciences-inc-302924916.html",
+  "date": "2026-10-30T12:40:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Hongli Group Provides Progress Update on Proposed Acquisition of a 20% Equity Interest in Xell Energy",
+  "link": "https://www.prnewswire.com/news-releases/hongli-group-provides-progress-update-on-proposed-acquisition-of-a-20-equity-interest-in-xell-energy-302924062.html",
+  "date": "2026-10-30T12:30:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$12.5B",
+  "title": "BASF’s $12.5 Billion Takeover Bid for Evonik Rebuffed",
+  "link": "https://www.wsj.com/business/deals/basfs-12-5-billion-takeover-bid-for-evonik-rebuffed-5fe08975?mod=pls_whats_news_us_business_f",
+  "date": "2026-10-30T12:25:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Palo Alto Networks Recommends Stockholders Reject Mini-Tender Offer by Tutanota LLC",
+  "link": "https://www.prnewswire.com/news-releases/palo-alto-networks-recommends-stockholders-reject-mini-tender-offer-by-tutanota-llc-302924598.html",
+  "date": "2026-10-30T12:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Falcon Capital takes a strategic stake in the leading energy investor Pont Capital",
+  "link": "https://www.prnewswire.com/news-releases/falcon-capital-takes-a-strategic-stake-in-the-leading-energy-investor-pont-capital-302924808.html",
+  "date": "2026-10-30T12:00:00Z"
  },
  {
   "src": "PE Wire",
@@ -65,7 +155,7 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: Bambusa Therapeutics (BBTX) Upsizes IPO & Prices Deal at $16 – Mid-Point",
+  "title": "The IPO Buzz: Bambusa Therapeutics Upsizes IPO & Prices at $16 Mid-Point – & Stock Drops",
   "link": "https://www.iposcoop.com/the-ipo-buzz-bambusa-therapeutics-bbtx-upsizes-ipo-prices-deal-at-16-mid-point/",
   "date": "2026-10-30T00:41:48Z"
  },
@@ -88,95 +178,5 @@
   "title": "Vusion Completes Acquisition of In-Store Media, Opening a New Chapter for Digital Retail Media in Physical Stores",
   "link": "https://www.prnewswire.com/news-releases/vusion-completes-acquisition-of-in-store-media-opening-a-new-chapter-for-digital-retail-media-in-physical-stores-302924244.html",
   "date": "2026-10-29T20:22:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Coveo Acquires Anglera to Make Product Data a Competitive Advantage in AI-Powered eCommerce",
-  "link": "https://www.prnewswire.com/news-releases/coveo-acquires-anglera-to-make-product-data-a-competitive-advantage-in-ai-powered-ecommerce-302924144.html",
-  "date": "2026-10-29T20:01:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Static Media Revs Up Presence in Auto Vertical with Acquisition of CarScoops",
-  "link": "https://www.prnewswire.com/news-releases/static-media-revs-up-presence-in-auto-vertical-with-acquisition-of-carscoops-302924019.html",
-  "date": "2026-10-29T17:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Bluewater Learning Acquired by NIIT Learning Systems Limited to Power AI-Driven Learning and Talent Transformation",
-  "link": "https://www.prnewswire.com/news-releases/bluewater-learning-acquired-by-niit-learning-systems-limited-to-power-ai-driven-learning-and-talent-transformation-302924057.html",
-  "date": "2026-10-29T17:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "NIIT Learning Systems Limited Acquires Bluewater Learning to Power AI-Driven Learning and Talent Transformation",
-  "link": "https://www.prnewswire.com/news-releases/niit-learning-systems-limited-acquires-bluewater-learning-to-power-ai-driven-learning-and-talent-transformation-302923820.html",
-  "date": "2026-10-29T16:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Wheelhouse Announces Acquisition of All Star Garage Door",
-  "link": "https://www.prnewswire.com/news-releases/wheelhouse-announces-acquisition-of-all-star-garage-door-302922641.html",
-  "date": "2026-10-29T15:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$7.6B",
-  "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
-  "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-29T14:20:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "SPEYSIDE COMPLETES ACQUISITION OF THE TAPCO TUBE COMPANY",
-  "link": "https://www.prnewswire.com/news-releases/speyside-completes-acquisition-of-the-tapco-tube-company-302922824.html",
-  "date": "2026-10-29T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Divestiture",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Perrigo Announces Agreement to Divest Infant Formula Business to MeridianMade",
-  "link": "https://www.prnewswire.com/news-releases/perrigo-announces-agreement-to-divest-infant-formula-business-to-meridianmade-302923597.html",
-  "date": "2026-10-29T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Oak Hill Capital to Acquire Majority Stake in Wyyerd from Carlyle",
-  "link": "https://www.prnewswire.com/news-releases/oak-hill-capital-to-acquire-majority-stake-in-wyyerd-from-carlyle-302923593.html",
-  "date": "2026-10-29T13:00:00Z"
  }
 ]
