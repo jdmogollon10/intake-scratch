@@ -1,13 +1,43 @@
 [
  {
-  "src": "MarketWatch",
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "OPay Ltd. (OPAY) Postpones IPO Indefinitely After it Did NOT Trade Today – Street Sources",
+  "link": "https://www.iposcoop.com/opay-ltd-opay-postpones-ipo-indefinitely-after-it-did-not-trade-today-street-sources/",
+  "date": "2026-10-30T21:27:18Z"
+ },
+ {
+  "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-  "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-  "date": "2026-10-30T16:45:00Z"
+  "title": "Acquisition expands Principle's bedside imaging services for long-term care providers in Missouri and Illinois",
+  "link": "https://www.prnewswire.com/news-releases/acquisition-expands-principles-bedside-imaging-services-for-long-term-care-providers-in-missouri-and-illinois-302925386.html",
+  "date": "2026-10-30T21:23:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Blue Moon Metals Announces Termination of Ropa Acquisition and Completion of Continuance to Ontario",
+  "link": "https://www.prnewswire.com/news-releases/blue-moon-metals-announces-termination-of-ropa-acquisition-and-completion-of-continuance-to-ontario-302925202.html",
+  "date": "2026-10-30T21:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "MadaLuxe Group Acquires DUXIANA North American Business as Iconic Swedish Brand Celebrates 100 Years",
+  "link": "https://www.prnewswire.com/news-releases/madaluxe-group-acquires-duxiana-north-american-business-as-iconic-swedish-brand-celebrates-100-years-302925198.html",
+  "date": "2026-10-30T17:45:00Z"
  },
  {
   "src": "PR Newswire",
@@ -145,38 +175,8 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: OPay Ltd. (OPAY) of Nigeria Prices IPO at $19 – Low End",
+  "title": "The IPO Buzz: OPay Ltd. (OPAY) Prices IPO at $19 – IPO Postponed After it Does NOT Trade",
   "link": "https://www.iposcoop.com/the-ipo-buzz-opay-ltd-opay-of-nigeria-prices-ipo-at-19-low-end/",
   "date": "2026-10-30T01:50:53Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: Bambusa Therapeutics Upsizes IPO & Prices at $16 Mid-Point – & Stock Drops",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-bambusa-therapeutics-bbtx-upsizes-ipo-prices-deal-at-16-mid-point/",
-  "date": "2026-10-30T00:41:48Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "TEXAS COMMUNITY BANCSHARES, INC. AND THE BANC OF SAN JACINTO COUNTY BANCSHARES, INC., THE PARENT OF THE BANK OF SAN JACINTO COUNTY, COLDSPRING, TEXAS, ANNOUNCE MERGER AGREEMENT",
-  "link": "https://www.prnewswire.com/news-releases/texas-community-bancshares-inc-and-the-banc-of-san-jacinto-county-bancshares-inc-the-parent-of-the-bank-of-san-jacinto-county-coldspring-texas-announce-merger-agreement-302924337.html",
-  "date": "2026-10-29T22:39:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Vusion Completes Acquisition of In-Store Media, Opening a New Chapter for Digital Retail Media in Physical Stores",
-  "link": "https://www.prnewswire.com/news-releases/vusion-completes-acquisition-of-in-store-media-opening-a-new-chapter-for-digital-retail-media-in-physical-stores-302924244.html",
-  "date": "2026-10-29T20:22:00Z"
  }
 ]
