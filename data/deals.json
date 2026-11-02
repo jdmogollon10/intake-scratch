@@ -1,5 +1,75 @@
 [
  {
+  "src": "WSJ",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "$3.1B",
+  "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada",
+  "link": "https://www.wsj.com/finance/investing/blackstone-leads-3-1-billion-investment-in-mitsubishis-stake-in-lng-canada-96379858?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-02T10:54:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Blackstone flags potential junk rating for Anthropic after IPO",
+  "link": "https://www.privateequitywire.co.uk/blackstone-flags-potential-junk-rating-for-anthropic-after-ipo/",
+  "date": "2026-11-02T10:14:22Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "5 celebrities who waited years to buy their dream homes",
+  "link": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
+  "date": "2026-11-02T10:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Gamehaus Signs Definitive Agreement to Acquire Majority Stake in Anamana",
+  "link": "https://www.prnewswire.com/news-releases/gamehaus-signs-definitive-agreement-to-acquire-majority-stake-in-anamana-302926152.html",
+  "date": "2026-11-02T10:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "RWS completes acquisition of Acolad, giving enterprise customers more ways to scale with AI and specialist expertise",
+  "link": "https://www.prnewswire.com/news-releases/rws-completes-acquisition-of-acolad-giving-enterprise-customers-more-ways-to-scale-with-ai-and-specialist-expertise-302926127.html",
+  "date": "2026-11-02T08:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Hexagon completes acquisition of Waygate Technologies",
+  "link": "https://www.prnewswire.com/news-releases/hexagon-completes-acquisition-of-waygate-technologies-302926094.html",
+  "date": "2026-11-02T07:21:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Lazard Completes Its Acquisition of Campbell Lutyens and Launches Lazard CL, the Global Leader for the Next Era of Private Capital",
+  "link": "https://www.prnewswire.com/news-releases/lazard-completes-its-acquisition-of-campbell-lutyens-and-launches-lazard-cl-the-global-leader-for-the-next-era-of-private-capital-302925935.html",
+  "date": "2026-11-02T06:00:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -108,75 +178,5 @@
   "title": "Hongli Group Provides Progress Update on Proposed Acquisition of a 20% Equity Interest in Xell Energy",
   "link": "https://www.prnewswire.com/news-releases/hongli-group-provides-progress-update-on-proposed-acquisition-of-a-20-equity-interest-in-xell-energy-302924062.html",
   "date": "2026-10-30T12:30:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$12.5B",
-  "title": "BASF’s $12.5 Billion Takeover Bid for Evonik Rebuffed",
-  "link": "https://www.wsj.com/business/deals/basfs-12-5-billion-takeover-bid-for-evonik-rebuffed-5fe08975?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-30T12:25:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Palo Alto Networks Recommends Stockholders Reject Mini-Tender Offer by Tutanota LLC",
-  "link": "https://www.prnewswire.com/news-releases/palo-alto-networks-recommends-stockholders-reject-mini-tender-offer-by-tutanota-llc-302924598.html",
-  "date": "2026-10-30T12:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Falcon Capital takes a strategic stake in the leading energy investor Pont Capital",
-  "link": "https://www.prnewswire.com/news-releases/falcon-capital-takes-a-strategic-stake-in-the-leading-energy-investor-pont-capital-302924808.html",
-  "date": "2026-10-30T12:00:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$5B",
-  "title": "Canada commits CAD1.6bn to Cohere’s planned $5bn funding round",
-  "link": "https://www.privateequitywire.co.uk/canada-commits-cad1-6bn-to-coheres-planned-5bn-funding-round/",
-  "date": "2026-10-30T09:35:13Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$7.6B",
-  "title": "Thrive Holdings agrees $7.6bn ADT acquisition",
-  "link": "https://www.privateequitywire.co.uk/thrive-holdings-agrees-7-6bn-adt-acquisition/",
-  "date": "2026-10-30T09:30:56Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: Aspen Neuroscience (ASPE) Prices IPO at $15 – Low End",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-aspen-neuroscience-prices-ipo-at-15-low-end/",
-  "date": "2026-10-30T07:47:50Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Real Estate",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm",
-  "link": "https://www.wsj.com/business/deals/asian-private-equity-firm-to-buy-beleaguered-china-evergrandes-property-management-arm-0d0d5259?mod=pls_whats_news_us_business_f",
-  "date": "2026-10-30T02:54:00Z"
  }
 ]
