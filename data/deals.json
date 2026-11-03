@@ -1,73 +1,33 @@
 [
  {
   "src": "PR Newswire",
-  "type": "Divestiture",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Vantive Announces Agreement to Divest Majority of Hemodialysis Assets and Associated Operations to Rockwell Medical",
-  "link": "https://www.prnewswire.com/news-releases/vantive-announces-agreement-to-divest-majority-of-hemodialysis-assets-and-associated-operations-to-rockwell-medical-302927735.html",
-  "date": "2026-11-03T11:01:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Waters Acquires MOBILion Systems, Bringing Advanced Ion-Mobility Separation to its Mass Spectrometry Portfolio with the Speed and Resolution AI Workflows Require for Proteomics Biomarker Discovery",
-  "link": "https://www.prnewswire.com/news-releases/waters-acquires-mobilion-systems-bringing-advanced-ion-mobility-separation-to-its-mass-spectrometry-portfolio-with-the-speed-and-resolution-ai-workflows-require-for-proteomics-biomarker-discovery-302927147.html",
-  "date": "2026-11-03T10:55:00Z"
- },
- {
-  "src": "WSJ",
   "type": "M&A",
   "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "Grab Pivots Back to Southeast Asia After Blocked Taiwan Deal",
-  "link": "https://www.wsj.com/business/earnings/grab-pivots-back-to-southeast-asia-after-blocked-taiwan-deal-aa5a69d9?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-03T07:33:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Autoliv Expands Its Commercial Vehicle Safety Business with the Acquisition of MCF Safety Belts",
-  "link": "https://www.prnewswire.com/news-releases/autoliv-expands-its-commercial-vehicle-safety-business-with-the-acquisition-of-mcf-safety-belts-302927556.html",
-  "date": "2026-11-03T07:31:00Z"
+  "title": "Arity to Acquire Replica, Giving Businesses and Agencies a More Complete View of Mobility",
+  "link": "https://www.prnewswire.com/news-releases/arity-to-acquire-replica-giving-businesses-and-agencies-a-more-complete-view-of-mobility-302927072.html",
+  "date": "2026-11-03T17:01:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "ACG to Acquire 100% of Blue Moon Norway, Including the Construction-Stage Nussir Copper Mine, to Create a High-Growth European Copper Company",
-  "link": "https://www.prnewswire.com/news-releases/acg-to-acquire-100-of-blue-moon-norway-including-the-construction-stage-nussir-copper-mine-to-create-a-high-growth-european-copper-company-302927155.html",
-  "date": "2026-11-03T07:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Windward Expands into Maritime Visual Intelligence with Acquisition of Azimut.ai",
-  "link": "https://www.prnewswire.com/news-releases/windward-expands-into-maritime-visual-intelligence-with-acquisition-of-azimutai-302927533.html",
-  "date": "2026-11-03T06:57:00Z"
+  "title": "LUX Infusion Acquires Be Well Memory and Infusion's Specialty Infusion Business",
+  "link": "https://www.prnewswire.com/news-releases/lux-infusion-acquires-be-well-memory-and-infusions-specialty-infusion-business-302927261.html",
+  "date": "2026-11-03T15:34:00Z"
  },
  {
   "src": "WSJ",
   "type": "M&A",
-  "industry": "Energy",
+  "industry": "Consumer",
   "region": "—",
-  "value": "$4B",
-  "title": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries",
-  "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-03T04:59:00Z"
+  "value": "Undisclosed",
+  "title": "Foodtastic Makes Hostile Bid for Rival MTY Food After Being Rejected",
+  "link": "https://www.wsj.com/business/foodtastic-makes-hostile-bid-for-rival-mty-food-after-being-rejected-1ff25f82?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-03T15:25:00Z"
  },
  {
   "src": "MarketWatch",
@@ -75,9 +35,79 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-  "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-  "date": "2026-11-02T23:39:00Z"
+  "title": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
+  "link": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
+  "date": "2026-11-03T15:04:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Expedient Acquires phoenixNAP's U.S. Managed VMware Cloud Business",
+  "link": "https://www.prnewswire.com/news-releases/expedient-acquires-phoenixnaps-us-managed-vmware-cloud-business-302927268.html",
+  "date": "2026-11-03T15:03:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "$4B",
+  "title": "Carl Icahn’s CVR Energy Strikes $4 Billion Deal for Two Marathon Refineries",
+  "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-03T14:33:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Meteor Education Acquires AET Labs, Strengthening Career and Technical Education Offerings in New England",
+  "link": "https://www.prnewswire.com/news-releases/meteor-education-acquires-aet-labs-strengthening-career-and-technical-education-offerings-in-new-england-302927860.html",
+  "date": "2026-11-03T14:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "GME Supply Acquires Commercial Supply Co., Expanding Jobsite Supply for Construction and Renewable Energy Contractors",
+  "link": "https://www.prnewswire.com/news-releases/gme-supply-acquires-commercial-supply-co-expanding-jobsite-supply-for-construction-and-renewable-energy-contractors-302926956.html",
+  "date": "2026-11-03T14:17:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Aprio Acquires Plano-Based Garner Asset Management Corporation, Establishing Dallas-Fort Worth Wealth Presence",
+  "link": "https://www.prnewswire.com/news-releases/aprio-acquires-plano-based-garner-asset-management-corporation-establishing-dallas-fort-worth-wealth-presence-302927252.html",
+  "date": "2026-11-03T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Sunraycer Acquires 325 MWac Solar Portfolio in Illinois and Missouri from Apricus Energy",
+  "link": "https://www.prnewswire.com/news-releases/sunraycer-acquires-325-mwac-solar-portfolio-in-illinois-and-missouri-from-apricus-energy-302926915.html",
+  "date": "2026-11-03T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "PartnerOne Acquires 3CLogic, Expanding Its Enterprise AI Portfolio and Advancing the Future of Intelligent Customer Engagement",
+  "link": "https://www.prnewswire.com/news-releases/partnerone-acquires-3clogic-expanding-its-enterprise-ai-portfolio-and-advancing-the-future-of-intelligent-customer-engagement-302927176.html",
+  "date": "2026-11-03T14:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -85,29 +115,49 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Select Water Solutions Announces Closing of Pilot Water Solutions Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-closing-of-pilot-water-solutions-acquisition-302926951.html",
-  "date": "2026-11-02T21:15:00Z"
+  "title": "Simplicity Group Bolsters Workplace Offering with the Acquisition of Alta Montclair and Welcomes Rocky Rocamora, Sam Monastyrsky, and Irina Monastyrsky as the Group's Newest Partners",
+  "link": "https://www.prnewswire.com/news-releases/simplicity-group-bolsters-workplace-offering-with-the-acquisition-of-alta-montclair-and-welcomes-rocky-rocamora-sam-monastyrsky-and-irina-monastyrsky-as-the-groups-newest-partners-302927200.html",
+  "date": "2026-11-03T14:00:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Platinum Equity Acquires Warren Valve from Allied Group",
-  "link": "https://www.prnewswire.com/news-releases/platinum-equity-acquires-warren-valve-from-allied-group-302926908.html",
-  "date": "2026-11-02T20:45:00Z"
+  "title": "Docusign Acquires Suplari to Accelerate AI-Powered Contract Management for Procurement",
+  "link": "https://www.prnewswire.com/news-releases/docusign-acquires-suplari-to-accelerate-ai-powered-contract-management-for-procurement-302927235.html",
+  "date": "2026-11-03T14:00:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Lazard finalise l'acquisition de Campbell Lutyens et lance Lazard CL, leader mondial de la nouvelle ère du capital-investissement",
-  "link": "https://www.prnewswire.com/news-releases/lazard-finalise-lacquisition-de-campbell-lutyens-et-lance-lazard-cl-leader-mondial-de-la-nouvelle-ere-du-capital-investissement-302926882.html",
-  "date": "2026-11-02T20:15:00Z"
+  "title": "Chord Expands into Enterprise AI With Zenlytic Acquisition, Adding Verizon, J.Crew, Domino's, and Stanley Black & Decker as Customers",
+  "link": "https://www.prnewswire.com/news-releases/chord-expands-into-enterprise-ai-with-zenlytic-acquisition-adding-verizon-jcrew-dominos-and-stanley-black--decker-as-customers-302926600.html",
+  "date": "2026-11-03T14:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Beijing Reins In IPO Rush After AI Concerns Hit Stock Market",
+  "link": "https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b?mod=rss_markets_main",
+  "date": "2026-11-03T13:02:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "$59B",
+  "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+  "link": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
+  "date": "2026-11-03T12:00:44Z"
  },
  {
   "src": "IPOScoop",
@@ -120,16 +170,6 @@
   "date": "2026-11-02T16:54:27Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "NEXUS CAPITAL MANAGEMENT COMPLETES ACQUISITION OF COLDWATER CREEK AND SOFT SURROUNDINGS",
-  "link": "https://www.prnewswire.com/news-releases/nexus-capital-management-completes-acquisition-of-coldwater-creek-and-soft-surroundings-302925846.html",
-  "date": "2026-11-02T16:30:00Z"
- },
- {
   "src": "WSJ",
   "type": "Financing",
   "industry": "Technology",
@@ -138,45 +178,5 @@
   "title": "Oracle Looks to Raise $20 Billion to Fund AI Ambitions",
   "link": "https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?mod=pls_whats_news_us_business_f",
   "date": "2026-11-02T14:58:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$80B",
-  "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal",
-  "link": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-02T13:21:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$2B",
-  "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
-  "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-02T12:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "$3.1B",
-  "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada",
-  "link": "https://www.wsj.com/finance/investing/blackstone-leads-3-1-billion-investment-in-mitsubishis-stake-in-lng-canada-96379858?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-02T10:54:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "OPay Ltd. (OPAY) Postpones IPO Indefinitely After it Did NOT Trade Today – Street Sources",
-  "link": "https://www.iposcoop.com/opay-ltd-opay-postpones-ipo-indefinitely-after-it-did-not-trade-today-street-sources/",
-  "date": "2026-10-30T21:27:18Z"
  }
 ]
