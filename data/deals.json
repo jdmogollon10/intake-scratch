@@ -1,13 +1,73 @@
 [
  {
   "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
+  "type": "Divestiture",
+  "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Lazard finalise l'acquisition de Campbell Lutyens et lance Lazard CL, leader mondial de la nouvelle ère du capital-investissement",
-  "link": "https://www.prnewswire.com/news-releases/lazard-finalise-lacquisition-de-campbell-lutyens-et-lance-lazard-cl-leader-mondial-de-la-nouvelle-ere-du-capital-investissement-302926882.html",
-  "date": "2026-11-02T20:15:00Z"
+  "title": "Vantive Announces Agreement to Divest Majority of Hemodialysis Assets and Associated Operations to Rockwell Medical",
+  "link": "https://www.prnewswire.com/news-releases/vantive-announces-agreement-to-divest-majority-of-hemodialysis-assets-and-associated-operations-to-rockwell-medical-302927735.html",
+  "date": "2026-11-03T11:01:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Waters Acquires MOBILion Systems, Bringing Advanced Ion-Mobility Separation to its Mass Spectrometry Portfolio with the Speed and Resolution AI Workflows Require for Proteomics Biomarker Discovery",
+  "link": "https://www.prnewswire.com/news-releases/waters-acquires-mobilion-systems-bringing-advanced-ion-mobility-separation-to-its-mass-spectrometry-portfolio-with-the-speed-and-resolution-ai-workflows-require-for-proteomics-biomarker-discovery-302927147.html",
+  "date": "2026-11-03T10:55:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "Grab Pivots Back to Southeast Asia After Blocked Taiwan Deal",
+  "link": "https://www.wsj.com/business/earnings/grab-pivots-back-to-southeast-asia-after-blocked-taiwan-deal-aa5a69d9?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-03T07:33:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Autoliv Expands Its Commercial Vehicle Safety Business with the Acquisition of MCF Safety Belts",
+  "link": "https://www.prnewswire.com/news-releases/autoliv-expands-its-commercial-vehicle-safety-business-with-the-acquisition-of-mcf-safety-belts-302927556.html",
+  "date": "2026-11-03T07:31:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "ACG to Acquire 100% of Blue Moon Norway, Including the Construction-Stage Nussir Copper Mine, to Create a High-Growth European Copper Company",
+  "link": "https://www.prnewswire.com/news-releases/acg-to-acquire-100-of-blue-moon-norway-including-the-construction-stage-nussir-copper-mine-to-create-a-high-growth-european-copper-company-302927155.html",
+  "date": "2026-11-03T07:05:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Windward Expands into Maritime Visual Intelligence with Acquisition of Azimut.ai",
+  "link": "https://www.prnewswire.com/news-releases/windward-expands-into-maritime-visual-intelligence-with-acquisition-of-azimutai-302927533.html",
+  "date": "2026-11-03T06:57:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "$4B",
+  "title": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries",
+  "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-03T04:59:00Z"
  },
  {
   "src": "MarketWatch",
@@ -15,9 +75,39 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
-  "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-  "date": "2026-11-02T17:32:00Z"
+  "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+  "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+  "date": "2026-11-02T23:39:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Select Water Solutions Announces Closing of Pilot Water Solutions Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-closing-of-pilot-water-solutions-acquisition-302926951.html",
+  "date": "2026-11-02T21:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Platinum Equity Acquires Warren Valve from Allied Group",
+  "link": "https://www.prnewswire.com/news-releases/platinum-equity-acquires-warren-valve-from-allied-group-302926908.html",
+  "date": "2026-11-02T20:45:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Lazard finalise l'acquisition de Campbell Lutyens et lance Lazard CL, leader mondial de la nouvelle ère du capital-investissement",
+  "link": "https://www.prnewswire.com/news-releases/lazard-finalise-lacquisition-de-campbell-lutyens-et-lance-lazard-cl-leader-mondial-de-la-nouvelle-ere-du-capital-investissement-302926882.html",
+  "date": "2026-11-02T20:15:00Z"
  },
  {
   "src": "IPOScoop",
@@ -40,46 +130,6 @@
   "date": "2026-11-02T16:30:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Porter Acquires Pareto Intelligence, Creating the Only Organization Uniting Analytics, Engagement, and Care Delivery Across Medicare, Medicaid, and ACA Markets",
-  "link": "https://www.prnewswire.com/news-releases/porter-acquires-pareto-intelligence-creating-the-only-organization-uniting-analytics-engagement-and-care-delivery-across-medicare-medicaid-and-aca-markets-302926663.html",
-  "date": "2026-11-02T16:17:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Hull Street Energy Completes Acquisition of FirstLight's U.S. Generation Fleet",
-  "link": "https://www.prnewswire.com/news-releases/hull-street-energy-completes-acquisition-of-firstlights-us-generation-fleet-302925892.html",
-  "date": "2026-11-02T16:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Omen AI Acquires Aquatic Labs, Bringing Ocean-Sensing Expertise to Automate Data Center Cooling",
-  "link": "https://www.prnewswire.com/news-releases/omen-ai-acquires-aquatic-labs-bringing-ocean-sensing-expertise-to-automate-data-center-cooling-302926594.html",
-  "date": "2026-11-02T15:22:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Eagle Point Software Acquires Global eTraining, Expanding Learning Capabilities and Accelerating Innovation",
-  "link": "https://www.prnewswire.com/news-releases/eagle-point-software-acquires-global-etraining-expanding-learning-capabilities-and-accelerating-innovation-302926575.html",
-  "date": "2026-11-02T15:03:00Z"
- },
- {
   "src": "WSJ",
   "type": "Financing",
   "industry": "Technology",
@@ -88,76 +138,6 @@
   "title": "Oracle Looks to Raise $20 Billion to Fund AI Ambitions",
   "link": "https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?mod=pls_whats_news_us_business_f",
   "date": "2026-11-02T14:58:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Kimberly-Clark Completes Acquisition of Kenvue, Creating the Preeminent Global Consumer Health and Wellness Leader",
-  "link": "https://www.prnewswire.com/news-releases/kimberly-clark-completes-acquisition-of-kenvue-creating-the-preeminent-global-consumer-health-and-wellness-leader-302926494.html",
-  "date": "2026-11-02T14:02:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cherry Bekaert Acquires Sansiveri, Kimball & Co., LLP, Strengthening New England Presence and Expanding Client Capabilities",
-  "link": "https://www.prnewswire.com/news-releases/cherry-bekaert-acquires-sansiveri-kimball--co-llp-strengthening-new-england-presence-and-expanding-client-capabilities-302925247.html",
-  "date": "2026-11-02T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Caterpillar Inc. Acquires Fabick Cat Dealership",
-  "link": "https://www.prnewswire.com/news-releases/caterpillar-inc-acquires-fabick-cat-dealership-302924153.html",
-  "date": "2026-11-02T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Argent Financial Group Acquires Public Funds Custody Accounts And Client Services Team",
-  "link": "https://www.prnewswire.com/news-releases/argent-financial-group-acquires-public-funds-custody-accounts-and-client-services-team-302914268.html",
-  "date": "2026-11-02T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Kewaunee Scientific Announces Agreement to Acquire Nycom, Inc.",
-  "link": "https://www.prnewswire.com/news-releases/kewaunee-scientific-announces-agreement-to-acquire-nycom-inc-302925329.html",
-  "date": "2026-11-02T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "1248 Holdings Completes Acquisition of Generate Capital's Ownership Interest in Ubiquity",
-  "link": "https://www.prnewswire.com/news-releases/1248-holdings-completes-acquisition-of-generate-capitals-ownership-interest-in-ubiquity-302925956.html",
-  "date": "2026-11-02T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Bank7 Corp. Announces Completion of Merger with Century Financial Services Corporation; Anne Kain Named President of Century Bank",
-  "link": "https://www.prnewswire.com/news-releases/bank7-corp-announces-completion-of-merger-with-century-financial-services-corporation-anne-kain-named-president-of-century-bank-302923871.html",
-  "date": "2026-11-02T14:00:00Z"
  },
  {
   "src": "WSJ",
@@ -170,13 +150,33 @@
   "date": "2026-11-02T13:21:00Z"
  },
  {
-  "src": "PR Newswire",
+  "src": "WSJ",
   "type": "M&A",
   "industry": "—",
   "region": "—",
+  "value": "$2B",
+  "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
+  "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-02T12:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "$3.1B",
+  "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada",
+  "link": "https://www.wsj.com/finance/investing/blackstone-leads-3-1-billion-investment-in-mitsubishis-stake-in-lng-canada-96379858?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-02T10:54:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
   "value": "Undisclosed",
-  "title": "TURPAZ EXPANDS ITS FLAVOR AND FRAGRANCE ACTIVITIES IN AFRICA WITH THE ACQUISITION OF SOUTH AFRICA'S SENSORY FX",
-  "link": "https://www.prnewswire.com/news-releases/turpaz-expands-its-flavor-and-fragrance-activities-in-africa-with-the-acquisition-of-south-africas-sensory-fx-302926165.html",
-  "date": "2026-11-02T13:00:00Z"
+  "title": "OPay Ltd. (OPAY) Postpones IPO Indefinitely After it Did NOT Trade Today – Street Sources",
+  "link": "https://www.iposcoop.com/opay-ltd-opay-postpones-ipo-indefinitely-after-it-did-not-trade-today-street-sources/",
+  "date": "2026-10-30T21:27:18Z"
  }
 ]
