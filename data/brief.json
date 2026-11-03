@@ -1,61 +1,57 @@
 {
  "status": "live",
- "session": "Monday, November 2, 2026",
- "builtAt": "2026-11-02T12:00:00Z",
+ "session": "Tuesday, November 3, 2026",
+ "builtAt": "2026-11-03T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,580.07",
-   "c": "-1.82% Fri",
+   "v": "n/a",
+   "c": "-0.5% Mon",
    "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
    "v": "n/a",
-   "c": "-2.9% Fri",
+   "c": "-1.1% Mon",
    "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "51,770.31",
-   "c": "-1.1% Fri",
-   "dir": "down"
+   "v": "n/a",
+   "c": "+0.4% Mon",
+   "dir": "up"
   }
  ],
- "tapeLine": "Friday 30 October was the worst session since June: S&amp;P 500 -1.82% to 7,580.07, Nasdaq Composite -2.9%, Dow -572.25 points (-1.1%) to 51,770.31, per AP-based syndications and CBC coverage of the 30 Oct close. For the week the S&amp;P 500 fell 0.57% and the Nasdaq 2.00%. Monday futures levels were not found.",
- "matters": "<p>Intel fell almost 29% on Friday, its worst day since 1974, after a fourth-quarter profit forecast below analyst expectations, per CBC and AP-based coverage (30 Oct). Amazon fell 1.41% to $240.35 after its third-quarter results; coverage cited a weaker profit than expected and $42.4 billion of trailing-twelve-month free cash outflow.</p><p>Sources tied the sell-off to renewed doubts over returns on AI spending, following Alphabet&rsquo;s 12.64% drop on 29 October. The Russell 2000 was up on the week while large tech fell.</p><p>For October, the S&amp;P 500 fell about 0.9%, the Nasdaq more than 5% and the Dow gained about 1.7%, per the same reports.</p>",
+ "tapeLine": "Monday 2 November: S&amp;P 500 -0.5% after erasing an early gain of 1.1%, Dow +0.4%, Nasdaq -1.1%, per AP-based reports dated 2 Nov. Index levels and Tuesday futures were not found.",
+ "matters": "<p>AP-based coverage of Monday&rsquo;s session said a morning rally petered out as tech and AI stocks stayed shaky after last week&rsquo;s sell-off. Nearly seven in ten S&amp;P 500 stocks rose, yet nearly every chip stock fell; Yahoo Finance said the group lost more than $400 billion of market value in one session, with Intel again the largest decliner and worth less than half its end-of-September value.</p><p>Alphabet rose as much as 2.6% early, then closed down 0.3%, after last week&rsquo;s drop of more than 12%.</p>",
  "calendar": [],
- "alsoOnTape": "Gold, VIX and 10-year yield levels were not found with a clean dated source and are not carried.",
+ "alsoOnTape": "Gold, VIX, oil and 10-year yield levels were not found with a clean dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Friday 30 October: S&amp;P 500 7,580.07 (-1.82%), Dow 51,770.31 (-1.1%), Nasdaq Composite -2.9%.",
-  "<b>Monday pre-market</b> &mdash; no sourced futures levels were found."
+  "<b>Latest confirmed close</b> &mdash; Monday 2 November: S&amp;P 500 -0.5%, Dow +0.4%, Nasdaq -1.1%.",
+  "<b>Tuesday pre-market</b> &mdash; no sourced futures levels were found."
  ],
  "deals": [],
  "macro": [
-  "<b>Earnings</b> &mdash; Intel -~29% on guidance; Amazon -1.41% to $240.35 after Q3 results, per sources dated 30 Oct."
+  "<b>Earnings</b> &mdash; Intel again the largest chip decliner Monday; Alphabet -0.3% after an early +2.6%, per sources dated 2 Nov."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Risk-off in large tech continued: the Nasdaq Composite fell 2.9% on Friday after Alphabet&rsquo;s drop, while small caps held up on the week.",
-  "sizing": "Whether Friday&rsquo;s AI-spending sell-off extends is unresolved; no Monday data was found."
+  "tag": "The AI/tech sell-off continued on Monday while most S&amp;P 500 stocks rose: the market split between chips and the rest.",
+  "sizing": "Whether the chip sell-off extends or the broader gains hold is unresolved; no Tuesday data was found."
  },
  "watchlist": [],
- "secondOrder": "Alphabet, Amazon and Intel were each marked down on spending, cash flow or guidance within two sessions. Coverage linked them to one theme, AI spending returns. That is an observation, not a forecast.",
+ "secondOrder": "On Monday, breadth was positive (about 7 in 10 S&amp;P 500 stocks up) while the index fell, because chips and large tech carried the weight. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The prior brief&rsquo;s read of risk-off in megacap tech held: the Nasdaq Composite fell a further 2.9% on Friday."
+   "text": "The prior brief&rsquo;s open question on whether Friday&rsquo;s AI-spending sell-off extends was answered for chips: they fell again Monday, losing more than $400 billion of value per Yahoo Finance."
   },
   {
    "verdict": "wrong",
-   "text": "The prior brief&rsquo;s framing of the Alphabet drop as the day&rsquo;s main event proved too narrow: Friday&rsquo;s S&amp;P 500 fall (-1.82%) was larger than Thursday&rsquo;s (-0.3%) and was led by Intel."
-  },
-  {
-   "verdict": "right",
-   "text": "Amazon&rsquo;s reaction, open in the prior brief, resolved: shares fell 1.41% on Friday to $240.35, per 30 Oct reports."
+   "text": "The prior brief&rsquo;s read that Friday&rsquo;s fall was a broad risk-off was too wide: on Monday the Dow rose 0.4% and about 7 in 10 S&amp;P 500 stocks gained."
   },
   {
    "verdict": "open",
@@ -65,20 +61,12 @@
  "midday": null,
  "sources": [
   {
-   "label": "CBC — North American stocks sink with Wall Street suffering its worst day since June amid tech sell-off (30 Oct 2026)",
-   "url": "https://www.cbc.ca/news/business/tech-stocks-markets-oct-30-9.7403226"
+   "label": "AP via BNN Bloomberg — More drops for AI and tech stocks overshadow gains for most of Wall Street (2 Nov 2026)",
+   "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4/"
   },
   {
-   "label": "How major US stock indexes fared Friday 10/30/2026 (WTOP)",
-   "url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-friday-10-30-2026"
-  },
-  {
-   "label": "BBN Times — S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff",
-   "url": "https://www.bbntimes.com/financial/s-p-500-slips-to-7-580-07-in-worst-day-since-june-as-intel-and-amazon-deepen-ai-selloff"
-  },
-  {
-   "label": "Portfolio Terminal — Stock Market Close October 30, 2026",
-   "url": "https://portfolio-terminal.com/blog/stock-market-week-in-review-october-30-2026"
+   "label": "Yahoo Finance — The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html"
   }
  ]
 }
