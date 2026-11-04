@@ -1,57 +1,58 @@
 {
  "status": "live",
- "session": "Tuesday, November 3, 2026",
- "builtAt": "2026-11-03T12:00:00Z",
+ "session": "Wednesday, November 4, 2026",
+ "builtAt": "2026-11-04T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "n/a",
-   "c": "-0.5% Mon",
-   "dir": "down"
+   "v": "7,568.92",
+   "c": "+0.36% Tue",
+   "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
    "v": "n/a",
-   "c": "-1.1% Mon",
-   "dir": "down"
+   "c": "n/a",
+   "dir": "flat"
   },
   {
    "n": "Dow",
    "v": "n/a",
-   "c": "+0.4% Mon",
-   "dir": "up"
+   "c": "n/a",
+   "dir": "flat"
   }
  ],
- "tapeLine": "Monday 2 November: S&amp;P 500 -0.5% after erasing an early gain of 1.1%, Dow +0.4%, Nasdaq -1.1%, per AP-based reports dated 2 Nov. Index levels and Tuesday futures were not found.",
- "matters": "<p>AP-based coverage of Monday&rsquo;s session said a morning rally petered out as tech and AI stocks stayed shaky after last week&rsquo;s sell-off. Nearly seven in ten S&amp;P 500 stocks rose, yet nearly every chip stock fell; Yahoo Finance said the group lost more than $400 billion of market value in one session, with Intel again the largest decliner and worth less than half its end-of-September value.</p><p>Alphabet rose as much as 2.6% early, then closed down 0.3%, after last week&rsquo;s drop of more than 12%.</p>",
+ "tapeLine": "Tuesday 3 November: S&amp;P 500 +0.36% to 7,568.92, ending a three-day losing streak, per TipRanks (3 Nov). Nasdaq and Dow closes and Wednesday futures were not found.",
+ "matters": "<p>Chip stocks rebounded on US midterm election day: AMD, Intel and Micron each rose more than 2%, per reports dated 3 Nov. AMD then forecast faster-than-expected 2027 growth after the close and was up about 8% in extended trading.</p><p>Alphabet was weak, around 0.4% lower, and Apple closed nearly 2% lower after guiding to a slightly soft gross margin on memory-chip costs. Sources differ on breadth: Reuters said more S&amp;P 500 stocks fell than rose.</p>",
  "calendar": [],
  "alsoOnTape": "Gold, VIX, oil and 10-year yield levels were not found with a clean dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Monday 2 November: S&amp;P 500 -0.5%, Dow +0.4%, Nasdaq -1.1%.",
-  "<b>Tuesday pre-market</b> &mdash; no sourced futures levels were found."
+  "<b>Latest confirmed close</b> &mdash; Tuesday 3 November: S&amp;P 500 +0.36% to 7,568.92.",
+  "<b>After the close</b> &mdash; AMD about +8% in extended trading on its 2027 growth forecast, per reports dated 3 Nov."
  ],
  "deals": [],
  "macro": [
-  "<b>Earnings</b> &mdash; Intel again the largest chip decliner Monday; Alphabet -0.3% after an early +2.6%, per sources dated 2 Nov."
+  "<b>Politics</b> &mdash; US midterm elections held Tuesday 3 November; reports said worries over a Democratic sweep for AI-linked stocks eased after comments from President Trump.",
+  "<b>Earnings</b> &mdash; AMD reported after the close; Apple fell nearly 2% on margin guidance."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "The AI/tech sell-off continued on Monday while most S&amp;P 500 stocks rose: the market split between chips and the rest.",
-  "sizing": "Whether the chip sell-off extends or the broader gains hold is unresolved; no Tuesday data was found."
+  "tag": "The chip sell-off paused on Tuesday: chips rebounded and the S&amp;P 500 rose, while Alphabet and Apple lagged.",
+  "sizing": "Whether the chip rebound holds after AMD&rsquo;s results is unresolved; no Wednesday data was found."
  },
  "watchlist": [],
- "secondOrder": "On Monday, breadth was positive (about 7 in 10 S&amp;P 500 stocks up) while the index fell, because chips and large tech carried the weight. That is an observation, not a forecast.",
+ "secondOrder": "Tuesday&rsquo;s gain came from chips while some mega-caps fell and reports differ on breadth. That is an observation, not a forecast.",
  "scorecard": [
   {
-   "verdict": "right",
-   "text": "The prior brief&rsquo;s open question on whether Friday&rsquo;s AI-spending sell-off extends was answered for chips: they fell again Monday, losing more than $400 billion of value per Yahoo Finance."
+   "verdict": "wrong",
+   "text": "The prior brief&rsquo;s framing of a continuing chip sell-off did not carry into Tuesday: AMD, Intel and Micron each rose more than 2% and the S&amp;P 500 gained 0.36%."
   },
   {
-   "verdict": "wrong",
-   "text": "The prior brief&rsquo;s read that Friday&rsquo;s fall was a broad risk-off was too wide: on Monday the Dow rose 0.4% and about 7 in 10 S&amp;P 500 stocks gained."
+   "verdict": "right",
+   "text": "The prior brief&rsquo;s note that Alphabet was weak after last week&rsquo;s drop held: it was again about 0.4% lower on Tuesday."
   },
   {
    "verdict": "open",
@@ -61,12 +62,16 @@
  "midday": null,
  "sources": [
   {
-   "label": "AP via BNN Bloomberg — More drops for AI and tech stocks overshadow gains for most of Wall Street (2 Nov 2026)",
-   "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4/"
+   "label": "TipRanks / SWI swissinfo — Chip rally powers stock gains on US election day (3 Nov 2026)",
+   "url": "https://www.swissinfo.ch/eng/chip-rally-powers-stock-gains-on-us-election-day%3a-markets-wrap/92317079"
   },
   {
-   "label": "Yahoo Finance — The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
-   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html"
+   "label": "InvestorPlace — The AI Selloff Meets Election Day (Nov 2026)",
+   "url": "https://investorplace.com/2026/11/the-ai-selloff-meets-election-day/"
+  },
+  {
+   "label": "AdvFN — Wall Street futures advance after Democratic midterm victory as AMD forecast lifts chips",
+   "url": "https://uk.advfn.com/market-news/article/25640/wall-street-futures-advance-after-democratic-midterm-victory-as-amds-ai-forecast-lifts-chip-stocks-dow-jones-sp-nasdaq"
   }
  ]
 }
