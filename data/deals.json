@@ -1,5 +1,75 @@
 [
  {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
+  "link": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
+  "date": "2026-11-06T16:29:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "DRAGONPASS ACQUIRES ICOUPON THE LEADING GLOBAL VOUCHER REDEMPTION NETWORK TO BUILD INTERNATIONAL LOYALTY-AS-A-SERVICE PLATFORM",
+  "link": "https://www.prnewswire.com/news-releases/dragonpass-acquires-icoupon-the-leading-global-voucher-redemption-network-to-build-international-loyalty-as-a-service-platform-302932143.html",
+  "date": "2026-11-06T15:13:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "FOX CORPORATION COMPLETES ACQUISITION OF ROKU",
+  "link": "https://www.prnewswire.com/news-releases/fox-corporation-completes-acquisition-of-roku-302932088.html",
+  "date": "2026-11-06T14:10:00Z"
+ },
+ {
+  "src": "ACG",
+  "type": "Divestiture",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Building HR to Scale With Portcos: Part 2 – The Carve-Out Edition",
+  "link": "https://middlemarketgrowth.org/podcast-insperity-building-hr-scale-portcos-carve-out/",
+  "date": "2026-11-06T14:00:38Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Dana Announces Launch of Tender Offers for Any and All of its Outstanding 4.250% Senior Notes due 2030 and 4.500% Senior Notes due 2032",
+  "link": "https://www.prnewswire.com/news-releases/dana-announces-launch-of-tender-offers-for-any-and-all-of-its-outstanding-4-250-senior-notes-due-2030-and-4-500-senior-notes-due-2032--302932049.html",
+  "date": "2026-11-06T13:31:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking",
+  "link": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
+  "date": "2026-11-06T12:00:03Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal",
+  "link": "https://www.wsj.com/logistics-report/zipline-valuation-soars-as-drone-startup-raises-funds-expands-walmart-deal-48676792?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-06T11:51:00Z"
+ },
+ {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "—",
@@ -20,16 +90,6 @@
   "date": "2026-11-06T10:14:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Monte dei Paschi Raises Profit Guidance as Intesa Prepares to Launch Takeover Bid",
-  "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-profit-rises-as-intesa-takeover-looms-1551efed?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-06T10:12:00Z"
- },
- {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "—",
@@ -48,16 +108,6 @@
   "title": "Silver Lake and PIF in talks over $25bn Unity buyout",
   "link": "https://privateequitywire.com/news/silver-lake-and-pif-in-talks-over-25bn-unity-buyout",
   "date": "2026-11-06T10:01:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Hong Kong Exchange Operator’s Profit Slips as Trading, Listing Activity Cools",
-  "link": "https://www.wsj.com/business/earnings/hong-kong-exchange-operators-net-profit-slips-as-trading-activity-cools-3e3ee0b8?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-06T09:47:00Z"
  },
  {
   "src": "PR Newswire",
@@ -128,55 +178,5 @@
   "title": "Beacon Communications Expands in Illinois with Acquisition of Low Voltage Solutions Inc., Broadening National Coverage to Chicago-Area Market",
   "link": "https://www.prnewswire.com/news-releases/beacon-communications-expands-in-illinois-with-acquisition-of-low-voltage-solutions-inc-broadening-national-coverage-to-chicago-area-market-302931270.html",
   "date": "2026-11-05T20:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Burco Acquires Delta Kits, Names Bamidele Ali Chief Executive Officer",
-  "link": "https://www.prnewswire.com/news-releases/burco-acquires-delta-kits-names-bamidele-ali-chief-executive-officer-302931164.html",
-  "date": "2026-11-05T18:03:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Priority Software Expands its Business Management Portfolio with the Acquisition of Fireberry, Accelerating Its AI-First Vision for the Future of Business Management",
-  "link": "https://www.prnewswire.com/news-releases/priority-software-expands-its-business-management-portfolio-with-the-acquisition-of-fireberry-accelerating-its-ai-first-vision-for-the-future-of-business-management-302931129.html",
-  "date": "2026-11-05T17:31:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "MPE PARTNERS AND INTERMATIC ANNOUNCE THE ACQUISITION OF SUN-TECH",
-  "link": "https://www.prnewswire.com/news-releases/mpe-partners-and-intermatic-announce-the-acquisition-of-sun-tech-302929762.html",
-  "date": "2026-11-05T16:34:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$5.3B",
-  "title": "Shield to acquire Echodyne in a transaction valued at $5.3 billion and raise $2.5 billion at a $28.8 billion valuation",
-  "link": "https://www.prnewswire.com/news-releases/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation-302930012.html",
-  "date": "2026-11-05T16:30:00Z"
- },
- {
-  "src": "LAVCA",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Colca Capital Acquires Giga.uno",
-  "link": "https://www.lavca.org/colca-capital-acquires-giga-uno-2/",
-  "date": "2026-11-05T16:17:04Z"
  }
 ]
