@@ -1,58 +1,58 @@
 {
  "status": "live",
- "session": "Wednesday, November 4, 2026",
- "builtAt": "2026-11-04T12:00:00Z",
+ "session": "Friday, November 6, 2026",
+ "builtAt": "2026-11-06T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,568.92",
-   "c": "+0.36% Tue",
-   "dir": "up"
+   "v": "7,353.73",
+   "c": "-4.36% Thu",
+   "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "n/a",
-   "c": "n/a",
-   "dir": "flat"
+   "v": "24,315.00",
+   "c": "-5.52% Thu",
+   "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "n/a",
-   "c": "n/a",
-   "dir": "flat"
+   "v": "51,523.06",
+   "c": "-3.44% Thu",
+   "dir": "down"
   }
  ],
- "tapeLine": "Tuesday 3 November: S&amp;P 500 +0.36% to 7,568.92, ending a three-day losing streak, per TipRanks (3 Nov). Nasdaq and Dow closes and Wednesday futures were not found.",
- "matters": "<p>Chip stocks rebounded on US midterm election day: AMD, Intel and Micron each rose more than 2%, per reports dated 3 Nov. AMD then forecast faster-than-expected 2027 growth after the close and was up about 8% in extended trading.</p><p>Alphabet was weak, around 0.4% lower, and Apple closed nearly 2% lower after guiding to a slightly soft gross margin on memory-chip costs. Sources differ on breadth: Reuters said more S&amp;P 500 stocks fell than rose.</p>",
+ "tapeLine": "Thursday 5 November: S&amp;P 500 &minus;4.36% to 7,353.73, its worst day since April 2025; Dow &minus;1,833.06 (&minus;3.44%) to 51,523.06; Nasdaq Composite &minus;5.52% to 24,315.00, in correction territory, per reports dated 5 Nov. Friday futures were not found.",
+ "matters": "<p>Chip and AI stocks led a broad sell-off on Thursday, reversing Wednesday&rsquo;s post-midterm rally, when the Dow gained more than 1,500 points on a Democratic win. Nvidia, Micron and AMD were among the hardest hit, and all eleven S&amp;P sectors closed lower, per reports dated 5 Nov.</p><p>Reports tied the drop to fears that a Democratic sweep could bring AI regulation and slow data-center construction. Outlets differ on the cause; that is the reported explanation, not a confirmed one.</p>",
  "calendar": [],
  "alsoOnTape": "Gold, VIX, oil and 10-year yield levels were not found with a clean dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Tuesday 3 November: S&amp;P 500 +0.36% to 7,568.92.",
-  "<b>After the close</b> &mdash; AMD about +8% in extended trading on its 2027 growth forecast, per reports dated 3 Nov."
+  "<b>Latest confirmed close</b> &mdash; Thursday 5 November: S&amp;P 500 &minus;4.36% to 7,353.73; Nasdaq Composite &minus;5.52% to 24,315.00.",
+  "<b>Week to date</b> &mdash; Nasdaq down about 4.4% and S&amp;P 500 almost 3% through Thursday, per reports dated 5 Nov."
  ],
  "deals": [],
  "macro": [
-  "<b>Politics</b> &mdash; US midterm elections held Tuesday 3 November; reports said worries over a Democratic sweep for AI-linked stocks eased after comments from President Trump.",
-  "<b>Earnings</b> &mdash; AMD reported after the close; Apple fell nearly 2% on margin guidance."
+  "<b>Politics</b> &mdash; Democrats won control of both chambers in Tuesday&rsquo;s midterms; stocks rallied Wednesday, then fell Thursday on AI-regulation concerns, per reports dated 4&ndash;5 Nov.",
+  "<b>Earnings</b> &mdash; AMD reported Q3 revenue of $13.377 billion after the close on 3 Nov, per reports dated 4 Nov; the stock was among Thursday&rsquo;s decliners."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "The chip sell-off paused on Tuesday: chips rebounded and the S&amp;P 500 rose, while Alphabet and Apple lagged.",
-  "sizing": "Whether the chip rebound holds after AMD&rsquo;s results is unresolved; no Wednesday data was found."
+  "tag": "The Wednesday post-election rally was erased on Thursday: a chip-led sell-off took the Nasdaq into correction.",
+  "sizing": "Whether Thursday&rsquo;s drop extends or steadies is unresolved; no Friday data was found."
  },
  "watchlist": [],
- "secondOrder": "Tuesday&rsquo;s gain came from chips while some mega-caps fell and reports differ on breadth. That is an observation, not a forecast.",
+ "secondOrder": "Two sharp moves in opposite directions in two sessions on the same election news. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "wrong",
-   "text": "The prior brief&rsquo;s framing of a continuing chip sell-off did not carry into Tuesday: AMD, Intel and Micron each rose more than 2% and the S&amp;P 500 gained 0.36%."
+   "text": "The prior brief left open whether the chip rebound would hold after AMD&rsquo;s results, and carried reports that AI-sweep worries had eased. It did not hold: chips led a sell-off on Thursday and the S&amp;P 500 fell 4.36%."
   },
   {
    "verdict": "right",
-   "text": "The prior brief&rsquo;s note that Alphabet was weak after last week&rsquo;s drop held: it was again about 0.4% lower on Tuesday."
+   "text": "The prior brief&rsquo;s caution that reports differed on breadth and that the Tuesday gain was narrow was borne out by the sharp reversal that followed."
   },
   {
    "verdict": "open",
@@ -62,16 +62,16 @@
  "midday": null,
  "sources": [
   {
-   "label": "TipRanks / SWI swissinfo — Chip rally powers stock gains on US election day (3 Nov 2026)",
-   "url": "https://www.swissinfo.ch/eng/chip-rally-powers-stock-gains-on-us-election-day%3a-markets-wrap/92317079"
+   "label": "Yahoo Finance — Stock market today: Dow plunges 1,800 points, Nasdaq enters correction (5 Nov 2026)",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
   },
   {
-   "label": "InvestorPlace — The AI Selloff Meets Election Day (Nov 2026)",
-   "url": "https://investorplace.com/2026/11/the-ai-selloff-meets-election-day/"
+   "label": "Fox Business — Stocks plunge as Dem midterm sweep fuels AI regulatory concerns (5 Nov 2026)",
+   "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
   },
   {
-   "label": "AdvFN — Wall Street futures advance after Democratic midterm victory as AMD forecast lifts chips",
-   "url": "https://uk.advfn.com/market-news/article/25640/wall-street-futures-advance-after-democratic-midterm-victory-as-amds-ai-forecast-lifts-chip-stocks-dow-jones-sp-nasdaq"
+   "label": "CNBC — Dow soars 1,500 points on clear-cut Democratic win (3–4 Nov 2026)",
+   "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
   }
  ]
 }
