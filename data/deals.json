@@ -1,13 +1,63 @@
 [
  {
-  "src": "MarketWatch",
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
+  "link": "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-07T03:00:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$214.3M",
+  "title": "The IPO Buzz: vVardis (VVVV Proposed) – Swiss Dental Tech – Launches $214.3 Million IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-vvardis-holding-vvvv-proposed-launches-214-3-million-ipo/",
+  "date": "2026-11-07T00:34:14Z"
+ },
+ {
+  "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
-  "link": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
-  "date": "2026-11-06T16:29:00Z"
+  "title": "Cognizant Completes Acquisition of Wizeline",
+  "link": "https://www.prnewswire.com/news-releases/cognizant-completes-acquisition-of-wizeline-302932412.html",
+  "date": "2026-11-06T22:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "American Water and Essential Utilities Proposed Merger Progresses with Approval from the Illinois Commerce Commission",
+  "link": "https://www.prnewswire.com/news-releases/american-water-and-essential-utilities-proposed-merger-progresses-with-approval-from-the-illinois-commerce-commission-302932211.html",
+  "date": "2026-11-06T21:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
+  "link": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
+  "date": "2026-11-06T21:05:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Hackberry Lane Closes Multiple Student Housing Acquisitions at the University of Florida and University of Alabama, Growing Portfolio to Approximately 4,000 Beds",
+  "link": "https://www.prnewswire.com/news-releases/hackberry-lane-closes-multiple-student-housing-acquisitions-at-the-university-of-florida-and-university-of-alabama-growing-portfolio-to-approximately-4-000-beds-302932392.html",
+  "date": "2026-11-06T20:49:00Z"
  },
  {
   "src": "PR Newswire",
@@ -58,16 +108,6 @@
   "title": "General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking",
   "link": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
   "date": "2026-11-06T12:00:03Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal",
-  "link": "https://www.wsj.com/logistics-report/zipline-valuation-soars-as-drone-startup-raises-funds-expands-walmart-deal-48676792?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-06T11:51:00Z"
  },
  {
   "src": "PE Wire",
@@ -130,16 +170,6 @@
   "date": "2026-11-06T08:01:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.5T",
-  "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
-  "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main",
-  "date": "2026-11-06T04:36:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -148,35 +178,5 @@
   "title": "Faith Leaders Urge SCC to Reject Dominion-NextEra Merger",
   "link": "https://www.prnewswire.com/news-releases/faith-leaders-urge-scc-to-reject-dominionnextera-merger-302931427.html",
   "date": "2026-11-05T22:58:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Automated Logic Signs Agreement to Acquire Logical Solutions, Inc.",
-  "link": "https://www.prnewswire.com/news-releases/automated-logic-signs-agreement-to-acquire-logical-solutions-inc-302931296.html",
-  "date": "2026-11-05T21:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Sunrise Realty Trust, Inc. and Southern Realty Trust Inc., Tannenbaum Capital Group Affiliates, Complete Merger",
-  "link": "https://www.prnewswire.com/news-releases/sunrise-realty-trust-inc-and-southern-realty-trust-inc-tannenbaum-capital-group-affiliates-complete-merger-302931227.html",
-  "date": "2026-11-05T21:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Beacon Communications Expands in Illinois with Acquisition of Low Voltage Solutions Inc., Broadening National Coverage to Chicago-Area Market",
-  "link": "https://www.prnewswire.com/news-releases/beacon-communications-expands-in-illinois-with-acquisition-of-low-voltage-solutions-inc-broadening-national-coverage-to-chicago-area-market-302931270.html",
-  "date": "2026-11-05T20:05:00Z"
  }
 ]
