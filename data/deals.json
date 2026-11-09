@@ -1,23 +1,23 @@
 [
  {
-  "src": "WSJ",
+  "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
-  "link": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
-  "date": "2026-11-09T11:13:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
   "industry": "Healthcare",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: A Biotech & A Dental Care Start-Up On Tap Amid Anthropic Watch",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-a-biotech-a-dental-care-start-up-on-tap-amid-anthropic-watch/",
-  "date": "2026-11-09T10:45:04Z"
+  "title": "PharmaLogic to Acquire Lantheus' CDMO Business and Springfield, New Jersey Manufacturing Facility",
+  "link": "https://www.prnewswire.com/news-releases/pharmalogic-to-acquire-lantheus-cdmo-business-and-springfield-new-jersey-manufacturing-facility-302933626.html",
+  "date": "2026-11-09T21:05:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$30M",
+  "title": "Northwind Group Provides $30 Million Loan for Pro H Group Acquisition of 110 East 16th Street in Union Square",
+  "link": "https://www.prnewswire.com/news-releases/northwind-group-provides-30-million-loan-for-pro-h-group-acquisition-of-110-east-16th-street-in-union-square-302933849.html",
+  "date": "2026-11-09T21:03:00Z"
  },
  {
   "src": "MarketWatch",
@@ -25,19 +25,59 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
-  "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-  "date": "2026-11-09T10:04:00Z"
+  "title": "I’m 53 and not sure how to handle merging finances with my long-term partner.",
+  "link": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
+  "date": "2026-11-09T21:02:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CEO Jason Rabin Leads Management Buyout of Centric Brands, Takes Majority Stake",
+  "link": "https://www.prnewswire.com/news-releases/ceo-jason-rabin-leads-management-buyout-of-centric-brands-takes-majority-stake-302933619.html",
+  "date": "2026-11-09T19:00:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Healthcare",
+  "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Rosti Group acquires Alvi Group, strengthening its footprint, capabilities and medical device manufacturing",
-  "link": "https://www.prnewswire.com/news-releases/rosti-group-acquires-alvi-group-strengthening-its-footprint-capabilities-and-medical-device-manufacturing-302933168.html",
-  "date": "2026-11-09T08:58:00Z"
+  "title": "XKIG Increases Southeastern Operations with Acquisition of HTC",
+  "link": "https://www.prnewswire.com/news-releases/xkig-increases-southeastern-operations-with-acquisition-of-htc-302933659.html",
+  "date": "2026-11-09T18:12:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Bailey Equipment & Intralogistics Acquires Northwest Forklift, Doubling Pacific Northwest Team and Expanding Washington Operations",
+  "link": "https://www.prnewswire.com/news-releases/bailey-equipment--intralogistics-acquires-northwest-forklift-doubling-pacific-northwest-team-and-expanding-washington-operations-302933540.html",
+  "date": "2026-11-09T15:58:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Net at Work Acquires ERP Software Firm K&R Consulting Group",
+  "link": "https://www.prnewswire.com/news-releases/net-at-work-acquires-erp-software-firm-kr-consulting-group-302933499.html",
+  "date": "2026-11-09T15:40:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.6B",
+  "title": "PSP Investments to acquire 50% of Enercare, one of Canada's leading home infrastructure platforms, for approximately $1.6 billion",
+  "link": "https://www.prnewswire.com/news-releases/psp-investments-to-acquire-50-of-enercare-one-of-canadas-leading-home-infrastructure-platforms-for-approximately-1-6-billion-302933417.html",
+  "date": "2026-11-09T15:00:00Z"
  },
  {
   "src": "WSJ",
@@ -47,37 +87,37 @@
   "value": "Undisclosed",
   "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
   "link": "https://www.wsj.com/business/deals/credit-agricole-proposes-merger-of-italian-business-with-banco-bpm-d77044a4?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-09T07:31:00Z"
+  "date": "2026-11-09T13:49:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Strathcona Resources Ltd. Announces Agreement to Acquire Greenfire Resources Ltd.",
-  "link": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-announces-agreement-to-acquire-greenfire-resources-ltd-302932925.html",
-  "date": "2026-11-09T04:44:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "Asia-Pacific",
-  "value": "$8.8B",
-  "title": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
-  "link": "https://www.wsj.com/business/deals/mitsui-chemicals-to-acquire-jsr-with-development-bank-of-japan-for-8-8-billion-578ccd86?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-09T03:32:00Z"
+  "title": "Tiger Group Expands National Field Examination Platform with Acquisition of MNT Consulting",
+  "link": "https://www.prnewswire.com/news-releases/tiger-group-expands-national-field-examination-platform-with-acquisition-of-mnt-consulting-302932381.html",
+  "date": "2026-11-09T13:37:00Z"
  },
  {
   "src": "IPOScoop",
   "type": "IPO",
-  "industry": "Technology",
+  "industry": "—",
   "region": "—",
-  "value": "$214.3M",
-  "title": "The IPO Buzz: vVardis (VVVV Proposed) – Swiss Dental Tech – Launches $214.3 Million IPO",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-vvardis-holding-vvvv-proposed-launches-214-3-million-ipo/",
-  "date": "2026-11-07T00:34:14Z"
+  "value": "$175M",
+  "title": "The IPO Buzz: Windward Bio (WWB Proposed) Sets Terms for $175 Million IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-windward-bio-wwb-proposed-sets-terms-for-175-million-ipo/",
+  "date": "2026-11-09T13:21:20Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Royal Bank of Canada announces agreement to acquire Yarra Capital Management",
+  "link": "https://www.prnewswire.com/news-releases/royal-bank-of-canada-announces-agreement-to-acquire-yarra-capital-management-864253761.html",
+  "date": "2026-11-09T13:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -85,98 +125,58 @@
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Cognizant Completes Acquisition of Wizeline",
-  "link": "https://www.prnewswire.com/news-releases/cognizant-completes-acquisition-of-wizeline-302932412.html",
-  "date": "2026-11-06T22:00:00Z"
+  "title": "La Banque Royale du Canada annonce une entente visant l'acquisition de Yarra Capital Management",
+  "link": "https://www.prnewswire.com/news-releases/la-banque-royale-du-canada-annonce-une-entente-visant-lacquisition-de-yarra-capital-management-302932986.html",
+  "date": "2026-11-09T13:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "UniCredit Signals It Is Ready to Bring Forward Merger With Commerzbank",
+  "link": "https://www.wsj.com/business/earnings/unicredit-raises-profit-guidance-as-control-of-commerzbank-nears-ce8ccdc8?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-09T12:23:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Energy",
-  "region": "US",
+  "region": "—",
   "value": "Undisclosed",
-  "title": "American Water and Essential Utilities Proposed Merger Progresses with Approval from the Illinois Commerce Commission",
-  "link": "https://www.prnewswire.com/news-releases/american-water-and-essential-utilities-proposed-merger-progresses-with-approval-from-the-illinois-commerce-commission-302932211.html",
-  "date": "2026-11-06T21:15:00Z"
+  "title": "Palmdale Oil Acquires Tri-County Oil Distributors",
+  "link": "https://www.prnewswire.com/news-releases/palmdale-oil-acquires-tri-county-oil-distributors-302933311.html",
+  "date": "2026-11-09T12:20:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Healthcare",
+  "industry": "Energy",
   "region": "—",
   "value": "Undisclosed",
-  "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
-  "link": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
-  "date": "2026-11-06T21:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Hackberry Lane Closes Multiple Student Housing Acquisitions at the University of Florida and University of Alabama, Growing Portfolio to Approximately 4,000 Beds",
-  "link": "https://www.prnewswire.com/news-releases/hackberry-lane-closes-multiple-student-housing-acquisitions-at-the-university-of-florida-and-university-of-alabama-growing-portfolio-to-approximately-4-000-beds-302932392.html",
-  "date": "2026-11-06T20:49:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DRAGONPASS ACQUIRES ICOUPON THE LEADING GLOBAL VOUCHER REDEMPTION NETWORK TO BUILD INTERNATIONAL LOYALTY-AS-A-SERVICE PLATFORM",
-  "link": "https://www.prnewswire.com/news-releases/dragonpass-acquires-icoupon-the-leading-global-voucher-redemption-network-to-build-international-loyalty-as-a-service-platform-302932143.html",
-  "date": "2026-11-06T15:13:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "FOX CORPORATION COMPLETES ACQUISITION OF ROKU",
-  "link": "https://www.prnewswire.com/news-releases/fox-corporation-completes-acquisition-of-roku-302932088.html",
-  "date": "2026-11-06T14:10:00Z"
- },
- {
-  "src": "ACG",
-  "type": "Divestiture",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Building HR to Scale With Portcos: Part 2 – The Carve-Out Edition",
-  "link": "https://middlemarketgrowth.org/podcast-insperity-building-hr-scale-portcos-carve-out/",
-  "date": "2026-11-06T14:00:38Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Dana Announces Launch of Tender Offers for Any and All of its Outstanding 4.250% Senior Notes due 2030 and 4.500% Senior Notes due 2032",
-  "link": "https://www.prnewswire.com/news-releases/dana-announces-launch-of-tender-offers-for-any-and-all-of-its-outstanding-4-250-senior-notes-due-2030-and-4-500-senior-notes-due-2032--302932049.html",
-  "date": "2026-11-06T13:31:00Z"
+  "title": "LS Power to Acquire Six Natural Gas Power Generation Assets from NRG Energy",
+  "link": "https://www.prnewswire.com/news-releases/ls-power-to-acquire-six-natural-gas-power-generation-assets-from-nrg-energy-302933303.html",
+  "date": "2026-11-09T12:09:00Z"
  },
  {
   "src": "Crunchbase",
-  "type": "M&A",
+  "type": "Financing",
   "industry": "—",
-  "region": "US",
+  "region": "—",
   "value": "Undisclosed",
-  "title": "General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking",
-  "link": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
-  "date": "2026-11-06T12:00:03Z"
+  "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
+  "link": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
+  "date": "2026-11-09T12:00:51Z"
  },
  {
-  "src": "PE Wire",
+  "src": "WSJ",
   "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "$3.1B",
-  "title": "Wall Street banks line up $3.1bn debt financing for CD&R's Option Care deal",
-  "link": "https://privateequitywire.com/news/wall-street-banks-line-up-3-1bn-debt-financing-for-cd-rs-option-care-deal",
-  "date": "2026-11-06T10:18:00Z"
+  "value": "Undisclosed",
+  "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
+  "link": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
+  "date": "2026-11-09T11:13:00Z"
  }
 ]
