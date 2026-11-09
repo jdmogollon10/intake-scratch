@@ -1,5 +1,75 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
+  "link": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
+  "date": "2026-11-09T11:13:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: A Biotech & A Dental Care Start-Up On Tap Amid Anthropic Watch",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-a-biotech-a-dental-care-start-up-on-tap-amid-anthropic-watch/",
+  "date": "2026-11-09T10:45:04Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
+  "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
+  "date": "2026-11-09T10:04:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Rosti Group acquires Alvi Group, strengthening its footprint, capabilities and medical device manufacturing",
+  "link": "https://www.prnewswire.com/news-releases/rosti-group-acquires-alvi-group-strengthening-its-footprint-capabilities-and-medical-device-manufacturing-302933168.html",
+  "date": "2026-11-09T08:58:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
+  "link": "https://www.wsj.com/business/deals/credit-agricole-proposes-merger-of-italian-business-with-banco-bpm-d77044a4?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-09T07:31:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Strathcona Resources Ltd. Announces Agreement to Acquire Greenfire Resources Ltd.",
+  "link": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-announces-agreement-to-acquire-greenfire-resources-ltd-302932925.html",
+  "date": "2026-11-09T04:44:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "Asia-Pacific",
+  "value": "$8.8B",
+  "title": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
+  "link": "https://www.wsj.com/business/deals/mitsui-chemicals-to-acquire-jsr-with-development-bank-of-japan-for-8-8-billion-578ccd86?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-09T03:32:00Z"
+ },
+ {
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "Technology",
@@ -108,75 +178,5 @@
   "title": "Wall Street banks line up $3.1bn debt financing for CD&R's Option Care deal",
   "link": "https://privateequitywire.com/news/wall-street-banks-line-up-3-1bn-debt-financing-for-cd-rs-option-care-deal",
   "date": "2026-11-06T10:18:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.5T",
-  "title": "Anthropic's $1.5tn IPO valuation faces investor pushback",
-  "link": "https://privateequitywire.com/news/anthropics-1-5tn-ipo-valuation-faces-investor-pushback",
-  "date": "2026-11-06T10:14:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.5B",
-  "title": "Permira to acquire Flint Group in $1.5bn-plus deal",
-  "link": "https://privateequitywire.com/news/permira-to-acquire-flint-group-in-1-5bn-plus-deal",
-  "date": "2026-11-06T10:05:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$25B",
-  "title": "Silver Lake and PIF in talks over $25bn Unity buyout",
-  "link": "https://privateequitywire.com/news/silver-lake-and-pif-in-talks-over-25bn-unity-buyout",
-  "date": "2026-11-06T10:01:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "HSBC HOLDINGS PLC ANNOUNCES INCREASE OF THE MAXIMUM TENDER AMOUNT OF ITS TENDER OFFER FOR ONE SERIES OF SECURITIES",
-  "link": "https://www.prnewswire.com/news-releases/hsbc-holdings-plc-announces-increase-of-the-maximum-tender-amount-of-its-tender-offer-for-one-series-of-securities-302931934.html",
-  "date": "2026-11-06T09:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Alfa Laval to acquire NAVTOR AS to strengthen the digital offering for the maritime sector",
-  "link": "https://www.prnewswire.com/news-releases/alfa-laval-to-acquire-navtor-as-to-strengthen-the-digital-offering-for-the-maritime-sector-302931898.html",
-  "date": "2026-11-06T08:01:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Faith Leaders Urge SCC to Reject Dominion-NextEra Merger",
-  "link": "https://www.prnewswire.com/news-releases/faith-leaders-urge-scc-to-reject-dominionnextera-merger-302931427.html",
-  "date": "2026-11-05T22:58:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Automated Logic Signs Agreement to Acquire Logical Solutions, Inc.",
-  "link": "https://www.prnewswire.com/news-releases/automated-logic-signs-agreement-to-acquire-logical-solutions-inc-302931296.html",
-  "date": "2026-11-05T21:15:00Z"
  }
 ]
