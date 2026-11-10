@@ -1,54 +1,54 @@
 {
  "status": "live",
- "session": "Monday, November 9, 2026",
- "builtAt": "2026-11-09T12:00:00Z",
+ "session": "Tuesday, November 10, 2026",
+ "builtAt": "2026-11-10T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,376.86",
-   "c": "+0.3% Fri",
+   "v": "7,549.94",
+   "c": "+2.3% Mon",
    "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "24,579.42",
-   "c": "+1.1% Fri",
+   "v": "25,253.14",
+   "c": "+2.7% Mon",
    "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "51,285.73",
-   "c": "-0.5% Fri",
-   "dir": "down"
+   "v": "52,389.75",
+   "c": "+2.1% Mon",
+   "dir": "up"
   }
  ],
- "tapeLine": "Friday 6 November: S&amp;P 500 +23.13 (+0.3%) to 7,376.86; Dow &minus;237.33 (&minus;0.5%) to 51,285.73; Nasdaq Composite +264.43 (+1.1%) to 24,579.42, per an AP-style close report dated 6 Nov. Monday futures were not found.",
- "matters": "<p>Technology stocks bounced on Friday after Thursday&rsquo;s sell-off, giving a mixed close: the S&amp;P 500 and Nasdaq rose while the Dow slipped. The S&amp;P 500 trimmed its weekly loss, per the 6 Nov report.</p><p>The Nasdaq remains below Thursday&rsquo;s starting level by a wide margin; one Friday rebound does not settle whether the correction is over.</p>",
+ "tapeLine": "Monday 9 November: S&amp;P 500 +173.08 (+2.3%) to 7,549.94; Dow +1,104.02 (+2.1%) to 52,389.75; Nasdaq Composite +2.7% to 25,253.14, per Monday close reports. Tuesday futures were not found.",
+ "matters": "<p>Stocks rallied sharply on Monday, recovering part of last week&rsquo;s AI-led sell-off. Reports tied the move to lower oil prices on easing Iran tension and a tech rebound; AMD rose about 13% while Nvidia fell about 4% on a report that its board is investigating its CEO.</p><p>The Dow closed above its Election Day level; the S&amp;P 500 and Nasdaq were reported slightly below theirs. One strong session does not settle the direction of the correction.</p>",
  "calendar": [],
- "alsoOnTape": "Gold, VIX and 10-year yield levels were not found with a clean dated source and are not carried.",
+ "alsoOnTape": "Gold, VIX, 10-year yield and this week&rsquo;s economic calendar were not found with a clean dated source and are not carried.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Friday 6 November: S&amp;P 500 7,376.86 (+0.3%); Nasdaq Composite 24,579.42 (+1.1%); Dow 51,285.73 (&minus;0.5%).",
-  "<b>Monday futures</b> &mdash; not found with a dated source."
+  "<b>Latest confirmed close</b> &mdash; Monday 9 November: S&amp;P 500 7,549.94 (+2.3%); Nasdaq Composite 25,253.14 (+2.7%); Dow 52,389.75 (+2.1%).",
+  "<b>Tuesday futures</b> &mdash; not found with a dated source."
  ],
  "deals": [],
  "macro": [
-  "<b>Politics</b> &mdash; Democrats won control of both chambers in the 3 Nov midterms; Thursday&rsquo;s sell-off was tied in reports dated 5 Nov to AI-regulation concerns.",
-  "<b>Oil</b> &mdash; one report dated 6 Nov cited crude rebounding to about $100 a barrel; a second source was not found."
+  "<b>Oil</b> &mdash; a report dated 9 Nov headlined oil down 4.38% on eased Iran tension; a price level was not found with a dated source.",
+  "<b>Nvidia</b> &mdash; shares fell about 4% Monday amid reports its board is investigating CEO Jensen Huang over a China espionage report; the allegation is unconfirmed here."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "A partial, tech-led rebound on Friday after Thursday&rsquo;s chip-led sell-off; the Dow lagged.",
-  "sizing": "Whether the rebound holds is unresolved; no Monday data was found."
+  "tag": "A broad rebound on Monday, led by tech, after last week&rsquo;s AI-led sell-off.",
+  "sizing": "Whether the rebound holds is unresolved; no Tuesday data was found."
  },
  "watchlist": [],
- "secondOrder": "Three sharp, differing sessions in a row on the same election news. That is an observation, not a forecast.",
+ "secondOrder": "Indexes have now moved more than 2% in a single day in opposite directions within a week. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The prior brief said whether Thursday&rsquo;s drop would extend or steady was unresolved and made no direction call. Friday brought a partial steadying in the S&amp;P 500 and Nasdaq, while the Dow fell 0.5%."
+   "text": "The prior brief made no direction call and said whether Friday&rsquo;s rebound would hold was unresolved. Monday extended it: all three indexes rose more than 2%. It had also carried a report of crude near $100 on 6 Nov; Monday&rsquo;s report of a 4.38% oil drop is consistent with that level falling, but no level was found."
   },
   {
    "verdict": "open",
@@ -58,16 +58,16 @@
  "midday": null,
  "sources": [
   {
-   "label": "La Nacion (AP) — How major US stock indexes fared Friday, 11/6/2026",
-   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1162026-nid06112026/"
+   "label": "myMotherLode (AP) — How major US stock indexes fared Monday 11/9/2026",
+   "url": "https://mymotherlode.com/news/national/11295563/how-major-us-stock-indexes-fared-monday-11-9-2026.html"
   },
   {
-   "label": "Zacks — Stock Market News for Nov 6, 2026",
-   "url": "https://www.zacks.com/stock/news/3025392/stock-market-news-for-nov-6-2026"
+   "label": "CNBC — Dow surges 1,100 points, Nasdaq climbs more than 2% (live updates, 9 Nov 2026)",
+   "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
   },
   {
-   "label": "Fox19 — A brutal sell-off for AI stocks sends Wall Street reeling (5 Nov 2026)",
-   "url": "https://www.fox19.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-sees-worst-day-since-2025-liberation-day-tariffs/"
+   "label": "Stock Titan — The Stock Market Today, November 9, 2026",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
   }
  ]
 }
