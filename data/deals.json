@@ -1,5 +1,125 @@
 [
  {
+  "src": "MarketWatch",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
+  "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
+  "date": "2026-11-11T16:03:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ZINZINO AB (PUBL.): Zinzino acquires Uzesta to boost distribution capabilities in the APAC region",
+  "link": "https://www.prnewswire.com/news-releases/zinzino-ab-publ-zinzino-acquires-uzesta-to-boost-distribution-capabilities-in-the-apac-region-302936609.html",
+  "date": "2026-11-11T15:04:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Group 1 Automotive Welcomes Porsche Atlanta North Following Hennessy Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/group-1-automotive-welcomes-porsche-atlanta-north-following-hennessy-acquisition-302935995.html",
+  "date": "2026-11-11T14:52:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Group 1 Automotive Welcomes Porsche Atlanta Northwest Following Hennessy Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/group-1-automotive-welcomes-porsche-atlanta-northwest-following-hennessy-acquisition-302935980.html",
+  "date": "2026-11-11T14:46:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Group 1 Automotive Welcomes Land Rover North Atlanta Following Hennessy Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/group-1-automotive-welcomes-land-rover-north-atlanta-following-hennessy-acquisition-302935966.html",
+  "date": "2026-11-11T14:28:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Group 1 Automotive Welcomes Land Rover Gwinnett Following Hennessy Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/group-1-automotive-welcomes-land-rover-gwinnett-following-hennessy-acquisition-302936004.html",
+  "date": "2026-11-11T14:22:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Marshall & Stevens Acquires Baumann Moreau, Expanding Florida Footprint and Strengthening Litigation Support Practice",
+  "link": "https://www.prnewswire.com/news-releases/marshall--stevens-acquires-baumann-moreau-expanding-florida-footprint-and-strengthening-litigation-support-practice-302935800.html",
+  "date": "2026-11-11T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "ADB SAFEGATE acquires Synaptic Aviation",
+  "link": "https://www.prnewswire.com/news-releases/adb-safegate-acquires-synaptic-aviation-302936474.html",
+  "date": "2026-11-11T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Wellable Acquires Holistic Wellness Platform MyLifeWell",
+  "link": "https://www.prnewswire.com/news-releases/wellable-acquires-holistic-wellness-platform-mylifewell-302935947.html",
+  "date": "2026-11-11T13:41:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Financing",
+  "industry": "Financials",
+  "region": "LATAM",
+  "value": "$14M",
+  "title": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing",
+  "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
+  "date": "2026-11-11T13:00:04Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "US",
+  "value": "$1B",
+  "title": "OPROCESSOR Announces US$1 Billion Strategic Acquisition Target for Patented VCSEL Photonic Interposer Technology for Future Multi-Die GPUs Ahead of SPIE Photonics West 2027",
+  "link": "https://www.prnewswire.com/news-releases/oprocessor-announces-us1-billion-strategic-acquisition-target-for-patented-vcsel-photonic-interposer-technology-for-future-multi-die-gpus-ahead-of-spie-photonics-west-2027-302935866.html",
+  "date": "2026-11-11T13:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$500M",
+  "title": "Western Union Scraps $500 Million International Money Express Takeover",
+  "link": "https://www.wsj.com/business/deals/western-union-scraps-500-million-international-money-express-takeover-0cf7ae09?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-11T12:03:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "Strategic Investment",
   "industry": "—",
@@ -58,125 +178,5 @@
   "title": "Dangote Cement Shelves Secondary London Listing",
   "link": "https://www.wsj.com/business/dangote-cement-shelves-secondary-london-listing-b50c3fa5?mod=rss_markets_main",
   "date": "2026-11-11T07:35:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CK Hutchison Delays Planned Dual Listing of Retailer AS Watson",
-  "link": "https://www.wsj.com/business/retail/ck-hutchison-delays-planned-dual-listing-of-retailer-as-watson-2b8f122b?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-11T07:16:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Alyssa Bunch: The Name Behind the Biggest Deals",
-  "link": "https://www.prnewswire.com/news-releases/alyssa-bunch-the-name-behind-the-biggest-deals-302935668.html",
-  "date": "2026-11-10T23:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Clarivate Announces Pricing Terms of Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
-  "link": "https://www.prnewswire.com/news-releases/clarivate-announces-pricing-terms-of-offers-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302935558.html",
-  "date": "2026-11-10T21:15:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "BKF Acquires D R Consultants & Designers, Expanding Infrastructure Services in Southern California",
-  "link": "https://www.prnewswire.com/news-releases/bkf-acquires-d-r-consultants--designers-expanding-infrastructure-services-in-southern-california-302935431.html",
-  "date": "2026-11-10T20:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "GRUPO SIMEC ANNOUNCES AGREEMENT WITH VOTORANTIM, S.A. TO ACQUIRE ACERBRAG, S.A.",
-  "link": "https://www.prnewswire.com/news-releases/grupo-simec-announces-agreement-with-votorantim-sa-to-acquire-acerbrag-sa-302935420.html",
-  "date": "2026-11-10T19:21:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DLC Adds West Street Shopping Center Through Off-Market Deal",
-  "link": "https://www.prnewswire.com/news-releases/dlc-adds-west-street-shopping-center-through-off-market-deal-302935339.html",
-  "date": "2026-11-10T18:24:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$625M",
-  "title": "Smart-Ring Maker Oura to Buy AI-Native Primary-Care Company for $625 Million",
-  "link": "https://www.wsj.com/business/deals/smart-ring-maker-oura-to-buy-ai-native-primary-care-company-for-625-million-1ac93543?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-10T18:04:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "THE MILESTONE GROUP NAMES ROB STRONG AS HEAD OF ACQUISITIONS",
-  "link": "https://www.prnewswire.com/news-releases/the-milestone-group-names-rob-strong-as-head-of-acquisitions-302935289.html",
-  "date": "2026-11-10T17:38:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "SubSplit Services Group, LP Acquires Ideal Consolidated, Inc.",
-  "link": "https://www.prnewswire.com/news-releases/subsplit-services-group-lp-acquires-ideal-consolidated-inc-302935282.html",
-  "date": "2026-11-10T17:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Vanguard Claims Acquires Gibson & Associates Professional Claims Management",
-  "link": "https://www.prnewswire.com/news-releases/vanguard-claims-acquires-gibson--associates-professional-claims-management-302935167.html",
-  "date": "2026-11-10T16:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Stan Acquires Typefully as Content Creation and Distribution Become a Founder's Biggest Advantage",
-  "link": "https://www.prnewswire.com/news-releases/stan-acquires-typefully-as-content-creation-and-distribution-become-a-founders-biggest-advantage-302934372.html",
-  "date": "2026-11-10T16:00:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$61.05B",
-  "title": "The IPO Buzz: Anthropic (ANT Proposed) Unveils Terms of $61.05 Billion IPO",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-unveils-terms-of-61-05-billion-ipo/",
-  "date": "2026-11-10T12:29:58Z"
  }
 ]
