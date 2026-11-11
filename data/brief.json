@@ -1,73 +1,99 @@
 {
  "status": "live",
- "session": "Tuesday, November 10, 2026",
- "builtAt": "2026-11-10T12:00:00Z",
+ "session": "Wednesday, November 11, 2026",
+ "builtAt": "2026-11-11T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,549.94",
-   "c": "+2.3% Mon",
-   "dir": "up"
+   "v": "7,520.93",
+   "c": "-0.4% Tue",
+   "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "25,253.14",
-   "c": "+2.7% Mon",
-   "dir": "up"
+   "v": "25,065.87",
+   "c": "-0.7% Tue",
+   "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "52,389.75",
-   "c": "+2.1% Mon",
-   "dir": "up"
+   "v": "52,231.89",
+   "c": "-0.3% Tue",
+   "dir": "down"
   }
  ],
- "tapeLine": "Monday 9 November: S&amp;P 500 +173.08 (+2.3%) to 7,549.94; Dow +1,104.02 (+2.1%) to 52,389.75; Nasdaq Composite +2.7% to 25,253.14, per Monday close reports. Tuesday futures were not found.",
- "matters": "<p>Stocks rallied sharply on Monday, recovering part of last week&rsquo;s AI-led sell-off. Reports tied the move to lower oil prices on easing Iran tension and a tech rebound; AMD rose about 13% while Nvidia fell about 4% on a report that its board is investigating its CEO.</p><p>The Dow closed above its Election Day level; the S&amp;P 500 and Nasdaq were reported slightly below theirs. One strong session does not settle the direction of the correction.</p>",
- "calendar": [],
- "alsoOnTape": "Gold, VIX, 10-year yield and this week&rsquo;s economic calendar were not found with a clean dated source and are not carried.",
+ "tapeLine": "Tuesday 10 November: S&amp;P 500 &minus;0.4% to 7,520.93; Dow &minus;0.3% to 52,231.89; Nasdaq Composite &minus;0.7% to 25,065.87, per close reports dated 10&ndash;11 Nov. Early Wednesday futures were reported higher (see overnight).",
+ "matters": "<p>October CPI, released Tuesday, rose 0.4% seasonally adjusted against a 0.3% consensus; core rose 0.3%. The BLS did not publish a year-over-year rate because last year&rsquo;s government shutdown left it without the October 2025 comparison data. Coverage dated 10 Nov framed the print as strengthening the case for a December Fed rate increase.</p><p>Stocks gave back part of Monday&rsquo;s rebound on the print, with Nvidia again cited as a drag. Early Wednesday, futures were reported higher after a CoreWeave revenue beat. The US bond market is closed today for Veterans Day, so there is no Treasury read on the inflation news until Thursday.</p>",
+ "calendar": [
+  {
+   "time": "All day",
+   "event": "US bond market closed for Veterans Day (SIFMA recommendation); stock exchanges open normally; bond trading resumes Thu 12 Nov",
+   "consensus": "n/a",
+   "prior": "n/a",
+   "impact": "low"
+  }
+ ],
+ "alsoOnTape": "Gold, VIX, oil and 10-year yield levels were not found with a clean dated source and are not carried. Bank of America and Axios published estimated annual CPI rates; they are estimates, not BLS figures, and are not carried as data.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Monday 9 November: S&amp;P 500 7,549.94 (+2.3%); Nasdaq Composite 25,253.14 (+2.7%); Dow 52,389.75 (+2.1%).",
-  "<b>Tuesday futures</b> &mdash; not found with a dated source."
+  "<b>Latest confirmed close</b> &mdash; Tuesday 10 November: S&amp;P 500 7,520.93 (&minus;0.4%); Nasdaq Composite 25,065.87 (&minus;0.7%); Dow 52,231.89 (&minus;0.3%).",
+  "<b>Wednesday futures</b> &mdash; an early-morning snapshot cited from Investing.com had Nasdaq 100 futures +1.5%, S&amp;P 500 futures +0.6% and Dow futures +0.2%. Other reports gave slightly different figures at other timestamps.",
+  "<b>CoreWeave</b> &mdash; reported to be rising premarket after third-quarter revenue beat estimates."
  ],
  "deals": [],
  "macro": [
-  "<b>Oil</b> &mdash; a report dated 9 Nov headlined oil down 4.38% on eased Iran tension; a price level was not found with a dated source.",
-  "<b>Nvidia</b> &mdash; shares fell about 4% Monday amid reports its board is investigating CEO Jensen Huang over a China espionage report; the allegation is unconfirmed here."
+  "<b>October CPI</b> (BLS, 10 Nov) &mdash; headline +0.4% m/m SA vs 0.3% expected; September was +0.6%. Core +0.3% m/m. No official annual rate published.",
+  "<b>Fed</b> &mdash; reports dated 10&ndash;11 Nov said the print raised expectations of a December rate hike; a probability figure was seen only in an unattributed summary and is not carried.",
+  "<b>Nvidia</b> &mdash; cited again as weighing on tech Tuesday amid reports about its CEO; the underlying allegation remains unconfirmed here."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "A broad rebound on Monday, led by tech, after last week&rsquo;s AI-led sell-off.",
-  "sizing": "Whether the rebound holds is unresolved; no Tuesday data was found."
+  "tag": "A hot monthly inflation print interrupted Monday&rsquo;s rebound; rate-hike expectations are back in focus.",
+  "sizing": "Whether early Wednesday&rsquo;s futures strength survives the cash open is unresolved, and bonds give no signal today."
  },
  "watchlist": [],
- "secondOrder": "Indexes have now moved more than 2% in a single day in opposite directions within a week. That is an observation, not a forecast.",
+ "secondOrder": "With the bond market shut, today&rsquo;s equity session trades the CPI news without a same-day Treasury reaction; Thursday is the first chance to see one. That is an observation, not a forecast.",
  "scorecard": [
   {
-   "verdict": "right",
-   "text": "The prior brief made no direction call and said whether Friday&rsquo;s rebound would hold was unresolved. Monday extended it: all three indexes rose more than 2%. It had also carried a report of crude near $100 on 6 Nov; Monday&rsquo;s report of a 4.38% oil drop is consistent with that level falling, but no level was found."
+   "verdict": "open",
+   "text": "The prior brief made no direction call and said whether Monday&rsquo;s rebound would hold was unresolved. Tuesday gave back part of it: S&amp;P 500 &minus;0.4%, Nasdaq &minus;0.7%. Nothing directional was called, so there is nothing to grade right or wrong."
   },
   {
    "verdict": "open",
-   "text": "Yield behaviour still cannot be graded: no dated, sourced yield levels were found."
+   "text": "Yield behaviour still cannot be graded: no dated, sourced yield levels were found, and the bond market is closed today."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "myMotherLode (AP) — How major US stock indexes fared Monday 11/9/2026",
-   "url": "https://mymotherlode.com/news/national/11295563/how-major-us-stock-indexes-fared-monday-11-9-2026.html"
+   "label": "CNBC — stock market today live updates (10 Nov 2026)",
+   "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
   },
   {
-   "label": "CNBC — Dow surges 1,100 points, Nasdaq climbs more than 2% (live updates, 9 Nov 2026)",
-   "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+   "label": "Washington Post (AP) — How major US stock indexes fared Tuesday 11/10/2026",
+   "url": "https://www.washingtonpost.com/business/2026/11/10/wall-street-stocks-dow-nasdaq/a8f8d958-dd4c-11f1-912c-4fbb80d73f7f_story.html"
   },
   {
-   "label": "Stock Titan — The Stock Market Today, November 9, 2026",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+   "label": "Eurasia Business News — Dow, Nasdaq, S&P 500 fall on November 10, 2026 (11 Nov)",
+   "url": "https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/"
+  },
+  {
+   "label": "BLS — Consumer Price Index News Release, October 2026",
+   "url": "https://www.bls.gov/news.release/cpi.htm"
+  },
+  {
+   "label": "CNN — US inflation rose more than expected last month (10 Nov 2026)",
+   "url": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october"
+  },
+  {
+   "label": "investingLive — US bond market closed for Veterans Day as stocks face a hot CPI hangover",
+   "url": "https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/"
+  },
+  {
+   "label": "MLQ — Nasdaq futures jump as CoreWeave surges on Veterans Day (11 Nov)",
+   "url": "https://mlq.ai/news/nasdaq-futures-jump-as-coreweave-surges-13-and-european-stocks-rise-on-veterans-day/"
   }
  ]
 }
