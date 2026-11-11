@@ -1,5 +1,125 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "H.I.G. Capital Signs Definitive Agreement to Acquire Majority Stake in go asia",
+  "link": "https://www.prnewswire.com/news-releases/hig-capital-signs-definitive-agreement-to-acquire-majority-stake-in-go-asia-302935623.html",
+  "date": "2026-11-11T11:00:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "$1B",
+  "title": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout",
+  "link": "https://privateequitywire.com/news/pizza-hut-targets-1bn-securitisation-to-refinance-longrange-buyout",
+  "date": "2026-11-11T09:53:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$4B",
+  "title": "Vanguard raises $4bn in private debt to finance Altruist acquisition",
+  "link": "https://privateequitywire.com/news/vanguard-raises-4bn-in-private-debt-to-finance-altruist-acquisition",
+  "date": "2026-11-11T09:53:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Calpers doubles investment in Grain Management spectrum deal with SpaceX",
+  "link": "https://privateequitywire.com/news/calpers-doubles-investment-in-grain-management-spectrum-deal-with-spacex",
+  "date": "2026-11-11T09:52:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "$2.1B",
+  "title": "KKR and Diamondback to acquire Five Point's 70% stake in Deep Blue for $2.1bn",
+  "link": "https://privateequitywire.com/news/kkr-and-diamondback-to-acquire-five-points-70-stake-in-deep-blue-for-2-1bn",
+  "date": "2026-11-11T09:51:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
+  "region": "UK",
+  "value": "Undisclosed",
+  "title": "Dangote Cement Shelves Secondary London Listing",
+  "link": "https://www.wsj.com/business/dangote-cement-shelves-secondary-london-listing-b50c3fa5?mod=rss_markets_main",
+  "date": "2026-11-11T07:35:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CK Hutchison Delays Planned Dual Listing of Retailer AS Watson",
+  "link": "https://www.wsj.com/business/retail/ck-hutchison-delays-planned-dual-listing-of-retailer-as-watson-2b8f122b?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-11T07:16:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Alyssa Bunch: The Name Behind the Biggest Deals",
+  "link": "https://www.prnewswire.com/news-releases/alyssa-bunch-the-name-behind-the-biggest-deals-302935668.html",
+  "date": "2026-11-10T23:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Clarivate Announces Pricing Terms of Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
+  "link": "https://www.prnewswire.com/news-releases/clarivate-announces-pricing-terms-of-offers-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302935558.html",
+  "date": "2026-11-10T21:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "BKF Acquires D R Consultants & Designers, Expanding Infrastructure Services in Southern California",
+  "link": "https://www.prnewswire.com/news-releases/bkf-acquires-d-r-consultants--designers-expanding-infrastructure-services-in-southern-california-302935431.html",
+  "date": "2026-11-10T20:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "GRUPO SIMEC ANNOUNCES AGREEMENT WITH VOTORANTIM, S.A. TO ACQUIRE ACERBRAG, S.A.",
+  "link": "https://www.prnewswire.com/news-releases/grupo-simec-announces-agreement-with-votorantim-sa-to-acquire-acerbrag-sa-302935420.html",
+  "date": "2026-11-10T19:21:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "DLC Adds West Street Shopping Center Through Off-Market Deal",
+  "link": "https://www.prnewswire.com/news-releases/dlc-adds-west-street-shopping-center-through-off-market-deal-302935339.html",
+  "date": "2026-11-10T18:24:00Z"
+ },
+ {
   "src": "WSJ",
   "type": "M&A",
   "industry": "Technology",
@@ -10,16 +130,6 @@
   "date": "2026-11-10T18:04:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$18B",
-  "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
-  "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-10T17:54:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -28,16 +138,6 @@
   "title": "THE MILESTONE GROUP NAMES ROB STRONG AS HEAD OF ACQUISITIONS",
   "link": "https://www.prnewswire.com/news-releases/the-milestone-group-names-rob-strong-as-head-of-acquisitions-302935289.html",
   "date": "2026-11-10T17:38:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "$1T",
-  "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-  "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-  "date": "2026-11-10T17:33:00Z"
  },
  {
   "src": "PR Newswire",
@@ -70,113 +170,13 @@
   "date": "2026-11-10T16:00:00Z"
  },
  {
-  "src": "WSJ",
+  "src": "IPOScoop",
   "type": "IPO",
   "industry": "—",
   "region": "—",
-  "value": "$1.3T",
-  "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-  "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-10T15:40:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities",
-  "link": "https://www.prnewswire.com/news-releases/bpm-acquires-select-assets-of-el-ite-consulting-expanding-hr-technology-and-ukg-implementation-capabilities-302934589.html",
-  "date": "2026-11-10T15:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Ensurise, LLC Announces Merger with CIS Group",
-  "link": "https://www.prnewswire.com/news-releases/ensurise-llc-announces-merger-with-cis-group-302934579.html",
-  "date": "2026-11-10T14:43:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "IMVIONIX Acquires U.S. and Canadian Rights to BEOVU® (brolucizumab-dbll), Marking the Company's Official Launch",
-  "link": "https://www.prnewswire.com/news-releases/imvionix-acquires-us-and-canadian-rights-to-beovu-brolucizumab-dbll-marking-the-companys-official-launch-302934563.html",
-  "date": "2026-11-10T14:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Interstate Waste Services Acquires Hometown Waste & Recycling, Broadening Roll-Off Capabilities throughout New Jersey",
-  "link": "https://www.prnewswire.com/news-releases/interstate-waste-services-acquires-hometown-waste--recycling-broadening-roll-off-capabilities-throughout-new-jersey-302934948.html",
-  "date": "2026-11-10T14:04:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Broadwing Capital Launches Specialty Distribution Platform with Acquisition of Supply Side",
-  "link": "https://www.prnewswire.com/news-releases/broadwing-capital-launches-specialty-distribution-platform-with-acquisition-of-supply-side-302934177.html",
-  "date": "2026-11-10T14:02:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cogent Agrees to Acquire Specular to Strengthen Autonomous Cyber Defense Against Frontier AI Threats",
-  "link": "https://www.prnewswire.com/news-releases/cogent-agrees-to-acquire-specular-to-strengthen-autonomous-cyber-defense-against-frontier-ai-threats-302934903.html",
-  "date": "2026-11-10T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Interluxe Group Acquires Another A Story to Create a Global, Luxury-Focused Marketing Powerhouse",
-  "link": "https://www.prnewswire.com/news-releases/interluxe-group-acquires-another-a-story-to-create-a-global-luxury-focused-marketing-powerhouse-302934395.html",
-  "date": "2026-11-10T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cohen & Steers and DLC Acquire West Street Shopping Center in Keene, New Hampshire",
-  "link": "https://www.prnewswire.com/news-releases/cohen--steers-and-dlc-acquire-west-street-shopping-center-in-keene-new-hampshire-302934490.html",
-  "date": "2026-11-10T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Levine Leichtman Capital Partners and Management Acquire Five Star Franchising",
-  "link": "https://www.prnewswire.com/news-releases/levine-leichtman-capital-partners-and-management-acquire-five-star-franchising-302934007.html",
-  "date": "2026-11-10T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$130M",
-  "title": "Silver Point Leads $130 Million Financing Supporting the Acquisition of Hoover CS by The Riverside Company",
-  "link": "https://www.prnewswire.com/news-releases/silver-point-leads-130-million-financing-supporting-the-acquisition-of-hoover-cs-by-the-riverside-company-302934941.html",
-  "date": "2026-11-10T13:30:00Z"
+  "value": "$61.05B",
+  "title": "The IPO Buzz: Anthropic (ANT Proposed) Unveils Terms of $61.05 Billion IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-unveils-terms-of-61-05-billion-ipo/",
+  "date": "2026-11-10T12:29:58Z"
  }
 ]
