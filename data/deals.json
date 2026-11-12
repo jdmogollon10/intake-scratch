@@ -1,13 +1,63 @@
 [
  {
-  "src": "MarketWatch",
-  "type": "IPO",
+  "src": "PE Wire",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
-  "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
-  "date": "2026-11-11T16:03:00Z"
+  "title": "BC Partners to acquire Investcorp BDC at 10% discount to NAV",
+  "link": "https://privateequitywire.com/news/bc-partners-to-acquire-investcorp-bdc-at-10-discount-to-nav",
+  "date": "2026-11-12T10:00:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$150M",
+  "title": "Goldman, HSBC and Fortress back $150m Saudi private credit deal",
+  "link": "https://privateequitywire.com/news/goldman-hsbc-and-fortress-back-150m-saudi-private-credit-deal",
+  "date": "2026-11-12T09:59:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "£154M",
+  "title": "Fake private equity executive sentenced over £154m takeover fraud",
+  "link": "https://privateequitywire.com/news/fake-private-equity-executive-sentenced-over-154m-takeover-fraud",
+  "date": "2026-11-12T09:58:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "£5.7B",
+  "title": "Apollo’s £5.7bn easyJet takeover wins shareholder approval",
+  "link": "https://privateequitywire.com/news/apollos-5-7bn-easyjet-takeover-wins-shareholder-approval",
+  "date": "2026-11-12T09:56:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Brazil",
+  "value": "Undisclosed",
+  "title": "ASSA ABLOY acquires Rometal in Brazil",
+  "link": "https://www.prnewswire.com/news-releases/assa-abloy-acquires-rometal-in-brazil-302937517.html",
+  "date": "2026-11-12T07:19:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "GrayMar Environmental Services Expands Southeast Presence with Acquisition of Hull's Environmental Services Locations",
+  "link": "https://www.prnewswire.com/news-releases/graymar-environmental-services-expands-southeast-presence-with-acquisition-of-hulls-environmental-services-locations-302936899.html",
+  "date": "2026-11-11T19:51:00Z"
  },
  {
   "src": "PR Newswire",
@@ -120,26 +170,6 @@
   "date": "2026-11-11T12:03:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "H.I.G. Capital Signs Definitive Agreement to Acquire Majority Stake in go asia",
-  "link": "https://www.prnewswire.com/news-releases/hig-capital-signs-definitive-agreement-to-acquire-majority-stake-in-go-asia-302935623.html",
-  "date": "2026-11-11T11:00:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "$1B",
-  "title": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout",
-  "link": "https://privateequitywire.com/news/pizza-hut-targets-1bn-securitisation-to-refinance-longrange-buyout",
-  "date": "2026-11-11T09:53:00Z"
- },
- {
   "src": "PE Wire",
   "type": "Financing",
   "industry": "—",
@@ -148,35 +178,5 @@
   "title": "Vanguard raises $4bn in private debt to finance Altruist acquisition",
   "link": "https://privateequitywire.com/news/vanguard-raises-4bn-in-private-debt-to-finance-altruist-acquisition",
   "date": "2026-11-11T09:53:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Calpers doubles investment in Grain Management spectrum deal with SpaceX",
-  "link": "https://privateequitywire.com/news/calpers-doubles-investment-in-grain-management-spectrum-deal-with-spacex",
-  "date": "2026-11-11T09:52:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "$2.1B",
-  "title": "KKR and Diamondback to acquire Five Point's 70% stake in Deep Blue for $2.1bn",
-  "link": "https://privateequitywire.com/news/kkr-and-diamondback-to-acquire-five-points-70-stake-in-deep-blue-for-2-1bn",
-  "date": "2026-11-11T09:51:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "UK",
-  "value": "Undisclosed",
-  "title": "Dangote Cement Shelves Secondary London Listing",
-  "link": "https://www.wsj.com/business/dangote-cement-shelves-secondary-london-listing-b50c3fa5?mod=rss_markets_main",
-  "date": "2026-11-11T07:35:00Z"
  }
 ]
