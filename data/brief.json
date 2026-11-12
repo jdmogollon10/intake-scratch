@@ -1,99 +1,115 @@
 {
  "status": "live",
- "session": "Wednesday, November 11, 2026",
- "builtAt": "2026-11-11T12:00:00Z",
+ "session": "Thursday, November 12, 2026",
+ "builtAt": "2026-11-12T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,520.93",
-   "c": "-0.4% Tue",
-   "dir": "down"
+   "v": "7,619.38",
+   "c": "+1.3% Wed",
+   "dir": "up"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "25,065.87",
-   "c": "-0.7% Tue",
-   "dir": "down"
+   "v": "25,466.19",
+   "c": "+1.6% Wed",
+   "dir": "up"
   },
   {
    "n": "Dow",
-   "v": "52,231.89",
-   "c": "-0.3% Tue",
-   "dir": "down"
+   "v": "52,486.49",
+   "c": "+0.5% Wed",
+   "dir": "up"
   }
  ],
- "tapeLine": "Tuesday 10 November: S&amp;P 500 &minus;0.4% to 7,520.93; Dow &minus;0.3% to 52,231.89; Nasdaq Composite &minus;0.7% to 25,065.87, per close reports dated 10&ndash;11 Nov. Early Wednesday futures were reported higher (see overnight).",
- "matters": "<p>October CPI, released Tuesday, rose 0.4% seasonally adjusted against a 0.3% consensus; core rose 0.3%. The BLS did not publish a year-over-year rate because last year&rsquo;s government shutdown left it without the October 2025 comparison data. Coverage dated 10 Nov framed the print as strengthening the case for a December Fed rate increase.</p><p>Stocks gave back part of Monday&rsquo;s rebound on the print, with Nvidia again cited as a drag. Early Wednesday, futures were reported higher after a CoreWeave revenue beat. The US bond market is closed today for Veterans Day, so there is no Treasury read on the inflation news until Thursday.</p>",
+ "tapeLine": "Wednesday 11 November: S&amp;P 500 +1.3% to 7,619.38; Dow +0.5% to 52,486.49; Nasdaq Composite +1.6% to 25,466.19; Russell 2000 +0.9% to 2,846.26, per close reports dated 11 Nov. Nvidia fell sharply after hours and premarket Thursday (see overnight).",
+ "matters": "<p>Stocks recovered Tuesday&rsquo;s CPI loss on Wednesday, led by chips and AI infrastructure after CoreWeave&rsquo;s third-quarter revenue of $3.66 billion beat the $3.55 billion estimate; CoreWeave closed +24.7% at $60.77 and Nebius +15.4%. The bond market was closed for Veterans Day, so there was no Treasury reaction to the inflation print.</p><p>After the close, Nvidia fell more than 8% on reports from the New York Times of a second alleged affair involving CEO Jensen Huang and a Wall Street Journal report that the board is preparing to remove him. Nvidia has announced no decision. Nasdaq-100 futures were reported lower early Thursday. Treasuries reopen today, the first trading in bonds since the hotter October CPI.</p>",
  "calendar": [
   {
+   "time": "08:30 ET",
+   "event": "Initial jobless claims, week ending 7 Nov",
+   "consensus": "195K (TD calendar, 6 Nov)",
+   "prior": "189K (TD calendar); another listing shows a different prior",
+   "impact": "medium"
+  },
+  {
    "time": "All day",
-   "event": "US bond market closed for Veterans Day (SIFMA recommendation); stock exchanges open normally; bond trading resumes Thu 12 Nov",
+   "event": "US bond market reopens after Veterans Day closure",
    "consensus": "n/a",
    "prior": "n/a",
-   "impact": "low"
+   "impact": "medium"
   }
  ],
- "alsoOnTape": "Gold, VIX, oil and 10-year yield levels were not found with a clean dated source and are not carried. Bank of America and Axios published estimated annual CPI rates; they are estimates, not BLS figures, and are not carried as data.",
+ "alsoOnTape": "Gold, VIX, oil and 10-year yield levels were not found with a clean dated source and are not carried. Wednesday coverage said oil rose after Iran said its enriched nuclear material will not leave the country; no price level is carried. October PPI is due Friday 13 Nov, not today.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Tuesday 10 November: S&amp;P 500 7,520.93 (&minus;0.4%); Nasdaq Composite 25,065.87 (&minus;0.7%); Dow 52,231.89 (&minus;0.3%).",
-  "<b>Wednesday futures</b> &mdash; an early-morning snapshot cited from Investing.com had Nasdaq 100 futures +1.5%, S&amp;P 500 futures +0.6% and Dow futures +0.2%. Other reports gave slightly different figures at other timestamps.",
-  "<b>CoreWeave</b> &mdash; reported to be rising premarket after third-quarter revenue beat estimates."
+  "<b>Latest confirmed close</b> &mdash; Wednesday 11 November: S&amp;P 500 7,619.38 (+1.3%); Nasdaq Composite 25,466.19 (+1.6%); Dow 52,486.49 (+0.5%).",
+  "<b>Nvidia</b> &mdash; fell more than 8% after hours Wednesday. Premarket Thursday snapshots varied by source and timestamp, from about &minus;6% (Seeking Alpha, Yahoo data) to &minus;8.6% (Benzinga). Seeking Alpha reported CFO Colette Kress may be interim CEO; Nvidia has not confirmed any change.",
+  "<b>Futures</b> &mdash; CNBC&rsquo;s live coverage reported Nasdaq-100 futures sliding as the Nvidia sell-off resumed; no clean dated percentage was found and none is carried.",
+  "<b>Peers</b> &mdash; AMD and Broadcom were reported up 3.9% and 3% premarket respectively in the same coverage."
  ],
  "deals": [],
  "macro": [
-  "<b>October CPI</b> (BLS, 10 Nov) &mdash; headline +0.4% m/m SA vs 0.3% expected; September was +0.6%. Core +0.3% m/m. No official annual rate published.",
-  "<b>Fed</b> &mdash; reports dated 10&ndash;11 Nov said the print raised expectations of a December rate hike; a probability figure was seen only in an unattributed summary and is not carried.",
-  "<b>Nvidia</b> &mdash; cited again as weighing on tech Tuesday amid reports about its CEO; the underlying allegation remains unconfirmed here."
+  "<b>Nvidia governance</b> &mdash; reports say the board is weighing Huang&rsquo;s future; one report says it met Wednesday, another that it may meet as early as Thursday. Nvidia&rsquo;s earnings are scheduled for 17 Nov.",
+  "<b>Treasuries</b> &mdash; reopen today with no market read yet on October CPI (+0.4% m/m headline, +0.3% core, BLS 10 Nov).",
+  "<b>CoreWeave</b> &mdash; said it expects adjusted profitability in the first half of 2028, per close coverage dated 11 Nov."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "A hot monthly inflation print interrupted Monday&rsquo;s rebound; rate-hike expectations are back in focus.",
-  "sizing": "Whether early Wednesday&rsquo;s futures strength survives the cash open is unresolved, and bonds give no signal today."
+  "tag": "AI trade rebounded on CoreWeave, then single-name governance risk at Nvidia hit after the close.",
+  "sizing": "How much of Wednesday&rsquo;s Nasdaq gain survives Nvidia&rsquo;s premarket drop is unresolved, and today is the first Treasury session since CPI."
  },
  "watchlist": [],
- "secondOrder": "With the bond market shut, today&rsquo;s equity session trades the CPI news without a same-day Treasury reaction; Thursday is the first chance to see one. That is an observation, not a forecast.",
+ "secondOrder": "Nvidia&rsquo;s weight means a single-stock governance story can move index futures independent of macro data; reported premarket strength in AMD and Broadcom suggests some rotation within chips rather than a uniform sector move. That is an observation, not a forecast.",
  "scorecard": [
   {
    "verdict": "open",
-   "text": "The prior brief made no direction call and said whether Monday&rsquo;s rebound would hold was unresolved. Tuesday gave back part of it: S&amp;P 500 &minus;0.4%, Nasdaq &minus;0.7%. Nothing directional was called, so there is nothing to grade right or wrong."
+   "text": "The prior brief said whether Wednesday&rsquo;s early futures strength would survive the cash open was unresolved. It did: S&amp;P 500 +1.3%, Nasdaq +1.6%. No direction was called, so there is nothing to grade right or wrong."
   },
   {
    "verdict": "open",
-   "text": "Yield behaviour still cannot be graded: no dated, sourced yield levels were found, and the bond market is closed today."
+   "text": "The prior brief noted Thursday is the first chance for a Treasury reaction to CPI. Bonds reopen today; no yield data yet to assess."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "CNBC — stock market today live updates (10 Nov 2026)",
-   "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+   "label": "LA NACION (AP) — How major US stock indexes fared Wednesday 11/11/2026",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11112026-nid11112026/"
   },
   {
-   "label": "Washington Post (AP) — How major US stock indexes fared Tuesday 11/10/2026",
-   "url": "https://www.washingtonpost.com/business/2026/11/10/wall-street-stocks-dow-nasdaq/a8f8d958-dd4c-11f1-912c-4fbb80d73f7f_story.html"
+   "label": "TheStreet — Stock Market Today (Nov. 11, 2026)",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
   },
   {
-   "label": "Eurasia Business News — Dow, Nasdaq, S&P 500 fall on November 10, 2026 (11 Nov)",
-   "url": "https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/"
+   "label": "Sharecast — US close: Stocks higher as CoreWeave surges, Nvidia rebounds (11 Nov)",
+   "url": "https://sharecast.com/news/market-report-us-close/us-close-stocks-higher-as-coreweave-surges-nvidia-rebounds--24134670.html"
+  },
+  {
+   "label": "Stocktitan — Tech stocks closed higher Nov 11, 2026, then Nvidia fell after hours",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+  },
+  {
+   "label": "CNBC — Nasdaq-100 futures slide as Nvidia sell-off resumes: live updates",
+   "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+  },
+  {
+   "label": "Benzinga — Nvidia shares sink premarket (Nov 2026)",
+   "url": "https://www.benzinga.com/markets/equities/26/11/63173709/nvidia-shares-fall-premarket-jensen-huang-affair-report"
+  },
+  {
+   "label": "Seeking Alpha — Nvidia slides as investors weigh Jensen Huang's future as CEO",
+   "url": "https://seekingalpha.com/news/4671241-nvidia-slides-6-as-investors-weigh-jensen-huangs-future-as-ceo"
+  },
+  {
+   "label": "TD Economics — upcoming economic calendar (6 Nov 2026)",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-06/upcoming.htm"
   },
   {
    "label": "BLS — Consumer Price Index News Release, October 2026",
    "url": "https://www.bls.gov/news.release/cpi.htm"
-  },
-  {
-   "label": "CNN — US inflation rose more than expected last month (10 Nov 2026)",
-   "url": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october"
-  },
-  {
-   "label": "investingLive — US bond market closed for Veterans Day as stocks face a hot CPI hangover",
-   "url": "https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/"
-  },
-  {
-   "label": "MLQ — Nasdaq futures jump as CoreWeave surges on Veterans Day (11 Nov)",
-   "url": "https://mlq.ai/news/nasdaq-futures-jump-as-coreweave-surges-13-and-european-stocks-rise-on-veterans-day/"
   }
  ]
 }
