@@ -1,13 +1,113 @@
 [
  {
-  "src": "PR Newswire",
+  "src": "PE Wire",
+  "type": "Financing",
+  "industry": "—",
+  "region": "—",
+  "value": "$3.6B",
+  "title": "Ares raises $3.6bn for major private credit continuation fund",
+  "link": "https://privateequitywire.com/news/ares-raises-3-6bn-for-major-private-credit-continuation-fund",
+  "date": "2026-11-13T10:00:00Z"
+ },
+ {
+  "src": "PE Wire",
   "type": "M&A",
-  "industry": "Technology",
+  "industry": "—",
+  "region": "—",
+  "value": "$90M",
+  "title": "Bluestone completes first buyout with $90m 11th St. Workshop deal",
+  "link": "https://privateequitywire.com/news/bluestone-completes-first-buyout-with-90m-11th-st-workshop-deal",
+  "date": "2026-11-13T09:59:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Amyris, Inc. to acquire industry-leading sweet protein innovator Oobli, adding a proven protein technology platform to its biomanufacturing capabilities",
-  "link": "https://www.prnewswire.com/news-releases/amyris-inc-to-acquire-industry-leading-sweet-protein-innovator-oobli-adding-a-proven-protein-technology-platform-to-its-biomanufacturing-capabilities-302937988.html",
-  "date": "2026-11-12T18:00:00Z"
+  "title": "CD&R and GTCR abandon Global Payments buyout talks",
+  "link": "https://privateequitywire.com/news/cd-r-and-gtcr-abandon-global-payments-buyout-talks",
+  "date": "2026-11-13T09:58:00Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: vVardis (VVVV) Upsizes IPO & Prices Deal at $18 – $3 Below Range",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-vvardis-vvvv-upsizes-ipo-prices-deal-at-18-3-below-range/",
+  "date": "2026-11-13T07:10:02Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The IPO Buzz: Windward Bio (WWB) – Swiss Biotech – Prices IPO at $17 – Mid-Point",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-windward-bio-wwb-swiss-biotech-prices-ipo-at-17-mid-point/",
+  "date": "2026-11-13T01:59:19Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$2.3M",
+  "title": "FF EAI Robotics Ecosystem (FFR) Announces 2026 Q3 Results, with Approximately $2.3 Million in Cumulative Revenue for Acquired Robotics Business",
+  "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-ffr-announces-2026-q3-results-with-approximately-2-3-million-in-cumulative-revenue-for-acquired-robotics-business-302938436.html",
+  "date": "2026-11-12T22:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Sciens Water Acquires Roberts Filter Group",
+  "link": "https://www.prnewswire.com/news-releases/sciens-water-acquires-roberts-filter-group-302937069.html",
+  "date": "2026-11-12T22:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+  "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+  "date": "2026-11-12T21:40:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Greenland Energy Company Announces Recommended All-Share Acquisition of 80 Mile plc combination to consolidate 100% ownership of the Jameson Land Basin licenses in Greenland in a single Nasdaq-listed energy and critical minerals company",
+  "link": "https://www.prnewswire.com/news-releases/greenland-energy-company-announces-recommended-all-share-acquisition-of-80-mile-plc-combination-to-consolidate-100-ownership-of-the-jameson-land-basin-licenses-in-greenland-in-a-single-nasdaq-listed-energy-and-critical-minerals-c-302938395.html",
+  "date": "2026-11-12T20:45:00Z"
+ },
+ {
+  "src": "LAVCA",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "LAVCA Women Submissions Open; Clara Secures USD105m; NeoSpace & Pulpos Acquisitions",
+  "link": "https://www.lavca.org/lavca-women-submissions-open-clara-secures-usd105m-neospace-pulpos-acquisitions/",
+  "date": "2026-11-12T20:37:36Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Open Road Resorts Expands into Wisconsin with Acquisition of Rustic Timbers Door County Camping",
+  "link": "https://www.prnewswire.com/news-releases/open-road-resorts-expands-into-wisconsin-with-acquisition-of-rustic-timbers-door-county-camping-302938310.html",
+  "date": "2026-11-12T19:02:00Z"
  },
  {
   "src": "PR Newswire",
@@ -20,14 +120,14 @@
   "date": "2026-11-12T18:00:00Z"
  },
  {
-  "src": "WSJ",
+  "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
+  "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
-  "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
-  "date": "2026-11-12T17:25:00Z"
+  "title": "Amyris, Inc. to acquire industry-leading sweet protein innovator Oobli, adding a proven protein technology platform to its biomanufacturing capabilities",
+  "link": "https://www.prnewswire.com/news-releases/amyris-inc-to-acquire-industry-leading-sweet-protein-innovator-oobli-adding-a-proven-protein-technology-platform-to-its-biomanufacturing-capabilities-302937988.html",
+  "date": "2026-11-12T18:00:00Z"
  },
  {
   "src": "PR Newswire",
@@ -78,105 +178,5 @@
   "title": "Worker.ai acquires DeltaGen, launches with backing from billionaire Veeam founder Ratmir Timashev",
   "link": "https://www.prnewswire.com/news-releases/workerai-acquires-deltagen-launches-with-backing-from-billionaire-veeam-founder-ratmir-timashev-302936953.html",
   "date": "2026-11-12T12:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "$500M",
-  "title": "Peak 10 Energy Announces $500 Million Acquisition Finance Facility with U.S. Bank",
-  "link": "https://www.prnewswire.com/news-releases/peak-10-energy-announces-500-million-acquisition-finance-facility-with-us-bank-302937199.html",
-  "date": "2026-11-12T11:40:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "BC Partners to acquire Investcorp BDC at 10% discount to NAV",
-  "link": "https://privateequitywire.com/news/bc-partners-to-acquire-investcorp-bdc-at-10-discount-to-nav",
-  "date": "2026-11-12T10:00:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$150M",
-  "title": "Goldman, HSBC and Fortress back $150m Saudi private credit deal",
-  "link": "https://privateequitywire.com/news/goldman-hsbc-and-fortress-back-150m-saudi-private-credit-deal",
-  "date": "2026-11-12T09:59:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "£154M",
-  "title": "Fake private equity executive sentenced over £154m takeover fraud",
-  "link": "https://privateequitywire.com/news/fake-private-equity-executive-sentenced-over-154m-takeover-fraud",
-  "date": "2026-11-12T09:58:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "£5.7B",
-  "title": "Apollo’s £5.7bn easyJet takeover wins shareholder approval",
-  "link": "https://privateequitywire.com/news/apollos-5-7bn-easyjet-takeover-wins-shareholder-approval",
-  "date": "2026-11-12T09:56:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Brazil",
-  "value": "Undisclosed",
-  "title": "ASSA ABLOY acquires Rometal in Brazil",
-  "link": "https://www.prnewswire.com/news-releases/assa-abloy-acquires-rometal-in-brazil-302937517.html",
-  "date": "2026-11-12T07:19:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "Financing",
-  "industry": "Financials",
-  "region": "LATAM",
-  "value": "$14M",
-  "title": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing",
-  "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
-  "date": "2026-11-11T13:00:04Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$500M",
-  "title": "Western Union Scraps $500 Million International Money Express Takeover",
-  "link": "https://www.wsj.com/business/deals/western-union-scraps-500-million-international-money-express-takeover-0cf7ae09?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-11T12:03:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "—",
-  "value": "$4B",
-  "title": "Vanguard raises $4bn in private debt to finance Altruist acquisition",
-  "link": "https://privateequitywire.com/news/vanguard-raises-4bn-in-private-debt-to-finance-altruist-acquisition",
-  "date": "2026-11-11T09:53:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "$1B",
-  "title": "Pizza Hut targets $1bn securitisation to refinance LongRange buyout",
-  "link": "https://privateequitywire.com/news/pizza-hut-targets-1bn-securitisation-to-refinance-longrange-buyout",
-  "date": "2026-11-11T09:53:00Z"
  }
 ]
