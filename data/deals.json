@@ -1,5 +1,45 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "TruGreen Announces Acquisition by Birch Hill Equity Partners",
+  "link": "https://www.prnewswire.com/news-releases/trugreen-announces-acquisition-by-birch-hill-equity-partners-302939072.html",
+  "date": "2026-11-13T15:45:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+  "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+  "date": "2026-11-13T15:18:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "H.I.G. Forms New Creator Economy Company Waveborn, Acquires JRE",
+  "link": "https://www.prnewswire.com/news-releases/hig-forms-new-creator-economy-company-waveborn-acquires-jre-302938533.html",
+  "date": "2026-11-13T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Farmacias Benavides Announces Definitive Agreement to Be Acquired by Farmacias del Ahorro",
+  "link": "https://www.prnewswire.com/news-releases/farmacias-benavides-announces-definitive-agreement-to-be-acquired-by-farmacias-del-ahorro-302938956.html",
+  "date": "2026-11-13T13:22:00Z"
+ },
+ {
   "src": "PE Wire",
   "type": "Financing",
   "industry": "—",
@@ -33,19 +73,19 @@
   "src": "IPOScoop",
   "type": "IPO",
   "industry": "—",
-  "region": "—",
+  "region": "US",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: vVardis (VVVV) Upsizes IPO & Prices Deal at $18 – $3 Below Range",
+  "title": "The IPO Buzz: vVardis (VVVV) Prices Upsized IPO at $18 – $3 Below Range – Stock Falls on NYSE",
   "link": "https://www.iposcoop.com/the-ipo-buzz-vvardis-vvvv-upsizes-ipo-prices-deal-at-18-3-below-range/",
   "date": "2026-11-13T07:10:02Z"
  },
  {
   "src": "IPOScoop",
   "type": "IPO",
-  "industry": "Healthcare",
-  "region": "—",
+  "industry": "—",
+  "region": "US",
   "value": "Undisclosed",
-  "title": "The IPO Buzz: Windward Bio (WWB) – Swiss Biotech – Prices IPO at $17 – Mid-Point",
+  "title": "The IPO Buzz: Windward Bio (WWB) Prices IPO at $17 Mid-Point – & Stock Pops in NASDAQ Debut",
   "link": "https://www.iposcoop.com/the-ipo-buzz-windward-bio-wwb-swiss-biotech-prices-ipo-at-17-mid-point/",
   "date": "2026-11-13T01:59:19Z"
  },
@@ -68,16 +108,6 @@
   "title": "Sciens Water Acquires Roberts Filter Group",
   "link": "https://www.prnewswire.com/news-releases/sciens-water-acquires-roberts-filter-group-302937069.html",
   "date": "2026-11-12T22:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
-  "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
-  "date": "2026-11-12T21:40:00Z"
  },
  {
   "src": "PR Newswire",
@@ -112,21 +142,21 @@
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "PAI Pharma Acquires Nexus Pharmaceuticals, Expanding Portfolio of Sterile Injectable Products",
-  "link": "https://www.prnewswire.com/news-releases/pai-pharma-acquires-nexus-pharmaceuticals-expanding-portfolio-of-sterile-injectable-products-302937821.html",
-  "date": "2026-11-12T18:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
   "title": "Amyris, Inc. to acquire industry-leading sweet protein innovator Oobli, adding a proven protein technology platform to its biomanufacturing capabilities",
   "link": "https://www.prnewswire.com/news-releases/amyris-inc-to-acquire-industry-leading-sweet-protein-innovator-oobli-adding-a-proven-protein-technology-platform-to-its-biomanufacturing-capabilities-302937988.html",
+  "date": "2026-11-12T18:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "PAI Pharma Acquires Nexus Pharmaceuticals, Expanding Portfolio of Sterile Injectable Products",
+  "link": "https://www.prnewswire.com/news-releases/pai-pharma-acquires-nexus-pharmaceuticals-expanding-portfolio-of-sterile-injectable-products-302937821.html",
   "date": "2026-11-12T18:00:00Z"
  },
  {
@@ -148,35 +178,5 @@
   "title": "Third-Generation, Family-Owned ThirdGen Timber Group Acquires PrecisionCraft Log & Timber Homes, Riverbend Timber Framing, M.T.N Design and TimberScape",
   "link": "https://www.prnewswire.com/news-releases/third-generation-family-owned-thirdgen-timber-group-acquires-precisioncraft-log--timber-homes-riverbend-timber-framing-mtn-design-and-timberscape-302937733.html",
   "date": "2026-11-12T14:58:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Branford Castle Acquires Floratine Products Group, Marking First Platform Investment in Fund III",
-  "link": "https://www.prnewswire.com/news-releases/branford-castle-acquires-floratine-products-group-marking-first-platform-investment-in-fund-iii-302937191.html",
-  "date": "2026-11-12T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Trusted Space Acquires Falcon ExoDynamics to Deliver End-to-End Trusted Autonomy for National Security Space",
-  "link": "https://www.prnewswire.com/news-releases/trusted-space-acquires-falcon-exodynamics-to-deliver-end-to-end-trusted-autonomy-for-national-security-space-302935637.html",
-  "date": "2026-11-12T12:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Worker.ai acquires DeltaGen, launches with backing from billionaire Veeam founder Ratmir Timashev",
-  "link": "https://www.prnewswire.com/news-releases/workerai-acquires-deltagen-launches-with-backing-from-billionaire-veeam-founder-ratmir-timashev-302936953.html",
-  "date": "2026-11-12T12:00:00Z"
  }
 ]
