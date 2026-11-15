@@ -1,5 +1,15 @@
 [
  {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
+  "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
+  "date": "2026-11-15T10:30:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -168,15 +178,5 @@
   "title": "Open Road Resorts Expands into Wisconsin with Acquisition of Rustic Timbers Door County Camping",
   "link": "https://www.prnewswire.com/news-releases/open-road-resorts-expands-into-wisconsin-with-acquisition-of-rustic-timbers-door-county-camping-302938310.html",
   "date": "2026-11-12T19:02:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "PAI Pharma Acquires Nexus Pharmaceuticals, Expanding Portfolio of Sterile Injectable Products",
-  "link": "https://www.prnewswire.com/news-releases/pai-pharma-acquires-nexus-pharmaceuticals-expanding-portfolio-of-sterile-injectable-products-302937821.html",
-  "date": "2026-11-12T18:00:00Z"
  }
 ]
