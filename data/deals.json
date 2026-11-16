@@ -2,10 +2,90 @@
  {
   "src": "WSJ",
   "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Investors Set to Win Big in Anthropic’s IPO",
+  "link": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
+  "date": "2026-11-16T10:30:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Legal & General Shares Fall After Pension Buyouts Miss Views",
+  "link": "https://www.wsj.com/business/earnings/legal-general-shares-fall-after-pension-buyouts-miss-views-c0f6b591?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-16T10:14:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "$5B",
+  "title": "Diamondback nears $5bn acquisition of EnCap-backed Permian assets",
+  "link": "https://privateequitywire.com/news/diamondback-nears-5bn-acquisition-of-encap-backed-permian-assets-2",
+  "date": "2026-11-16T10:09:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Asia-Pacific",
+  "value": "$50M",
+  "title": "Former Carlyle executive launches Asian secondaries firm targeting $50m deals",
+  "link": "https://privateequitywire.com/news/diamondback-nears-5bn-acquisition-of-encap-backed-permian-assets",
+  "date": "2026-11-16T10:06:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "Europe",
+  "value": "$1.1B",
+  "title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
+  "link": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
+  "date": "2026-11-16T07:00:39Z"
+ },
+ {
+  "src": "IPOScoop",
+  "type": "IPO",
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
+  "title": "The IPO Buzz: Anthropic IPO to Make History as First Big AI Frontier IPO",
+  "link": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ipo-to-make-history-as-first-big-ai-frontier-ipo/",
+  "date": "2026-11-16T04:49:14Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Advanta renforce sa présence sur le marché africain grâce à l'acquisition stratégique de Hytech",
+  "link": "https://www.prnewswire.com/news-releases/advanta-renforce-sa-presence-sur-le-marche-africain-grace-a-lacquisition-strategique-de-hytech-302939961.html",
+  "date": "2026-11-16T04:41:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Berry Street Welcomes MyScribe Founder Dr. Wasif Bokhari to Its AI Team and Acquires MyScribe",
+  "link": "https://www.prnewswire.com/news-releases/berry-street-welcomes-myscribe-founder-dr-wasif-bokhari-to-its-ai-team-and-acquires-myscribe-302939778.html",
+  "date": "2026-11-15T21:24:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The SpaceX IPO Had Musk’s Star Power. Anthropic’s Has FOMO.",
   "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
   "date": "2026-11-15T10:30:00Z"
  },
@@ -48,16 +128,6 @@
   "title": "TruGreen Announces Acquisition by Birch Hill Equity Partners",
   "link": "https://www.prnewswire.com/news-releases/trugreen-announces-acquisition-by-birch-hill-equity-partners-302939072.html",
   "date": "2026-11-13T15:45:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
-  "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
-  "date": "2026-11-13T15:18:00Z"
  },
  {
   "src": "PR Newswire",
@@ -108,75 +178,5 @@
   "title": "CD&R and GTCR abandon Global Payments buyout talks",
   "link": "https://privateequitywire.com/news/cd-r-and-gtcr-abandon-global-payments-buyout-talks",
   "date": "2026-11-13T09:58:00Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: vVardis (VVVV) Prices Upsized IPO at $18 – $3 Below Range – Stock Falls on NYSE",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-vvardis-vvvv-upsizes-ipo-prices-deal-at-18-3-below-range/",
-  "date": "2026-11-13T07:10:02Z"
- },
- {
-  "src": "IPOScoop",
-  "type": "IPO",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "The IPO Buzz: Windward Bio (WWB) Prices IPO at $17 Mid-Point – & Stock Pops in NASDAQ Debut",
-  "link": "https://www.iposcoop.com/the-ipo-buzz-windward-bio-wwb-swiss-biotech-prices-ipo-at-17-mid-point/",
-  "date": "2026-11-13T01:59:19Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$2.3M",
-  "title": "FF EAI Robotics Ecosystem (FFR) Announces 2026 Q3 Results, with Approximately $2.3 Million in Cumulative Revenue for Acquired Robotics Business",
-  "link": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-ffr-announces-2026-q3-results-with-approximately-2-3-million-in-cumulative-revenue-for-acquired-robotics-business-302938436.html",
-  "date": "2026-11-12T22:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Sciens Water Acquires Roberts Filter Group",
-  "link": "https://www.prnewswire.com/news-releases/sciens-water-acquires-roberts-filter-group-302937069.html",
-  "date": "2026-11-12T22:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Greenland Energy Company Announces Recommended All-Share Acquisition of 80 Mile plc combination to consolidate 100% ownership of the Jameson Land Basin licenses in Greenland in a single Nasdaq-listed energy and critical minerals company",
-  "link": "https://www.prnewswire.com/news-releases/greenland-energy-company-announces-recommended-all-share-acquisition-of-80-mile-plc-combination-to-consolidate-100-ownership-of-the-jameson-land-basin-licenses-in-greenland-in-a-single-nasdaq-listed-energy-and-critical-minerals-c-302938395.html",
-  "date": "2026-11-12T20:45:00Z"
- },
- {
-  "src": "LAVCA",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "LAVCA Women Submissions Open; Clara Secures USD105m; NeoSpace & Pulpos Acquisitions",
-  "link": "https://www.lavca.org/lavca-women-submissions-open-clara-secures-usd105m-neospace-pulpos-acquisitions/",
-  "date": "2026-11-12T20:37:36Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Open Road Resorts Expands into Wisconsin with Acquisition of Rustic Timbers Door County Camping",
-  "link": "https://www.prnewswire.com/news-releases/open-road-resorts-expands-into-wisconsin-with-acquisition-of-rustic-timbers-door-county-camping-302938310.html",
-  "date": "2026-11-12T19:02:00Z"
  }
 ]
