@@ -1,5 +1,125 @@
 [
  {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "CPP Investments and Ontario Teachers’ join Nordic Capital in Cary Group deal",
+  "link": "https://privateequitywire.com/news/cpp-investments-and-ontario-teachers-join-nordic-capital-in-cary-group-deal",
+  "date": "2026-11-17T10:34:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$5B",
+  "title": "Blackstone data centre REIT strikes $5bn AWS deal",
+  "link": "https://privateequitywire.com/news/blackstone-data-centre-reit-strikes-5bn-aws-deal",
+  "date": "2026-11-17T10:21:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "€3B",
+  "title": "CVC seeks to exit near-€3bn Irca deal with Advent",
+  "link": "https://privateequitywire.com/news/cvc-seeks-to-exit-near-3bn-irca-deal-with-advent",
+  "date": "2026-11-17T10:10:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Quorum Cyber Completes Acquisition of Ontinue, Advancing Its Vision for Microsoft-First Autonomous Cyber Defense",
+  "link": "https://www.prnewswire.com/news-releases/quorum-cyber-completes-acquisition-of-ontinue-advancing-its-vision-for-microsoft-first-autonomous-cyber-defense-302940933.html",
+  "date": "2026-11-17T10:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$220M",
+  "title": "MAIRE: Nextchem (MAIRE) to acquire LNG process technologies from Chart Industries for $220 million",
+  "link": "https://www.prnewswire.com/news-releases/maire-nextchem-maire-to-acquire-lng-process-technologies-from-chart-industries-for-220-million-302941886.html",
+  "date": "2026-11-17T09:26:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Woolpert Expands Global Data Center Practice with Acquisition of B-Global Tech",
+  "link": "https://www.prnewswire.com/news-releases/woolpert-expands-global-data-center-practice-with-acquisition-of-b-global-tech-302941263.html",
+  "date": "2026-11-17T09:15:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "Telecom & Media",
+  "region": "—",
+  "value": "$21.96B",
+  "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
+  "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-17T00:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
+  "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
+  "date": "2026-11-16T22:51:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Local Bounti Looks to Expand National Footprint with Agreement to Purchase CEA Facilities in Temple, Texas and Medford, Minnesota",
+  "link": "https://www.prnewswire.com/news-releases/local-bounti-looks-to-expand-national-footprint-with-agreement-to-purchase-cea-facilities-in-temple-texas-and-medford-minnesota-302941073.html",
+  "date": "2026-11-16T21:50:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Hormel Foods Completes Acquisition of Brakebush Brothers, LLC",
+  "link": "https://www.prnewswire.com/news-releases/hormel-foods-completes-acquisition-of-brakebush-brothers-llc-302941030.html",
+  "date": "2026-11-16T21:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Aon Completes Acquisition of USI to Establish the Premier U.S. Middle-Market Platform",
+  "link": "https://www.prnewswire.com/news-releases/aon-completes-acquisition-of-usi-to-establish-the-premier-us-middle-market-platform-302940834.html",
+  "date": "2026-11-16T21:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "DIAMONDROCK HOSPITALITY COMPANY ACQUIRES CARMEL MISSION INN",
+  "link": "https://www.prnewswire.com/news-releases/diamondrock-hospitality-company-acquires-carmel-mission-inn-302940838.html",
+  "date": "2026-11-16T21:05:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Healthcare",
@@ -18,16 +138,6 @@
   "title": "XKIG Expands Pacific Northwest Presence with Acquisition of Jensen's Tree Service, Inc.",
   "link": "https://www.prnewswire.com/news-releases/xkig-expands-pacific-northwest-presence-with-acquisition-of-jensens-tree-service-inc-302940864.html",
   "date": "2026-11-16T18:46:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "$21.96B",
-  "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
-  "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-16T18:31:00Z"
  },
  {
   "src": "PR Newswire",
@@ -52,106 +162,6 @@
  {
   "src": "WSJ",
   "type": "M&A",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "Former Buyout Execs Launch Secondaries Firm to Target Hidden-Gem Assets in Asia",
-  "link": "https://www.wsj.com/pro/private-equity/former-buyout-execs-launch-secondaries-firm-to-target-hidden-gem-assets-in-asia-546861fd?mod=rss_markets_main",
-  "date": "2026-11-16T16:25:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Veritran Acquires PrismaCampaigns Inc., Expanding U.S. Presence",
-  "link": "https://www.prnewswire.com/news-releases/veritran-acquires-prismacampaigns-inc-expanding-us-presence-302940654.html",
-  "date": "2026-11-16T15:45:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$108M",
-  "title": "PINE TREE JOINT VENTURE ACQUIRES $108 MILLION SHOPPING CENTER IN TULSA, OKLAHOMA",
-  "link": "https://www.prnewswire.com/news-releases/pine-tree-joint-venture-acquires-108-million-shopping-center-in-tulsa-oklahoma-302940613.html",
-  "date": "2026-11-16T15:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Real Estate",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Advanced Real Estate Acquires 253 Unit Casitas Apartments in Ontario, California",
-  "link": "https://www.prnewswire.com/news-releases/advanced-real-estate-acquires-253-unit-casitas-apartments-in-ontario-california-302939466.html",
-  "date": "2026-11-16T15:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Mars Announces Offers to Purchase for Cash Certain of its Senior Notes",
-  "link": "https://www.prnewswire.com/news-releases/mars-announces-offers-to-purchase-for-cash-certain-of-its-senior-notes-302940592.html",
-  "date": "2026-11-16T14:53:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Divestiture",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "APTIM Announces Divestiture of Commercial Environmental Consulting and Site Assessment & Remediation Business to Become a Premier Government Services Provider",
-  "link": "https://www.prnewswire.com/news-releases/aptim-announces-divestiture-of-commercial-environmental-consulting-and-site-assessment--remediation-business-to-become-a-premier-government-services-provider-302940515.html",
-  "date": "2026-11-16T14:02:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Credo Health Acquires Affineon, Launches Pajama.ai to End Doctors' \"Pajama Time\"",
-  "link": "https://www.prnewswire.com/news-releases/credo-health-acquires-affineon-launches-pajamaai-to-end-doctors-pajama-time-302939962.html",
-  "date": "2026-11-16T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$300M",
-  "title": "Hadrian Acquires Kutztown Foundry & Machine, Plans $300 Million Investment to Expand America's Submarine Production Capacity",
-  "link": "https://www.prnewswire.com/news-releases/hadrian-acquires-kutztown-foundry--machine-plans-300-million-investment-to-expand-americas-submarine-production-capacity-302939809.html",
-  "date": "2026-11-16T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Beacon Bank Advances its Post-Merger Modernization with Finastra Payments To Go",
-  "link": "https://www.prnewswire.com/news-releases/beacon-bank-advances-its-post-merger-modernization-with-finastra-payments-to-go-302933667.html",
-  "date": "2026-11-16T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP",
-  "link": "https://www.prnewswire.com/news-releases/alimentation-couche-tard-announces-receipt-of-all-regulatory-approvals-for-its-voluntary-tender-offer-for-abka-group-302940487.html",
-  "date": "2026-11-16T14:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
   "industry": "Technology",
   "region": "—",
   "value": "$5B",
@@ -161,22 +171,12 @@
  },
  {
   "src": "WSJ",
-  "type": "IPO",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
-  "link": "https://www.wsj.com/cfo-journal/nvidia-earnings-anthropic-ipo-ahead-in-new-test-for-ai-economy-7dced222?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-16T12:33:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
+  "type": "M&A",
   "industry": "—",
   "region": "—",
   "value": "Undisclosed",
-  "title": "The Investors Set to Win Big in Anthropic’s IPO",
-  "link": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
-  "date": "2026-11-16T10:30:00Z"
+  "title": "Legal & General Shares Fall After Pension Buyouts Miss Views",
+  "link": "https://www.wsj.com/business/earnings/legal-general-shares-fall-after-pension-buyouts-miss-views-c0f6b591?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-16T10:14:00Z"
  }
 ]
