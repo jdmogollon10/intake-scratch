@@ -1,184 +1,190 @@
 {
  "status": "live",
- "session": "Tuesday, November 17, 2026",
- "builtAt": "2026-11-17T11:45:00Z",
+ "session": "Wednesday, November 18, 2026",
+ "builtAt": "2026-11-18T11:45:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,416.59",
-   "c": "-1.9% Mon",
+   "v": "7,340.53",
+   "c": "-1.0% Tue",
    "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "24,509.76",
-   "c": "-2.5% Mon",
+   "v": "24,328.38",
+   "c": "-0.7% Tue",
    "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "51,608.17",
-   "c": "-1.4% Mon",
+   "v": "50,759.42",
+   "c": "-1.6% Tue",
    "dir": "down"
   }
  ],
- "tapeLine": "Monday 16 November: S&amp;P 500 &minus;1.9% to 7,416.59, its third straight loss; Dow &minus;739.38 to 51,608.17; Nasdaq Composite &minus;2.5% to 24,509.76, per AP close report dated 16 Nov. The Philadelphia Semiconductor Index fell about 5.3% (Xinhua and other wire recaps, 16&ndash;17 Nov).",
- "matters": "<p>Monday was a broad AI and chip selloff a day before Nvidia reports. Nvidia fell 4.1% to $156.14 and the semiconductor index lost about 5.3% (Xinhua, 17 Nov). Fed Chair Warsh, opening the Fed&rsquo;s Productivity and Jobs Task Force conference, described a downside case in which AI returns disappoint, valuations fall and unemployment rises, calling these &ldquo;illustrative scenarios, not forecasts,&rdquo; and gave no rate signal (Seoul Economic Daily, 17 Nov). Stocks were already lower before he spoke. The 10-year yield eased slightly Monday morning to about 5.13% (CNBC, 16 Nov).</p><p>Today: October retail sales and import prices at 8:30 ET; Fed speakers Musalem, Waller, Hammack and Williams; Nvidia&rsquo;s fiscal third-quarter results after the close, the first since Jensen Huang resigned as CEO. Futures were lower early Tuesday, with Reuters putting S&amp;P 500 and Nasdaq-100 E-minis each down about 0.34% at 5:23 ET (Yahoo/Reuters, 17 Nov). FOMC minutes Wednesday; Anthropic&rsquo;s IPO is reported to price Wednesday 18 Nov, timing subject to change.</p>",
+ "tapeLine": "Tuesday 17 November: S&amp;P 500 &minus;1.03% to 7,340.53, its fourth straight loss and lowest close since late July; Dow &minus;848.75 (&minus;1.64%) to 50,759.42; Nasdaq Composite &minus;181.37 (&minus;0.74%) to 24,328.38 (AP via Washington Post; CNBC; Motley Fool, 17 Nov).",
+ "matters": "<p>Stocks fell for a fourth session Tuesday, with all 11 S&amp;P sectors lower and the Dow down more than 1,000 points at its low; coverage cited chip and AI pressure and a CNN report of an outage on the NSA&rsquo;s classified network (Motley Fool, StockTitan, 17 Nov). October retail sales rose 0.2%, in line with estimates, after a revised 0.8% in September; ex-gas stations about +0.1% (RTTNews, Boston 25/AP, 17 Nov). The 10-year eased about 2 bp to roughly 5.10% (Cappnotes, CNBC, 17 Nov).</p><p>After the close Nvidia reported fiscal Q3 revenue of $115.8 billion (+103% y/y), data-center revenue of $107.6 billion, and guided Q4 to $130.0 billion &plusmn;3%, assuming no China data-center compute revenue (Nvidia release, 17 Nov). Shares rose after hours, and index futures were higher early Wednesday, led by the Nasdaq-100 (FXStreet, Yahoo Finance, 18 Nov). Today: October housing starts at 8:30 ET, FOMC minutes at 2:00 ET, and Anthropic&rsquo;s IPO is expected to price this evening with trading Thursday.</p>",
  "calendar": [
   {
-   "time": "07:30 ET",
-   "event": "St. Louis Fed President Musalem speaks",
+   "time": "Pre-market",
+   "event": "Earnings: Target, TJX, Lowe&rsquo;s, PDD Holdings, Williams-Sonoma (Schwab list)",
    "consensus": "&mdash;",
    "prior": "&mdash;",
    "impact": "medium"
   },
   {
    "time": "08:30 ET",
-   "event": "Retail sales, October (m/m)",
-   "consensus": "+0.2%",
-   "prior": "+0.8%",
+   "event": "Housing starts and building permits, October",
+   "consensus": "1.27M (Finviz); 1.230M (Investing.com)",
+   "prior": "1.221M",
+   "impact": "medium"
+  },
+  {
+   "time": "14:00 ET",
+   "event": "FOMC minutes (October meeting)",
+   "consensus": "&mdash;",
+   "prior": "&mdash;",
    "impact": "high"
   },
   {
-   "time": "08:30 ET",
-   "event": "Retail sales ex autos, October (m/m)",
-   "consensus": "+0.4%",
-   "prior": "+0.9%",
-   "impact": "medium"
-  },
-  {
-   "time": "08:30 ET",
-   "event": "Import prices, October",
-   "consensus": "&mdash;",
-   "prior": "&mdash;",
-   "impact": "low"
-  },
-  {
-   "time": "09:10 ET",
-   "event": "Fed Governor Waller speaks (listed by Investing.com; not on Kiplinger&rsquo;s calendar)",
-   "consensus": "&mdash;",
-   "prior": "&mdash;",
-   "impact": "medium"
-  },
-  {
-   "time": "09:30 ET",
-   "event": "Cleveland Fed President Hammack speaks",
-   "consensus": "&mdash;",
-   "prior": "&mdash;",
-   "impact": "medium"
-  },
-  {
-   "time": "14:25 ET",
-   "event": "New York Fed President Williams speaks",
+   "time": "Afternoon",
+   "event": "Fed speakers: Williams, Kashkari (Finviz, U.S. Bank); Barr, Barkin also listed by Finviz; times not confirmed",
    "consensus": "&mdash;",
    "prior": "&mdash;",
    "impact": "medium"
   },
   {
    "time": "After close",
-   "event": "Nvidia fiscal Q3 results",
-   "consensus": "EPS $2.47; revenue $108.85B",
+   "event": "Palo Alto Networks earnings",
+   "consensus": "&mdash;",
+   "prior": "&mdash;",
+   "impact": "low"
+  },
+  {
+   "time": "Evening",
+   "event": "Anthropic IPO expected to price; trading reported to begin Thursday 19 Nov",
+   "consensus": "Range $70&ndash;$78",
    "prior": "&mdash;",
    "impact": "high"
   }
  ],
- "alsoOnTape": "10-year Treasury yield about 5.13% Monday morning, down 2 bp, after a Friday high of 5.174%; 2-year about 4.84% (CNBC, 16 Nov). A Monday close was not found from a wire source. Brent crude around $92.30 early Tuesday (TipRanks, 17 Nov). The dollar index was described as near its highest since April 2025 (Admiral Markets, 17 Nov). Gold and VIX levels were not found with a clean dated source.",
+ "alsoOnTape": "10-year Treasury yield about 5.10% at Tuesday&rsquo;s close, down about 2 bp; 2-year near 4.80%; 30-year about 5.46% (Cappnotes, The Weekend Spread, CNBC, 17 Nov). An oil settlement, gold, the dollar index and VIX were not found with a clean dated closing source and are left out.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Monday 16 November: S&amp;P 500 7,416.59 (&minus;1.9%); Nasdaq Composite 24,509.76 (&minus;2.5%); Dow 51,608.17 (&minus;739.38). 247wallst&rsquo;s snapshot differs slightly (S&amp;P 7,411.87); AP figures are carried.",
-  "<b>Futures</b> &mdash; early Tuesday 17 Nov: S&amp;P 500 and Nasdaq-100 E-minis each about &minus;0.34% at 5:23 ET (Reuters via Yahoo); TipRanks reported roughly &minus;0.4% across the three index futures.",
-  "<b>Nvidia</b> &mdash; closed Monday at $156.14, &minus;4.1% (Xinhua, 17 Nov), after $162.85 Friday. Results after Tuesday&rsquo;s close; Admiral Markets cites consensus EPS of $2.47 on revenue of $108.85 billion (17 Nov). Wire reports also cited new US rules restricting China&rsquo;s access to advanced AI chips as a Monday pressure."
+  "<b>Latest confirmed close</b> &mdash; Tuesday 17 November: S&amp;P 500 7,340.53 (&minus;1.03%); Nasdaq Composite 24,328.38 (&minus;0.74%); Dow 50,759.42 (&minus;848.75, &minus;1.64%). Trading Economics shows a different Dow figure (50,651); the CNBC/Yahoo figure is carried.",
+  "<b>Nvidia</b> &mdash; closed Tuesday at $155.46 (&minus;0.44%) before reporting. Revenue $115.84B against a ~$109.1B estimate; adjusted EPS $2.68 against ~$2.48; Q4 guide $130.0B &plusmn;3% against $125.1B LSEG consensus; Q4 gross margin guided to 71&ndash;72% from 74.8% GAAP in Q3 (Nvidia release; StockTitan; TradingKey, 17 Nov). After-hours gain was reported variously between about 2% and 4%; no single figure is carried.",
+  "<b>Futures</b> &mdash; early Wednesday 18 Nov: Nasdaq-100 futures up roughly 0.9%&ndash;1.4% and S&amp;P 500 futures up roughly 0.4%&ndash;0.8% depending on timestamp, Dow futures up about 0.1%&ndash;0.3% (FXStreet, Yahoo Finance, Stocktwits, 18 Nov)."
  ],
  "deals": [],
  "macro": [
-  "<b>Warsh, 16 Nov</b> &mdash; opening remarks at the Fed&rsquo;s Productivity and Jobs Task Force conference set out downside AI scenarios (weaker returns, lower valuations, higher unemployment), described as illustrative, not forecasts; no rate signal (Seoul Economic Daily, TradingKey, 17 Nov).",
-  "<b>Retail sales, October</b> &mdash; due 8:30 ET; forecasts around +0.2% m/m against +0.8% prior, ex-autos +0.4% against +0.9% (Investing.com). InvestingLive lists the headline forecast at +0.1%.",
-  "<b>Anthropic IPO</b> &mdash; indicative range $70&ndash;$78 per share, Nasdaq ticker ANT, pricing reported for 18 Nov and trading from 19 Nov (RTTNews and secondary reports). Valuation and deal-size figures in coverage conflict and are not carried."
+  "<b>Retail sales, October</b> &mdash; +0.2% m/m, matching estimates, after a revised +0.8% in September. Gas stations +1.5%, motor vehicle dealers &minus;1.6%, furniture &minus;2.3%, clothing &minus;0.7%, online +1.2% (RTTNews; Boston 25/AP, 17 Nov). The ex-autos figure was not found with a clean source.",
+  "<b>FOMC minutes</b> &mdash; due 2:00 ET for the October meeting, at which the Fed held at 3.75%&ndash;4.00% in a 10&ndash;2 vote (BigGo Finance, Xoomar previews, 18 Nov).",
+  "<b>Anthropic IPO</b> &mdash; 825 million shares marketed at $70&ndash;$78; pricing expected Wednesday evening, trading Thursday. The company reportedly told investors it expects to price at the top of the range or above; that is a report, not a final price (Yahoo Finance, Investing.com, 18 Nov). Valuation figures in coverage vary and are not carried."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "Three straight S&amp;P 500 losses, chips down hard into Nvidia&rsquo;s report, with the 10-year still above 5%.",
-  "sizing": "Monday&rsquo;s selloff came with yields slightly lower, not higher; whether today&rsquo;s retail sales and tonight&rsquo;s Nvidia print change that is unresolved."
+  "tag": "Four straight S&amp;P 500 losses to a late-July low, with the 10-year still above 5%, into a Nvidia beat-and-raise overnight.",
+  "sizing": "Whether Nvidia&rsquo;s overnight futures lift holds through today&rsquo;s FOMC minutes and the Anthropic pricing is unresolved."
  },
  "watchlist": [],
- "secondOrder": "Friday&rsquo;s weakness was paired with rising yields; Monday&rsquo;s larger drop came as the 10-year eased a couple of basis points, which points to AI-specific selling rather than rates as Monday&rsquo;s driver. That is an observation, not a forecast.",
+ "secondOrder": "For a second straight session stocks fell while the 10-year yield eased about 2 bp, consistent with Monday&rsquo;s observation that the selling was AI-specific rather than rate-driven. Nvidia&rsquo;s Q4 outlook excludes China data-center compute revenue entirely, so any China change is outside the guide. Observations, not forecasts.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The prior brief listed Fed Chair Warsh speaking Monday at 12:00 ET at the Productivity and Jobs Task Force conference. He gave the opening remarks as scheduled (Seoul Economic Daily, 17 Nov)."
+   "text": "The prior brief carried a consensus of +0.2% m/m for October retail sales. The print was +0.2%, in line (RTTNews, 17 Nov)."
   },
   {
    "verdict": "right",
-   "text": "The prior brief reported futures lower early Monday (Nasdaq-100 &minus;0.79%, S&amp;P 500 &minus;0.25%) and Nvidia lower premarket. Direction held, but the early snapshot badly understated the day: the S&amp;P 500 closed &minus;1.9% and the Nasdaq &minus;2.5% (AP, 16 Nov), Nvidia &minus;4.1%."
+   "text": "The prior brief reported index futures lower early Tuesday (about &minus;0.34%). Direction held, but the snapshot again understated the day: the S&amp;P 500 closed &minus;1.03% and the Dow &minus;1.64% (AP via Washington Post, 17 Nov)."
+  },
+  {
+   "verdict": "right",
+   "text": "The prior brief listed Nvidia fiscal Q3 results after Tuesday&rsquo;s close, the first since Jensen Huang&rsquo;s resignation. They were released as scheduled (Nvidia release, 17 Nov). The carried consensus (EPS $2.47, revenue $108.85B) was beaten: $2.68 and $115.84B."
   },
   {
    "verdict": "open",
-   "text": "The prior brief said how equities would trade AI news against a 10-year above 5% was unresolved. Monday stocks fell sharply while the yield eased slightly. No direction was called, so there is nothing to grade right or wrong."
+   "text": "The prior brief said whether retail sales and Nvidia would change the pattern of stocks falling with yields easing was unresolved. Tuesday repeated the pattern; Nvidia&rsquo;s effect is not yet visible in a cash close. No direction was called."
   },
   {
    "verdict": "open",
-   "text": "The prior brief said Anthropic&rsquo;s IPO is reported to price 18 Nov with trading 19 Nov. That has not happened yet."
+   "text": "The prior brief said Anthropic&rsquo;s IPO is reported to price 18 Nov with trading 19 Nov. Coverage still points to that timing; it has not priced yet."
   }
  ],
  "midday": null,
  "sources": [
   {
-   "label": "WTOP (AP) — How major US stock indexes fared Monday 11/16/2026",
-   "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-monday-11-16-2026"
+   "label": "Washington Post (AP) — How major US stock indexes fared Tuesday 11/17/2026",
+   "url": "https://www.washingtonpost.com/business/2026/11/17/wall-street-stocks-dow-nasdaq/9f975f00-e2cf-11f1-a99e-b3e3805c6b8b_story.html"
   },
   {
-   "label": "247wallst — S&P 500 closes down 2% as Nasdaq leads broad market lower",
-   "url": "https://247wallst.com/cards/tech-took-the-worst-of-it-the-nasdaq-s-2-54-drop-nearly-do-gspc-market-bell-01m7k2rvdndtgg635thrxjgnck"
+   "label": "Motley Fool — Stock Market Today, Nov. 17: Stocks slide on AI chip and tech pressures",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/"
   },
   {
-   "label": "Xinhua — U.S. stocks tank as AI sell-off deepens ahead of Nvidia earnings",
-   "url": "https://english.news.cn/northamerica/20261117/8d56ff3cb73647d2a4f92930316f4510/c.html"
+   "label": "StockTitan — Stock Market Today, November 17, 2026",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
   },
   {
-   "label": "Seoul Economic Daily — Fed's Warsh warns of stock slump, slower growth if AI disappoints",
-   "url": "https://en.sedaily.com/world/2026/11/17/feds-warsh-warns-of-stock-slump-slower-growth-if-ai"
+   "label": "Yahoo Finance — Stock Market Today, Nov. 17: Nvidia slides ahead of earnings but soars after hours",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-17-222310679.html"
   },
   {
-   "label": "TradingKey — Warsh: three scenarios for superintelligence and the US economy",
-   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262307622-warsh-speech-superintelligence-impact-us-economic-growth-employment-tradingkey"
+   "label": "CNBC — Treasury yields as investors digest retail sales data (17 Nov)",
+   "url": "https://www.cnbc.com/amp/2026/11/17/treasury-yields-bonds-inflation.html"
   },
   {
-   "label": "CNBC — Treasury yields fall as investors await comments from Fed Chairman Warsh",
-   "url": "https://www.cnbc.com/amp/2026/11/16/treasury-yields-bonds-inflation.html"
+   "label": "Cappnotes — Closing Look, Tuesday, November 17, 2026",
+   "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-17"
   },
   {
-   "label": "Yahoo Finance (Reuters) — US stock futures slip ahead of Nvidia results; Fed speakers in focus",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-105311659.html"
+   "label": "The Weekend Spread — The Close: Tuesday, November 17, 2026",
+   "url": "https://theweekendspread.substack.com/p/the-close-tuesday-november-17-2026"
   },
   {
-   "label": "TipRanks — Stock Market Today, Nov. 17: U.S. stocks jittery ahead of Nvidia results",
-   "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results"
+   "label": "RTTNews — U.S. retail sales rise 0.2% in October, in line with estimates",
+   "url": "https://www.rttnews.com/story.aspx?Id=3715531"
   },
   {
-   "label": "Admiral Markets — Why is the stock market down today? 17 November 2026",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-17-november-2026"
+   "label": "Boston 25 News (AP) — Retail sales up 0.2% in October",
+   "url": "https://www.boston25news.com/news/business/shoppers-slowed/CFOL52RG2MZD3BWJ7EREQ6TGBQ/"
   },
   {
-   "label": "Kiplinger — What to look out for in economic data this week (Nov 16-20)",
-   "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+   "label": "NVIDIA — Financial results for third quarter fiscal 2027",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
   },
   {
-   "label": "Investing.com — Retail sales and oil inventories among economic data due Tuesday",
-   "url": "https://in.investing.com/news/stock-market-news/retail-sales-and-oil-inventories-among-economic-data-due-tuesday-93CH-5707835"
+   "label": "TradingKey — Nvidia Q3 revenue surges 103%, Q4 guide $130B",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262309793-nvidia-earnings-report-q3-rubin-ramp-data-center-growth-revenue-guidance-gross-margin-tradingkey"
   },
   {
-   "label": "Investing.com — Fed minutes, Fedspeak and key data to watch this week",
-   "url": "https://in.investing.com/news/stock-market-news/fed-minutes-fedspeak-and-key-data-to-watch-this-week-93CH-5707901"
+   "label": "FXStreet — Dow Jones futures rise as Nvidia earnings boost AI sentiment ahead of Anthropic IPO",
+   "url": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-nvidia-earnings-boost-ai-sentiment-ahead-of-anthropic-ipo-202611180900"
   },
   {
-   "label": "InvestingLive — What are the main events for today?",
-   "url": "https://investinglive.com/news/what-are-the-main-events-for-today-87/"
+   "label": "Yahoo Finance — Stock market today, Wednesday November 18: futures rise after Nvidia; Anthropic prepares to price IPO",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
   },
   {
-   "label": "RTTNews — Anthropic sets IPO price range at $70-78 per share, launches roadshow",
-   "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx"
+   "label": "Investing.com — Nvidia raises guidance; Anthropic IPO in focus",
+   "url": "https://investing.com/news/economy-news/nvidia-raises-guidance-anthropic-ipo-in-focus--whats-moving-markets-5035185"
+  },
+  {
+   "label": "BigGo Finance — Futures climb as Nvidia outlook steers focus to FOMC minutes, Anthropic debut",
+   "url": "https://finance.biggo.com/news/be1166b8-3935-41ed-91a8-73163958d1e3"
+  },
+  {
+   "label": "Schwab — Countdown to Nvidia: stocks mixed before earnings",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+  },
+  {
+   "label": "Finviz — Economic calendar",
+   "url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+  },
+  {
+   "label": "Newsquawk — Daily economic releases, 18th November 2026",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-economic-releases---18th-november-2026"
   }
  ]
 }
