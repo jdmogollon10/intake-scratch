@@ -1,5 +1,105 @@
 [
  {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "La Caisse leads talks for stake in Bain’s Bridge Data Centres",
+  "link": "https://privateequitywire.com/news/la-caisse-leads-talks-for-stake-in-bains-bridge-data-centres",
+  "date": "2026-11-18T10:19:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vinge sees Swedish buyout activity pick up as exit pipeline builds",
+  "link": "https://privateequitywire.com/news/vinge-sees-swedish-buyout-activity-pick-up-as-exit-pipeline-builds",
+  "date": "2026-11-18T10:17:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "$100B",
+  "title": "Early Anthropic investors eye $100bn-plus windfall from IPO",
+  "link": "https://privateequitywire.com/news/early-anthropic-investors-eye-100bn-plus-windfall-from-ipo",
+  "date": "2026-11-18T10:13:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Take-Private",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Lucky Strike founder makes take-private offer at 30% premium",
+  "link": "https://privateequitywire.com/news/lucky-strike-founder-makes-take-private-offer-at-30-premium",
+  "date": "2026-11-18T10:09:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.3B",
+  "title": "Direct lenders provide $1.3bn for L Catterton’s Fullscript deal",
+  "link": "https://privateequitywire.com/news/direct-lenders-provide-1-3bn-for-l-cattertons-fullscript-deal",
+  "date": "2026-11-18T10:09:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "UK",
+  "value": "Undisclosed",
+  "title": "America's Group Expands UK Footprint with Acquisition of Swansea Motor Vehicle Auction",
+  "link": "https://www.prnewswire.com/news-releases/americas-group-expands-uk-footprint-with-acquisition-of-swansea-motor-vehicle-auction-302941798.html",
+  "date": "2026-11-18T08:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "NOVOSENSE Plans AirTouch Acquisition to Round Out Its RF Portfolio and Expand in ADAS and Smart Terminals",
+  "link": "https://www.prnewswire.com/news-releases/novosense-plans-airtouch-acquisition-to-round-out-its-rf-portfolio-and-expand-in-adas-and-smart-terminals-302943492.html",
+  "date": "2026-11-18T08:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Workday Announces Intent to Acquire Honeydew, a Semantic Layer for AI and Business Intelligence",
+  "link": "https://www.prnewswire.com/news-releases/workday-announces-intent-to-acquire-honeydew-a-semantic-layer-for-ai-and-business-intelligence-302943208.html",
+  "date": "2026-11-18T07:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "La-Z-Boy Posts Higher Revenue On New Stores, Acquisitions",
+  "link": "https://www.wsj.com/business/earnings/la-z-boy-posts-higher-revenue-on-new-stores-acquisitions-d078f3aa?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-17T22:24:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "AES Receives Final Regulatory Approval for Acquisition by Consortium Led by Global Infrastructure Partners and EQT; Closing Expected December 2, 2026",
+  "link": "https://www.prnewswire.com/news-releases/aes-receives-final-regulatory-approval-for-acquisition-by-consortium-led-by-global-infrastructure-partners-and-eqt-closing-expected-december-2-2026-302942908.html",
+  "date": "2026-11-17T22:15:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -78,105 +178,5 @@
   "title": "NowThis Acquires Impact Media, Expanding Its Social-First Franchise Portfolio",
   "link": "https://www.prnewswire.com/news-releases/nowthis-acquires-impact-media-expanding-its-social-first-franchise-portfolio-302942445.html",
   "date": "2026-11-17T16:03:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "EQT to acquire Flatiron Energy, a leading developer and operator of battery energy storage in the Eastern U.S.",
-  "link": "https://www.prnewswire.com/news-releases/eqt-to-acquire-flatiron-energy-a-leading-developer-and-operator-of-battery-energy-storage-in-the-eastern-us-302942417.html",
-  "date": "2026-11-17T15:43:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Gallup Acquires TrueSpace, Creator of the Vixa Score, and Launches Vixa by Gallup",
-  "link": "https://www.prnewswire.com/news-releases/gallup-acquires-truespace-creator-of-the-vixa-score-and-launches-vixa-by-gallup-302941242.html",
-  "date": "2026-11-17T15:10:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Mercantile Bank Corporation Announces FDIC and Michigan DIFS Approval of Merger of Mercantile Bank and Eastern Michigan Bank",
-  "link": "https://www.prnewswire.com/news-releases/mercantile-bank-corporation-announces-fdic-and-michigan-difs-approval-of-merger-of-mercantile-bank-and-eastern-michigan-bank-302942315.html",
-  "date": "2026-11-17T15:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Woolpert élargit son activité mondiale de centres de données avec l'acquisition de B-Global Tech",
-  "link": "https://www.prnewswire.com/news-releases/woolpert-elargit-son-activite-mondiale-de-centres-de-donnees-avec-lacquisition-de-b-global-tech-302942326.html",
-  "date": "2026-11-17T14:50:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$2.3B",
-  "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
-  "link": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-17T14:13:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "Financing",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$500M",
-  "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
-  "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
-  "date": "2026-11-17T14:00:18Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "CPP Investments and Ontario Teachers’ join Nordic Capital in Cary Group deal",
-  "link": "https://privateequitywire.com/news/cpp-investments-and-ontario-teachers-join-nordic-capital-in-cary-group-deal",
-  "date": "2026-11-17T10:34:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$5B",
-  "title": "Blackstone data centre REIT strikes $5bn AWS deal",
-  "link": "https://privateequitywire.com/news/blackstone-data-centre-reit-strikes-5bn-aws-deal",
-  "date": "2026-11-17T10:21:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "€3B",
-  "title": "CVC seeks to exit near-€3bn Irca deal with Advent",
-  "link": "https://privateequitywire.com/news/cvc-seeks-to-exit-near-3bn-irca-deal-with-advent",
-  "date": "2026-11-17T10:10:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Telecom & Media",
-  "region": "—",
-  "value": "$21.96B",
-  "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
-  "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-17T00:00:00Z"
  }
 ]
