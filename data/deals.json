@@ -1,5 +1,85 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "HR HealthCare Acquires MaxWell Medical Services, Expanding National DMEPOS Presence",
+  "link": "https://www.prnewswire.com/news-releases/hr-healthcare-acquires-maxwell-medical-services-expanding-national-dmepos-presence-302946998.html",
+  "date": "2026-11-20T18:00:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+  "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+  "date": "2026-11-20T17:47:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Open Road Resorts Expands into New York and Georgia with Two Park Acquisitions",
+  "link": "https://www.prnewswire.com/news-releases/open-road-resorts-expands-into-new-york-and-georgia-with-two-park-acquisitions-302946934.html",
+  "date": "2026-11-20T15:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Samuel Automation Expands U.S. Presence with Acquisition of Alpha Integration",
+  "link": "https://www.prnewswire.com/news-releases/samuel-automation-expands-us-presence-with-acquisition-of-alpha-integration-302947002.html",
+  "date": "2026-11-20T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "McGowan Acquires GJS Re",
+  "link": "https://www.prnewswire.com/news-releases/mcgowan-acquires-gjs-re-302946316.html",
+  "date": "2026-11-20T13:44:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Rock Gate Partners Announces Acquisition of Blast Deflectors, Inc.",
+  "link": "https://www.prnewswire.com/news-releases/rock-gate-partners-announces-acquisition-of-blast-deflectors-inc-302946292.html",
+  "date": "2026-11-20T13:36:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "MAJORS MANAGEMENT ANNOUNCES THE ACQUISITION OF SWEET PEA'S CONVENIENCE STORES IN WESTERN PENNSYLVANIA",
+  "link": "https://www.prnewswire.com/news-releases/majors-management-announces-the-acquisition-of-sweet-peas-convenience-stores-in-western-pennsylvania-302946951.html",
+  "date": "2026-11-20T12:58:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
+  "link": "https://www.wsj.com/logistics-report/union-pacific-ceo-apologizes-as-march-remark-fuels-opposition-to-merger-028c18ec?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-20T12:02:00Z"
+ },
+ {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "Financials",
@@ -40,16 +120,6 @@
   "date": "2026-11-20T04:51:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "This Ex-Sheriff Was on the Beat When Mark Walter Loaded Insurers With Insider Deals",
-  "link": "https://www.wsj.com/finance/regulation/this-ex-sheriff-was-on-the-beat-when-mark-walter-loaded-insurers-with-insider-deals-dbfd45d1?mod=rss_markets_main",
-  "date": "2026-11-20T04:09:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -68,16 +138,6 @@
   "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
   "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main",
   "date": "2026-11-20T00:00:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-  "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-  "date": "2026-11-19T23:56:00Z"
  },
  {
   "src": "WSJ",
@@ -118,65 +178,5 @@
   "title": "Merchants Capital to Acquire Remaining Interest in VIUM Capital, Expanding Its Seniors Housing and Healthcare Lending Platform",
   "link": "https://www.prnewswire.com/news-releases/merchants-capital-to-acquire-remaining-interest-in-vium-capital-expanding-its-seniors-housing-and-healthcare-lending-platform-302945905.html",
   "date": "2026-11-19T21:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Crystal Clean Announces Acquisitions of Insta-Clean and Green Site Services",
-  "link": "https://www.prnewswire.com/news-releases/crystal-clean-announces-acquisitions-of-insta-clean-and-green-site-services-302946105.html",
-  "date": "2026-11-19T20:19:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ADP Acquires ZenBusiness",
-  "link": "https://www.prnewswire.com/news-releases/adp-acquires-zenbusiness-302946034.html",
-  "date": "2026-11-19T19:29:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Blast Resources More Than Doubles Athabasca Basin Land Package with Acquisition of Eight Uranium Claims",
-  "link": "https://www.prnewswire.com/news-releases/blast-resources-more-than-doubles-athabasca-basin-land-package-with-acquisition-of-eight-uranium-claims-302945956.html",
-  "date": "2026-11-19T18:22:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DOC Brands Announces Acquisition of MOON Oral Beauty",
-  "link": "https://www.prnewswire.com/news-releases/doc-brands-announces-acquisition-of-moon-oral-beauty-302945874.html",
-  "date": "2026-11-19T17:21:00Z"
- },
- {
-  "src": "LAVCA",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Opy Health, Backed by BTG Pactual and IG4, to Acquire Smart Hospital",
-  "link": "https://www.lavca.org/opy-health-backed-by-btg-pactual-and-ig4-to-acquire-smart-hospital/",
-  "date": "2026-11-19T15:37:46Z"
- },
- {
-  "src": "LAVCA",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Brazil",
-  "value": "Undisclosed",
-  "title": "Crescera Capital and Heartman House Form Joint Venture to Acquire Brazilian Mid-Market Companies",
-  "link": "https://www.lavca.org/crescera-capital-and-heartman-house-form-joint-venture-to-acquire-brazilian-mid-market-companies/",
-  "date": "2026-11-19T15:36:50Z"
  }
 ]
