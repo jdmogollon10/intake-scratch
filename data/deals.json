@@ -1,5 +1,55 @@
 [
  {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+  "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-21T10:30:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "Technology",
+  "region": "—",
+  "value": "$4T",
+  "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+  "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+  "date": "2026-11-20T23:36:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "AVENIR ANNOUNCES ADDITIONAL INVESTMENT IN GRID METALS CORP.",
+  "link": "https://www.prnewswire.com/news-releases/avenir-announces-additional-investment-in-grid-metals-corp-302947164.html",
+  "date": "2026-11-20T22:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Divestiture",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Chord Energy Completes Divestiture of Non-Operated Marcellus Assets",
+  "link": "https://www.prnewswire.com/news-releases/chord-energy-completes-divestiture-of-non-operated-marcellus-assets-302947350.html",
+  "date": "2026-11-20T21:45:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Verlinvest Announces Commencement of Technical Tender Offer to Facilitate Buyout of Joint Venture Partner's Interest in Oatly Group AB",
+  "link": "https://www.prnewswire.com/news-releases/verlinvest-announces-commencement-of-technical-tender-offer-to-facilitate-buyout-of-joint-venture-partners-interest-in-oatly-group-ab-302947330.html",
+  "date": "2026-11-20T21:06:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Healthcare",
@@ -8,16 +58,6 @@
   "title": "HR HealthCare Acquires MaxWell Medical Services, Expanding National DMEPOS Presence",
   "link": "https://www.prnewswire.com/news-releases/hr-healthcare-acquires-maxwell-medical-services-expanding-national-dmepos-presence-302946998.html",
   "date": "2026-11-20T18:00:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "IPO",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
-  "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-  "date": "2026-11-20T17:47:00Z"
  },
  {
   "src": "PR Newswire",
@@ -120,16 +160,6 @@
   "date": "2026-11-20T04:51:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Blue Moon Completes its Acquisition of the Turner Copper-Gold VMS Deposit",
-  "link": "https://www.prnewswire.com/news-releases/blue-moon-completes-its-acquisition-of-the-turner-copper-gold-vms-deposit-302946244.html",
-  "date": "2026-11-20T00:07:00Z"
- },
- {
   "src": "WSJ",
   "type": "IPO",
   "industry": "Technology",
@@ -140,16 +170,6 @@
   "date": "2026-11-20T00:00:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Anthropic’s IPO Mints New Millionaires",
-  "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
-  "date": "2026-11-19T22:41:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -158,25 +178,5 @@
   "title": "ODNB Financial Corporation and National Capital Bancorp, Inc. Announce Receipt of Shareholder Approvals to Complete Merger",
   "link": "https://www.prnewswire.com/news-releases/odnb-financial-corporation-and-national-capital-bancorp-inc-announce-receipt-of-shareholder-approvals-to-complete-merger-302946126.html",
   "date": "2026-11-19T21:32:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Quantum Space, Inc. to List on NYSE Upon Closing of Business Combination with Inflection Point Acquisition Corp. VI",
-  "link": "https://www.prnewswire.com/news-releases/quantum-space-inc-to-list-on-nyse-upon-closing-of-business-combination-with-inflection-point-acquisition-corp-vi-302946123.html",
-  "date": "2026-11-19T21:05:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Merchants Capital to Acquire Remaining Interest in VIUM Capital, Expanding Its Seniors Housing and Healthcare Lending Platform",
-  "link": "https://www.prnewswire.com/news-releases/merchants-capital-to-acquire-remaining-interest-in-vium-capital-expanding-its-seniors-housing-and-healthcare-lending-platform-302945905.html",
-  "date": "2026-11-19T21:05:00Z"
  }
 ]
