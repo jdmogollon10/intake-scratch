@@ -160,16 +160,6 @@
   "date": "2026-11-20T04:51:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
-  "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main",
-  "date": "2026-11-20T00:00:00Z"
- },
- {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -178,5 +168,15 @@
   "title": "ODNB Financial Corporation and National Capital Bancorp, Inc. Announce Receipt of Shareholder Approvals to Complete Merger",
   "link": "https://www.prnewswire.com/news-releases/odnb-financial-corporation-and-national-capital-bancorp-inc-announce-receipt-of-shareholder-approvals-to-complete-merger-302946126.html",
   "date": "2026-11-19T21:32:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "Undisclosed",
+  "title": "Quantum Space, Inc. to List on NYSE Upon Closing of Business Combination with Inflection Point Acquisition Corp. VI",
+  "link": "https://www.prnewswire.com/news-releases/quantum-space-inc-to-list-on-nyse-upon-closing-of-business-combination-with-inflection-point-acquisition-corp-vi-302946123.html",
+  "date": "2026-11-19T21:05:00Z"
  }
 ]
