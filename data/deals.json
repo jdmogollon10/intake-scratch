@@ -1,13 +1,113 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "$10B",
+  "title": "Harvest Group Acquires Good Peeps, Accelerating Growth Toward $10 Billion in Retail Sales and $2 Billion in Media Under Management",
+  "link": "https://www.prnewswire.com/news-releases/harvest-group-acquires-good-peeps-accelerating-growth-toward-10-billion-in-retail-sales-and-2-billion-in-media-under-management-302948447.html",
+  "date": "2026-11-23T18:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Madison Dearborn Partners to Acquire Peli BioThermal, a Trusted Cold Chain Solutions Provider, from Pelican Products and Platinum Equity",
+  "link": "https://www.prnewswire.com/news-releases/madison-dearborn-partners-to-acquire-peli-biothermal-a-trusted-cold-chain-solutions-provider-from-pelican-products-and-platinum-equity-302948222.html",
+  "date": "2026-11-23T17:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Authentic Acquires O'Neill, Expanding Global Action and Outdoor Portfolio",
+  "link": "https://www.prnewswire.com/news-releases/authentic-acquires-oneill-expanding-global-action-and-outdoor-portfolio-302948389.html",
+  "date": "2026-11-23T16:00:00Z"
+ },
+ {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "$43.9B",
-  "title": "CrowdStrike to Buy Zscaler in $43.9 Billion Stock Swap",
+  "value": "$44B",
+  "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
   "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-23T11:24:00Z"
+  "date": "2026-11-23T14:45:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Workday Completes Acquisition of C1.ai",
+  "link": "https://www.prnewswire.com/news-releases/workday-completes-acquisition-of-c1ai-302947290.html",
+  "date": "2026-11-23T14:15:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Quantum Space Announces Completion of Business Combination with Inflection Point Acquisition Corp. VI",
+  "link": "https://www.prnewswire.com/news-releases/quantum-space-announces-completion-of-business-combination-with-inflection-point-acquisition-corp-vi-302948270.html",
+  "date": "2026-11-23T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Nauticus Robotics™ Signs Letter of Intent to Acquire Ocean Power Technologies' WAM-V® Business Assets",
+  "link": "https://www.prnewswire.com/news-releases/nauticus-robotics-signs-letter-of-intent-to-acquire-ocean-power-technologies-wam-v-business-assets-302948257.html",
+  "date": "2026-11-23T13:43:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Industrials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Mill Steel Company Acquires Assets of Chicago Steel and Lexington Steel",
+  "link": "https://www.prnewswire.com/news-releases/mill-steel-company-acquires-assets-of-chicago-steel-and-lexington-steel-302947516.html",
+  "date": "2026-11-23T13:32:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Research Solutions to Join KnowledgeWorks Global Ltd., a CJK Group Company in All-Cash Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/research-solutions-to-join-knowledgeworks-global-ltd-a-cjk-group-company-in-all-cash-acquisition-302947935.html",
+  "date": "2026-11-23T13:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "USFM Signs Term Sheet to Acquire Up to 85% of Hook Lake, a Fully Permitted Gold and Copper Project in Nunavut, Canada",
+  "link": "https://www.prnewswire.com/news-releases/usfm-signs-term-sheet-to-acquire-up-to-85-of-hook-lake-a-fully-permitted-gold-and-copper-project-in-nunavut-canada-302947895.html",
+  "date": "2026-11-23T12:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "US",
+  "value": "$3B",
+  "title": "Texas Pacific Land to Buy EagleRock Land in $3 Billion All-Stock Deal",
+  "link": "https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-23T11:54:00Z"
  },
  {
   "src": "PE Wire",
@@ -38,16 +138,6 @@
   "title": "Apollo brings in 13 lenders for $9bn ADT buyout financing",
   "link": "https://privateequitywire.com/news/apollo-brings-in-13-lenders-for-9bn-adt-buyout-financing",
   "date": "2026-11-23T10:31:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "$875M",
-  "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill?’",
-  "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-23T10:30:00Z"
  },
  {
   "src": "PE Wire",
@@ -88,95 +178,5 @@
   "title": "Gulbrandsen acquires IMACA's glass coating business",
   "link": "https://www.prnewswire.com/news-releases/gulbrandsen-acquires-imacas-glass-coating-business-302947996.html",
   "date": "2026-11-23T09:40:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "Divestiture",
-  "industry": "—",
-  "region": "—",
-  "value": "$3.9B",
-  "title": "ConocoPhillips to Sell Norwegian Business to Var Energi in $3.9 Billion Deal",
-  "link": "https://www.wsj.com/business/energy-oil/conocophillips-to-sell-norwegian-business-to-var-energi-in-3-9-billion-deal-49db3ea2?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-23T07:27:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "AVENIR ANNOUNCES ADDITIONAL INVESTMENT IN GRID METALS CORP.",
-  "link": "https://www.prnewswire.com/news-releases/avenir-announces-additional-investment-in-grid-metals-corp-302947164.html",
-  "date": "2026-11-20T22:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Divestiture",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Chord Energy Completes Divestiture of Non-Operated Marcellus Assets",
-  "link": "https://www.prnewswire.com/news-releases/chord-energy-completes-divestiture-of-non-operated-marcellus-assets-302947350.html",
-  "date": "2026-11-20T21:45:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Verlinvest Announces Commencement of Technical Tender Offer to Facilitate Buyout of Joint Venture Partner's Interest in Oatly Group AB",
-  "link": "https://www.prnewswire.com/news-releases/verlinvest-announces-commencement-of-technical-tender-offer-to-facilitate-buyout-of-joint-venture-partners-interest-in-oatly-group-ab-302947330.html",
-  "date": "2026-11-20T21:06:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "HR HealthCare Acquires MaxWell Medical Services, Expanding National DMEPOS Presence",
-  "link": "https://www.prnewswire.com/news-releases/hr-healthcare-acquires-maxwell-medical-services-expanding-national-dmepos-presence-302946998.html",
-  "date": "2026-11-20T18:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Open Road Resorts Expands into New York and Georgia with Two Park Acquisitions",
-  "link": "https://www.prnewswire.com/news-releases/open-road-resorts-expands-into-new-york-and-georgia-with-two-park-acquisitions-302946934.html",
-  "date": "2026-11-20T15:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Samuel Automation Expands U.S. Presence with Acquisition of Alpha Integration",
-  "link": "https://www.prnewswire.com/news-releases/samuel-automation-expands-us-presence-with-acquisition-of-alpha-integration-302947002.html",
-  "date": "2026-11-20T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "McGowan Acquires GJS Re",
-  "link": "https://www.prnewswire.com/news-releases/mcgowan-acquires-gjs-re-302946316.html",
-  "date": "2026-11-20T13:44:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Rock Gate Partners Announces Acquisition of Blast Deflectors, Inc.",
-  "link": "https://www.prnewswire.com/news-releases/rock-gate-partners-announces-acquisition-of-blast-deflectors-inc-302946292.html",
-  "date": "2026-11-20T13:36:00Z"
  }
 ]
