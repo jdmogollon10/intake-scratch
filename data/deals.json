@@ -4,20 +4,100 @@
   "type": "M&A",
   "industry": "—",
   "region": "—",
+  "value": "$43.9B",
+  "title": "CrowdStrike to Buy Zscaler in $43.9 Billion Stock Swap",
+  "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-23T11:24:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.7B",
+  "title": "Brookfield to buy PGP Glass from Blackstone for $1.7bn",
+  "link": "https://privateequitywire.com/news/brookfield-to-buy-pgp-glass-from-blackstone-for-1-7bn",
+  "date": "2026-11-23T10:34:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
   "value": "Undisclosed",
-  "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-  "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-21T10:30:00Z"
+  "title": "Mars Announces Final Results of Offers to Purchase for Cash Certain of its Senior Notes",
+  "link": "https://www.prnewswire.com/news-releases/mars-announces-final-results-of-offers-to-purchase-for-cash-certain-of-its-senior-notes-302948116.html",
+  "date": "2026-11-23T10:32:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$9B",
+  "title": "Apollo brings in 13 lenders for $9bn ADT buyout financing",
+  "link": "https://privateequitywire.com/news/apollo-brings-in-13-lenders-for-9bn-adt-buyout-financing",
+  "date": "2026-11-23T10:31:00Z"
  },
  {
   "src": "WSJ",
-  "type": "IPO",
-  "industry": "Technology",
+  "type": "M&A",
+  "industry": "Healthcare",
   "region": "—",
-  "value": "$4T",
-  "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-  "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
-  "date": "2026-11-20T23:36:00Z"
+  "value": "$875M",
+  "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill?’",
+  "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-23T10:30:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Private equity co-investors press for rollover rights in continuation deals",
+  "link": "https://privateequitywire.com/news/private-equity-co-investors-press-for-rollover-rights-in-continuation-deals",
+  "date": "2026-11-23T10:22:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "CVC in talks to buy Entain’s central and eastern European stake",
+  "link": "https://privateequitywire.com/news/cvc-in-talks-to-buy-entains-central-and-eastern-european-stake",
+  "date": "2026-11-23T10:18:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "CD&R and Clariant in talks to acquire Ashland",
+  "link": "https://privateequitywire.com/news/cd-r-and-clariant-in-talks-to-acquire-ashland",
+  "date": "2026-11-23T10:16:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Gulbrandsen acquires IMACA's glass coating business",
+  "link": "https://www.prnewswire.com/news-releases/gulbrandsen-acquires-imacas-glass-coating-business-302947996.html",
+  "date": "2026-11-23T09:40:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "Divestiture",
+  "industry": "—",
+  "region": "—",
+  "value": "$3.9B",
+  "title": "ConocoPhillips to Sell Norwegian Business to Var Energi in $3.9 Billion Deal",
+  "link": "https://www.wsj.com/business/energy-oil/conocophillips-to-sell-norwegian-business-to-var-energi-in-3-9-billion-deal-49db3ea2?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-23T07:27:00Z"
  },
  {
   "src": "PR Newswire",
@@ -98,85 +178,5 @@
   "title": "Rock Gate Partners Announces Acquisition of Blast Deflectors, Inc.",
   "link": "https://www.prnewswire.com/news-releases/rock-gate-partners-announces-acquisition-of-blast-deflectors-inc-302946292.html",
   "date": "2026-11-20T13:36:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "MAJORS MANAGEMENT ANNOUNCES THE ACQUISITION OF SWEET PEA'S CONVENIENCE STORES IN WESTERN PENNSYLVANIA",
-  "link": "https://www.prnewswire.com/news-releases/majors-management-announces-the-acquisition-of-sweet-peas-convenience-stores-in-western-pennsylvania-302946951.html",
-  "date": "2026-11-20T12:58:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
-  "link": "https://www.wsj.com/logistics-report/union-pacific-ceo-apologizes-as-march-remark-fuels-opposition-to-merger-028c18ec?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-20T12:02:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Barclays and Lone Star eye potential Metro Bank deal",
-  "link": "https://privateequitywire.com/news/barclays-and-lone-star-eye-potential-metro-bank-deal",
-  "date": "2026-11-20T09:46:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "Technology",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "KKR takes minority stake in Gentari’s Indian renewables platform",
-  "link": "https://privateequitywire.com/news/kkr-takes-minority-stake-in-gentaris-indian-renewables-platform",
-  "date": "2026-11-20T09:45:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Financing",
-  "industry": "—",
-  "region": "Asia-Pacific",
-  "value": "$7M",
-  "title": "India’s SatSure raises $7m from government-backed space fund",
-  "link": "https://privateequitywire.com/news/indias-satsure-raises-7m-from-government-backed-space-fund",
-  "date": "2026-11-20T09:44:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "$6B",
-  "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
-  "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-20T04:51:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "ODNB Financial Corporation and National Capital Bancorp, Inc. Announce Receipt of Shareholder Approvals to Complete Merger",
-  "link": "https://www.prnewswire.com/news-releases/odnb-financial-corporation-and-national-capital-bancorp-inc-announce-receipt-of-shareholder-approvals-to-complete-merger-302946126.html",
-  "date": "2026-11-19T21:32:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "US",
-  "value": "Undisclosed",
-  "title": "Quantum Space, Inc. to List on NYSE Upon Closing of Business Combination with Inflection Point Acquisition Corp. VI",
-  "link": "https://www.prnewswire.com/news-releases/quantum-space-inc-to-list-on-nyse-upon-closing-of-business-combination-with-inflection-point-acquisition-corp-vi-302946123.html",
-  "date": "2026-11-19T21:05:00Z"
  }
 ]
