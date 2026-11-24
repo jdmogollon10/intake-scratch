@@ -1,5 +1,95 @@
 [
  {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.2B",
+  "title": "Macquarie-led consortium to buy Axiata tower assets in $1.2bn deal",
+  "link": "https://privateequitywire.com/news/macquarie-led-consortium-to-buy-axiata-tower-assets-in-1-2bn-deal",
+  "date": "2026-11-24T10:08:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "€1.2B",
+  "title": "Banks left with €1.2bn financing commitment after CVC exits Irca deal",
+  "link": "https://privateequitywire.com/news/banks-left-with-1-2bn-financing-commitment-after-cvc-exits-irca-deal",
+  "date": "2026-11-24T10:03:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$41B",
+  "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
+  "link": "https://www.wsj.com/business/deals/sanofi-to-buy-insmed-for-41-0-billion-36d6b07d?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-24T09:39:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "$41B",
+  "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+  "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+  "date": "2026-11-24T09:14:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Compass Group Plans to Move Primary Listing to U.S.",
+  "link": "https://www.wsj.com/business/earnings/compass-group-plans-to-move-primary-listing-to-u-s-b06b7ea8?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-24T08:33:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Ascentium Acquires Statura, Expanding Its Private Client Business Across Europe and the Middle East",
+  "link": "https://www.prnewswire.com/news-releases/ascentium-acquires-statura-expanding-its-private-client-business-across-europe-and-the-middle-east-302948130.html",
+  "date": "2026-11-24T07:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Sanofi to Acquire Insmed in Strategic Step that Strengthens Long-Term Future",
+  "link": "https://www.prnewswire.com/news-releases/sanofi-to-acquire-insmed-in-strategic-step-that-strengthens-long-term-future-302949056.html",
+  "date": "2026-11-24T06:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Platinum Equity Completes Acquisition of EDP",
+  "link": "https://www.prnewswire.com/news-releases/platinum-equity-completes-acquisition-of-edp-302948762.html",
+  "date": "2026-11-24T00:30:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Uniform Advantage Expands Retail Presence with Acquisition of 16 Former Scrubs & Beyond Locations",
+  "link": "https://www.prnewswire.com/news-releases/uniform-advantage-expands-retail-presence-with-acquisition-of-16-former-scrubs--beyond-locations-302948637.html",
+  "date": "2026-11-23T23:00:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Consumer",
@@ -80,26 +170,6 @@
   "date": "2026-11-23T13:32:00Z"
  },
  {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Research Solutions to Join KnowledgeWorks Global Ltd., a CJK Group Company in All-Cash Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/research-solutions-to-join-knowledgeworks-global-ltd-a-cjk-group-company-in-all-cash-acquisition-302947935.html",
-  "date": "2026-11-23T13:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "USFM Signs Term Sheet to Acquire Up to 85% of Hook Lake, a Fully Permitted Gold and Copper Project in Nunavut, Canada",
-  "link": "https://www.prnewswire.com/news-releases/usfm-signs-term-sheet-to-acquire-up-to-85-of-hook-lake-a-fully-permitted-gold-and-copper-project-in-nunavut-canada-302947895.html",
-  "date": "2026-11-23T12:00:00Z"
- },
- {
   "src": "WSJ",
   "type": "M&A",
   "industry": "—",
@@ -108,75 +178,5 @@
   "title": "Texas Pacific Land to Buy EagleRock Land in $3 Billion All-Stock Deal",
   "link": "https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f",
   "date": "2026-11-23T11:54:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.7B",
-  "title": "Brookfield to buy PGP Glass from Blackstone for $1.7bn",
-  "link": "https://privateequitywire.com/news/brookfield-to-buy-pgp-glass-from-blackstone-for-1-7bn",
-  "date": "2026-11-23T10:34:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Mars Announces Final Results of Offers to Purchase for Cash Certain of its Senior Notes",
-  "link": "https://www.prnewswire.com/news-releases/mars-announces-final-results-of-offers-to-purchase-for-cash-certain-of-its-senior-notes-302948116.html",
-  "date": "2026-11-23T10:32:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$9B",
-  "title": "Apollo brings in 13 lenders for $9bn ADT buyout financing",
-  "link": "https://privateequitywire.com/news/apollo-brings-in-13-lenders-for-9bn-adt-buyout-financing",
-  "date": "2026-11-23T10:31:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Private equity co-investors press for rollover rights in continuation deals",
-  "link": "https://privateequitywire.com/news/private-equity-co-investors-press-for-rollover-rights-in-continuation-deals",
-  "date": "2026-11-23T10:22:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "Strategic Investment",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "CVC in talks to buy Entain’s central and eastern European stake",
-  "link": "https://privateequitywire.com/news/cvc-in-talks-to-buy-entains-central-and-eastern-european-stake",
-  "date": "2026-11-23T10:18:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "CD&R and Clariant in talks to acquire Ashland",
-  "link": "https://privateequitywire.com/news/cd-r-and-clariant-in-talks-to-acquire-ashland",
-  "date": "2026-11-23T10:16:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Gulbrandsen acquires IMACA's glass coating business",
-  "link": "https://www.prnewswire.com/news-releases/gulbrandsen-acquires-imacas-glass-coating-business-302947996.html",
-  "date": "2026-11-23T09:40:00Z"
  }
 ]
