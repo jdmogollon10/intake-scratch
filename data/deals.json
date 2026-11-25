@@ -1,5 +1,115 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Healthcare",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Virbac to acquire Axiota Animal Health, Inc. - creating a leading global platform for innovative cattle health solutions",
+  "link": "https://www.prnewswire.com/news-releases/virbac-to-acquire-axiota-animal-health-inc---creating-a-leading-global-platform-for-innovative-cattle-health-solutions-302950804.html",
+  "date": "2026-11-25T19:36:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+  "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+  "date": "2026-11-25T19:20:00Z"
+ },
+ {
+  "src": "MarketWatch",
+  "type": "M&A",
+  "industry": "Consumer",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+  "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+  "date": "2026-11-25T18:52:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
+  "link": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-25T18:41:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Luminate Bank Acquires Select Assets of Real Genius, Expanding Consumer-Direct Mortgage Capabilities",
+  "link": "https://www.prnewswire.com/news-releases/luminate-bank-acquires-select-assets-of-real-genius-expanding-consumer-direct-mortgage-capabilities-302950008.html",
+  "date": "2026-11-25T17:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "LSEG Finance plc announces pricing of its tender offer",
+  "link": "https://www.prnewswire.com/news-releases/lseg-finance-plc-announces-pricing-of-its-tender-offer-302950693.html",
+  "date": "2026-11-25T16:56:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Kopp Development Announces Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/kopp-development-announces-acquisition-302950011.html",
+  "date": "2026-11-25T16:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "26Health Acquires Florida Infectious Disease Specialists, Expanding HIV and Infectious Disease Care in Central Florida",
+  "link": "https://www.prnewswire.com/news-releases/26health-acquires-florida-infectious-disease-specialists-expanding-hiv-and-infectious-disease-care-in-central-florida-302950596.html",
+  "date": "2026-11-25T14:51:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Village Gourmet Acquired by TerraMar Capital, Marking an Exciting New Chapter of Growth for Iconic French Charcuterie Brands",
+  "link": "https://www.prnewswire.com/news-releases/village-gourmet-acquired-by-terramar-capital-marking-an-exciting-new-chapter-of-growth-for-iconic-french-charcuterie-brands-302950006.html",
+  "date": "2026-11-25T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Cheche Group Signs Definitive Agreement to Acquire 20% Interest in Residential Solar-Plus-Storage Company Long Way Fortune, With Option to Increase Stake to 51%",
+  "link": "https://www.prnewswire.com/news-releases/cheche-group-signs-definitive-agreement-to-acquire-20-interest-in-residential-solar-plus-storage-company-long-way-fortune-with-option-to-increase-stake-to-51-302950548.html",
+  "date": "2026-11-25T14:00:00Z"
+ },
+ {
+  "src": "Crunchbase",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
+  "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+  "date": "2026-11-25T12:00:09Z"
+ },
+ {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "Technology",
@@ -68,115 +178,5 @@
   "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
   "link": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
   "date": "2026-11-24T22:07:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Local Bounti Becomes Largest Leafy Greens CEA Grower in the U.S. with Completed Acquisition of Revol Greens' Certified-Organic Facilities",
-  "link": "https://www.prnewswire.com/news-releases/local-bounti-becomes-largest-leafy-greens-cea-grower-in-the-us-with-completed-acquisition-of-revol-greens-certified-organic-facilities-302949880.html",
-  "date": "2026-11-24T21:08:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "AuguStar Life Insurance Company Announces Pricing Terms of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
-  "link": "https://www.prnewswire.com/news-releases/augustar-life-insurance-company-announces-pricing-terms-of-its-cash-tender-offer-for-constellation-insurance-incs-outstanding-5-550-senior-notes-due-2030-currently-bearing-interest-at-a-rate-of-5-800-and-6-625-senior-notes-302949842.html",
-  "date": "2026-11-24T20:19:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Palm Beach, FL- based Smart Source LLC has acquired Boston, MA -based Winbrook Inc.",
-  "link": "https://www.prnewswire.com/news-releases/palm-beach-fl--based-smart-source-llc-has-acquired-boston-ma--based-winbrook-inc-302949772.html",
-  "date": "2026-11-24T18:29:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "DuraServ Expands Wholesale Distribution and Commercial Door Presence with TexDoor Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/duraserv-expands-wholesale-distribution-and-commercial-door-presence-with-texdoor-acquisition-302949708.html",
-  "date": "2026-11-24T17:21:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "FCP ACQUIRES 2048 BOLTON DRIVE NW IN UPPER WESTSIDE ATLANTA",
-  "link": "https://www.prnewswire.com/news-releases/fcp-acquires-2048-bolton-drive-nw-in-upper-westside-atlanta-302949674.html",
-  "date": "2026-11-24T16:43:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Intune Physical Therapy Acquires Kinect Physiotherapy, Further Expanding Its Presence in the Raleigh Market",
-  "link": "https://www.prnewswire.com/news-releases/intune-physical-therapy-acquires-kinect-physiotherapy-further-expanding-its-presence-in-the-raleigh-market-302948662.html",
-  "date": "2026-11-24T14:13:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cerberus to Acquire the U.S. Space Systems Business of Airbus",
-  "link": "https://www.prnewswire.com/news-releases/cerberus-to-acquire-the-us-space-systems-business-of-airbus-302949473.html",
-  "date": "2026-11-24T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Stratix Acquires DMI's Managed Mobility Services Business",
-  "link": "https://www.prnewswire.com/news-releases/stratix-acquires-dmis-managed-mobility-services-business-302948595.html",
-  "date": "2026-11-24T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Wellable Acquires Givhero's Employee Well-Being Business",
-  "link": "https://www.prnewswire.com/news-releases/wellable-acquires-givheros-employee-well-being-business-302948841.html",
-  "date": "2026-11-24T13:59:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Automation Anywhere Completes Boost.ai Acquisition, Challenges SaaS Giants in the Race for Autonomous Customer Service Operations",
-  "link": "https://www.prnewswire.com/news-releases/automation-anywhere-completes-boostai-acquisition-challenges-saas-giants-in-the-race-for-autonomous-customer-service-operations-302949013.html",
-  "date": "2026-11-24T13:00:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.2B",
-  "title": "Macquarie-led consortium to buy Axiata tower assets in $1.2bn deal",
-  "link": "https://privateequitywire.com/news/macquarie-led-consortium-to-buy-axiata-tower-assets-in-1-2bn-deal",
-  "date": "2026-11-24T10:08:00Z"
  }
 ]
