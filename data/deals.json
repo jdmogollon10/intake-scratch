@@ -2,132 +2,42 @@
  {
   "src": "PE Wire",
   "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$1.2B",
-  "title": "Macquarie-led consortium to buy Axiata tower assets in $1.2bn deal",
-  "link": "https://privateequitywire.com/news/macquarie-led-consortium-to-buy-axiata-tower-assets-in-1-2bn-deal",
-  "date": "2026-11-24T10:08:00Z"
+  "industry": "Technology",
+  "region": "Asia-Pacific",
+  "value": "Undisclosed",
+  "title": "BlackRock and IFM weigh lower bid for Stack’s Asia Pacific data centres",
+  "link": "https://privateequitywire.com/news/blackrock-and-ifm-weigh-lower-bid-for-stacks-asia-pacific-data-centres",
+  "date": "2026-11-25T10:13:00Z"
  },
  {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "—",
   "region": "—",
-  "value": "€1.2B",
-  "title": "Banks left with €1.2bn financing commitment after CVC exits Irca deal",
-  "link": "https://privateequitywire.com/news/banks-left-with-1-2bn-financing-commitment-after-cvc-exits-irca-deal",
-  "date": "2026-11-24T10:03:00Z"
+  "value": "$13B",
+  "title": "Endeavor seeks UBS valuation documents in $13bn Silver Lake buyout dispute",
+  "link": "https://privateequitywire.com/news/endeavor-seeks-ubs-valuation-documents-in-13bn-silver-lake-buyout-dispute",
+  "date": "2026-11-25T10:12:00Z"
  },
  {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$41B",
-  "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
-  "link": "https://www.wsj.com/business/deals/sanofi-to-buy-insmed-for-41-0-billion-36d6b07d?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-24T09:39:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "Healthcare",
-  "region": "—",
-  "value": "$41B",
-  "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-  "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-  "date": "2026-11-24T09:14:00Z"
- },
- {
-  "src": "WSJ",
+  "src": "PE Wire",
   "type": "IPO",
   "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Compass Group Plans to Move Primary Listing to U.S.",
-  "link": "https://www.wsj.com/business/earnings/compass-group-plans-to-move-primary-listing-to-u-s-b06b7ea8?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-24T08:33:00Z"
+  "region": "UK",
+  "value": "€6.5B",
+  "title": "Hg-backed Visma plans up to €6.5bn debt raise as London IPO put on hold",
+  "link": "https://privateequitywire.com/news/hg-backed-visma-plans-up-to-6-5bn-debt-raise-as-london-ipo-put-on-hold",
+  "date": "2026-11-25T10:09:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Ascentium Acquires Statura, Expanding Its Private Client Business Across Europe and the Middle East",
-  "link": "https://www.prnewswire.com/news-releases/ascentium-acquires-statura-expanding-its-private-client-business-across-europe-and-the-middle-east-302948130.html",
-  "date": "2026-11-24T07:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
+  "industry": "Financials",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Sanofi to Acquire Insmed in Strategic Step that Strengthens Long-Term Future",
-  "link": "https://www.prnewswire.com/news-releases/sanofi-to-acquire-insmed-in-strategic-step-that-strengthens-long-term-future-302949056.html",
-  "date": "2026-11-24T06:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Platinum Equity Completes Acquisition of EDP",
-  "link": "https://www.prnewswire.com/news-releases/platinum-equity-completes-acquisition-of-edp-302948762.html",
-  "date": "2026-11-24T00:30:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Uniform Advantage Expands Retail Presence with Acquisition of 16 Former Scrubs & Beyond Locations",
-  "link": "https://www.prnewswire.com/news-releases/uniform-advantage-expands-retail-presence-with-acquisition-of-16-former-scrubs--beyond-locations-302948637.html",
-  "date": "2026-11-23T23:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "$10B",
-  "title": "Harvest Group Acquires Good Peeps, Accelerating Growth Toward $10 Billion in Retail Sales and $2 Billion in Media Under Management",
-  "link": "https://www.prnewswire.com/news-releases/harvest-group-acquires-good-peeps-accelerating-growth-toward-10-billion-in-retail-sales-and-2-billion-in-media-under-management-302948447.html",
-  "date": "2026-11-23T18:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Madison Dearborn Partners to Acquire Peli BioThermal, a Trusted Cold Chain Solutions Provider, from Pelican Products and Platinum Equity",
-  "link": "https://www.prnewswire.com/news-releases/madison-dearborn-partners-to-acquire-peli-biothermal-a-trusted-cold-chain-solutions-provider-from-pelican-products-and-platinum-equity-302948222.html",
-  "date": "2026-11-23T17:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Authentic Acquires O'Neill, Expanding Global Action and Outdoor Portfolio",
-  "link": "https://www.prnewswire.com/news-releases/authentic-acquires-oneill-expanding-global-action-and-outdoor-portfolio-302948389.html",
-  "date": "2026-11-23T16:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$44B",
-  "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
-  "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-23T14:45:00Z"
+  "title": "AuguStar Life Insurance Company Announces Final Results of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
+  "link": "https://www.prnewswire.com/news-releases/augustar-life-insurance-company-announces-final-results-of-its-cash-tender-offer-for-constellation-insurance-incs-outstanding-5-550-senior-notes-due-2030-currently-bearing-interest-at-a-rate-of-5-800-and-6-625-senior-notes-302950055.html",
+  "date": "2026-11-25T02:32:00Z"
  },
  {
   "src": "PR Newswire",
@@ -135,48 +45,138 @@
   "industry": "Technology",
   "region": "—",
   "value": "Undisclosed",
-  "title": "Workday Completes Acquisition of C1.ai",
-  "link": "https://www.prnewswire.com/news-releases/workday-completes-acquisition-of-c1ai-302947290.html",
-  "date": "2026-11-23T14:15:00Z"
+  "title": "Driven Tech Completes Acquisitions of ADEX and TekBay, Accelerating Enterprise AI Strategy",
+  "link": "https://www.prnewswire.com/news-releases/driven-tech-completes-acquisitions-of-adex-and-tekbay-accelerating-enterprise-ai-strategy-302949943.html",
+  "date": "2026-11-24T23:10:00Z"
  },
  {
   "src": "PR Newswire",
   "type": "M&A",
-  "industry": "—",
-  "region": "—",
+  "industry": "Technology",
+  "region": "Asia-Pacific",
   "value": "Undisclosed",
-  "title": "Quantum Space Announces Completion of Business Combination with Inflection Point Acquisition Corp. VI",
-  "link": "https://www.prnewswire.com/news-releases/quantum-space-announces-completion-of-business-combination-with-inflection-point-acquisition-corp-vi-302948270.html",
-  "date": "2026-11-23T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Nauticus Robotics™ Signs Letter of Intent to Acquire Ocean Power Technologies' WAM-V® Business Assets",
-  "link": "https://www.prnewswire.com/news-releases/nauticus-robotics-signs-letter-of-intent-to-acquire-ocean-power-technologies-wam-v-business-assets-302948257.html",
-  "date": "2026-11-23T13:43:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Industrials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Mill Steel Company Acquires Assets of Chicago Steel and Lexington Steel",
-  "link": "https://www.prnewswire.com/news-releases/mill-steel-company-acquires-assets-of-chicago-steel-and-lexington-steel-302947516.html",
-  "date": "2026-11-23T13:32:00Z"
+  "title": "OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u",
+  "link": "https://www.prnewswire.com/news-releases/opentable-announces-proposed-acquisition-of-australian-restaurant-technology-company-meu-302949939.html",
+  "date": "2026-11-24T23:00:00Z"
  },
  {
   "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+  "link": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+  "date": "2026-11-24T22:07:00Z"
+ },
+ {
+  "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
-  "region": "US",
-  "value": "$3B",
-  "title": "Texas Pacific Land to Buy EagleRock Land in $3 Billion All-Stock Deal",
-  "link": "https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f",
-  "date": "2026-11-23T11:54:00Z"
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Local Bounti Becomes Largest Leafy Greens CEA Grower in the U.S. with Completed Acquisition of Revol Greens' Certified-Organic Facilities",
+  "link": "https://www.prnewswire.com/news-releases/local-bounti-becomes-largest-leafy-greens-cea-grower-in-the-us-with-completed-acquisition-of-revol-greens-certified-organic-facilities-302949880.html",
+  "date": "2026-11-24T21:08:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Financials",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "AuguStar Life Insurance Company Announces Pricing Terms of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
+  "link": "https://www.prnewswire.com/news-releases/augustar-life-insurance-company-announces-pricing-terms-of-its-cash-tender-offer-for-constellation-insurance-incs-outstanding-5-550-senior-notes-due-2030-currently-bearing-interest-at-a-rate-of-5-800-and-6-625-senior-notes-302949842.html",
+  "date": "2026-11-24T20:19:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Palm Beach, FL- based Smart Source LLC has acquired Boston, MA -based Winbrook Inc.",
+  "link": "https://www.prnewswire.com/news-releases/palm-beach-fl--based-smart-source-llc-has-acquired-boston-ma--based-winbrook-inc-302949772.html",
+  "date": "2026-11-24T18:29:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "DuraServ Expands Wholesale Distribution and Commercial Door Presence with TexDoor Acquisition",
+  "link": "https://www.prnewswire.com/news-releases/duraserv-expands-wholesale-distribution-and-commercial-door-presence-with-texdoor-acquisition-302949708.html",
+  "date": "2026-11-24T17:21:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "FCP ACQUIRES 2048 BOLTON DRIVE NW IN UPPER WESTSIDE ATLANTA",
+  "link": "https://www.prnewswire.com/news-releases/fcp-acquires-2048-bolton-drive-nw-in-upper-westside-atlanta-302949674.html",
+  "date": "2026-11-24T16:43:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Intune Physical Therapy Acquires Kinect Physiotherapy, Further Expanding Its Presence in the Raleigh Market",
+  "link": "https://www.prnewswire.com/news-releases/intune-physical-therapy-acquires-kinect-physiotherapy-further-expanding-its-presence-in-the-raleigh-market-302948662.html",
+  "date": "2026-11-24T14:13:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Cerberus to Acquire the U.S. Space Systems Business of Airbus",
+  "link": "https://www.prnewswire.com/news-releases/cerberus-to-acquire-the-us-space-systems-business-of-airbus-302949473.html",
+  "date": "2026-11-24T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Stratix Acquires DMI's Managed Mobility Services Business",
+  "link": "https://www.prnewswire.com/news-releases/stratix-acquires-dmis-managed-mobility-services-business-302948595.html",
+  "date": "2026-11-24T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Wellable Acquires Givhero's Employee Well-Being Business",
+  "link": "https://www.prnewswire.com/news-releases/wellable-acquires-givheros-employee-well-being-business-302948841.html",
+  "date": "2026-11-24T13:59:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Automation Anywhere Completes Boost.ai Acquisition, Challenges SaaS Giants in the Race for Autonomous Customer Service Operations",
+  "link": "https://www.prnewswire.com/news-releases/automation-anywhere-completes-boostai-acquisition-challenges-saas-giants-in-the-race-for-autonomous-customer-service-operations-302949013.html",
+  "date": "2026-11-24T13:00:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.2B",
+  "title": "Macquarie-led consortium to buy Axiata tower assets in $1.2bn deal",
+  "link": "https://privateequitywire.com/news/macquarie-led-consortium-to-buy-axiata-tower-assets-in-1-2bn-deal",
+  "date": "2026-11-24T10:08:00Z"
  }
 ]
