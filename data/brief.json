@@ -1,130 +1,146 @@
 {
  "status": "live",
- "session": "Tuesday, November 24, 2026",
- "builtAt": "2026-11-24T11:45:00Z",
+ "session": "Wednesday, November 25, 2026",
+ "builtAt": "2026-11-25T11:45:00Z",
  "tape": [
   {
    "n": "S&P 500",
-   "v": "7,237.17",
-   "c": "+4.73% Mon",
-   "dir": "up"
+   "v": "7,201.09",
+   "c": "&minus;0.50% Tue",
+   "dir": "down"
   },
   {
    "n": "Nasdaq Comp",
-   "v": "24,089.56",
-   "c": "+6.51% Mon",
-   "dir": "up"
+   "v": "23,733.54",
+   "c": "&minus;1.48% Tue",
+   "dir": "down"
   },
   {
    "n": "Dow",
-   "v": "49,595.31",
-   "c": "+3.01% Mon",
+   "v": "50,018.70",
+   "c": "+0.85% Tue",
    "dir": "up"
   }
  ],
- "tapeLine": "Monday 23 November: S&amp;P 500 +4.73% (+326.78) to 7,237.17, back above 7,000; Nasdaq Composite +6.51% (+1,471.82) to 24,089.56, its best day since April 2025; Dow +3.01% (+1,447.98) to 49,595.31 (StockTitan; Motley Fool; FinanceFeeds, 23 Nov). One 24/7 Wall St. item has the S&amp;P at 7,243.94 (+4.83%); sources differ slightly.",
- "matters": "<p>Monday reversed a large part of last week&rsquo;s slide after Nvidia&rsquo;s board unanimously reinstated Jensen Huang as president and CEO, effective immediately, ten days after he resigned on 13 Nov. Nvidia closed +31.48% at $165.05 (Nvidia newsroom; CNBC; StockTitan, 23 Nov). The board said it had received input from senior levels of the US government; President Trump told CNBC he personally intervened (CNBC; NBC; PBS, 23 Nov). Anthropic (ANT) did not join the rally, closing &minus;1.43% at $87.64 (Yahoo Finance, 23 Nov).</p><p>Early Tuesday, futures were giving some of it back: at 5:50 a.m. ET Nasdaq-100 futures &minus;1.21%, S&amp;P 500 &minus;0.50%, Dow &minus;0.14%, with Nvidia down nearly 4% premarket; CNBC&rsquo;s live blog showed S&amp;P futures down about 1% at one point (TipRanks; CNBC; Globe and Mail, 24 Nov). After New York Fed President Williams said Monday evening that inflation is still too high and rates are likely to rise &ldquo;over time,&rdquo; fed funds futures priced a December hike as a certainty, up from 89% odds Friday (CNBC; TipRanks, 23&ndash;24 Nov).</p>",
+ "tapeLine": "Tuesday 24 November: S&amp;P 500 &minus;0.50% to 7,201.09; Nasdaq Composite &minus;1.48% (&minus;356.03) to 23,733.54; Dow +0.85% to 50,018.70, closing above 50,000 (Yahoo Finance; Kotak Neo; Journal Arta, 24&ndash;25 Nov).",
+ "matters": "<p>Tuesday split along the same lines as the last two sessions, in reverse again: the Dow closed above 50,000 while the Nasdaq gave back about a quarter of Monday&rsquo;s 6.5% jump. Wraps tied the tech selling to AI valuation and infrastructure-spending worries and to reports of new US tariffs; Hewlett Packard Enterprise fell about 17% to $39.80 by Tuesday afternoon after warning that AI servers would pressure gross margin through fiscal 2027, and Dell fell 11.83% in the regular session before reporting (Benzinga; Seeking Alpha; Yahoo Finance, 24 Nov). Anthropic (ANT) closed &minus;6.54% at $81.91, below its $83 IPO price on its fourth trading day (Yahoo Finance; Bloomberg; Axios, 24 Nov).</p><p>This morning futures are lower again ahead of an 8:30 a.m. ET block of October PCE, the Q3 GDP second estimate, jobless claims and durable goods, the last major data before the 8&ndash;9 Dec FOMC. Yahoo Finance&rsquo;s live blog had Dow futures &minus;0.7%, S&amp;P 500 &minus;1% and Nasdaq-100 &minus;2% at one point, with a later snapshot nearer S&amp;P &minus;0.73% and Nasdaq-100 &minus;1.20% (Yahoo Finance, 25 Nov). Reports say USTR may announce results of its Section 301 overcapacity investigations into 16 economies as early as this week; that rests on unnamed sources and is not confirmed (WSJ via SBS; Wisevoter, 25 Nov).</p>",
  "calendar": [
   {
-   "time": "10:00 ET",
-   "event": "Conference Board consumer confidence, November",
-   "consensus": "92.0&ndash;92.5 (Morningstar; XTB)",
-   "prior": "91.7 (XTB)",
+   "time": "8:30 ET",
+   "event": "October PCE price index, personal income and spending",
+   "consensus": "Headline 3.8% y/y; core 3.2% y/y (investingLive; Admiral Markets)",
+   "prior": "Headline 3.6%; core 3.1% (investingLive; Admiral Markets)",
+   "impact": "high"
+  },
+  {
+   "time": "8:30 ET",
+   "event": "Q3 GDP, second estimate",
+   "consensus": "3.4&ndash;3.6% annualized (Admiral Markets; Longbridge)",
+   "prior": "3.4% advance (Admiral Markets)",
+   "impact": "high"
+  },
+  {
+   "time": "8:30 ET",
+   "event": "Initial jobless claims, week to 21 Nov (moved up for Thanksgiving)",
+   "consensus": "about 200K (Longbridge)",
+   "prior": "203K (Longbridge)",
    "impact": "medium"
   },
   {
-   "time": "10:00 ET",
-   "event": "Richmond Fed manufacturing index, November",
-   "consensus": "&minus;3 (XTB; Finviz lists +2)",
-   "prior": "&minus;2 (XTB)",
-   "impact": "low"
+   "time": "8:30 ET",
+   "event": "Durable goods orders, October",
+   "consensus": "+1.1% (Longbridge; Buglecall lists +2.5%)",
+   "prior": "+1.8% (Longbridge; Buglecall +1.9%)",
+   "impact": "medium"
   },
   {
-   "time": "After close",
-   "event": "Earnings: Dell (FQ3), HP, Workday, Autodesk; Best Buy before the open",
-   "consensus": "Dell EPS $6.63 (Zacks via mlq.ai)",
+   "time": "14:00 ET",
+   "event": "Fed Beige Book",
+   "consensus": "&mdash;",
    "prior": "&mdash;",
-   "impact": "medium"
+   "impact": "low"
   }
  ],
- "alsoOnTape": "10-year Treasury yield closed Monday at about 4.92% (BondStats; Longbridge 4.9218%, about 2 bp lower; Investing.com 4.927%), 2-year 4.63%, 30-year 5.29% (23 Nov). CNBC had the 10-year at 4.908% early Tuesday (24 Nov). Dollar, oil and gold Monday levels not confirmed and left out.",
+ "alsoOnTape": "10-year Treasury yield closed Tuesday at about 4.90% (Longbridge 4.9038%, about 4 bp lower; Investing.com 4.902%), 2-year about 4.67%, 30-year about 5.29% (Longbridge, 24 Nov). Dollar, oil and gold Tuesday levels not confirmed and left out. US markets are closed Thursday and close at 1:00 p.m. ET Friday.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Monday 23 November: S&amp;P 500 7,237.17 (+4.73%); Nasdaq Composite 24,089.56 (+6.51%); Dow 49,595.31 (+3.01%) (StockTitan; Motley Fool, 23 Nov).",
-  "<b>Nvidia</b> &mdash; board reinstated Jensen Huang as president, CEO and board director; shares +31.48% to $165.05, after &minus;14.01% to $125.53 on Friday. Yahoo Finance reported Nasdaq futures tripped a circuit breaker on the news. Nearly &minus;4% premarket Tuesday (Nvidia newsroom; CNBC; Yahoo Finance; Globe and Mail, 23&ndash;24 Nov).",
-  "<b>Anthropic (ANT)</b> &mdash; &minus;1.43% to $87.64 Monday, range about $84.61&ndash;$94.24, volume about 253M shares (Yahoo Finance history; Investing.com, 23 Nov).",
-  "<b>Futures</b> &mdash; Tuesday 5:50 a.m. ET: Nasdaq-100 &minus;1.21%, S&amp;P 500 &minus;0.50%, Dow &minus;0.14%; later snapshots smaller, around S&amp;P &minus;0.45% (TipRanks; CNBC, 24 Nov). European stocks slipping as well (Globe and Mail, 24 Nov)."
+  "<b>Latest confirmed close</b> &mdash; Tuesday 24 November: S&amp;P 500 7,201.09 (&minus;0.50%); Nasdaq Composite 23,733.54 (&minus;1.48%); Dow 50,018.70 (+0.85%) (Yahoo Finance; Kotak Neo; Journal Arta, 24&ndash;25 Nov).",
+  "<b>Dell</b> &mdash; fiscal Q3 revenue $54.9 billion against about $49.3 billion expected; adjusted EPS $9.45 against about $6.59; fiscal 2027 revenue outlook raised to $202 billion; $25 billion added to buybacks. Shares &minus;11.83% to $295.28 in the regular session, then up after hours, by 1.5% to 4.8% depending on the snapshot (Yahoo Finance; Benzinga; Investing.com, 24 Nov).",
+  "<b>Other after-hours movers</b> &mdash; Workday +1.79%, HP &minus;3.32%, Autodesk +0.14% (Investing.com, 24 Nov). Results details for these three not confirmed and left out.",
+  "<b>Hewlett Packard Enterprise</b> &mdash; beat fiscal Q4 estimates (adjusted EPS $1.43 vs $1.29) but warned gross margin would soften through fiscal 2027 on AI server mix; shares &minus;17.1% to $39.80 Tuesday afternoon per Benzinga, which called it the worst day since the 2015 debut; other outlets had 15&ndash;16% (Benzinga; Seeking Alpha; Invezz, 24 Nov).",
+  "<b>Anthropic (ANT)</b> &mdash; &minus;6.54% to $81.91, below the $83 IPO price (Yahoo Finance; Bloomberg; Axios, 24 Nov)."
  ],
  "deals": [
-  "<b>CrowdStrike / Zscaler</b> &mdash; all-stock deal valuing Zscaler at about $43.9 billion; 1.135 CrowdStrike shares per Zscaler share, about a 34% premium to the 20 Nov close (Bloomberg; TipRanks, 23 Nov).",
-  "<b>Alta Equipment Group / Jackson Group Peterbilt</b> &mdash; dealership assets for $272.5 million plus a net tangible asset adjustment; 34 dealerships in eight western states; subject to stockholder and financing approvals (TipRanks, 23 Nov).",
-  "<b>Rosemont Pharmaceuticals / Aytu BioPharma</b> &mdash; $2.70 per share cash tender offer, a 51.7% premium (Lawrence, Evans &amp; Co., 23 Nov).",
-  "<b>Merck KGaA / Rapid Micro Biosystems</b> &mdash; $0.75 per share cash tender offer (Lawrence, Evans &amp; Co., 23 Nov)."
+  "<b>Sanofi / Insmed</b> &mdash; $175 per share in cash, about $41.0 billion; about 46% premium to the 18 Nov close before deal reports, about 17.5% to the 23 Nov close; expected to close in 1H 2027 subject to shareholder and regulatory approval. Insmed shares rose about 14% (Sanofi 6-K; Bloomberg; CNBC; Axios, 24 Nov)."
  ],
  "macro": [
-  "<b>S&amp;P Global flash PMIs, November</b> &mdash; manufacturing 54.5 from 54.9; services 54.7 from 56.1 against about 55.7&ndash;55.8 expected; composite 54.6 from 55.9, a four-month low (FXStreet; investingLive; S&amp;P Global, 23 Nov).",
-  "<b>Williams (New York Fed)</b> &mdash; expects PCE inflation to end 2026 at 3.5%, slow to just above 2% next year and reach 2% in 2028; growth 2.75% in 2026 and 2027; higher rates likely &ldquo;over time,&rdquo; no call for dramatic action. Next FOMC 8&ndash;9 Dec (NY Fed Teller Window; CNBC; Reuters via Yahoo, 23 Nov).",
-  "<b>Rest of week</b> &mdash; Wednesday 25 Nov: October PCE and Q3 GDP second estimate at 8:30 ET; markets closed Thursday; 1:00 p.m. ET close Friday (heygotrade; TradingKey, 23 Nov)."
+  "<b>Conference Board consumer confidence, November</b> &mdash; 103.3, up 11.4 from a revised 91.9, highest since January 2025, against about 92.2 expected (WSJ poll). Present Situation 132.8; Expectations 83.6. Survey window 1&ndash;17 Nov (Conference Board via PR Newswire; Bloomberg; Advisor Perspectives, 24 Nov).",
+  "<b>Section 301</b> &mdash; USTR&rsquo;s overcapacity probe, opened 11 Mar, covers 16 economies including China, the EU, Japan, South Korea, Taiwan, Mexico and India. Results reported as possible this week; no rates published (White &amp; Case; WSJ via SBS; Wisevoter, 25 Nov).",
+  "<b>Fed</b> &mdash; previews describe October PCE as the last major inflation read before the 8&ndash;9 Dec meeting, with a December hike widely priced (investingLive; StockTitan, 24&ndash;25 Nov)."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "A one-day 4.7% S&amp;P rebound driven by a single company&rsquo;s leadership news, into a holiday-shortened week with a December rate hike fully priced.",
-  "sizing": "Tuesday&rsquo;s early futures pullback leaves open how much of Monday&rsquo;s move holds before Wednesday&rsquo;s PCE and GDP."
+  "tag": "Monday&rsquo;s tech-led rebound partly unwound Tuesday while the Dow set a close above 50,000, into a data-heavy Wednesday before the holiday.",
+  "sizing": "Wednesday&rsquo;s 8:30 block lands on a thin holiday tape with futures already lower; how PCE compares with the 3.8% / 3.2% consensus is the open question."
  },
  "watchlist": [],
- "secondOrder": "Monday&rsquo;s gains were again uneven, this time in reverse: the Nasdaq rose more than twice as much as the Dow, mirroring Friday&rsquo;s split. Treasury yields barely moved on a near-5% equity rally, and Anthropic fell on a day most AI-linked shares rose. Observations, not forecasts.",
+ "secondOrder": "The Dow and Nasdaq have now moved in opposite directions or by very different amounts for three straight sessions. Server makers diverged on margins: HPE fell on a margin warning while Dell beat and raised. Consumer confidence jumped to a near two-year high on the same day Anthropic broke its IPO price. Observations, not forecasts.",
  "scorecard": [
   {
-   "verdict": "right",
-   "text": "The prior brief reported S&amp;P 500 futures up about 2.2&ndash;2.8% early Monday and left open whether the bounce would hold through the open. It held and widened: the S&amp;P 500 closed +4.73% and the Nasdaq +6.51% (StockTitan; Motley Fool, 23 Nov)."
+   "verdict": "wrong",
+   "text": "The prior brief carried a November consumer confidence consensus of 92.0&ndash;92.5. It printed 103.3, about 11 points above; consensus is not a forecast, but anyone reading it as the likely print was badly wrong (Conference Board via PR Newswire; Bloomberg, 24 Nov)."
   },
   {
    "verdict": "wrong",
-   "text": "The prior brief carried a services flash PMI consensus of 55.8 and manufacturing 54.6 (FXStreet). Services printed 54.7, about a point below, and manufacturing 54.5; the brief listed consensus, not a forecast, but anyone reading it as the likely print was wrong on services (FXStreet; investingLive, 23 Nov)."
+   "text": "The prior brief carried a Dell EPS consensus of $6.63 (Zacks via mlq.ai). Dell reported adjusted EPS of $9.45, far above (Yahoo Finance; Benzinga, 24 Nov)."
   },
   {
    "verdict": "right",
-   "text": "The prior brief listed New York Fed President Williams speaking Monday evening from a single source; he spoke, saying inflation remains too high and rates likely rise over time (CNBC; NY Fed, 23 Nov)."
+   "text": "The prior brief reported Tuesday futures lower, led by the Nasdaq, and left open how much of Monday&rsquo;s move would hold. The Nasdaq closed &minus;1.48% and the S&amp;P &minus;0.50%; the Dow, though, rose 0.85% (Yahoo Finance; Kotak Neo, 24 Nov)."
   },
   {
    "verdict": "right",
-   "text": "The prior brief put October PCE and the Q3 GDP second estimate on Wednesday and Dell after Tuesday&rsquo;s close; both confirmed by Tuesday-morning calendars (mlq.ai; TradingKey, 24 Nov)."
+   "text": "The prior brief put October PCE and the Q3 GDP second estimate on Wednesday at 8:30 ET and said markets close Thursday; confirmed by Wednesday-morning previews (Admiral Markets; Yahoo Finance, 25 Nov)."
+  },
+  {
+   "verdict": "open",
+   "text": "The prior brief listed the Richmond Fed manufacturing index (consensus &minus;3); the actual reading was not confirmed in this morning&rsquo;s search and is left ungraded."
   }
  ],
  "midday": null,
  "sources": [
-  {"label": "StockTitan — Stock Market Today, November 23, 2026: Nvidia brings back Jensen Huang as CEO", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"},
-  {"label": "Motley Fool — Stock Market Today, Nov. 23: Markets rebound from correction on AI relief rally", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"},
-  {"label": "FinanceFeeds — Stock Market Today: Nasdaq jumps 6.5% as Huang returns", "url": "https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/"},
-  {"label": "24/7 Wall St. — S&P 500 closes up 4.8%, led by a 6.5% surge in the Nasdaq", "url": "https://247wallst.com/cards/anyone-who-sat-out-today-missed-the-kind-of-session-that-res-gspc-market-bell-01m853j2rdb4zqsc9g1xm1nzmw"},
-  {"label": "NVIDIA Newsroom — NVIDIA board reinstates Jensen Huang as President, CEO and Board Director", "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"},
-  {"label": "CNBC — Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%", "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"},
-  {"label": "NBC News — Jensen Huang reinstated as Nvidia CEO after Trump pushes board", "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864"},
-  {"label": "PBS NewsHour — Nvidia board unanimously reinstates Jensen Huang as CEO and chairman", "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman"},
-  {"label": "Yahoo Finance — Nasdaq futures tripped a circuit breaker as Jensen Huang returned to Nvidia", "url": "https://finance.yahoo.com/markets/stocks/article/nasdaq-futures-tripped-a-circuit-breaker-built-for-market-crashes-as-jensen-huang-returned-to-nvidia-162506665.html"},
-  {"label": "Yahoo Finance — Anthropic (ANT) historical prices", "url": "https://finance.yahoo.com/quote/ANT/history/"},
-  {"label": "Yahoo Finance — Anthropic stock falls as Monday's tech rally takes off", "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-falls-as-mondays-tech-rally-takes-off-194812614.html"},
-  {"label": "CNBC — Stock futures decline as Nvidia pulls back: live updates", "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"},
-  {"label": "TipRanks — Stock Market Today, Nov. 24: Markets turn jittery even as Huang returns to Nvidia", "url": "https://www.tipranks.com/news/stock-market-today-nov-24-markets-turn-jittery-even-as-huang-returns-to-nvidia"},
-  {"label": "Globe and Mail — Premarket: U.S. futures, European stocks slip as Nvidia rally cools", "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-us-futures-edge-higher-after-nvidia-driven-surge/"},
-  {"label": "CNBC — Fed's John Williams indicates higher interest rates likely 'over time'", "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"},
-  {"label": "NY Fed Teller Window — Key takeaways from President Williams's speech", "url": "https://tellerwindow.newyorkfed.org/2026/11/23/key-takeaways-from-president-williamss-speech-on-the-economic-outlook-and-monetary-policy-28/"},
-  {"label": "Yahoo Finance (Reuters) — Fed's Williams: Fed must be forward-looking to bring inflation down", "url": "https://finance.yahoo.com/economy/policy/article/feds-williams-fed-must-be-forward-looking-to-bring-inflation-down-212531171.html"},
-  {"label": "FXStreet — US S&P Manufacturing PMI retreats to 54.5, Services PMI declines to 54.7", "url": "https://www.fxstreet.com/news/us-sp-manufacturing-pmi-retreats-to-545-services-pmi-declines-to-547-202611231502"},
-  {"label": "investingLive — S&P Global US services November flash PMI 54.7 vs 55.7 expected", "url": "https://investinglive.com/news/s-p-global-us-services-november-flash-pmi-54-7-vs-55-7-expected/"},
-  {"label": "S&P Global — Flash US PMI", "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/18abd879261e464fbcc1bc22d4ea64eb"},
-  {"label": "BondStats — Treasury yields finish little changed; 10-year ends at 4.92%", "url": "https://www.bondstats.org/daily/2026-11-23/"},
-  {"label": "Longbridge — 30-year Treasury yield falls by more than 3.4 basis points", "url": "https://longbridge.com/en/news/306536193"},
-  {"label": "CNBC — Treasury yields lower after inflation warning from Williams", "url": "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html"},
-  {"label": "Bloomberg — CrowdStrike reaches $44 billion cyber deal for Zscaler", "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"},
-  {"label": "TipRanks — CrowdStrike announces agreement to acquire Zscaler", "url": "https://www.tipranks.com/news/company-announcements/crowdstrike-announces-agreement-to-acquire-zscaler"},
-  {"label": "TipRanks — Alta Equipment Group agrees to acquire Jackson Group Peterbilt assets", "url": "https://www.tipranks.com/news/company-announcements/alta-equipment-group-agrees-to-acquire-jackson-group-peterbilt-assets"},
-  {"label": "Lawrence, Evans & Co. — Healthcare news, deals and investments update, November 23, 2026", "url": "https://lawrenceevans.com/2026/11/23/healthcare-news-deals-and-investments-update-november-23rd-2026"},
-  {"label": "XTB — Economic calendar: Ifo and US consumer confidence", "url": "https://www.xtb.com/en/market-analysis/economic-calendar-after-wall-street-s-rally-markets-turn-their-attention-to-ifo-and-us-consumer-confidence"},
-  {"label": "mlq.ai — What to watch Tuesday, Nov. 24: Dell and Workday after the close", "url": "https://mlq.ai/news/what-to-watch-tuesday-nov-24-dell-and-workday-after-the-close-best-buy-before-it-consumer-confidence-and-germanys-ifo/"},
-  {"label": "TradingKey — Week ahead: US Q3 GDP and October PCE due on same day", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316778-week-ahead-us-gdp-pce-dell-hpe-report-anthropic-tradingkey"},
-  {"label": "heygotrade — US stocks week ahead: PCE, GDP and Dell earnings", "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/"}
+  {"label": "Yahoo Finance — Stock Market Today, Nov. 24: Tech sell-off drags Nasdaq as Dow gains on value rotation", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html"},
+  {"label": "Kotak Neo — Wall Street ends mixed as Nasdaq and S&P 500 fall amid renewed AI sell-off", "url": "https://www.kotakneo.com/news/global-markets/wall-street-falls-as-ai-selloff-hits-nasdaq-and-sp-500-while-dow-jones-rises-423-points/"},
+  {"label": "Journal Arta — Dow tops 50,000 while chip selloff drags Nasdaq down 1.48%", "url": "https://journalarta.com/en/2026/11/25/stock-market-today-dow-tops-50000-while-chip-selloff-drags-nasdaq-down-1-48/"},
+  {"label": "Yahoo Finance — Stock market today, Wednesday Nov. 25: futures fall ahead of inflation data", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+  {"label": "Yahoo Finance — Stock Market: Will S&P 500 open up or down today?", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-060617625.html"},
+  {"label": "Yahoo Finance — Dell shares rise after earnings beat as AI server backlog jumps", "url": "https://finance.yahoo.com/technology/articles/dell-shares-rise-earnings-beat-213400130.html"},
+  {"label": "Benzinga — Dell delivers Q3 double beat, raises FY27 outlook", "url": "https://www.benzinga.com/markets/earnings/26/11/63609544/dell-delivers-q3-double-beat-raises-fy27-outlook-we-are-now-a-different-company"},
+  {"label": "Investing.com — After-hours movers: DELL, HPQ, ADSK, WDAY", "url": "https://in.investing.com/news/stock-market-news/afterhours-movers-dell-hpq-adsk-wday-ntnx-urbn-clsk-432SI-5724291"},
+  {"label": "Benzinga — HPE stock drops 17%, marks worst day in its history", "url": "https://www.benzinga.com/markets/earnings/26/11/63605255/hpe-stock-worst-day-history-ai-server-margins"},
+  {"label": "Seeking Alpha — HPE shares slump on warning of margin pressure from AI servers", "url": "https://seekingalpha.com/news/4676038-hpe-shares-slump-on-warning-of-margin-pressure-from-ai-servers"},
+  {"label": "Invezz — HPE stock falls 16% as AI server demand raises margin concerns", "url": "https://invezz.com/nz/news/2026/11/24/hpe-stock-falls-16percent-as-ai-server-demand-raises-concerns-over-profit-margins/"},
+  {"label": "Bloomberg — Anthropic shares fall below $83 IPO price in fourth trading day", "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"},
+  {"label": "Yahoo Finance — Anthropic (ANT) quote", "url": "https://finance.yahoo.com/quote/ANT/"},
+  {"label": "Axios — Anthropic: ANT that a shame", "url": "https://www.axios.com/2026/11/24/anthropic-stock-ipo-banks"},
+  {"label": "Sanofi — Form 6-K exhibit, Insmed acquisition", "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"},
+  {"label": "Bloomberg — Sanofi seals $41 billion Insmed deal", "url": "https://www.bloomberg.com/news/articles/2026-11-24/sanofi-seals-41-billion-insmed-deal-to-expand-in-immunology"},
+  {"label": "CNBC — Insmed shares rally 14% after Sanofi agrees to buy it", "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html"},
+  {"label": "Axios — Sanofi agrees to buy Insmed for $41 billion", "url": "https://www.axios.com/2026/11/24/sanofi-insmed-merger"},
+  {"label": "PR Newswire — US Consumer Confidence surged in November", "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-surged-in-november-302949447.html"},
+  {"label": "Bloomberg — US consumer confidence surges to highest since early 2025", "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-consumer-confidence-surges-to-highest-since-early-2025"},
+  {"label": "Advisor Perspectives — Consumer confidence jumps to highest level in almost 2 years", "url": "https://www.advisorperspectives.com/dshort/updates/2026/11/24/consumer-confidence-conference-board-november-2026"},
+  {"label": "Longbridge — 10-year Treasury yield falls by approximately 4 bp", "url": "https://longbridge.com/en/news/306679499"},
+  {"label": "Investing.com — US 10-year bond yield historical data", "url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"},
+  {"label": "Longbridge — SG Morning Brief: Dow breaks 50,000 (calendar)", "url": "https://longbridge.com/en/news/306695516"},
+  {"label": "Buglecall — Key events this holiday-shortened week: all about PCE", "url": "https://buglecall.org/?p=709072"},
+  {"label": "investingLive — US PCE preview: inflation seen near 3.8%", "url": "https://investinglive.com/central-banks/us-pce-preview-inflation-seen-near-3-8-in-the-fed-s-last-read-before-a-december-hike/"},
+  {"label": "Admiral Markets — PCE report 25 November 2026: time, forecast, what to watch", "url": "https://admiralmarkets.com/analytics/traders-blog/pce-inflation-october-2026-preview"},
+  {"label": "StockTitan — October 2026 PCE inflation preview", "url": "https://www.stocktitan.net/articles/october-2026-pce-inflation-preview"},
+  {"label": "White & Case — USTR initiates Section 301 investigations of 16 US trade partners", "url": "https://www.whitecase.com/insight-alert/ustr-initiates-section-301-investigations-16-us-trade-partners-targeting-industrial"},
+  {"label": "SBS — WSJ: USTR to announce overproduction tariff investigation results as early as this week", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008861782"},
+  {"label": "Wisevoter — USTR to announce tariff results for 16 economies", "url": "https://wisevoter.com/world/us/2026/11/25/ustr-section-301-overcapacity-tariffs-16-economies"}
  ]
 }
