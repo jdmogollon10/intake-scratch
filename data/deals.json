@@ -1,5 +1,35 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
+  "link": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951331.html",
+  "date": "2026-11-26T18:46:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Acquisition Opportunity AGWEST ENTITIES",
+  "link": "https://www.prnewswire.com/news-releases/acquisition-opportunity-agwest-entities-302950747.html",
+  "date": "2026-11-26T17:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "LSEG Finance plc announces increase in Maximum Acceptance Amount and results of its tender offer",
+  "link": "https://www.prnewswire.com/news-releases/lseg-finance-plc-announces-increase-in-maximum-acceptance-amount-and-results-of-its-tender-offer-302951299.html",
+  "date": "2026-11-26T15:05:00Z"
+ },
+ {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "—",
@@ -91,22 +121,22 @@
  },
  {
   "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cheche Group Signs Definitive Agreement to Acquire 20% Interest in Residential Solar-Plus-Storage Company Long Way Fortune, With Option to Increase Stake to 51%",
-  "link": "https://www.prnewswire.com/news-releases/cheche-group-signs-definitive-agreement-to-acquire-20-interest-in-residential-solar-plus-storage-company-long-way-fortune-with-option-to-increase-stake-to-51-302950548.html",
-  "date": "2026-11-25T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
   "region": "Europe",
   "value": "Undisclosed",
   "title": "Village Gourmet Acquired by TerraMar Capital, Marking an Exciting New Chapter of Growth for Iconic French Charcuterie Brands",
   "link": "https://www.prnewswire.com/news-releases/village-gourmet-acquired-by-terramar-capital-marking-an-exciting-new-chapter-of-growth-for-iconic-french-charcuterie-brands-302950006.html",
+  "date": "2026-11-25T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Cheche Group Signs Definitive Agreement to Acquire 20% Interest in Residential Solar-Plus-Storage Company Long Way Fortune, With Option to Increase Stake to 51%",
+  "link": "https://www.prnewswire.com/news-releases/cheche-group-signs-definitive-agreement-to-acquire-20-interest-in-residential-solar-plus-storage-company-long-way-fortune-with-option-to-increase-stake-to-51-302950548.html",
   "date": "2026-11-25T14:00:00Z"
  },
  {
@@ -148,35 +178,5 @@
   "title": "Hg-backed Visma plans up to €6.5bn debt raise as London IPO put on hold",
   "link": "https://privateequitywire.com/news/hg-backed-visma-plans-up-to-6-5bn-debt-raise-as-london-ipo-put-on-hold",
   "date": "2026-11-25T10:09:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Financials",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "AuguStar Life Insurance Company Announces Final Results of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
-  "link": "https://www.prnewswire.com/news-releases/augustar-life-insurance-company-announces-final-results-of-its-cash-tender-offer-for-constellation-insurance-incs-outstanding-5-550-senior-notes-due-2030-currently-bearing-interest-at-a-rate-of-5-800-and-6-625-senior-notes-302950055.html",
-  "date": "2026-11-25T02:32:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Driven Tech Completes Acquisitions of ADEX and TekBay, Accelerating Enterprise AI Strategy",
-  "link": "https://www.prnewswire.com/news-releases/driven-tech-completes-acquisitions-of-adex-and-tekbay-accelerating-enterprise-ai-strategy-302949943.html",
-  "date": "2026-11-24T23:10:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u",
-  "link": "https://www.prnewswire.com/news-releases/opentable-announces-proposed-acquisition-of-australian-restaurant-technology-company-meu-302949939.html",
-  "date": "2026-11-24T23:00:00Z"
  }
 ]
