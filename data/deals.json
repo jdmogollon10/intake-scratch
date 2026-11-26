@@ -1,5 +1,35 @@
 [
  {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "£5.7B",
+  "title": "easyJet profit falls 89% ahead of £5.7bn Apollo takeover",
+  "link": "https://privateequitywire.com/news/easyjet-profit-falls-89-ahead-of-5-7bn-apollo-takeover",
+  "date": "2026-11-26T10:15:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "UniCredit Seeks Commerzbank Chair Role for CEO Orcel After Takeover Clears Final Hurdle",
+  "link": "https://www.wsj.com/business/unicredit-clears-final-hurdle-in-commerzbank-takeover-83ae477f?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-26T08:42:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Energy",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
+  "link": "https://www.prnewswire.com/news-releases/ls-power-completes-acquisition-of-4-4-gw-natural-gas-generation-assets-from-constellation-302950859.html",
+  "date": "2026-11-25T21:38:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "Healthcare",
@@ -8,26 +38,6 @@
   "title": "Virbac to acquire Axiota Animal Health, Inc. - creating a leading global platform for innovative cattle health solutions",
   "link": "https://www.prnewswire.com/news-releases/virbac-to-acquire-axiota-animal-health-inc---creating-a-leading-global-platform-for-innovative-cattle-health-solutions-302950804.html",
   "date": "2026-11-25T19:36:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-  "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-  "date": "2026-11-25T19:20:00Z"
- },
- {
-  "src": "MarketWatch",
-  "type": "M&A",
-  "industry": "Consumer",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
-  "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-  "date": "2026-11-25T18:52:00Z"
  },
  {
   "src": "WSJ",
@@ -81,22 +91,22 @@
  },
  {
   "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Village Gourmet Acquired by TerraMar Capital, Marking an Exciting New Chapter of Growth for Iconic French Charcuterie Brands",
-  "link": "https://www.prnewswire.com/news-releases/village-gourmet-acquired-by-terramar-capital-marking-an-exciting-new-chapter-of-growth-for-iconic-french-charcuterie-brands-302950006.html",
-  "date": "2026-11-25T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
   "type": "Strategic Investment",
   "industry": "Energy",
   "region": "—",
   "value": "Undisclosed",
   "title": "Cheche Group Signs Definitive Agreement to Acquire 20% Interest in Residential Solar-Plus-Storage Company Long Way Fortune, With Option to Increase Stake to 51%",
   "link": "https://www.prnewswire.com/news-releases/cheche-group-signs-definitive-agreement-to-acquire-20-interest-in-residential-solar-plus-storage-company-long-way-fortune-with-option-to-increase-stake-to-51-302950548.html",
+  "date": "2026-11-25T14:00:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Village Gourmet Acquired by TerraMar Capital, Marking an Exciting New Chapter of Growth for Iconic French Charcuterie Brands",
+  "link": "https://www.prnewswire.com/news-releases/village-gourmet-acquired-by-terramar-capital-marking-an-exciting-new-chapter-of-growth-for-iconic-french-charcuterie-brands-302950006.html",
   "date": "2026-11-25T14:00:00Z"
  },
  {
@@ -168,15 +178,5 @@
   "title": "OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u",
   "link": "https://www.prnewswire.com/news-releases/opentable-announces-proposed-acquisition-of-australian-restaurant-technology-company-meu-302949939.html",
   "date": "2026-11-24T23:00:00Z"
- },
- {
-  "src": "WSJ",
-  "type": "IPO",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
-  "link": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
-  "date": "2026-11-24T22:07:00Z"
  }
 ]
