@@ -1,5 +1,25 @@
 [
  {
+  "src": "PR Newswire",
+  "type": "M&A",
+  "industry": "Technology",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "MDA SPACE COMPLETES ACQUISITION OF BLUE CANYON TECHNOLOGIES",
+  "link": "https://www.prnewswire.com/news-releases/mda-space-completes-acquisition-of-blue-canyon-technologies-302951817.html",
+  "date": "2026-11-27T15:49:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "IPO",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
+  "link": "https://www.wsj.com/finance/swiss-bourse-to-launch-ipo-academy-in-bid-to-encourage-european-listings-d98da166?mod=rss_markets_main",
+  "date": "2026-11-27T13:03:00Z"
+ },
+ {
   "src": "PE Wire",
   "type": "M&A",
   "industry": "—",
@@ -158,25 +178,5 @@
   "title": "Luminate Bank Acquires Select Assets of Real Genius, Expanding Consumer-Direct Mortgage Capabilities",
   "link": "https://www.prnewswire.com/news-releases/luminate-bank-acquires-select-assets-of-real-genius-expanding-consumer-direct-mortgage-capabilities-302950008.html",
   "date": "2026-11-25T17:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "LSEG Finance plc announces pricing of its tender offer",
-  "link": "https://www.prnewswire.com/news-releases/lseg-finance-plc-announces-pricing-of-its-tender-offer-302950693.html",
-  "date": "2026-11-25T16:56:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Kopp Development Announces Acquisition",
-  "link": "https://www.prnewswire.com/news-releases/kopp-development-announces-acquisition-302950011.html",
-  "date": "2026-11-25T16:00:00Z"
  }
 ]
