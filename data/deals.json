@@ -1,5 +1,75 @@
 [
  {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "€550M",
+  "title": "Banks line up €550m in loans for KKR’s Logoplaste buyout",
+  "link": "https://privateequitywire.com/news/banks-line-up-550m-in-loans-for-kkrs-logoplaste-buyout",
+  "date": "2026-11-27T10:27:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Vauban in talks to buy Cube’s majority stake in DStelecom",
+  "link": "https://privateequitywire.com/news/vauban-in-talks-to-buy-cubes-majority-stake-in-dstelecom",
+  "date": "2026-11-27T10:24:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "$1.3B",
+  "title": "Ares provides $1.3bn unitranche for Cary Group buyout",
+  "link": "https://privateequitywire.com/news/ares-provides-1-3bn-unitranche-for-cary-group-buyout",
+  "date": "2026-11-27T10:17:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "—",
+  "value": "Undisclosed",
+  "title": "Private equity LPs push back on waivers in continuation fund deals",
+  "link": "https://privateequitywire.com/news/private-equity-lps-push-back-on-waivers-in-continuation-fund-deals",
+  "date": "2026-11-27T10:09:00Z"
+ },
+ {
+  "src": "PE Wire",
+  "type": "M&A",
+  "industry": "—",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "I Squared revives talks to acquire Germany’s Ströer",
+  "link": "https://privateequitywire.com/news/i-squared-revives-talks-to-acquire-germanys-ströer",
+  "date": "2026-11-27T10:00:00Z"
+ },
+ {
+  "src": "WSJ",
+  "type": "Strategic Investment",
+  "industry": "—",
+  "region": "—",
+  "value": "$483M",
+  "title": "Lumibird Shares Surge After Thales Targets Majority Stake in $483 Million Laser Deal",
+  "link": "https://www.wsj.com/business/deals/lumibird-shares-surge-after-thales-targets-majority-stake-in-483-million-laser-deal-48d6e693?mod=pls_whats_news_us_business_f",
+  "date": "2026-11-27T08:52:00Z"
+ },
+ {
+  "src": "PR Newswire",
+  "type": "Strategic Investment",
+  "industry": "Healthcare",
+  "region": "Europe",
+  "value": "Undisclosed",
+  "title": "EQT Healthcare Growth to acquire majority stake in specialty European pharmaceutical business, Kelso Pharma",
+  "link": "https://www.prnewswire.com/news-releases/eqt-healthcare-growth-to-acquire-majority-stake-in-specialty-european-pharmaceutical-business-kelso-pharma-302951594.html",
+  "date": "2026-11-27T07:20:00Z"
+ },
+ {
   "src": "PR Newswire",
   "type": "M&A",
   "industry": "—",
@@ -108,75 +178,5 @@
   "title": "Kopp Development Announces Acquisition",
   "link": "https://www.prnewswire.com/news-releases/kopp-development-announces-acquisition-302950011.html",
   "date": "2026-11-25T16:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "26Health Acquires Florida Infectious Disease Specialists, Expanding HIV and Infectious Disease Care in Central Florida",
-  "link": "https://www.prnewswire.com/news-releases/26health-acquires-florida-infectious-disease-specialists-expanding-hiv-and-infectious-disease-care-in-central-florida-302950596.html",
-  "date": "2026-11-25T14:51:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "Europe",
-  "value": "Undisclosed",
-  "title": "Village Gourmet Acquired by TerraMar Capital, Marking an Exciting New Chapter of Growth for Iconic French Charcuterie Brands",
-  "link": "https://www.prnewswire.com/news-releases/village-gourmet-acquired-by-terramar-capital-marking-an-exciting-new-chapter-of-growth-for-iconic-french-charcuterie-brands-302950006.html",
-  "date": "2026-11-25T14:00:00Z"
- },
- {
-  "src": "PR Newswire",
-  "type": "Strategic Investment",
-  "industry": "Energy",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Cheche Group Signs Definitive Agreement to Acquire 20% Interest in Residential Solar-Plus-Storage Company Long Way Fortune, With Option to Increase Stake to 51%",
-  "link": "https://www.prnewswire.com/news-releases/cheche-group-signs-definitive-agreement-to-acquire-20-interest-in-residential-solar-plus-storage-company-long-way-fortune-with-option-to-increase-stake-to-51-302950548.html",
-  "date": "2026-11-25T14:00:00Z"
- },
- {
-  "src": "Crunchbase",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "—",
-  "value": "Undisclosed",
-  "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
-  "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
-  "date": "2026-11-25T12:00:09Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "Technology",
-  "region": "Asia-Pacific",
-  "value": "Undisclosed",
-  "title": "BlackRock and IFM weigh lower bid for Stack’s Asia Pacific data centres",
-  "link": "https://privateequitywire.com/news/blackrock-and-ifm-weigh-lower-bid-for-stacks-asia-pacific-data-centres",
-  "date": "2026-11-25T10:13:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "M&A",
-  "industry": "—",
-  "region": "—",
-  "value": "$13B",
-  "title": "Endeavor seeks UBS valuation documents in $13bn Silver Lake buyout dispute",
-  "link": "https://privateequitywire.com/news/endeavor-seeks-ubs-valuation-documents-in-13bn-silver-lake-buyout-dispute",
-  "date": "2026-11-25T10:12:00Z"
- },
- {
-  "src": "PE Wire",
-  "type": "IPO",
-  "industry": "—",
-  "region": "UK",
-  "value": "€6.5B",
-  "title": "Hg-backed Visma plans up to €6.5bn debt raise as London IPO put on hold",
-  "link": "https://privateequitywire.com/news/hg-backed-visma-plans-up-to-6-5bn-debt-raise-as-london-ipo-put-on-hold",
-  "date": "2026-11-25T10:09:00Z"
  }
 ]
