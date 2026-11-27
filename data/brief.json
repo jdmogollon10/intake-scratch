@@ -1,7 +1,7 @@
 {
  "status": "live",
- "session": "Thursday, November 26, 2026",
- "builtAt": "2026-11-26T12:00:00Z",
+ "session": "Friday, November 27, 2026",
+ "builtAt": "2026-11-27T12:00:00Z",
  "tape": [
   {
    "n": "S&P 500",
@@ -22,19 +22,19 @@
    "dir": "up"
   }
  ],
- "tapeLine": "Wednesday 25 November: S&amp;P 500 &minus;0.25% to 7,182.78; Nasdaq Composite &minus;0.62% to 23,585.80; Dow +0.33% (+164.25) to 50,182.95, after erasing a drop of about 1,100 points (CNBC; Investing.com; Yahoo Finance, 25 Nov). US markets are closed today for Thanksgiving.",
- "matters": "<p>Wednesday was a round trip. The Nasdaq Composite fell roughly 4% in the morning (CNN had 3.8% at the low, Yahoo Finance 4.1% by about 11 a.m.) and the Dow was down about 1,100 points, before both recovered most of it into the close; the Dow finished up for a third straight session (CNN; Yahoo Finance; CNBC, 25 Nov). Nvidia fell as much as 9.1% intraday and closed &minus;3.91%, with wraps tying the selling to doubts about AI spending and returns, new tariff proposals and rate-hike worries. The same day S&amp;P Global Ratings placed Nvidia&rsquo;s AA ratings on CreditWatch negative, citing governance and key-person risk after Jensen Huang&rsquo;s reinstatement on 23 Nov; S&amp;P said any cut would likely be one notch, and Moody&rsquo;s left its rating unchanged (BigGo Finance; CNBC; Benzinga; AOL, 25 Nov).</p><p>The 8:30 data ran hot on growth and core inflation. Q3 GDP was revised up to 4.3% annualized from 3.4% (BEA). October PCE prices rose 0.3% m/m and 3.8% y/y; core rose 0.3% m/m and 3.3% y/y, up from 3.1% (BEA). Initial claims fell to 189,000 (gsmglobalnews; theintelligent.us). Treasuries rallied anyway: CNBC had the 10-year at 4.866%, more than 3 bp lower, and prediction-market and futures-based estimates put a 25 bp December hike at roughly 92&ndash;98% (CNBC; predictionmarketspicks, 25 Nov). USTR also published proposed Section 301 overcapacity tariffs on 14 of the 16 economies it investigated; nothing takes effect before a comment period running to 5 Jan 2027 (Holland &amp; Knight; Kelley Drye; KPMG, 25 Nov).</p>",
+ "tapeLine": "Latest US close is Wednesday 25 November: S&amp;P 500 &minus;0.25% to 7,182.78; Nasdaq Composite &minus;0.62% to 23,585.80; Dow +0.33% to 50,182.95 (CNBC; Investing.com, 25 Nov). Markets were shut Thursday for Thanksgiving and reopen today for a session ending 1:00 p.m. ET (TipRanks, 27 Nov).",
+ "matters": "<p>US index futures were sharply higher before today&rsquo;s half-day session. TipRanks had Nasdaq-100, S&amp;P 500 and Dow futures up 2.38%, 1.74% and 1.30% as of 5:41 a.m. ET; other early-morning snapshots differ because they were taken at different times (TipRanks; SSBCrack; BeInCrypto, 27 Nov). Reports attribute the move to a rebound in chipmakers and other tech shares after Wednesday&rsquo;s intraday flush, with easing worries about the profitability of AI spending; BeInCrypto put S&amp;P 500 futures above 7,300 even as Nvidia sits on S&amp;P Global&rsquo;s CreditWatch negative (BeInCrypto; SSBCrack, 27 Nov).</p><p>Thursday&rsquo;s overseas sessions set that up. Per AP, the Nikkei 225 rose about 0.9% to 57,499.16, Taiwan&rsquo;s Taiex 2.5% and the Hang Seng 1.2%, and the Kospi recovered slightly after a 6.2% drop the day before; AP and Yahoo Finance said the new US Section 301 tariff proposals were seen as less damaging than feared (AP via US News and BNN Bloomberg; Yahoo Finance, 26 Nov). In Europe, Frankfurt and Paris were up nearly 2% and London about 1.6% at midday per Yahoo Finance. No major US data or earnings are scheduled today, and volume is expected to be thin (TipRanks, 27 Nov).</p>",
  "calendar": [
   {
-   "time": "All day Thu",
-   "event": "US stock markets closed for Thanksgiving",
+   "time": "09:30 ET Fri",
+   "event": "NYSE and Nasdaq open for shortened session",
    "consensus": "&mdash;",
    "prior": "&mdash;",
    "impact": "low"
   },
   {
    "time": "13:00 ET Fri",
-   "event": "NYSE and Nasdaq early close (eligible options 13:15 ET)",
+   "event": "NYSE and Nasdaq early close",
    "consensus": "&mdash;",
    "prior": "&mdash;",
    "impact": "low"
@@ -45,96 +45,115 @@
    "consensus": "&mdash;",
    "prior": "&mdash;",
    "impact": "low"
+  },
+  {
+   "time": "Tue 1 Dec",
+   "event": "Jensen Huang scheduled before House committees (Benzinga; Seoul Economic Daily, 25&ndash;26 Nov)",
+   "consensus": "&mdash;",
+   "prior": "&mdash;",
+   "impact": "medium"
   }
  ],
- "alsoOnTape": "10-year Treasury yield closed Wednesday near 4.87% (CNBC 4.866%, more than 3 bp lower; Pomegra about 4.86% after touching 4.80% intraday), its eighth straight daily decline per Pomegra (CNBC; Pomegra, 25 Nov). No macro data release for Friday was confirmed in this morning&rsquo;s search. Dollar, oil and gold Wednesday levels not confirmed and left out.",
+ "alsoOnTape": "No major US economic releases or corporate earnings are scheduled today (TipRanks, 27 Nov). Treasury, dollar and gold levels since Wednesday&rsquo;s close were not confirmed in this morning&rsquo;s search and are left out; oil figures seen were not cleanly attributable and are left out.",
  "overnight": [
-  "<b>Latest confirmed close</b> &mdash; Wednesday 25 November: S&amp;P 500 7,182.78 (&minus;0.25%); Nasdaq Composite 23,585.80 (&minus;0.62%); Dow 50,182.95 (+0.33%) (CNBC; Investing.com; Yahoo Finance, 25 Nov).",
-  "<b>Nvidia</b> &mdash; fell as much as 9.1% intraday and closed &minus;3.91% (BigGo Finance, 25 Nov). S&amp;P Global Ratings placed its AA issuer and senior unsecured ratings on CreditWatch negative over board-oversight and succession concerns; a verdict is due within up to 90 days. Huang is scheduled before House committees on 1 Dec (Benzinga; AOL; Seoul Economic Daily, 25&ndash;26 Nov).",
-  "<b>Dell</b> &mdash; after Tuesday&rsquo;s results the shares were &minus;7.25% at $273.87 intraday Wednesday per Benzinga; the Wednesday close was not confirmed and is left out (Benzinga, 25 Nov)."
+  "<b>US futures</b> &mdash; Nasdaq-100 +2.38%, S&amp;P 500 +1.74%, Dow +1.30% as of 5:41 a.m. ET; a premarket snapshot, not a close (TipRanks, 27 Nov).",
+  "<b>Asia, Thursday</b> &mdash; Nikkei 225 about +0.9% to 57,499.16; Taiex +2.5%; Hang Seng +1.2%; Kospi slightly higher after a 6.2% fall on Wednesday (AP via US News; BNN Bloomberg, 26 Nov).",
+  "<b>Europe, Thursday</b> &mdash; Frankfurt and Paris up nearly 2% and London about 1.6% at midday (Yahoo Finance, 26 Nov); full-day closes not confirmed and left out."
  ],
  "deals": [
-  "<b>Lukoil International / Boehly-led consortium</b> &mdash; a consortium led by Todd Boehly signed an agreement for Lukoil International GmbH, which holds Lukoil&rsquo;s overseas operations; reported as a securities swap of about $10 billion, with one report valuing the assets at about $16 billion. Requires OFAC approval (Ecofin Agency; UNN, 26 Nov)."
+  "<b>Lukoil International / US-led consortium</b> &mdash; group led by Eldridge, with the US International Development Finance Corporation, UAE-based Catena Investment Holding and Xtellus Partners, agreed to buy Lukoil&rsquo;s international assets; per Reuters the deal involves $10 billion in securities, with the assets valued around $16 billion. Subject to US Treasury approval (BNN Bloomberg; The National, 25&ndash;26 Nov).",
+  "<b>PHINIA / FMP Group</b> &mdash; PHINIA agreed to acquire FMP Group, the Australian business behind Bendix brakes and Trico wipers, in a deal reported at US$160 million (Australian Car Mechanic, 26 Nov).",
+  "<b>APR Corp. / Brand 501</b> &mdash; APR agreed to acquire Dr. Melaxin operator Brand 501 for about 390 billion won, disclosed in a regulatory filing Thursday (World Today Journal, 27 Nov)."
  ],
  "macro": [
-  "<b>Q3 GDP, second estimate</b> &mdash; 4.3% annualized, revised up 0.9 percentage point from the 3.4% advance estimate, mainly on investment and consumer spending (BEA, 25 Nov).",
-  "<b>October personal income and outlays</b> &mdash; PCE price index +0.3% m/m, +3.8% y/y; core +0.3% m/m, +3.3% y/y (from 3.1%). Personal income +0.7%; spending +0.3%. Next release 23 Dec (BEA, 25 Nov).",
-  "<b>Jobless claims, week to 21 Nov</b> &mdash; initial claims 189,000; four-week average 196,000; continuing claims 1.697 million (gsmglobalnews; theintelligent.us, 25 Nov).",
-  "<b>Durable goods, October</b> &mdash; orders +0.2%; core capital goods orders +1.2% (theintelligent.us; edgeconsultancykw; cbnc, 25 Nov).",
-  "<b>Section 301</b> &mdash; USTR made affirmative overcapacity determinations for 14 of 16 economies and proposed tariffs, up to 35% for Vietnam and up to 25% for several others including India, Korea, Taiwan and Malaysia; no determinations yet for Mexico or Norway. Goods under Section 232 tariffs are excluded. Comments due 5 Jan 2027, hearings in January (Holland &amp; Knight; Kelley Drye; KPMG, 25 Nov).",
-  "<b>Fed</b> &mdash; December hike priced at roughly 92&ndash;98% depending on the measure; decision 9 Dec (predictionmarketspicks; Seoul Economic Daily, 25&ndash;26 Nov)."
+  "<b>US calendar</b> &mdash; no major economic data scheduled for today&rsquo;s shortened session (TipRanks, 27 Nov).",
+  "<b>Fed</b> &mdash; Yahoo Finance reported that expectations of a December hike rose after US inflation hit a three-year high; decision 9 Dec (Yahoo Finance, 26 Nov)."
  ],
  "flow": [
   "Breadth, dealer gamma, put-call and skew are paid data and are not on this page."
  ],
  "levels": [],
  "regime": {
-  "tag": "A sharp morning tech flush, then a recovery to a mixed close, on hot core PCE, a 4.3% GDP revision and new tariff proposals, into a holiday.",
-  "sizing": "Friday is a shortened 1:00 p.m. session after a closed Thursday; liquidity is thin by schedule."
+  "tag": "A tech-led futures rebound into a thin, holiday-shortened session, after Wednesday's intraday flush and a closed Thursday.",
+  "sizing": "Today closes at 1:00 p.m. ET for stocks and 2:00 p.m. ET for bonds; liquidity is thin by schedule."
  },
  "watchlist": [],
- "secondOrder": "Bonds rallied on a day core inflation and growth both came in above consensus. The Dow has now risen three straight sessions while the Nasdaq fell in two of them. A ratings agency flagged governance risk at Nvidia on the same day its shares swung more than 5 points intraday. Observations, not forecasts.",
+ "secondOrder": "Futures are pointing to a gain larger than Wednesday&rsquo;s whole S&amp;P decline, on a day with no data and a short session. Thursday&rsquo;s overseas rally was read as relief that the tariff proposals were milder than feared, while the proposals themselves have not changed. Observations, not forecasts.",
  "scorecard": [
   {
    "verdict": "right",
-   "text": "The prior brief carried an October headline PCE consensus of 3.8% y/y. It printed 3.8% (BEA, 25 Nov)."
-  },
-  {
-   "verdict": "wrong",
-   "text": "The prior brief carried a core PCE consensus of 3.2% y/y. It printed 3.3% (BEA, 25 Nov)."
-  },
-  {
-   "verdict": "wrong",
-   "text": "The prior brief carried a Q3 GDP second-estimate consensus of 3.4&ndash;3.6%. It printed 4.3%, well above (BEA, 25 Nov)."
-  },
-  {
-   "verdict": "wrong",
-   "text": "The prior brief carried a jobless-claims consensus of about 200K. Claims printed 189,000 (gsmglobalnews, 25 Nov)."
-  },
-  {
-   "verdict": "wrong",
-   "text": "The prior brief carried a durable goods consensus of +1.1% (Longbridge; Buglecall +2.5%). Orders rose 0.2% (theintelligent.us, 25 Nov)."
+   "text": "The prior brief listed a 1:00 p.m. ET early close for NYSE and Nasdaq on Friday. Today&rsquo;s session is 9:30 a.m. to 1:00 p.m. ET (TipRanks, 27 Nov)."
   },
   {
    "verdict": "right",
-   "text": "The prior brief reported (on unnamed sources, unconfirmed) that USTR might announce Section 301 overcapacity results this week. USTR published proposed tariffs on 25 Nov (Holland &amp; Knight; KPMG, 25 Nov)."
+   "text": "The prior brief said no Friday macro release had been confirmed. Today has no major economic data scheduled (TipRanks, 27 Nov)."
+  },
+  {
+   "verdict": "right",
+   "text": "The prior brief reported the Lukoil International sale at about $10 billion in securities, with assets valued around $16 billion and needing US Treasury/OFAC approval. Further reports carry the same terms (BNN Bloomberg; The National, 25&ndash;26 Nov)."
   },
   {
    "verdict": "open",
-   "text": "The prior brief reported futures lower Wednesday morning. The S&amp;P and Nasdaq did close lower, but far above their lows, and the Dow closed higher; a direction call on futures is not a close call, so this is left ungraded."
+   "text": "The prior brief noted S&amp;P&rsquo;s CreditWatch on Nvidia with a verdict due within up to 90 days; no rating action yet."
   },
   {
    "verdict": "open",
-   "text": "The prior brief listed the Fed Beige Book at 14:00 ET; its contents were not confirmed in this morning&rsquo;s search and are left out."
+   "text": "The prior brief left Dell&rsquo;s Wednesday close unconfirmed; still not confirmed this morning."
   }
  ],
  "midday": null,
  "sources": [
-  {"label": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss: live updates", "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"},
-  {"label": "Investing.com — U.S. stocks mixed at close of trade; Dow up 0.33%", "url": "https://investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-033-5051523"},
-  {"label": "Yahoo Finance — Stock market today: Dow erases losses to end positive (25 Nov)", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
-  {"label": "Yahoo Finance — Nasdaq tumbles 4% as Nvidia leads AI sell-off", "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-tumbles-4-nvidia-leads-164313502.html"},
-  {"label": "CNN — Tech stock sell-off deepens as AI fears outweigh Huang's Nvidia return", "url": "https://edition.cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return"},
-  {"label": "CNBC — Nvidia leads tech sell-off as Huang comeback rally fizzles", "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"},
-  {"label": "BigGo Finance — New York stocks recover from AI selloff; Nvidia loss narrowed from 9.1% to 3.9%", "url": "https://finance.biggo.com/news/6d4a347c-2dc8-4fe8-b86a-019d14f9ceea"},
-  {"label": "Benzinga — S&P puts Nvidia on credit watch, Moody's leaves it unchanged", "url": "https://www.benzinga.com/markets/tech/26/11/63659241/sp-global-ratings-nvidia-negative-credit-watch-moodys-jensen-huang-return"},
-  {"label": "AOL — Nvidia put on negative credit watch by S&P over key-man risk", "url": "https://www.aol.com/articles/nvidia-put-negative-credit-watch-033558000.html"},
-  {"label": "Seoul Economic Daily — Nvidia faces credit downgrade as S&P flags reliance on Jensen Huang", "url": "https://en.sedaily.com/world/2026/11/26/nvidia-faces-credit-downgrade-as-sp-flags-reliance-on"},
-  {"label": "Benzinga — Dell stock slips despite strong Q3 and $25 billion buyback", "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63627942/dell-stock-slips-despite-strong-q3-and-25-billion-buyback"},
-  {"label": "BEA — GDP (second estimate) and corporate profits, 3rd quarter 2026", "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"},
-  {"label": "BEA — Personal income and outlays, October 2026", "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"},
-  {"label": "GSM Global News — U.S. weekly jobless claims fall to 189,000", "url": "https://gsmglobalnews.com/article/d20261125-jobsclaims1.html"},
-  {"label": "The Intelligent — Durable goods orders edge up as unemployment claims drop", "url": "https://theintelligent.us/economy/2026/durable-goods-orders-edge-unemployment-claims-drop"},
-  {"label": "Edge Consultancy — US jobless claims fall to 189,000 and durable goods orders rise 0.2%", "url": "https://edgeconsultancykw.com/us-jobless-claims-189000-durable-goods-orders-october-2026-new-home-sales-701000/"},
-  {"label": "CBNC — Business equipment orders jump 1.2% and layoff claims fall to 189,000", "url": "https://cbnc.com/business-equipment-orders-jump-jobless-claims-189000-plants-closing/"},
-  {"label": "CNBC — 10-year Treasury yield slides despite sticky inflation data", "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"},
-  {"label": "Pomegra — 10-year yield falls 8th day to 4.86%", "url": "https://pomegra.io/news/10-year-yield-falls-8th-day-to-486-as-fed-rate-hike-looms"},
-  {"label": "Prediction Markets Picks — Fed hike odds after October PCE", "url": "https://predictionmarketspicks.com/articles/fed-hike-odds-october-pce-gdp-december-2026-kalshi-polymarket-futures"},
-  {"label": "Seoul Economic Daily — U.S. growth hits 4.3%, raising December rate-hike odds", "url": "https://en.sedaily.com/economy/2026/11/26/us-growth-hits-43-percent-as-jobs-hold-firm-raising"},
-  {"label": "Holland & Knight — USTR proposes tariffs following 14 Section 301 excess capacity investigations", "url": "https://www.hklaw.com/en/insights/publications/2026/11/ustr-proposes-tariffs-following-14-section-301"},
-  {"label": "Kelley Drye — USTR proposes Section 301 overcapacity tariffs on 14 of 16 economies", "url": "https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/ustr-proposes-section-301-overcapacity-tariffs-on-14-of-16-economies-investigated-public-comment-period-and-public-hearing-will-precede-any-final-action"},
-  {"label": "KPMG — USTR findings and proposed Section 301 tariffs on 14 economies", "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/11/tnf-ustr-findings-and-proposed-section-301-tariffs-on-14-economies-relating-to-structural-excess-capacity-and-production-in-manufacturing-sectors.html"},
-  {"label": "Ecofin Agency — Sanctioned Lukoil agrees to sell overseas assets to US-led group", "url": "https://www.ecofinagency.com/news/2611-61196-sanctioned-lukoil-agrees-to-sell-overseas-assets-to-us-led-group-in-10-billion-deal"},
-  {"label": "UNN — Trump supporter agrees to acquire Lukoil assets", "url": "https://unn.ua/en/news/oil-empire-changes-hands-trump-supporter-agrees-to-acquire-lukoil-assets"}
+  {
+   "label": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+  },
+  {
+   "label": "Investing.com — U.S. stocks mixed at close of trade; Dow up 0.33%",
+   "url": "https://investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-033-5051523"
+  },
+  {
+   "label": "TipRanks — Stock Market Today, Nov. 27: Markets reopen for shortened Black Friday trading",
+   "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"
+  },
+  {
+   "label": "TipRanks — U.S. stock futures in focus ahead of a shortened Black Friday session",
+   "url": "https://www.tipranks.com/news/u-s-stock-futures-in-focus-ahead-of-a-shortened-black-friday-session"
+  },
+  {
+   "label": "SSBCrack — US stock futures rally as tech shares rebound ahead of early Black Friday close",
+   "url": "https://news.ssbcrack.com/us-stock-futures-rally-as-tech-shares-rebound-ahead-of-early-black-friday-close/"
+  },
+  {
+   "label": "BeInCrypto — S&P 500 futures rise above 7,300 after Thanksgiving close",
+   "url": "https://beincrypto.com/sp-500-futures-black-friday-nvidia/"
+  },
+  {
+   "label": "US News (AP) — Global stocks rise and tech shares rebound as US closes for Thanksgiving",
+   "url": "https://www.usnews.com/news/us/articles/2026-11-26/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses"
+  },
+  {
+   "label": "BNN Bloomberg — Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving",
+   "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/global-stocks-rise-and-tech-shares-rebound-as-us-closes-for-thanksgiving/"
+  },
+  {
+   "label": "Yahoo Finance — European stocks rally as tech jitters ease",
+   "url": "https://sg.finance.yahoo.com/news/asian-stocks-enjoy-another-bounce-023024050.html"
+  },
+  {
+   "label": "BNN Bloomberg — US-led consortium agrees to acquire assets from Russian oil company Lukoil",
+   "url": "https://bnnbloomberg.ca/business/international/2026/11/26/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil"
+  },
+  {
+   "label": "The National — US-led group reaches deal to acquire Lukoil's global assets",
+   "url": "https://www.thenationalnews.com/business/energy/2026/11/25/us-led-group-reaches-deal-to-acquire-lukoils-global-assets/"
+  },
+  {
+   "label": "Australian Car Mechanic — PHINIA acquires FMP Group, Bendix & Trico Australia in US$160M deal",
+   "url": "https://www.mechanics-mag.com.au/phinia-acquires-fmp-group-bendix-trico-australia-in-us160m-deal"
+  },
+  {
+   "label": "World Today Journal — APR Corp. agrees to acquire Brand 501 for 390 billion won",
+   "url": "https://world-today-journal.com/apr-corp-agrees-to-acquire-brand-501-for-390-billion-won-uniting-top-2-us-tiktok-shop-skincare-brands/"
+  }
  ]
 }
